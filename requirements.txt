@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+faiss-cpu
+python-multipart
+pydantic
+python-dotenv
+pdfplumber
+json
+PyMuPDF
+camelot-py[cv]
