@@ -40,7 +40,8 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict) -> str:
     sample_id = str(uuid.uuid4())
 
     # Save PDF
-    pdf_path = os.path.join(DB_DIR, f"{sample_id}.pdf")
+    pdf_filename = f"{sample_id}.pdf"
+    pdf_path = os.path.join(DB_DIR, pdf_filename)
     with open(pdf_path, "wb") as pf:
         pf.write(pdf_bytes)
 
@@ -51,8 +52,9 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict) -> str:
     # Save metadata in SQLite
     conn = sqlite3.connect(SQLITE_METADATA)
     c = conn.cursor()
+    # Store only the filename, not the full path
     c.execute('INSERT INTO samples VALUES (?,?,?,?,?,?)',
-              (sample_id, category, carrier, plan, json.dumps(json_data), pdf_path))
+              (sample_id, category, carrier, plan, json.dumps(json_data), pdf_filename))
     conn.commit()
     conn.close()
 
@@ -96,7 +98,8 @@ def search_similar_pdf(category: str, pdf_bytes: bytes, top_k=3):
             found.append({
                 "id": sample_id,
                 "json_data": json.loads(row[0]),
-                "pdf_path": row[1]
+                # Always join DB_DIR and filename for the current OS
+                "pdf_path": os.path.join(DB_DIR, row[1])
             })
     conn.close()
     return found
