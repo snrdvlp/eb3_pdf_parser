@@ -9,7 +9,10 @@ from .extract import pdf_to_text
 from .embedder import get_embedding
 
 # DB config
-DB_DIR = './db'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_DIR = os.path.join(BASE_DIR, '..', 'db')
+DB_DIR = os.path.abspath(DB_DIR)
+
 VECTOR_DB_FILE = os.path.join(DB_DIR, "faiss.index")
 SQLITE_METADATA = os.path.join(DB_DIR, "metadata.sqlite")
 
