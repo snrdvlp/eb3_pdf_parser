@@ -47,24 +47,49 @@ def ask_gpt_mapping_logic(
     system_prompt = f"""
 You are a highly accurate insurance PDF-to-JSON converter.
 
-Carefully review each sample pair. Consider how each output JSON field in the sample maps to the corresponding text or table row in the sample PDF text—paying close attention to the exact table label, field name, or surrounding words. Learn the field-matching logic from these examples. When processing the target, use this logic to extract each field only from the most relevant location in the target text or tables (e.g., "Crowns" should come only from a 'Crowns' row, not similar but different terms like "Stainless Steel Crowns").
+**Task:** Extract information from target insurance PDF plan summaries into the exact JSON fields listed below.
 
-Samples below are for demonstrating extraction logic, not to provide values (do not copy values except for fallback fields: [Member Website, Out of Network Explanation, Customer Service Phone Number]).
+**CRITICAL EXTRACTION RULES:**
+- For every field (except "Member Website", "Out of Network Explanation", "Customer Service Phone Number"), you must extract values *only and exactly from the target PDF text.*
+- Return an empty string ("") for any field not present in the target PDF. **Never copy, infer, or re-use values from any sample for these fields.**
+- ONLY for "Member Website", "Out of Network Explanation", and "Customer Service Phone Number", if you cannot find the value in the target PDF, you MAY copy it from the samples as a fallback.
 
-For all numerical values (percentages, dollar limits, etc), use ONLY the target input, never a sample.
+**About Sample Pairs:**
+- Sample pairs are provided EXCLUSIVELY to help you learn the field-label/row mapping logic. They are not value references for the target.
 
-Extract ONLY these fields:
-{keys_str}
+**Matching/Mappings Guidance:**
+- Map similar terms to required fields (e.g. "Tier 1", "Level 1", "PPO", or "In-Area" = "In-Network"; "Tier 2", "Level 2", "Out-of-Area" = "Out-of-Network").
+- Always use the *closest relevant* label, header, or section only.
+- For all percentage, frequency, dollar amount values, use ONLY what is found directly in the target text/tables.
 
-For each field, if missing, set its value to "" (never null). Never omit a key. Output JSON only, with the fields above and no extras.
+**For all fields:**
+- Extract ONLY these fields:
+  {keys_str}
+- NEVER copy, reuse, or deduce numerical or factual values from the samples (except in the fallback case specified above).
+- If a field does not have a value in the target PDF, set it to "" (never null).
+- Never omit any field.
+
+**Special Handling for Grouped Benefit Types (e.g., "Type A", "Type B", "Type C"):**
+- Some plans first list coverage for groups ("Type A: 100%, Type B: 80%, ...") and then, elsewhere in the document, define which services belong to each type ("Type A: Exams, Cleanings, ...").
+- For each requested field, identify the matching type for that service, and use the coverage value for that type (for the appropriate network, e.g., In-Network or Out-of-Network).
+- You may need to **cross-reference** information across different sections or tables.
+
+**How to learn from the sample pairs:**
+- Study ALL provided sample pairs as a set, not just the most similar one.
+- Consider each mapping strategy shown: some samples may map fields directly, others require grouping logic (e.g. 'Type A/B/C' plus definitions).
+- Generalize the extraction approach across all samples when processing the target PDF.
+- For the target, decide on the correct mapping logic for each field—even if it involves multiple steps (e.g. cross-referencing type groupings).
+
+**Output:** Return the JSON object only, with all above fields and no extra.
 """
 
     user_prompt = ""
     for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
-        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text[:2000]}\n-----\n"
+        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text[:12000]}\n-----\n"
         user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
 
-    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text[:2000]}\n-----\n"
+    print(f"len is dest pdf text: {len(dest_pdf_text)}")
+    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text[:12000]}\n-----\n"
     user_prompt += "Output the target's JSON only:"
 
     resp = client.chat.completions.create(
@@ -82,4 +107,6 @@ For each field, if missing, set its value to "" (never null). Never omit a key. 
         # Sometimes GPT adds markdown code fencing
         result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
         parsed = json.loads(result_json)
+
+    print(f"parsed is \n: {parsed}")
     return parsed

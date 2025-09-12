@@ -59,7 +59,7 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict) -> str:
     conn.close()
 
     # Embed PDF text, add to FAISS
-    text = pdf_to_text(pdf_bytes)[:2000]  # truncate
+    text = pdf_to_text(pdf_bytes)[:12000]  # truncate
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
 
     if not os.path.exists(VECTOR_DB_FILE):
@@ -78,7 +78,7 @@ def search_similar_pdf(category: str, pdf_bytes: bytes, top_k=3):
     if not os.path.exists(VECTOR_DB_FILE):
         return []
     index = faiss.read_index(VECTOR_DB_FILE)
-    text = pdf_to_text(pdf_bytes)[:2000]
+    text = pdf_to_text(pdf_bytes)[:12000]
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
     D, I = index.search(emb, top_k)
 

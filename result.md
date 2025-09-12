@@ -1,531 +1,615 @@
 ## Page 1
 
-Page1 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPO Prev/Basic 
-90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-Passive PPO with PPO II
-and ExtendSM Networks
+Dental
 
-Annual Deductible*
+Metropolitan Life Insurance Company 
+ 
+Network: PDP Plus 
+The Preferred Dentist Program was designed to help you get the dental care you need and help lower your costs7. You get benefits for a wide 
+range of covered services — both in and out of the network. The goal is to deliver cost-effective protection for a healthier smile and a healthier you.
 
+Coverage Type: 
+In-Network1 
+% of Negotiated Fee2
+
+Out-of-Network1
+
+% of R&C Fee4 
+Type A - Preventive 
+100% 
+100% 
+Type B - Basic Restorative 
+80% 
+80% 
+Type C - Major Restorative 
+50% 
+50%
+
+Deductible3 
+ 
+ 
 Individual 
-$50
-
+$50 
+$50 
 Family 
-$150
-
-Preventive Services 
-100%
-
-Basic Services 
-80%
-
-Major Services 
-Not Covered
-
-Annual Benefit Maximum 
+$150 
+$150 
+ 
+ 
+ 
+Annual Maximum Benefit: 
+ 
+Per Individual 
+$1000 
 $1000
 
-Office Visit Copay 
-N/A
+Dependent Age:
+Eligible for benefits until the day that he or she turns 26.
 
-Orthodontic Services 
-Not Covered
+1. "In-Network Benefits" refers to benefits provided under this plan for covered dental services that are provided by a
 
-Orthodontic Deductible 
-Not Covered
+participating dentist. "Out-of-Network Benefits" refers to benefits provided under this plan for covered dental services that 
+are not provided by a participating dentist. Utilizing an out-of-network dentist for care may cost you more than using an in-
+network dentist. 
+2. Negotiated fees refer to the fees that participating dentists have agreed to accept as payment in full for covered services,
 
-Orthodontic Lifetime Maximum 
-Not Covered
+subject to any copayments, deductibles, cost sharing and benefits maximums. Negotiated fees are subject to change.
 
-*The deductible applies to:  Basic & Major services only
+3. Applies to Type B and C services only.
 
-Partial List of Services 
-Passive PPO with PPO II
-and ExtendSM Networks
+4. Out-of-network benefits are payable for services rendered by a dentist who is not a participating provider. The Reasonable
 
-Preventive
+and Customary charge is based on the lowest of:
 
-Oral examinations (a)  
-100%
-
-Cleanings (a) Adult/Child 
-100%
-
-Fluoride (a) 
-100%
-
-Sealants (permanent molars only) (a) 
-100%
-
-Bitewing Images (a) 
-100%
-
-Full mouth series Images (a) 
-100%
-
-Space Maintainers 
-100%
-
-Basic
-
-Root canal therapy
-
-Anterior teeth / Bicuspid teeth 
-80%
-
-Root canal therapy, molar teeth 
-80%
-
-Scaling and root planing (a) 
-80%
-
-Gingivectomy (a)* 
-80%
-
-Amalgam (silver) fillings  
-80%
-
-Composite fillings 
-80%
+ 
+the dentist’s actual charge (the 'Actual Charge'),  
+ 
+the dentist’s usual charge for the same or similar services (the 'Usual Charge') or 
+ 
+the usual charge of most dentists in the same geographic area for the same or similar services as determined by 
+MetLife (the 'Customary Charge').  For your plan, the Customary Charge is based on the 90th percentile.  Services 
+must be necessary in terms of generally accepted dental standards.
 
 
 
 ## Page 2
 
-Page2 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPP Prev/Basic 90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-Stainless steel crowns 
-80%
+Understanding Your Dental Benefits Plan 
+ 
+The Preferred Dentist Program is designed to provide the dental coverage you need with the features you want. Like the freedom to 
+visit the dentist of your choice – in or out of the network. .
 
-Incision and drainage of abscess* 
-80%
+If you receive in-network services, you will be responsible for any applicable deductibles, cost sharing, negotiated charges after 
+benefit maximums are met, and costs for non-covered services.  If you receive out-of-network services, you will be responsible for any 
+applicable deductibles, cost sharing, charges in excess of the benefit maximum, charges in excess of the negotiated fee schedule 
+amount or R&C Fee, and charges for non-covered services.
 
-Uncomplicated extractions 
-80%
+ Plan benefits for in-network covered services are based on a
 
-Surgical removal of erupted tooth* 
-80%
+percentage of the Negotiated fee – the Fee that participating 
+dentists have agreed to accept as payment in full for covered 
+services, subject to any deductibles, copayments, cost 
+sharing and benefit maximums.  Negotiated fees are subject 
+to change. 
+ Plan benefits for out-of-network services are based on a
 
-Surgical removal of impacted tooth (soft tissue)* 
-80%
+percentage of the Reasonable and Customary (R&C) 
+charge. If you choose a dentist who does not participate in 
+the network, your out-of-pocket expenses may be greater.
 
-Osseous surgery (a)* 
-80%
+Once you’re enrolled you may take advantage 
+of online self-service capabilities with 
+MyBenefits. 
+ 
+Check the status of your claims  
+ 
+Locate a participating dentist 
+ 
+Access MetLife’s Oral Health Library 
+ 
+Elect to view your Explanation of Benefits 
+online
 
-Surgical removal of impacted tooth (partial bony/ full bony)* 
-80%
-
-Crown Lengthening 
-80%
-
-Major
-
-Inlays  
-Not Covered
-
-Onlays 
-Not Covered
-
-Crowns 
-Not Covered
-
-Full & partial dentures 
-Not Covered
-
-Pontics 
-Not Covered
-
-General anesthesia/intravenous sedation* 
-Not Covered
-
-Denture repairs 
-Not Covered
-
-*Certain services may be covered under the Medical Plan. Contact Member Services for more details.
-
-(a) Frequency and/or age limitations may apply to these services.  These limits are described in the booklet/certificate.
-
-Other Important Information
-
-This Aetna Dental® Preferred Provider Organization (PPO) benefits summary is provided by Aetna Life Insurance  
-Company for some of the more frequently performed dental procedures.  
-Under the Dental Preferred Provider Organization (PPO) plan, you may choose at the time of service either a  PPO  
-participating dentist or any nonparticipating dentist. With the PPO plan, savings are possible because the participating  
-dentists have agreed to provide care for covered services at negotiated rates.  Non-participating benefits are subject to  
-recognized charge limits.
-
-This policy DOES NOT include coverage of pediatric dental services as required under federal law. Coverage of pediatric  
-dental services is available for purchase in the State of Colorado, and can be purchased as a stand-alone plan, or as a  
-covered benefit in another health plan. Please contact your insurance carrier, agent, or Connect for Health Colorado to  
-purchase either a plan that includes pediatric dental coverage, or an Exchange-qualified stand-alone dental plan that  
-includes pediatric dental coverage.
-
-Emergency Dental Care
+To register, just go to  
+www.metlife.com/mybenefits  
+and follow the easy registration instructions.
 
 
 
 ## Page 3
 
-Page3 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPP Prev/Basic 90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-If you need emergency dental care for the palliative treatment (pain relieving, stabilizing) of a dental emergency, you are  
-covered 24 hours a day, 7 days a week.
+Selected Covered Services and Frequency Limitations*
 
-When emergency services are provided by a participating PPO dentist, your co-payment/coinsurance amount will be based  
-on a negotiated fee schedule.  When emergency services are provided by a non-participating dentist, you will be  
-responsible for the difference between the plan payment and the dentist's usual charge.  Refer to your plan documents for  
-details.  Subject to state requirements.  Out-of-area emergency dental care may be reviewed by our dental consultants to  
-verify appropriateness of treatment.
+Type A - Preventive 
+How Many/How Often:
 
-Partial List of Exclusions and Limitations* - Coverage is not provided for the following:
+Oral Examinations
+2 in 12 months
 
-1.Services or supplies that are covered in whole or in part:
+Bitewing X-rays (Adult/Child)
+1 in 12 months
 
-(a) under any other part of this Dental Care Plan; or 
-(b) under any other plan of group benefits provided by or through your employer.
+Prophylaxis - Cleanings
+2 in 12 months
 
-2.  Services and supplies to diagnose or treat a disease or injury that is not:
+Topical Fluoride Applications
+1 in 12 months - Children to age 14
 
-(a) a non-occupational disease; or 
-(b) a non-occupational injury.
+Type B - Basic Restorative 
+How Many/How Often: 
+Full Mouth X-rays
+1 in 60 months
 
-3.  Services not listed in the Dental Care Schedule that applies, unless otherwise specified in the Booklet-Certificate.
+### Y4
 
-4.  Those for replacement of a lost, missing or stolen appliance, and those for replacement of appliances that have been  
-damaged due to abuse, misuse or neglect.
+Sealants
+1 in 60 months  - Children to age 16
 
-5.  Those for plastic, reconstructive or cosmetic surgery, or other dental services or supplies, that are primarily intended to  
-improve, alter or enhance appearance.  This applies whether or not the services and supplies are for psychological or  
-emotional reasons.  Facings on molar crowns and pontics will always be considered cosmetic.
+Space Maintainers
+1 per lifetime per tooth area - Children up to age 14
 
-6.   Those for or in connection with services, procedures, drugs or other supplies that are determined by Aetna to be  
-experimental or still under clinical investigation by health professionals.
+Amalgam and Composite Fillings
+1 in 24 months.
 
-7. Those for dentures, crowns, inlays, onlays, bridgework, or other appliances or services used for the purpose of  
-splinting, to alter vertical dimension, to restore occlusion, or to correct attrition, abrasion or erosion.
+Emergency Palliative Treatment
 
-8.  Those for any of the following services (Does not apply to the DMO plan in TX):
+Type C - Major Restorative 
+How Many/How Often:
 
-(a) an appliance or modification of one if an impression for it was made before the person became a covered  
-person; 
-(b) a crown, bridge, or cast or processed restoration if a tooth was prepared for it before the person became a  
-covered person; or 
-(c) root canal therapy if the pulp chamber for it was opened before the person became a covered person.
+Crowns/Inlays/Onlays
+1 per tooth in 10 years
 
-9.  Services that Aetna defines as not necessary for the diagnosis, care or treatment of the condition involved.  This applies  
-even if they are prescribed, recommended or approved by the attending physician or dentist.
+Prefabricated Crowns
+1 per tooth in 10 years
 
-10 . Those for services intended for treatment of any jaw joint disorder, unless otherwise specified in the  
-Booklet-Certificate.
+Repairs
+1 in 12 months
+
+Endodontics Root Canal
+1 per tooth per lifetime
+
+Periodontal Surgery
+1 in 60 months per quadrant
+
+Periodontal Scaling & Root Planing
+1 in 60 month per quadrant
+
+Periodontal Maintenance
+4 in 1 year, includes 2 cleanings
+
+Oral Surgery (Simple Extractions)
+
+Oral Surgery (Surgical Extractions)
+
+Other Oral Surgery
+
+Bridges
+1 in 10 years
+
+Dentures
+1 in 10 years
+
+General Anesthesia
+
+Consultations
+1 in 12 months
+
+Implant Services
+1 service per tooth in 10 years - 1 repair per 10 years
+
+*Alternate Benefits: Where two or more professionally acceptable dental treatments for a dental condition exist, reimbursement is based on the 
+least costly treatment alternative. If you and your dentist have agreed on a treatment that is more costly than the treatment upon which the plan 
+benefit is based, you will be responsible for any additional payment responsibility.  To avoid any misunderstandings, we suggest you discuss 
+treatment options with your dentist before services are rendered, and obtain a pretreatment estimate of benefits prior to receiving certain high 
+cost services such as crowns, bridges or dentures. You and your dentist will each receive an Explanation of Benefits (EOB) outlining the services 
+provided, your plan’s reimbursement for those services, and your out-of-pocket expense. Actual payments may vary from the pretreatment 
+estimate depending upon annual maximums, plan frequency limits, deductibles and other limits applicable at time of payment. 
+ 
+The service categories and plan limitations shown above represent an overview of your Plan of Benefits. This document presents many services 
+within each category, but is not a complete description of the Plan.  Please see your Plan description/Insurance certificate for complete details.  In 
+the event of a conflict with this summary, the terms of your insurance certificate will govern.
 
 
 
 ## Page 4
 
-Page4 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPP Prev/Basic 90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-11 . Those for space maintainers, except when needed to preserve space resulting from the premature loss of deciduous  
-teeth.
+We will not pay Dental Insurance benefits for charges incurred for: 
+ 
+1. 
+Services which are not Dentally Necessary, those which do not meet generally accepted standards of care for treating the 
+particular dental condition, or which We deem experimental in nature; 
+2. 
+Services for which You would not be required to pay in the absence of Dental Insurance; 
+3. 
+Services or supplies received by You or Your Dependent before the Dental Insurance starts for that person; 
+4. 
+Services which are primarily cosmetic (For residents of Texas, see notice page section in your certificate). 
+5. 
+Services which are neither performed nor prescribed by a Dentist except for those services of a licensed dental hygienist which are 
+supervised and billed by a Dentist and which are for: 
+ 
+scaling and polishing of teeth; or 
+ 
+fluoride treatments. 
+ 
+For NY Sitused Groups, this exclusion does not apply. 
+6. 
+Services or appliances which restore or alter occlusion or vertical dimension. 
+7. 
+Restoration of tooth structure damaged by attrition, abrasion or erosion. 
+8. 
+Restorations or appliances used for the purpose of periodontal splinting. 
+9. 
+Counseling or instruction about oral hygiene, plaque control, nutrition and tobacco. 
+10. Personal supplies or devices including, but not limited to: water piks, toothbrushes, or dental floss. 
+11. Decoration, personalization or inscription of any tooth, device, appliance, crown or other dental work. 
+12. Missed appointments. 
+13. Services
 
-12 . Those for orthodontic treatment, unless otherwise specified in the Booklet-Certificate.
+ 
+covered under any workers’ compensation or occupational disease law; 
+ 
+covered under any employer liability law; 
+ 
+for which the employer of the person receiving such services is not required to pay; or 
+ 
+received at a facility maintained by the Employer, labor union, mutual benefit association, or VA hospital. 
+ 
+For North Carolina and Virginia Sitused Groups, this exclusion does not apply. 
+14. Services paid under any worker’s compensation, occupational disease or employer liability law as follows:
 
-13 .  Those for general anesthesia and intravenous sedation, unless specifically covered.  For plans that cover these  
-services, they will not be eligible for benefits unless done in conjunction with another necessary covered service.
+ 
+for persons who are covered in North Carolina for the treatment of an Occupational Injury or Sickness which are paid 
+under the North Carolina Workers’ Compensation Act only to the extent such services are the liability of the employee, 
+employer or workers’ compensation insurance carrier according to a final adjudication under the North Carolina Workers’ 
+Compensation Act or an order of the North Carolina Industrial Commission approving a settlement agreement under the 
+North Carolina Workers’ compensation Act; 
+ 
+or for persons who are not covered in North Carolina, services paid or payable under any workers compensation or 
+occupational disease law. 
+This exclusion only applies for North Carolina Sitused Groups. 
+15. Services:
 
-14 .  Those for treatment by other than a dentist, except that scaling or cleaning of teeth and topical application of fluoride  
-may be done by a licensed dental hygienist.  In this case, the treatment must be given under the supervision and guidance  
-of a dentist.
+ 
+for which the employer of the person receiving such services is required to pay; or 
+ 
+received at a facility maintained by the Employer, labor union, mutual benefit association, or VA hospital. 
+This exclusion only applies for North Carolina Sitused Groups. 
+16. Services covered under any workers' compensation, occupational disease or employer liability law for which the employee/or
 
-15 .  Those in connection with a service given to a person age 5 or older if that person becomes a covered person other  
-than:
+Dependent received benefits under that law. 
+This exclusion only applies for Virginia Sitused Groups. 
+17. Services:
 
-(a) during the first 31 days the person is eligible for this coverage, or 
-(b) as prescribed for any period of open enrollment agreed to by the employer and Aetna.  This does not apply to  
-charges incurred:
+ 
+for which the employer of the person receiving such services is not required to pay; or 
+ 
+received at a facility maintained by the policyholder, labor union, mutual benefit association, or VA hospital. 
+This exclusion only applies for Virginia Sitused Groups. 
+18. Services covered under other coverage provided by the Employer. 
+19. Temporary or provisional restorations. 
+20. Temporary or provisional appliances. 
+21. Prescription drugs. 
+22. Services for which the submitted documentation indicates a poor prognosis. 
+23. The following when charged by the Dentist on a separate basis:
 
-(i) after the end of the 12-month period starting on the date the person became a covered person; or 
-(ii) as a result of accidental injuries sustained while the person was a covered person; or 
-(iii) for a primary care service in the Dental Care Schedule that applies as shown under the headings  
-Visits and Exams, and X-rays and Pathology.
+ 
+claim form completion; 
+ 
+infection control such as gloves, masks, and sterilization of supplies; or 
+ 
+local anesthesia, non-intravenous conscious sedation or analgesia such as nitrous oxide. 
+24. Dental services arising out of accidental injury to the teeth and supporting structures, except for injuries to the teeth due to
 
-16 .  Services given by a nonparticipating dental provider to the extent that the charges exceed the amount payable for the  
-services shown in the Dental Care Schedule that applies.
+chewing or biting of food. 
+For NY Sitused Groups, this exclusion does not apply. 
+25. Caries susceptibility tests. 
+26. Initial installation of a fixed and permanent Denture to replace one or more natural teeth which were missing before such
 
-17 . Those for a crown, cast or processed restoration unless:
+person was insured for Dental Insurance, except for congenitally missing natural teeth. 
+27. Other fixed Denture prosthetic services not described elsewhere in this certificate. 
+28. Precision attachments, except when the precision attachment is related to implant prosthetics. 
+29. Initial installation or replacement of a full or removable Denture to replace one or more natural teeth which were missing
 
-(a)  it is treatment for decay or traumatic injury, and teeth cannot be restored with a filling material; or 
-(b)  the tooth is an abutment to a covered partial denture or fixed bridge.
+before such person was insured for Dental Insurance, except for congenitally missing natural teeth. 
+30. Addition of teeth to a partial removable Denture to replace one or more natural teeth which were missing before such person
 
-18 .  Those for pontics, crowns, cast or processed restorations made with high-noble metals, unless otherwise specified in  
-the Booklet-Certificate.
-
-19 .  Those for surgical removal of impacted wisdom teeth only for orthodontic reasons, unless otherwise specified in the  
-Booklet-Certificate.
-
-20 . Services needed solely in connection with non-covered services.
-
-21 . Services done where there is no evidence of pathology, dysfunction or disease other than covered preventive services.
-
-Any exclusion above will not apply to the extent that coverage of the charges is required under any law that applies to the  
-coverage.
-
-*This is a partial list of exclusions and limitations, others may apply.  Please check your plan booklet for details.
-
-Your Dental Care Plan Coverage Is Subject to the Following Rules:
-
-Replacement Rule
+was insured for Dental Insurance, except for congenitally missing natural teeth. 
+31. Adjustment of a Denture made within 6 months after installation by the same Dentist who installed it.
 
 
 
 ## Page 5
 
-Page5 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPP Prev/Basic 90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-The replacement of; addition to; or modification of:  existing dentures; crowns; casts or processed restorations; removable  
-denture; fixed bridgework; or other prosthetic services is covered only if one of the following terms is met:
+32. Implants to replace one or more natural teeth which were missing before such person was insured for Dental Insurance,
 
-The replacement or addition of teeth is required to replace one or more teeth extracted after the existing denture or 
-bridgework was installed.  This coverage must have been in force for the covered person when the extraction took place.
+except for congenitally missing natural teeth. 
+33. Implants supported prosthetics to replace one or more natural teeth which were missing before such person was insured for
 
-The existing denture, crown; cast or processed restoration, removable denture, bridgework, or other prosthetic service  
-cannot be made serviceable, and was installed at least 8 years before its replacement.
+Dental Insurance, except for congenitally missing natural teeth. 
+34. Fixed and removable appliances for correction of harmful habits.1 
+35. Appliances or treatment for bruxism (grinding teeth), including but not limited to occlusal guards and night guards.1 
+36. Diagnosis and treatment of temporomandibular joint (TMJ) disorders. This exclusion does not apply to residents of Minnesota.1 
+37. Orthodontic services or appliances. 1 
+38. Repair or replacement of an orthodontic device.1 
+39. Duplicate prosthetic devices or appliances. 
+40. Replacement of a lost or stolen appliance, Cast Restoration, or Denture. 
+41. Intra and extraoral photographic images. 
+42. Services or supplies furnished as a result of a referral prohibited by Section 1-302 of the Maryland Health Occupations Article.
 
-The existing denture is an immediate temporary one to replace one or more natural teeth extracted while the person is  
-covered, and cannot be made permanent, and replacement by a permanent denture is required.  The replacement must take  
-place within 12 months from the date of initial installation of the immediate temporary denture.
-
-The extraction of a third molar does not qualify. Any such appliance or fixed bridge must include the replacement of an  
-extracted tooth or teeth.
-
-Tooth Missing But Not Replaced Rule
-
-Coverage for the first installation of removable dentures;  fixed bridgework and other prosthetic services is subject to the  
-requirements that such  removable dentures; fixed bridgework and other prosthetic services are (i) needed to replace one or  
-more natural teeth that were removed while this policy was in force for the covered person; and (ii) are not abutments to a  
-partial denture; removable bridge; or fixed bridge installed during the prior 8 years.
-
-Alternate Treatment Rule : If more than one service can be used to treat a covered person’s dental condition, Aetna may  
-decide to authorize coverage only for a less costly covered service provided that all of the following terms are met: 
-    (a)  the service must be listed on the Dental Care Schedule; 
-    (b)  the service selected must be deemed by the dental profession to be an appropriate method of treatment; and 
-    (c) the service selected must meet broadly accepted national standards of dental practice.
-
-If treatment is being given by a participating dental provider and the covered person asks for a more costly covered service  
-than that for which coverage is approved, the specific copayment for such service will consist of:
-
-(a)  the copayment for the approved less costly service; plus
-
-(b)  the difference in cost between the approved less costly service and the more costly covered service.
-
-Finding Participating Providers
-
-Consult Aetna Dentals online provider search for the most current provider listings. Participating providers are  
-independent contractors in private practice and are neither employees nor agents of Aetna Dental or its affiliates. The  
-availability of any particular provider cannot be guaranteed, and provider network composition is subject to change  
-without notice. For the most current information, please contact the selected provider or Aetna Member Services at the  
-toll-free number on your online ID card, or use our Internet-based provider search available at www.aetna.com.
+A prohibited referral is one in which a Health Care Practitioner refers You to a Health Care Entity in which the Health Care 
+Practitioner or Health Care Practitioner’s immediate family or both own a Beneficial Interest or have a Compensation 
+Agreement.  For the purposes of this exclusion, the terms “Referral”, “Health Care Practitioner” , “Health Care Entity”, 
+“Beneficial Interest” and Compensation Agreement have the same meaning as provided in Section 1-301 of the Maryland 
+Health Occupations Article. 
+ 
+This exclusion only applies for Maryland Sitused Groups 
+ 
+ 1Some of these exclusions may not apply.  Please see your Certificate of Insurance.
 
 
 
 ## Page 6
 
-Page6 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPP Prev/Basic 90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-Specific products may not be available on both a self-funded and insured basis. The information in this document is  
-subject to change without notice. In case of a conflict between your plan documents and this information, the plan  
-documents will govern.
-
-In the event of a problem with coverage, members should contact Member Services at the toll-free number on their online  
-ID cards for information on how to utilize the grievance procedure when appropriate.
-
-All member care and related decisions are the sole responsibility of participating providers. Aetna Dental does not provide  
-health care services and, therefore, cannot guarantee any results or outcomes.
-
-Dental plans are provided or administered by Aetna Life Insurance Company, Aetna Dental Inc., Aetna Dental of  
-California Inc. and/or Aetna Health Inc.
-
-Telehealth Services: the plan will reimburse the treating or consulting provider for the diagnosis, consultation, or treatment  
-of an enrollee via telehealth on the same basis and to the same extent that the plan would reimburse the same covered  
-in-person service.
-
-In Texas, the Dental Preferred Provider Organization (PPO) is known as the Participating Dental Network (PDN), and is  
-administered by Aetna Life Insurance Company.
-
-This material is for informational purposes only and is neither an offer of coverage nor dental advice.  It contains only a  
-partial, general description of plan or program benefits and does not constitute a contract.  The availability of a plan or  
-program may vary by geographic service area.  Certain dental plans are available only for groups of a certain size in  
-accordance with underwriting guidelines.  Some benefits are subject to limitations or exclusions.  Consult the plan  
-documents (Schedule of Benefits, Certificate/Evidence of Coverage, Booklet, Booklet-Certificate, Group Agreement,  
-Group Policy) to determine governing contractual provisions, including procedures, exclusions and limitations relating to  
-your plan.
-
-Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently  
-based on their race, color, national origin, sex, age, or disability.
-
-Aetna provides free aids/services to people with disabilities and to people who need language assistance.
-
-If you need a qualified interpreter, written information in other formats, translation or other services, call 877-238-6200.
-
-If you believe we have failed to provide these services or otherwise discriminated based on a protected class noted above,  
-you can also file a grievance with the Civil Rights Coordinator by contacting:  
-    Civil Rights Coordinator, 
-    P.O. Box 14462, Lexington, KY 40512 (CA HMO customers: PO Box 24030 Fresno, CA  93779),  
-    1-800-648-7817, TTY: 711,  
-    Fax: 859-425-3379 (CA HMO customers: 860-262-7705), 
-     CRCoordinator@aetna.com.
-
-You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights  
-Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human
+Common Questions … Important Answers
+ 
+Who is a participating dentist? 
+A participating, or network, dentist is a general dentist or specialist who has agreed to accept negotiated fees as payment in 
+full for covered services provided to plan members, subject to any deductibles, copayments, cost sharing and benefit 
+maximums. Negotiated fees typically range from 30-45% below the average fees charged in a dentist’s community for the 
+same or substantially similar services.*  
+ 
+In addition to the standard MetLife network, your employer may provide you with access to a select network of dental 
+providers that may be unique to your employer’s dental program. When visiting these providers, you may receive a better 
+benefit, have lower out-of-pocket costs and/or have access to care at facilities at your worksite. Please sign into MyBenefits for 
+more details. 
+ 
+* Based on internal analysis by MetLife. Negotiated fees refer to the fees that participating dentists have agreed to accept as payment in full for covered services, subject to any copayments, 
+deductibles, cost sharing and benefits maximums. Negotiated fees are subject to change. Savings from enrolling in a dental benefits plan will depend on various factors, including the cost of 
+the plan, how often members visit a dentist and the cost of services rendered. Negotiated fees are subject to change. 
+ 
+How do I find a participating dentist? 
+There are thousands of general dentists and specialists to choose from nationwide --so you are sure to find one that meets your 
+needs.  You can receive a list of these participating dentists online at www.metlife.com/dental or call 1-800-275-4638 to have a list 
+faxed or mailed to you. 
+ 
+What services are covered by my plan? 
+Please see your Certificate of Insurance for a list of covered services. 
+ 
+May I choose a non-participating dentist? 
+Yes. You are always free to select the dentist of your choice. However, if you choose a non-participating (out-of-network) dentist, 
+your out-of-pocket costs may be greater than your out-of-pocket costs when visiting an in-network dentist. 
+ 
+Can my dentist apply for participation in the network? 
+Yes. If your current dentist does not participate in the network and you would like to encourage him or her to apply, ask your 
+dentist to visit www.metdental.com, or call 1-866-PDP-NTWK for an application.* The website and phone number are for use 
+by dental professionals only. 
+ 
+* Due to contractual requirements, MetLife is prevented from soliciting certain providers. 
+ 
+How are claims processed?  
+Dentists may submit your claims for you which means you have little or no paperwork. You can track your claims online and even 
+receive email alerts when a claim has been processed. If you need a claim form, visit www.metlife.com/dental or request one by 
+calling 1-800-275-4638. 
+ 
+Can I get an estimate of what my out-of-pocket expenses will be before receiving a service? 
+Yes. You can ask for a pretreatment estimate. Your general dentist or specialist usually sends MetLife a plan for your care and 
+requests an estimate of benefits. The estimate helps you prepare for the cost of dental services. We recommend that you request 
+a pre-treatment estimate for services in excess of $300. Simply have your dentist submit a request online at www.metdental.com 
+or call 1-877-MET-DDS9. You and your dentist will receive a benefit estimate for most procedures while you are still in the office. 
+Actual payments may vary depending upon plan maximums, deductibles, frequency limits and other conditions at time of payment. 
+ 
+Can MetLife help me find a dentist outside of the U.S. if I am traveling? 
+Yes. Through international dental travel assistance services* you can obtain a referral to a local dentist by calling +1-312-356-5970 
+(collect) when outside the U.S. to receive immediate care until you can see your dentist. Coverage will be considered under your 
+out-of-network benefits.** Please remember to hold on to all receipts to submit a dental claim. 
+ 
+*International Dental Travel Assistance services are administered by AXA Assistance USA, Inc. (AXA Assistance). AXA Assistance provides dental referral services only.  AXA Assistance is not 
+affiliated with MetLife and any of its affiliates, and the services they provide are separate and apart from the benefits provided by MetLife. Referral services are not available in all locations. 
+** Refer to your Certificate of Insurance for your out-of-network dental coverage. 
+ 
+How does MetLife coordinate benefits with other insurance plans? 
+Coordination of benefits provisions in dental benefits plans are a set of rules that are followed when a patient is covered by 
+more than one dental benefits plan. These rules determine the order in which the plans will pay benefits. If the MetLife dental 
+benefit plan is primary, MetLife will pay the full amount of benefits that would normally be available under the plan. If the 
+MetLife dental benefit plan is secondary, most coordination of benefits provisions require MetLife to determine benefits after 
+benefits have been determined under the primary plan. The amount of benefits payable by MetLife may be reduced due to the 
+benefits paid under the primary plan. 
+ 
+Do I need an ID card?
 
 
 
 ## Page 7
 
-Page7 
-Prepared: 04/02/2021
+DN-GCERT-GOLD GCERT ER Dental Benefit Summary
 
-NT P20 
-PPP Prev/Basic 90th
+200 Park Ave., New York, NY 10166 
+© 2023 MetLife Services and Solutions, LLC
 
-Dental Benefits Summary
+L0623032885[exp0625][xNM]
 
-Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019,  
-800-537-7697 (TDD).
+No, You do not need to present an ID card to confirm that you are eligible.  You should notify your dentist that you are enrolled 
+in a MetLife Dental Plan.  Your dentist can easily verify information about your coverage through a toll-free automated 
+Computer Voice Response system. 
+ 
+Do my dependents have to visit the same dentist that I select? 
+No. You and your dependents each have the freedom to choose any dentist. 
+ 
+If I do not enroll during my initial enrollment period can I still purchase Dental Insurance at a later date? 
+Yes, employees who do not elect coverage during enrollment period may still elect coverage later.  Dental coverage would be 
+subject to the following waiting periods.
 
-Aetna is the brand name used for products and services provided by one or more of the Aetna group of subsidiary  
-companies, including Aetna Life Insurance Company, Coventry Health Care plans and their affiliates (Aetna).
+ 
+No waiting period on Preventive Services 
+ 
+6 months on Basic Restorative (Fillings) 
+ 
+12 months on all other Basic Services 
+ 
+24 months on Major Services 
+ 
+24 months on Orthodontia Services (if applicable) 
+ 
+Group dental insurance policies featuring the Preferred Dentist Program are underwritten by Metropolitan Life Insurance Company, 
+New York, NY 10166. 
+ 
+Like most group benefits programs, MetLife group benefits programs contain certain exclusions, waiting periods, reductions and 
+terms for keeping them in force.  The certificate of insurance sets forth the plan terms and provisions, including the exclusions and 
+limitations.
 
 
 
 ## Page 8
 
-Page 8  
-Prepared: 04/02/2021
-
-NT P20 
-PPP Prev/Basic 90th
-
-Dental Benefits Summary
-
-
-
-## Page 9
-
-Page 9  
-Prepared: 04/02/2021
-
-NT P20 
-PPP Prev/Basic 90th
-
-Dental Benefits Summary
-
-
-
-## Page 10
-
-Page 10  
-Prepared: 04/02/2021
-
-NT P20 
-PPP Prev/Basic 90th
-
-Dental Benefits Summary
-
 
 
 ### Table (Page 1)
 
-| Passive PPO with PPO II
-and ExtendSM Networks |
-| --- |
-| Annual Deductible*
-Individual $50
-Family $150
-Preventive Services 100%
-Basic Services 80%
-Major Services Not Covered
-Annual Benefit Maximum $1000
-Office Visit Copay N/A
-Orthodontic Services Not Covered
-Orthodontic Deductible Not Covered
-Orthodontic Lifetime Maximum Not Covered
-*The deductible applies to: Basic & Major services only |
-| Partial List of Services Passive PPO with PPO II
-and ExtendSM Networks |
-| Preventive |
-| Oral examinations (a) 100%
-Cleanings (a) Adult/Child 100%
-Fluoride (a) 100%
-Sealants (permanent molars only) (a) 100%
-Bitewing Images (a) 100%
-Full mouth series Images (a) 100%
-Space Maintainers 100% |
-| Basic |
-| Root canal therapy
-Anterior teeth / Bicuspid teeth 80%
-Root canal therapy, molar teeth 80%
-Scaling and root planing (a) 80%
-Gingivectomy (a)* 80%
-Amalgam (silver) fillings 80%
-Composite fillings 80% |
+| Coverage Type: |  | In-Network1 |  |  | Out-of-Network1
+% of R&C Fee4 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | % of Negotiated Fee2 |  |  |  |
+| Type A - Preventive | 100% |  |  | 100% |  |
+| Type B - Basic Restorative | 80% |  |  | 80% |  |
+| Type C - Major Restorative | 50% |  |  | 50% |  |
+|  |  |  |  |  |  |
+| Deductible3 |  |  |  |  |  |
+| Individual | $50 |  |  | $50 |  |
+| Family | $150 |  |  | $150 |  |
+|  |  |  |  |  |  |
+| Annual Maximum Benefit: |  |  |  |  |  |
+| Per Individual | $1000 |  |  | $1000 |  |
+| Dependent Age: | Eligible for benefits until the day that he or she turns 26. |  |  |  |  |
+|  |  |  |  |  |  |
+| 1. "In-Network Benefits" refers to benefits provided under this plan for covered dental services that are provided by a
+participating dentist. "Out-of-Network Benefits" refers to benefits provided under this plan for covered dental services that
+are not provided by a participating dentist. Utilizing an out-of-network dentist for care may cost you more than using an in-
+network dentist.
+2. Negotiated fees refer to the fees that participating dentists have agreed to accept as payment in full for covered services,
+subject to any copayments, deductibles, cost sharing and benefits maximums. Negotiated fees are subject to change.
+3. Applies to Type B and C services only.
+4. Out-of-network benefits are payable for services rendered by a dentist who is not a participating provider. The Reasonable
+and Customary charge is based on the lowest of:
+ the dentist’s actual charge (the 'Actual Charge'),
+ the dentist’s usual charge for the same or similar services (the 'Usual Charge') or
+ the usual charge of most dentists in the same geographic area for the same or similar services as determined by
+MetLife (the 'Customary Charge'). For your plan, the Customary Charge is based on the 90th percentile. Services
+must be necessary in terms of generally accepted dental standards. |  |  |  |  |  |
 
 
 
 ### Table (Page 2)
 
-| Stainless steel crowns 80%
-Incision and drainage of abscess* 80%
-Uncomplicated extractions 80%
-Surgical removal of erupted tooth* 80%
-Surgical removal of impacted tooth (soft tissue)* 80%
-Osseous surgery (a)* 80%
-Surgical removal of impacted tooth (partial bony/ full bony)* 80%
-Crown Lengthening 80% |
+| Once you’re enrolled you may take advantage |
 | --- |
-| Major |
-| Inlays Not Covered
-Onlays Not Covered
-Crowns Not Covered
-Full & partial dentures Not Covered
-Pontics Not Covered
-General anesthesia/intravenous sedation* Not Covered
-Denture repairs Not Covered
-*Certain services may be covered under the Medical Plan. Contact Member Services for more details.
-(a)Frequency and/or age limitations may apply to these services. These limits are described in the booklet/certificate. |
+| of online self-service capabilities with |
+| MyBenefits. |
+|  Check the status of your claims |
+|  Locate a participating dentist |
+|  Access MetLife’s Oral Health Library |
+|  Elect to view your Explanation of Benefits |
+| online |
+| To register, just go to |
+| www.metlife.com/mybenefits |
+| and follow the easy registration instructions. |
+
+
+
+### Table (Page 3)
+
+| Oral Examinations
+Bitewing X-rays (Adult/Child)
+Prophylaxis - Cleanings
+Topical Fluoride Applications | 2 in 12 months
+1 in 12 months
+2 in 12 months
+1 in 12 months - Children to age 14 |
+| --- | --- |
+
+
+
+### Table (Page 3)
+
+| Full Mouth X-rays
+Sealants
+Space Maintainers
+Amalgam and Composite Fillings
+Emergency Palliative Treatment | 1 in 60 months
+1 in 60 months - Children to age 16
+1 per lifetime per tooth area - Children up to age 14
+1 in 24 months. |
+| --- | --- |
+
+
+
+### Table (Page 3)
+
+| Crowns/Inlays/Onlays
+Prefabricated Crowns
+Repairs
+Endodontics Root Canal
+Periodontal Surgery
+Periodontal Scaling & Root Planing
+Periodontal Maintenance
+Oral Surgery (Simple Extractions)
+Oral Surgery (Surgical Extractions)
+Other Oral Surgery
+Bridges
+Dentures
+General Anesthesia
+Consultations
+Implant Services | 1 per tooth in 10 years
+1 per tooth in 10 years
+1 in 12 months
+1 per tooth per lifetime
+1 in 60 months per quadrant
+1 in 60 month per quadrant
+4 in 1 year, includes 2 cleanings
+1 in 10 years
+1 in 10 years
+1 in 12 months
+1 service per tooth in 10 years - 1 repair per 10 years |
+| --- | --- |

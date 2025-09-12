@@ -1,23 +1,9 @@
 import io
 import pdfplumber
+import fitz  # PyMuPDF
 
 def pdf_to_text(pdf_bytes: bytes) -> str:
     return pdf_to_text_with_tables(pdf_bytes)
-
-    # text = ""
-    # with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
-    #     for page in pdf.pages:
-    #         text += page.extract_text() or ""
-    #         tables = page.extract_tables()
-    #         for table in tables:
-    #             for row in table:
-    #                 text += "\t".join(str(cell) if cell is not None else "" for cell in row) + "\n"
-    # return text
-
-import io
-import fitz  # PyMuPDF
-import pdfplumber
-
 
 def pdf_to_text_with_tables(pdf_bytes: bytes) -> str:
     """
