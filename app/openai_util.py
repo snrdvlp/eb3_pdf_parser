@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from .category_key_registry import get_required_keys
 
 load_dotenv()
-OPENAI_GPT_MODEL = "gpt-4.1-mini"
+OPENAI_GPT_MODEL = "gpt-4o-mini"
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 CARRIER_DEFAULT_LIKE_KEYS = [
@@ -47,49 +47,75 @@ def ask_gpt_mapping_logic(
     system_prompt = f"""
 You are a highly accurate insurance PDF-to-JSON converter.
 
-**Task:** Extract information from target insurance PDF plan summaries into the exact JSON fields listed below.
+**Your task:** Extract specific insurance benefits and details, using ONLY the target PDF text provided, into the JSON fields listed below.
+
+---
 
 **CRITICAL EXTRACTION RULES:**
-- For every field (except "Member Website", "Out of Network Explanation", "Customer Service Phone Number"), you must extract values *only and exactly from the target PDF text.*
-- Return an empty string ("") for any field not present in the target PDF. **Never copy, infer, or re-use values from any sample for these fields.**
-- ONLY for "Member Website", "Out of Network Explanation", and "Customer Service Phone Number", if you cannot find the value in the target PDF, you MAY copy it from the samples as a fallback.
+- For every field (except "Member Website", "Out of Network Explanation", "Customer Service Phone Number"), extract values *only and exactly from the target PDF text*. NEVER use, infer, or copy values from sample pairs for these fields.
+- If a field is not present in the target PDF, return an empty string ("").
+- ONLY for "Member Website", "Out of Network Explanation", and "Customer Service Phone Number", you may copy a sample value as fallback if missing from the target.
+- Never omit any fields from the output JSON.
+- If multiple prices or values are listed for a benefit field, ALWAYS select the highest price or percentage value.**
 
-**About Sample Pairs:**
-- Sample pairs are provided EXCLUSIVELY to help you learn the field-label/row mapping logic. They are not value references for the target.
+---
 
-**Matching/Mappings Guidance:**
-- Map similar terms to required fields (e.g. "Tier 1", "Level 1", "PPO", or "In-Area" = "In-Network"; "Tier 2", "Level 2", "Out-of-Area" = "Out-of-Network").
-- Always use the *closest relevant* label, header, or section only.
-- For all percentage, frequency, dollar amount values, use ONLY what is found directly in the target text/tables.
+**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
+- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
 
-**For all fields:**
-- Extract ONLY these fields:
-  {keys_str}
-- NEVER copy, reuse, or deduce numerical or factual values from the samples (except in the fallback case specified above).
-- If a field does not have a value in the target PDF, set it to "" (never null).
-- Never omit any field.
+---
 
-**Special Handling for Grouped Benefit Types (e.g., "Type A", "Type B", "Type C"):**
-- Some plans first list coverage for groups ("Type A: 100%, Type B: 80%, ...") and then, elsewhere in the document, define which services belong to each type ("Type A: Exams, Cleanings, ...").
-- For each requested field, identify the matching type for that service, and use the coverage value for that type (for the appropriate network, e.g., In-Network or Out-of-Network).
-- You may need to **cross-reference** information across different sections or tables.
 
-**How to learn from the sample pairs:**
-- Study ALL provided sample pairs as a set, not just the most similar one.
-- Consider each mapping strategy shown: some samples may map fields directly, others require grouping logic (e.g. 'Type A/B/C' plus definitions).
-- Generalize the extraction approach across all samples when processing the target PDF.
-- For the target, decide on the correct mapping logic for each field—even if it involves multiple steps (e.g. cross-referencing type groupings).
+**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
+- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
 
-**Output:** Return the JSON object only, with all above fields and no extra.
+---
+
+**Sample pairs:** Are provided ONLY to help you learn the possible ways insurance information is presented and mapped. NEVER use sample values in the target output (except the fallback fields above and the UnitedHealthcare deductible exception).
+
+---
+
+**Field-matching and mapping instructions:**
+
+- **Direct table mapping:** If PDF has a simple table or list mapping benefit fields (e.g., "Crowns In-Network"), extract those values directly.
+- **Grouped or classified layouts (e.g., "Type A/B/C", "Class I/II/III", "Type 1/2/3", "Preventive/Basic/Major", etc.):**
+    - First, use the current PDF ONLY to determine which group/class each benefit (e.g., "Sealants") belongs to by finding the appropriate section, definition, or grouping.
+    - Then, use the current PDF’s coverage values for each group/class (e.g., "Type B is 80%"), and assign that value for each matching benefit field and network.
+    - This cross-referencing *must use the groupings and values as defined in the current PDF, not the sample mapping or percentages*.
+    - If the target PDF uses other grouping or classification labels, use those as needed―do NOT assume any standard group or map based on the samples.
+
+- **Synonyms and variations:** Recognize that "In-Network"/"Out-of-Network" may be labeled as "Tier 1/2", "PPO/Premier", "Network/Non-Network", "Preferred/Non-Preferred", etc. Map accordingly, using current PDF context.
+
+- When a field is neither directly mapped in a table nor present in any grouping, set its value to "".
+
+---
+
+**Sample Pair Usage Rules:**
+- Carefully review all provided sample pairs. Identify how fields may be mapped differently (direct, grouped, multistep).
+- Use samples only as logic references for possible extraction or mapping methods, never as content sources.
+- Generalize mapping logic from all samples, not just the nearest one, but *always* apply it to the target PDF’s specific presentation and wording.
+
+---
+
+**For all fields:**  
+Extract and output ONLY these fields (no extras):
+
+{keys_str}
+
+---
+
+**Output:** Output only the completed JSON object with all fields above, and nothing else.
+
 """
 
     user_prompt = ""
     for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
-        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text[:12000]}\n-----\n"
+        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text}\n-----\n"
         user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
 
     print(f"len is dest pdf text: {len(dest_pdf_text)}")
-    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text[:12000]}\n-----\n"
+    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
     user_prompt += "Output the target's JSON only:"
 
     resp = client.chat.completions.create(
