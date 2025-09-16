@@ -1,12 +1,12 @@
 {
   "Carrier Name": "MetLife",
-  "Plan Name": "GOLD GCERT ER",
+  "Plan Name": "100-80-50 1000 90th Major",
   "In-Network Single Deductible": "$50",
   "In-Network Family Deductible": "$150",
   "Out-of-Network Single Deductible": "$50",
   "Out-of-Network Family Deductible": "$150",
-  "In-Network Annual Maximum": "$1000",
-  "Out-of-Network Annual Maximum": "$1000",
+  "In-Network Annual Maximum": "$1,000",
+  "Out-of-Network Annual Maximum": "$1,000",
   "Frequencies Cleaning": "2 in 12 months",
   "Frequencies Exam": "2 in 12 months",
   "In-Network Cleanings": "100%",
@@ -39,11 +39,11 @@
   "Out-of-Network Orthodontia": "",
   "Orthodontia Lifetime Maximum": "",
   "Orthodontia Maximum Age": "",
-  "Out of Network Explanation": "Out-of-network benefits are payable for services rendered by a dentist who is not a participating provider. The Reasonable and Customary charge is based on the lowest of: \n• the dentist’s actual charge (the 'Actual Charge'), \n• the dentist’s usual charge for the same or similar services (the 'Usual Charge') or \n• the usual charge of most dentists in the same geographic area for the same or similar services as determined by MetLife (the 'Customary Charge'). For your plan, the Customary Charge is based on the 90th percentile. Services must be necessary in terms of generally accepted dental standards.",
-  "Waiting Period for Major Services": "",
-  "Plan Year": "",
-  "Network Type": "",
+  "Out of Network Explanation": "You get benefits for a wide range of covered services — both in and out of the network. The goal is to deliver cost-effective protection for a healthier smile and a healthier you.",
+  "Waiting Period for Major Services": "24 months",
+  "Plan Year": "2023",
+  "Network Type": "PPO",
   "Network Name": "PDP Plus",
-  "Member Website": "www.metlife.com/mybenefits",
-  "Customer Service Phone Number": ""
+  "Member Website": "www.metlife.com",
+  "Customer Service Phone Number": "1-800-275-4638"
 }
