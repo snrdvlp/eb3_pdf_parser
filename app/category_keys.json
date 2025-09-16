@@ -25,12 +25,16 @@
     "Member Website", "Customer Service Phone Number"
   ],
   "vision": [
-    "Carrier Name","Plan Name",
-    "In-Network Eye Exam",
-    "Out-of-Network Eye Exam",
-    "Frames Benefit",
-    "Contacts Benefit",
-    "Network Name",
-    "Member Website"
+    "Carrier Name", "Plan Name",
+    "In-Network Eye Exam", "Out-of-Network Eye Exam",
+    "In-Network Single Vision Lens", "Out-of-Network Single Vision Lens",
+    "In-Network Lined Bi-Focal Lens", "Out-of-Network Lined Bi-Focal Lens",
+    "In-Network Lined Tri-Focal Lens", "Out-of-Network Lined Tri-Focal Lens",
+    "In-Network Lenticular Lens", "Out-of-Network Lenticular Lens",
+    "In-Network Contact Lens Allowance", "Out-of-Network Contact Lens Allowance",
+    "In-Network Frame Allowance", "Out-of-Network Frame Allowance",
+    "Exam Frequency", "Lens Frequency", "Frame Frequency",
+    "Out of Network Explanation", "Plan Year", "Network Name",
+    "Member Website", "Customer Service Phone Number"
   ]
 }

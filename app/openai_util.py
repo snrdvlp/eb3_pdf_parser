@@ -65,7 +65,6 @@ You are a highly accurate insurance PDF-to-JSON converter.
 
 ---
 
-
 **CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
 - For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - If these fields are not present in the target PDF, return an empty string ("").

@@ -30,13 +30,14 @@ def init_sqlite():
          carrier TEXT, 
          plan TEXT, 
          json_data TEXT, 
-         pdf_path TEXT
+         pdf_path TEXT,
+         pdf_hash TEXT
         )
     ''')
     conn.commit()
     conn.close()
 
-def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict) -> str:
+def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:str) -> str:
     sample_id = str(uuid.uuid4())
 
     # Save PDF
@@ -49,17 +50,17 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict) -> str:
     carrier = json_data.get('Carrier Name', '')
     plan = json_data.get('Plan Name', '')
 
-    # Save metadata in SQLite
+    # Save metadata in SQLite with pdf_hash
     conn = sqlite3.connect(SQLITE_METADATA)
     c = conn.cursor()
     # Store only the filename, not the full path
-    c.execute('INSERT INTO samples VALUES (?,?,?,?,?,?)',
-              (sample_id, category, carrier, plan, json.dumps(json_data), pdf_filename))
+    c.execute('INSERT INTO samples VALUES (?,?,?,?,?,?,?)',
+              (sample_id, category, carrier, plan, json.dumps(json_data), pdf_filename, pdf_hash))
     conn.commit()
     conn.close()
 
     # Embed PDF text, add to FAISS
-    text = pdf_to_text(pdf_bytes)[:12000]  # truncate
+    text = pdf_to_text(pdf_bytes)  # truncate
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
 
     if not os.path.exists(VECTOR_DB_FILE):
@@ -78,7 +79,7 @@ def search_similar_pdf(category: str, pdf_bytes: bytes, top_k=3):
     if not os.path.exists(VECTOR_DB_FILE):
         return []
     index = faiss.read_index(VECTOR_DB_FILE)
-    text = pdf_to_text(pdf_bytes)[:12000]
+    text = pdf_to_text(pdf_bytes)
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
     D, I = index.search(emb, top_k)
 
