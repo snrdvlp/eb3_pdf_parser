@@ -111,9 +111,8 @@ async def extract_json_endpoint(
     return {
         "result_json": cleaned_result_json,
         "matched_sample_plan": matched_plan,
-        "matched_json1": sims[0]['json_data']
-        # "matched_json2": sims[1]['json_data'],
-        # "matched_json3": sims[2]['json_data']
+        "matched_json1": sims[0]['json_data'],
+        "matched_json2": sims[1]['json_data']
     }
 
 @app.post("/sample/add_one")

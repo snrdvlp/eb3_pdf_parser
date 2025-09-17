@@ -42,7 +42,60 @@ def ask_gpt_mapping_logic(
     category: str
 ) -> dict:
     required_keys = get_required_keys(category)
+    system_prompt = get_system_prompt(category, required_keys)
+
+    user_prompt = ""
+    for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
+        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text}\n-----\n"
+        user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
+
+    print(f"len is dest pdf text: {len(dest_pdf_text)}")
+    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
+    user_prompt += "Output the target's JSON only:"
+
+    resp = client.chat.completions.create(
+        model=OPENAI_GPT_MODEL,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ],
+        temperature=0.1, max_tokens=2048
+    )
+    result_json = resp.choices[0].message.content
+    try:
+        parsed = json.loads(result_json)
+    except Exception:
+        # Sometimes GPT adds markdown code fencing
+        result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
+        parsed = json.loads(result_json)
+
+    print(f"parsed is \n: {parsed}")
+    return parsed
+
+SPECIAL_PROMPT_INSTRUCTIONS = {
+    "dental": """
+**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
+- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
+
+---
+
+**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
+- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "vision": """
+**CRITICAL FIELD EXTRACTION FOR VISION BENEFITS:**
+- For the following fields: "Eye Exam", "Single Vision Lens", "Lined Bi-Focal Lens", "Lined Tri-Focal Lens", "Lenticular Lens", "Contact Lens Allowance", "Frame Allowance", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    # Add more categories as needed...
+}
+
+
+def get_system_prompt(category, required_keys):
     keys_str = "\n".join([f'- "{k}"' for k in required_keys])
+    category = category.lower()
+    special_instructions = SPECIAL_PROMPT_INSTRUCTIONS.get(category, "")
 
     system_prompt = f"""
 You are a highly accurate insurance PDF-to-JSON converter.
@@ -60,14 +113,7 @@ You are a highly accurate insurance PDF-to-JSON converter.
 
 ---
 
-**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
-- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
-
----
-
-**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- If these fields are not present in the target PDF, return an empty string ("").
+{special_instructions}
 
 ---
 
@@ -107,31 +153,4 @@ Extract and output ONLY these fields (no extras):
 **Output:** Output only the completed JSON object with all fields above, and nothing else.
 
 """
-
-    user_prompt = ""
-    for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
-        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text}\n-----\n"
-        user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
-
-    print(f"len is dest pdf text: {len(dest_pdf_text)}")
-    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
-    user_prompt += "Output the target's JSON only:"
-
-    resp = client.chat.completions.create(
-        model=OPENAI_GPT_MODEL,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ],
-        temperature=0.1, max_tokens=2048
-    )
-    result_json = resp.choices[0].message.content
-    try:
-        parsed = json.loads(result_json)
-    except Exception:
-        # Sometimes GPT adds markdown code fencing
-        result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
-        parsed = json.loads(result_json)
-
-    print(f"parsed is \n: {parsed}")
-    return parsed
+    return system_prompt

@@ -1,6 +1,7 @@
 import io
 import pdfplumber
 import fitz  # PyMuPDF
+import time
 
 def pdf_to_text(pdf_bytes: bytes) -> str:
     return pdf_to_text_with_tables(pdf_bytes)
@@ -12,6 +13,9 @@ def pdf_to_text_with_tables(pdf_bytes: bytes) -> str:
     - Headings are auto-detected (short UPPERCASE text).
     - Paragraphs are preserved.
     """
+
+    start = time.perf_counter()
+
     markdown_output = ""
 
     # Load with both pdfplumber and PyMuPDF
@@ -102,4 +106,8 @@ def pdf_to_text_with_tables(pdf_bytes: bytes) -> str:
                 markdown_output += text + "\n\n"
 
     plumber_pdf.close()
+
+    elapsed = time.perf_counter() - start
+    print(f"Elapsed time for pdf to string: {elapsed:.2f} seconds")
+    
     return markdown_output.strip()
