@@ -14,7 +14,6 @@ CARRIER_DEFAULT_LIKE_KEYS = [
     "Customer Service Phone Number"
 ]
 
-
 def filter_to_required_keys(predicted: dict, required_keys: list):
     """Retain only required keys, fill blanks if missing."""
     return {k: predicted.get(k, "") for k in required_keys}

@@ -138,3 +138,30 @@ def ask_llm_mapping_logic(
 
     print(f"parsed is \n: {parsed}")
     return parsed
+
+CARRIER_DEFAULT_LIKE_KEYS = [
+    "Member Website",
+    "Out of Network Explanation",
+    "Customer Service Phone Number"
+]
+
+def filter_to_required_keys(predicted: dict, required_keys: list):
+    """Retain only required keys, fill blanks if missing."""
+    return {k: predicted.get(k, "") for k in required_keys}
+
+def fill_from_matched_sample(result_json: dict, matched_sample_json: dict):
+    """Fill default-likely fields from matched sample if missing."""
+    for key in CARRIER_DEFAULT_LIKE_KEYS:
+        if not result_json.get(key):  # empty or missing
+            result_json[key] = matched_sample_json.get(key, "")
+    return result_json
+
+def replace_nulls(obj):
+    if isinstance(obj, dict):
+        return {k: replace_nulls(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [replace_nulls(x) for x in obj]
+    elif obj is None:
+        return ""
+    else:
+        return obj

@@ -10,10 +10,10 @@ import time
 from . import db
 from .extract import pdf_to_text
 from .extract import pdf_to_text_with_tables
-from .openai_util import ask_gpt_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
 from .category_key_registry import get_required_keys
 from .my_llm import MyLLM
-from .my_llm_util import ask_llm_mapping_logic
+from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
+# from .openai_util import ask_gpt_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
 
 
 db.init_sqlite()
@@ -26,7 +26,7 @@ app.add_middleware(
 )
 
 # Loads health llm model
-llm = MyLLM()
+# llm = MyLLM()
 
 
 @app.post("/get_pdf")
@@ -80,17 +80,18 @@ async def extract_json_endpoint(
     # print(f"des pdf to text is:\n {dest_pdf_text}")
 
     # Call few-shot LLM mapping logic
-    result_json = ask_gpt_mapping_logic(
-        sample_pairs=sample_pairs,
-        dest_pdf_text=dest_pdf_text,
-        category=category
-    )
+    # result_json = ask_gpt_mapping_logic(
+    #     sample_pairs=sample_pairs,
+    #     dest_pdf_text=dest_pdf_text,
+    #     category=category
+    # )
 
-    result_json = ask_llm_mapping_logic(
-        llm=llm,
-        sample_pairs=sample_pairs,
-        dest_pdf_text=dest_pdf_text,
-        category=category)
+    result_json = {}
+    # result_json = ask_llm_mapping_logic(
+    #     llm=llm,
+    #     sample_pairs=sample_pairs,
+    #     dest_pdf_text=dest_pdf_text,
+    #     category=category)
 
     # Record the open ai time
     elapsed = time.perf_counter() - temp
