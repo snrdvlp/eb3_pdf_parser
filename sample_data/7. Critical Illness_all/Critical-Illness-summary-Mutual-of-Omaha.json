@@ -1,0 +1,20 @@
+{
+  "Carrier Name": "Mutual Of Omaha",
+  "Plan Name": "",
+  "Minimum Benefit": "$10,000",
+  "Maximum Benefit": "$30,000",
+  "Employee Scheduled Benefit": "$10,000 up to $30,000",
+  "Spouse Scheduled Benefit": "100% of employee CI Principal Sum, up to $30,000",
+  "Child Scheduled Benefit": "50% of employee CI Principal Sum, up to $5,000",
+  "Guaranteed Insurability": "Employee: $30,000 / Spouse: $30,000 / Child(ren): $5,000",
+  "Pre-Existing Condition Clause": "",
+  "Wellness Benefit": "",
+  "Cancer": "100%",
+  "Cancer - Carcinoma in situ": "25%",
+  "Heart Attack": "100%",
+  "Major Organ Failure": "100%",
+  "Stroke": "100%",
+  "Plan Year": "",
+  "Member Website": "",
+  "Customer Service Phone Number": ""
+}

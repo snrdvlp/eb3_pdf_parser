@@ -1,0 +1,20 @@
+{
+  "Carrier Name": "Cigna",
+  "Plan Name": "",
+  "Minimum Benefit": "$5,000",
+  "Maximum Benefit": "$30,000",
+  "Employee Scheduled Benefit": "$30,000",
+  "Spouse Scheduled Benefit": "50% of employee amount",
+  "Child Scheduled Benefit": "50% of employee amount",
+  "Guaranteed Insurability": "Up to $30,000",
+  "Pre-Existing Condition Clause": "",
+  "Wellness Benefit": "$50  1 per year",
+  "Cancer": "100%",
+  "Cancer - Carcinoma in situ": "25%",
+  "Heart Attack": "100%",
+  "Major Organ Failure": "100%",
+  "Stroke": "100%",
+  "Plan Year": "",
+  "Member Website": "",
+  "Customer Service Phone Number": ""
+}

@@ -1,0 +1,20 @@
+{
+  "Carrier Name": "Principal",
+  "Plan Name": "",
+  "Minimum Benefit": "$5,000",
+  "Maximum Benefit": "$100,000",
+  "Employee Scheduled Benefit": "$5,000",
+  "Spouse Scheduled Benefit": "$2,500",
+  "Child Scheduled Benefit": "Children are automatically covered for 25% of an employee's benefit",
+  "Guaranteed Insurability": "$20,000",
+  "Pre-Existing Condition Clause": "6 months prior/12 months insured",
+  "Wellness Benefit": "",
+  "Cancer": "100%",
+  "Cancer - Carcinoma in situ": "25%",
+  "Heart Attack": "100%",
+  "Major Organ Failure": "100%",
+  "Stroke": "100%",
+  "Plan Year": "January 1,2021",
+  "Member Website": "",
+  "Customer Service Phone Number": ""
+}

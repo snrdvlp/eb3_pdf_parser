@@ -1,0 +1,20 @@
+{
+  "Carrier Name": "Allstate",
+  "Plan Name": "",
+  "Minimum Benefit": "$10,000",
+  "Maximum Benefit": "$30,000",
+  "Employee Scheduled Benefit": "$10,000",
+  "Spouse Scheduled Benefit": "50% of employee amount",
+  "Child Scheduled Benefit": "Children, up to age 26, covered at 50% of employee amount at no additional cost",
+  "Guaranteed Insurability": "",
+  "Pre-Existing Condition Clause": "Waiver of the pre-existing condition clause",
+  "Wellness Benefit": "$50",
+  "Cancer": "100%",
+  "Cancer - Carcinoma in situ": "25%",
+  "Heart Attack": "100%",
+  "Major Organ Failure": "100%",
+  "Stroke": "100%",
+  "Plan Year": "",
+  "Member Website": "allstatebenefits.com",
+  "Customer Service Phone Number": "1-877-204-8464"
+}
