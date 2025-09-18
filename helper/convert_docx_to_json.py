@@ -4,9 +4,10 @@ from docx import Document
 from pathlib import Path
 
 # Source folder with DOCX files (may contain subfolders)
-DOCX_FOLDER = "sample_data"
+DOCX_FOLDER = "sample_data/4. STD/Guardian"
 # Destination folder for JSON files
-JSON_FOLDER = "sample_data"
+JSON_FOLDER = "sample_data/4. STD/Guardian"
+
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
 def parse_doc_to_dict(doc_path):

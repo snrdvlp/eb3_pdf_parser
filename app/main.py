@@ -12,6 +12,9 @@ from .extract import pdf_to_text
 from .extract import pdf_to_text_with_tables
 from .openai_util import ask_gpt_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
 from .category_key_registry import get_required_keys
+from .my_llm import MyLLM
+from .my_llm_util import ask_llm_mapping_logic
+
 
 db.init_sqlite()
 
@@ -21,6 +24,10 @@ app.add_middleware(
     allow_origins=["*"], allow_credentials=True,
     allow_methods=["*"], allow_headers=["*"],
 )
+
+# Loads health llm model
+llm = MyLLM()
+
 
 @app.post("/get_pdf")
 async def get_pdf(
@@ -79,6 +86,12 @@ async def extract_json_endpoint(
         category=category
     )
 
+    result_json = ask_llm_mapping_logic(
+        llm=llm,
+        sample_pairs=sample_pairs,
+        dest_pdf_text=dest_pdf_text,
+        category=category)
+
     # Record the open ai time
     elapsed = time.perf_counter() - temp
     temp = time.perf_counter()
@@ -107,7 +120,7 @@ async def extract_json_endpoint(
     start = time.perf_counter()
     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-    return cleaned_result_json
+    # return cleaned_result_json
     return {
         "result_json": cleaned_result_json,
         "matched_sample_plan": matched_plan,

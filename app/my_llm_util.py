@@ -1,12 +1,5 @@
-from openai import OpenAI
 import json
-import os
-from dotenv import load_dotenv
 from .category_key_registry import get_required_keys
-
-load_dotenv()
-OPENAI_GPT_MODEL = "gpt-4o-mini"
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 CARRIER_DEFAULT_LIKE_KEYS = [
     "Member Website",
@@ -14,6 +7,24 @@ CARRIER_DEFAULT_LIKE_KEYS = [
     "Customer Service Phone Number"
 ]
 
+SPECIAL_PROMPT_INSTRUCTIONS = {
+    "dental": """
+**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
+- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
+
+---
+
+**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
+- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "vision": """
+**CRITICAL FIELD EXTRACTION FOR VISION BENEFITS:**
+- For the following fields: "Eye Exam", "Single Vision Lens", "Lined Bi-Focal Lens", "Lined Tri-Focal Lens", "Lenticular Lens", "Contact Lens Allowance", "Frame Allowance", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    # Add more categories as needed...
+}
 
 def filter_to_required_keys(predicted: dict, required_keys: list):
     """Retain only required keys, fill blanks if missing."""
@@ -35,70 +46,6 @@ def replace_nulls(obj):
         return ""
     else:
         return obj
-
-def ask_gpt_mapping_logic(
-    sample_pairs, # List of tuples: (sample_pdf_text, sample_json)
-    dest_pdf_text: str,
-    category: str
-) -> dict:
-    required_keys = get_required_keys(category)
-    system_prompt = get_system_prompt(category, required_keys)
-
-    user_prompt = ""
-    for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
-        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text}\n-----\n"
-        user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
-
-    print(f"len is dest pdf text: {len(dest_pdf_text)}")
-    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
-    user_prompt += "Output the target's JSON only:"
-
-    resp = client.chat.completions.create(
-        model=OPENAI_GPT_MODEL,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ],
-        temperature=0.1, max_tokens=2048
-    )
-
-    with open("system_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(system_prompt)  # your PDF->text output
-    with open("user_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(user_prompt)  # your PDF->text output
-
-
-
-    result_json = resp.choices[0].message.content
-    try:
-        parsed = json.loads(result_json)
-    except Exception:
-        # Sometimes GPT adds markdown code fencing
-        result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
-        parsed = json.loads(result_json)
-
-    print(f"parsed is \n: {parsed}")
-    return parsed
-
-SPECIAL_PROMPT_INSTRUCTIONS = {
-    "dental": """
-**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
-- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
-
----
-
-**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- If these fields are not present in the target PDF, return an empty string ("").
-""",
-    "vision": """
-**CRITICAL FIELD EXTRACTION FOR VISION BENEFITS:**
-- For the following fields: "Eye Exam", "Single Vision Lens", "Lined Bi-Focal Lens", "Lined Tri-Focal Lens", "Lenticular Lens", "Contact Lens Allowance", "Frame Allowance", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- If these fields are not present in the target PDF, return an empty string ("").
-""",
-    # Add more categories as needed...
-}
-
 
 def get_system_prompt(category, required_keys):
     keys_str = "\n".join([f'- "{k}"' for k in required_keys])
@@ -162,3 +109,32 @@ Extract and output ONLY these fields (no extras):
 
 """
     return system_prompt
+
+def ask_llm_mapping_logic(
+    llm, # LLM model
+    sample_pairs, # List of tuples: (sample_pdf_text, sample_json)
+    dest_pdf_text: str,
+    category: str
+) -> dict:
+    required_keys = get_required_keys(category)
+    system_prompt = get_system_prompt(category, required_keys)
+
+    user_prompt = ""
+    for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
+        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text}\n-----\n"
+        user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
+
+    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
+    user_prompt += "Output the target's JSON only:"
+
+
+    result_json = llm.chat(system_prompt, user_prompt)
+    try:
+        parsed = json.loads(result_json)
+    except Exception:
+        # Sometimes LLM adds markdown code fencing
+        result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
+        parsed = json.loads(result_json)
+
+    print(f"parsed is \n: {parsed}")
+    return parsed

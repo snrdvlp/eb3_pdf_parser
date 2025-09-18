@@ -8,4 +8,8 @@ python-dotenv
 pdfplumber
 PyMuPDF
 camelot-py[cv]
-runpod
+
+transformers
+safetensors
+sentence-transformers
+accelerate

@@ -19,6 +19,7 @@ SQLITE_METADATA = os.path.join(DB_DIR, "metadata.sqlite")
 os.makedirs(DB_DIR, exist_ok=True)
 
 EMBEDDING_DIM = 1536  # OpenAI 'text-embedding-3-small'
+EMBEDDING_DIM = 384  # all-MiniLM-L6-v2
 
 def init_sqlite():
     conn = sqlite3.connect(SQLITE_METADATA)

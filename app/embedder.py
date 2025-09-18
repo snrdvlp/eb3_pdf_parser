@@ -1,18 +1,28 @@
-from openai import OpenAI
-import numpy as np
-import os
-from dotenv import load_dotenv
+# from openai import OpenAI
+# import numpy as np
+# import os
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
-# For OpenAI embeddings
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+# # For OpenAI embeddings
+# client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
                 
-OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
+# OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
+
+# def get_embedding(text: str) -> list:
+#     resp = client.embeddings.create(
+#         model=OPENAI_EMBEDDING_MODEL,
+#         input=text[:8192]
+#     )
+#     return resp.data[0].embedding
+
+from sentence_transformers import SentenceTransformer
+
+# Load model (downloads automatically if not present)
+SBERT_MODEL = "all-MiniLM-L6-v2"
+sbert = SentenceTransformer(SBERT_MODEL)
 
 def get_embedding(text: str) -> list:
-    resp = client.embeddings.create(
-        model=OPENAI_EMBEDDING_MODEL,
-        input=text[:8192]
-    )
-    return resp.data[0].embedding
+    embedding = sbert.encode(text)  # returns a numpy array
+    return embedding.tolist()

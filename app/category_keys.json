@@ -36,5 +36,13 @@
     "Exam Frequency", "Lens Frequency", "Frame Frequency",
     "Out of Network Explanation", "Plan Year", "Network Name",
     "Member Website", "Customer Service Phone Number"
+  ],
+  "termlife": [
+    "Carrier Name","Plan Name","Life Insurance Coverage","Accidental Death & Dismemberment",
+    "Age Reduction Schedule","Beneficiary","Taxation of Benefit","Plan Year",
+    "Member Website","Customer Service Phone Number"
+  ],
+  "std": [
+    
   ]
 }
