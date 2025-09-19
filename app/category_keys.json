@@ -37,12 +37,44 @@
     "Out of Network Explanation", "Plan Year", "Network Name",
     "Member Website", "Customer Service Phone Number"
   ],
-  "termlife": [
+  "term life": [
     "Carrier Name","Plan Name","Life Insurance Coverage","Accidental Death & Dismemberment",
     "Age Reduction Schedule","Beneficiary","Taxation of Benefit","Plan Year",
     "Member Website","Customer Service Phone Number"
   ],
   "std": [
-    
+    "Carrier Name", "Plan Name", "Disability Definition", "Weekly Benefit", "Elimination Period",
+    "Payment Period", "Pre-Existing Conditions", "Maternity", "Guaranteed Insurability",
+    "Taxation of Benefit", "Plan Year", "Member Website", "Customer Service Phone Number"
+  ],
+  "ltd": [
+    "Carrier Name", "Plan Name", "Disability Definition", "Monthly Benefit", "Elimination Period",
+    "Payment Period", "Pre-Existing Conditions", "Own Occupation Limitation", "Guaranteed Insurability",
+    "Taxation of Benefit", "Plan Year", "Member Website", "Customer Service Phone Number"
+  ],
+  "accident": [
+    "Carrier Name", "Plan Name", "Burn - 2nd Degree", "Burn - 3rd degree", "Coma",
+    "Concussion", "Dental Injury", 
+    "Dislocation - Hip", "Dislocation - Knee", "Dislocation - Shoulder", "Fracture - Hip",
+    "Fracture - Skull", "Fracture - Arm", "Fracture - Hand",
+    "Quadriplegia", "Paraplegia", "Loss of Speech", "Loss of Hearing",
+    "Wellness Benefit", "Accidental Death & Dismemberment", "Plan Year",
+    "Member Website", "Customer Service Phone Number"
+  ],
+  "critical illness": [
+    "Carrier Name", "Plan Name", "Minimum Benefit", "Maximum Benefit",
+    "Employee Scheduled Benefit", "Spouse Scheduled Benefit",
+    "Child Scheduled Benefit", "Guaranteed Insurability",
+    "Pre-Existing Condition Clause", "Wellness Benefit",
+    "Cancer", "Cancer - Carcinoma in situ",
+    "Heart Attack", "Major Organ Failure",
+    "Stroke", "Plan Year", "Member Website",
+    "Customer Service Phone Number"
+  ],
+  "sup life": [
+    "Carrier Name", "Plan Name", "Employee Life Insurance Coverage", "Spouse Life Insurance Coverage",
+    "Child(ren) Life Insurance Coverage", "Accidental Death & Dismemberment", "Age Reduction Schedule",
+    "Guaranteed Insurability", "Beneficiary", "Taxation of Benefit", "Plan Year",
+    "Member Website", "Customer Service Phone Number"
   ]
 }

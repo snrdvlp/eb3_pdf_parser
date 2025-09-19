@@ -23,6 +23,35 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 - For the following fields: "Eye Exam", "Single Vision Lens", "Lined Bi-Focal Lens", "Lined Tri-Focal Lens", "Lenticular Lens", "Contact Lens Allowance", "Frame Allowance", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - If these fields are not present in the target PDF, return an empty string ("").
 """,
+    "term life":"""
+""",
+    "std":"""
+**CRITICAL FIELD EXTRACTION FOR STD BENEFITS:**
+- For the following fields: "Elimination Period", "Payment Period", "Pre-Existing Conditions", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "std":"""
+""",
+    "ltd":"""
+**CRITICAL FIELD EXTRACTION FOR LTD BENEFITS:**
+- For the following fields: "Elimination Period", "Payment Period", "Pre-Existing Conditions", "Own Occupation Limitation", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "accident":"""
+**CRITICAL FIELD EXTRACTION FOR ACCIDENT BENEFITS:**
+- For the following fields: "Burn - 2nd Degree", "Burn - 3rd degree", "Coma", "Concussion", "Dental Injury", "Dislocation - Hip", "Dislocation - Knee", "Dislocation - Shoulder", "Fracture - Hip", "Fracture - Skull", "Fracture - Arm", "Fracture - Hand", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "critical illness":"""
+**CRITICAL FIELD EXTRACTION FOR CRITICAL ILLNESS BENEFITS:**
+- For the following fields: "Child Scheduled Benefit", "Guaranteed Insurability", "Pre-Existing Condition Clause", "Wellness Benefit", "Cancer", "Cancer - Carcinoma in situ", "Heart Attack", "Major Organ Failure", "Stroke", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "sup life":"""
+**CRITICAL FIELD EXTRACTION FOR SUP LIFE BENEFITS:**
+- For the following fields: "Child(ren) Life Insurance Coverage", "Accidental Death & Dismemberment", "Age Reduction Schedule", "Guaranteed Insurability", "Beneficiary", "Taxation of Benefit", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+"""
     # Add more categories as needed...
 }
 
