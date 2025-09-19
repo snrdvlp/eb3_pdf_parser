@@ -1,53 +1,33 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
+import requests
+import re
 
-class MyLLM:
-    def __init__(self, MODEL_DIR="Qwen/Qwen2.5-14B-Instruct"):
-        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
-        self.model = AutoModelForCausalLM.from_pretrained(
-            MODEL_DIR,
-            dtype="auto",
-            device_map="auto"
-        )
+class RemoteLLM:
+    """
+    A thin wrapper that sends prompts to the remote LLM server endpoint.
+    """
+    def __init__(self, endpoint="http://143.110.210.212:8000/chat"):
+        self.endpoint = endpoint
+
+    def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 1024):
+        """
+        Sends system and user prompts to the remote LLM server and returns its response.
+        """
+        payload = {
+            "system_prompt": system_prompt,
+            "user_prompt": user_prompt,
+            "max_new_tokens": max_new_tokens
+        }
         try:
-            self.gen_config = GenerationConfig.from_pretrained(MODEL_DIR)
-        except Exception:
-            self.gen_config = None
+            r = requests.post(self.endpoint, json=payload, timeout=120)
+            r.raise_for_status()
+            data = r.json()
 
-    def chat(self, system_prompt, user_prompt, max_new_tokens=1024):
-        try:
-            messages = [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ]
-            text = self.tokenizer.apply_chat_template(
-                messages,
-                tokenize=False,
-                add_generation_prompt=True,
-                chat_template="""{% for message in messages %}
-<|{{ message['role'] }}|>
-{{ message['content'] }}
-{% endfor %}
-<|assistant|>
-"""
-            )
-            model_inputs = self.tokenizer([text], return_tensors="pt").to(self.model.device)
-
-            generated_ids = self.model.generate(
-                **model_inputs,
-                max_new_tokens=1024 ,
-                do_sample=False,
-                repetition_penalty=1.0
-            )
-            response = self.tokenizer.decode(generated_ids[0][model_inputs["input_ids"].shape[-1]:])
-            return {"response": response}
-
-            generated_ids = [
-                output_ids[len(input_ids):] 
-                for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-            ]
-            response = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-            return {"response": response}
+            # --- extract and clean ---
+            text = data.get("response", "")
+            # remove special tags like <|assistant|>, <|endoftext|>, or repeated <|
+            text = re.sub(r"<\|.*?\|>", "", text)  # remove tokens like <|assistant|>
+            text = text.replace("<|<|endoftext|>", "")  # extra safety
+            return text.strip()
 
         except Exception as e:
             return {"error": str(e)}

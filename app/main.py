@@ -11,7 +11,7 @@ from . import db
 from .extract import pdf_to_text
 from .extract import pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
-from .my_llm import MyLLM
+from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
 # from .openai_util import ask_gpt_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
 
@@ -26,7 +26,7 @@ app.add_middleware(
 )
 
 # Loads health llm model
-# llm = MyLLM()
+llm = RemoteLLM()
 
 
 @app.post("/get_pdf")
@@ -40,93 +40,80 @@ async def get_pdf(
 
     return text
 
-# @app.post("/extract_json")
-# async def extract_json_endpoint(
-#     file: UploadFile = File(...),
-#     category: str = Form(...)
-# ):
-#     # Record the start time
-#     start = time.perf_counter()
-#     temp = start
+@app.post("/extract_json")
+async def extract_json_endpoint(
+    file: UploadFile = File(...),
+    category: str = Form(...)
+):
+    # Record the start time
+    start = time.perf_counter()
+    temp = start
 
-#     pdf_bytes = await file.read()
-#     # Search for top_K similar samples instead of just 1
-#     sims = db.search_similar_pdf(category.lower(), pdf_bytes, top_k=2)   # Get 2 for few-shot!
-#     if not sims:
-#         return JSONResponse(
-#             status_code=400,
-#             content={"error": "No similar samples in DB. Please upload at least 1 sample first with /sample/add_one."}
-#         )
+    pdf_bytes = await file.read()
+    # Search for top_K similar samples instead of just 1
+    sims = db.search_similar_pdf(category.lower(), pdf_bytes, top_k=2)   # Get 2 for few-shot!
+    if not sims:
+        return JSONResponse(
+            status_code=400,
+            content={"error": "No similar samples in DB. Please upload at least 1 sample first with /sample/add_one."}
+        )
     
-#     # Record the search_similar_pdf elapsed time
-#     elapsed = time.perf_counter() - temp
-#     temp = time.perf_counter()
-#     print(f"Elapsed time for searching similar pdf: {elapsed:.2f} seconds")
+    # Record the search_similar_pdf elapsed time
+    elapsed = time.perf_counter() - temp
+    temp = time.perf_counter()
+    print(f"Elapsed time for searching similar pdf: {elapsed:.2f} seconds")
     
-#     # Build the `(sample_pdf_text, sample_json)` pairs for few-shot
-#     sample_pairs = []
-#     for s in sims:
-#         sample_pdf_text = pdf_to_text(open(s['pdf_path'], 'rb').read())
-#         sample_json = s['json_data']
-#         sample_pairs.append((sample_pdf_text, sample_json))
+    # Build the `(sample_pdf_text, sample_json)` pairs for few-shot
+    sample_pairs = []
+    for s in sims:
+        sample_pdf_text = pdf_to_text(open(s['pdf_path'], 'rb').read())
+        sample_json = s['json_data']
+        sample_pairs.append((sample_pdf_text, sample_json))
 
-#     dest_pdf_text = pdf_to_text(pdf_bytes)
+    dest_pdf_text = pdf_to_text(pdf_bytes)
 
-#     # Record the parsing pdf to string elapsed time
-#     elapsed = time.perf_counter() - temp
-#     temp = time.perf_counter()
-#     print(f"Elapsed time for extracting pdf to string: {elapsed:.2f} seconds")
+    # Record the parsing pdf to string elapsed time
+    elapsed = time.perf_counter() - temp
+    temp = time.perf_counter()
+    print(f"Elapsed time for extracting pdf to string: {elapsed:.2f} seconds")
 
-#     # print(f"des pdf to text is:\n {dest_pdf_text}")
+    result_json = ask_llm_mapping_logic(
+        llm=llm,
+        sample_pairs=sample_pairs,
+        dest_pdf_text=dest_pdf_text,
+        category=category)
 
-#     # Call few-shot LLM mapping logic
-#     # result_json = ask_gpt_mapping_logic(
-#     #     sample_pairs=sample_pairs,
-#     #     dest_pdf_text=dest_pdf_text,
-#     #     category=category
-#     # )
-
-#     result_json = ask_llm_mapping_logic(
-#         llm=llm,
-#         sample_pairs=sample_pairs,
-#         dest_pdf_text=dest_pdf_text,
-#         category=category)
-
-#     # Record the open ai time
-#     elapsed = time.perf_counter() - temp
-#     temp = time.perf_counter()
-#     print(f"Elapsed time for openai api call: {elapsed:.2f} seconds")
+    # Record the open ai time
+    elapsed = time.perf_counter() - temp
+    temp = time.perf_counter()
+    print(f"Elapsed time for openai api call: {elapsed:.2f} seconds")
     
 
-#     # Strictly filter to expected keys
-#     required_keys = get_required_keys(category)
-#     cleaned_result_json = filter_to_required_keys(result_json, required_keys)
+    # Strictly filter to expected keys
+    required_keys = get_required_keys(category)
+    cleaned_result_json = filter_to_required_keys(result_json, required_keys)
 
-#     # Fill from best sample for likely-shared fields
-#     best_sample = sims[0]['json_data']
-#     cleaned_result_json = fill_from_matched_sample(cleaned_result_json, best_sample)
+    # Fill from best sample for likely-shared fields
+    best_sample = sims[0]['json_data']
+    cleaned_result_json = fill_from_matched_sample(cleaned_result_json, best_sample)
 
-#     # Replace None/null with ""
-#     cleaned_result_json = replace_nulls(cleaned_result_json)
+    # Replace None/null with ""
+    cleaned_result_json = replace_nulls(cleaned_result_json)
 
-#     # ADD THIS BLOCK
-#     # cleaned_result_json, updated_fields = refine_result_json_with_batch_llm(cleaned_result_json, dest_pdf_text)
-#     # print("Fields updated by batch LLM:", updated_fields)
+    matched_plan = best_sample.get('Plan Name', '')
 
-#     matched_plan = best_sample.get('Plan Name', '')
+    # Record the total elapsed time
+    elapsed = time.perf_counter() - start
+    start = time.perf_counter()
+    print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-#     # Record the total elapsed time
-#     elapsed = time.perf_counter() - start
-#     start = time.perf_counter()
-#     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
-
-#     # return cleaned_result_json
-#     return {
-#         "result_json": cleaned_result_json,
-#         "matched_sample_plan": matched_plan,
-#         "matched_json1": sims[0]['json_data'],
-#         "matched_json2": sims[1]['json_data']
-#     }
+    # return cleaned_result_json
+    return {
+        "result_json": cleaned_result_json,
+        "matched_sample_plan": matched_plan,
+        "matched_json1": sims[0]['json_data'],
+        "matched_json2": sims[1]['json_data']
+    }
 
 @app.post("/sample/add_one")
 async def add_sample_endpoint(
