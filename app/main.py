@@ -51,7 +51,7 @@ async def extract_json_endpoint(
 
     pdf_bytes = await file.read()
     # Search for top_K similar samples instead of just 1
-    sims = db.search_similar_pdf(category.lower(), pdf_bytes, top_k=2)   # Get 2 for few-shot!
+    sims = db.search_similar_pdf(category.lower(), pdf_bytes, top_k=1)   # Get 2 for few-shot!
     if not sims:
         return JSONResponse(
             status_code=400,
@@ -107,13 +107,13 @@ async def extract_json_endpoint(
     start = time.perf_counter()
     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-    # return cleaned_result_json
-    return {
-        "result_json": cleaned_result_json,
-        "matched_sample_plan": matched_plan,
-        "matched_json1": sims[0]['json_data'],
-        "matched_json2": sims[1]['json_data']
-    }
+    return cleaned_result_json
+    # return {
+    #     "result_json": cleaned_result_json,
+    #     "matched_sample_plan": matched_plan,
+    #     "matched_json1": sims[0]['json_data'],
+    #     "matched_json2": sims[1]['json_data']
+    # }
 
 @app.post("/sample/add_one")
 async def add_sample_endpoint(

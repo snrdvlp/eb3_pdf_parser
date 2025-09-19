@@ -5,7 +5,7 @@ class RemoteLLM:
     """
     A thin wrapper that sends prompts to the remote LLM server endpoint.
     """
-    def __init__(self, endpoint="http://143.110.210.212:8000/chat"):
+    def __init__(self, endpoint="http://143.110.210.212/chat"):
         self.endpoint = endpoint
 
     def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 1024):
