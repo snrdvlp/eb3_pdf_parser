@@ -13,7 +13,6 @@ from .extract import pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
-# from .openai_util import ask_gpt_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
 
 
 db.init_sqlite()
@@ -28,6 +27,9 @@ app.add_middleware(
 # Loads health llm model
 llm = RemoteLLM()
 
+@app.get("/")
+async def get_hello():
+    return {"response":"This is eb3_pdf_parser"}
 
 @app.post("/get_pdf")
 async def get_pdf(

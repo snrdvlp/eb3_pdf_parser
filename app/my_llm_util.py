@@ -3,7 +3,6 @@ from .category_key_registry import get_required_keys
 
 CARRIER_DEFAULT_LIKE_KEYS = [
     "Member Website",
-    "Out of Network Explanation",
     "Customer Service Phone Number"
 ]
 
@@ -59,22 +58,6 @@ def filter_to_required_keys(predicted: dict, required_keys: list):
     """Retain only required keys, fill blanks if missing."""
     return {k: predicted.get(k, "") for k in required_keys}
 
-def fill_from_matched_sample(result_json: dict, matched_sample_json: dict):
-    """Fill default-likely fields from matched sample if missing."""
-    for key in CARRIER_DEFAULT_LIKE_KEYS:
-        if not result_json.get(key):  # empty or missing
-            result_json[key] = matched_sample_json.get(key, "")
-    return result_json
-
-def replace_nulls(obj):
-    if isinstance(obj, dict):
-        return {k: replace_nulls(v) for k, v in obj.items()}
-    elif isinstance(obj, list):
-        return [replace_nulls(x) for x in obj]
-    elif obj is None:
-        return ""
-    else:
-        return obj
 
 def get_system_prompt(category, required_keys):
     keys_str = "\n".join([f'- "{k}"' for k in required_keys])
@@ -94,7 +77,7 @@ You are a highly accurate insurance PDF-to-JSON converter.
 - ONLY for "Member Website", "Out of Network Explanation", and "Customer Service Phone Number", you may copy a sample value as fallback if missing from the target.
 - Never omit any fields from the output JSON.
 - If multiple prices or values are listed for a benefit field, ALWAYS select the highest price or percentage value.**
-
+- "Customer Service Phone Number" should be a phone number, not other types like email.
 ---
 
 {special_instructions}
@@ -156,8 +139,15 @@ def ask_llm_mapping_logic(
     user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
     user_prompt += "Output the target's JSON only:"
 
+    with open("system_prompt.txt", "w", encoding="utf-8") as f:
+        f.write(system_prompt)  # your PDF->text output
+    with open("user_prompt.txt", "w", encoding="utf-8") as f:
+        f.write(user_prompt)  # your PDF->text output
+
 
     result_json = llm.chat(system_prompt, user_prompt)
+    
+    print(f"result_json is:\n{result_json}")
     try:
         parsed = json.loads(result_json)
     except Exception:
@@ -165,18 +155,7 @@ def ask_llm_mapping_logic(
         result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
         parsed = json.loads(result_json)
 
-    print(f"parsed is \n: {parsed}")
     return parsed
-
-CARRIER_DEFAULT_LIKE_KEYS = [
-    "Member Website",
-    "Out of Network Explanation",
-    "Customer Service Phone Number"
-]
-
-def filter_to_required_keys(predicted: dict, required_keys: list):
-    """Retain only required keys, fill blanks if missing."""
-    return {k: predicted.get(k, "") for k in required_keys}
 
 def fill_from_matched_sample(result_json: dict, matched_sample_json: dict):
     """Fill default-likely fields from matched sample if missing."""

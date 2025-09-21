@@ -24,6 +24,11 @@ class RemoteLLM:
 
             # --- extract and clean ---
             text = data.get("response", "")
+
+            print(f"-----text start-----")
+            print(text)
+            print("-----text end-----")
+
             # remove special tags like <|assistant|>, <|endoftext|>, or repeated <|
             text = re.sub(r"<\|.*?\|>", "", text)  # remove tokens like <|assistant|>
             text = text.replace("<|<|endoftext|>", "")  # extra safety
