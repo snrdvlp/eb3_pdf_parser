@@ -1,338 +1,1082 @@
 ## Page 1
 
+This Benefit Summary is to highlight your Benefits. Don’t use this document to understand your exact coverage. If this Benefit Summary conflicts
+with the Certificate of Coverage (COC), Schedule of Benefits, Riders, and/or Amendments, those documents govern. Review your COC for an exact
+description of the services and supplies that are and are not covered, those which are excluded or limited, and other terms and conditions of
+coverage.
 
+UnitedHealthcare
+|
+Alabama
+|
+Choice Plus
+|
+DZF4
+|
+E83
 
-### Table (Page 1)
+Choice Plus plan details, 
+all in one place.
 
-| Aetna VisionSM Preferred E100 12M |  |  |
-| --- | --- | --- |
-| Plan ID 1054512101
-TPID 79006
-Line Value 862 | Member cost In-Network |  |
-| Vision Care Services | Aetna Vision Network |  |
-|  | $20 Copay |  |
-|  | Member pays discounted fee of $40 |  |
-|  | 10% off retail price |  |
-|  | Member pays discounted fee of $39 |  |
-| Standard Plastic Single Vision Lenses | $25 Copay |  |
-| Standard Plastic Bifocal Vision Lenses | $25 Copay |  |
-| Standard Plastic Trifocal Vision Lenses | $25 Copay |  |
-| Standard Plastic Lenticular Vision Lenses | $25 Copay |  |
-| Standard Progressive Vision Lenses¹ | $90 Copay |  |
-| Premium Progressive Vision Lenses¹
-(Tier amount based on brand) | Tier 1 = $110 Copay
-Tier 2 = $120 Copay
-Tier 3 = $135 Copay |  |
-| Other Premium Progressive Lenses1 | $90 Copay, 20% off retail price
-less $120 allowance |  |
-| UV Treatment | Member pays discounted fee of $15 |  |
-| Tint (Solid And Gradient) | Member pays discounted fee of $15 |  |
-| Standard Plastic Scratch Coating | Member pays discounted fee of $15 |  |
-| Standard Polycarbonate Lenses - Adult | Member pays discounted fee of $40 |  |
-| Standard Polycarbonate Lenses - Kids under
-age 19 | Member pays discounted fee of $40 |  |
-| Standard Anti-Reflective Coating¹ | Member pays discounted fee of $45 |  |
-| Premium Anti-Reflective Coating1
-(Tier amount based on brand) | Tier 1
-Member pays discounted fee of$57
-Tier 2
-Member pays discounted fee of $68
-Tier 3
-20% discount off retail price |  |
-| Photochromic/Transitions Plastic | Member pays discounted fee of $75 |  |
-| Polarized And Other Lens Add Ons | 20% off retail price |  |
-|  | $100 Allowance**
-Additional 15% off balance over $100 |  |
-|  | $100 Allowance |  |
-|  | $0 Copay |  |
-|  | $100 Allowance**
-Additional 20% off balance over $100 |  |
+Use this benefit summary to learn more about this plan’s benefits, ways 
+you can get help managing costs and how you may get more out of this 
+health plan.
 
-Vision Care Services
-Aetna Vision Network
+Check out what’s included in the plan
+Choice Plus
 
-Eye Exam with Dilation as necessary
-$20 Copay
-$20 Reimbursement
+Network coverage only
+You can usually save money when you receive care for covered health care services from
+network providers.
 
-Standard Contact Lens Fit/Follow-Up
-Member pays discounted fee of $40
-Not Covered
+Network and out-of-network benefits
+You may receive care and services from network and out-of-network providers and
+facilities — but staying in the network can help lower your costs.
 
-Premium Contact Lens Fit/Follow-Up
-10% off retail price
-Not Covered
+Primary care physician (PCP) required
+With this plan, you need to select a PCP — the doctor who plays a key role in helping
+manage your care. Each enrolled person on your plan will need to choose a PCP.
 
-Retinal Imaging
-Member pays discounted fee of $39
-Not Covered
+Referrals required
+You’ll need referrals from your PCP before seeing a specialist or getting certain health
+care services.
 
-Standard Plastic Single Vision Lenses
-$25 Copay
-$10 Reimbursement
+Preventive care covered at 100%
+There is no additional cost to you for seeing a network provider for preventive care.
 
-Standard Plastic Bifocal Vision Lenses
-$25 Copay
-$25 Reimbursement
+Pharmacy benefits
+With this plan, you have coverage that helps pay for prescription drugs and medications.
 
-Standard Plastic Trifocal Vision Lenses
-$25 Copay
-$55 Reimbursement
+Tier 1 providers
+Using Tier 1 providers may bring you the greatest value from your health care benefits.
+These PCPs and medical specialists meet national standard benchmarks for quality care
+and cost savings.
 
-Standard Plastic Lenticular Vision Lenses
-$25 Copay
-$55 Reimbursement
+Freestanding centers
+You may pay less when you use certain freestanding centers — health care facilities that
+do not bill for services as part of a hospital, such as MRI or surgery centers.
 
-Standard Progressive Vision Lenses¹
-$90 Copay
-$25 Reimbursement
+Health savings account (HSA)
+With an HSA, you’ve got a personal bank account that lets you put money aside, tax-free.
+Use it to save and pay for qualified medical expenses.
 
-Premium Progressive Vision Lenses¹
-(Tier amount based on brand)
-
-Tier 1 = $110 Copay
-Tier 2 = $120 Copay
-Tier 3 = $135 Copay
-
-$25 Reimbursement
-
-Other Premium Progressive Lenses1
-$90 Copay, 20% off retail price
-
-less $120 allowance
-$25 Reimbursement
-
-UV Treatment
-Member pays discounted fee of $15
-Not Covered
-
-Tint (Solid And Gradient)
-Member pays discounted fee of $15
-Not Covered
-
-Standard Plastic Scratch Coating
-Member pays discounted fee of $15
-Not Covered
-
-Standard Polycarbonate Lenses - Adult
-Member pays discounted fee of $40
-Not Covered
-
-Standard Polycarbonate Lenses - Kids under 
-age 19
-Member pays discounted fee of $40
-Not Covered
-
-Standard Anti-Reflective Coating¹
-Member pays discounted fee of $45
-Not Covered
-
-Premium Anti-Reflective Coating1
-
-(Tier amount based on brand)
-
-Tier 1  
-Member pays discounted fee of$57
-
-Tier 2 
-Member pays discounted fee of $68
-
-Tier 3 
- 20% discount off retail price
-
-Not Covered
-
-Photochromic/Transitions Plastic
-Member pays discounted fee of $75
-Not Covered
-
-Polarized And Other Lens Add Ons
-20% off retail price
-Not Covered
-
-Conventional Contact Lenses
-$100 Allowance**
-Additional 15% off balance over $100
-$69 Reimbursement
-
-Disposable Contact Lenses
-$100 Allowance
-$80 Reimbursement
-
-Medically Necessary Contact Lenses
-$0 Copay
-$200 Reimbursement
-
-Frame
-$100 Allowance**
-Additional 20% off balance over $100
-$50 Reimbursement
-
-Frequency:
-Exam
-Eyeglass Lenses or Contact Lenses
-Frame
-
-Once every 12 rolling months
-Once every 12 rolling months
-Once every 12 rolling months
-
-In-Network Discounts
-
-Additional pairs of eyeglasses or
-
-prescription sunglasses2
-
-Non-covered items3
-
-Lasik Laser vision correction or PRK from
-
-U.S. Laser Network4 only. Call 1-800-422-
-6600
-
-Up to a 40% discount off retail price
-
-Aetna VisionSM Preferred E100 12M
-
-Plan ID 1054512101
-TPID 79006
-Line Value 862
-
-Member cost In-Network
-Out of Network*
-
-Summary of Benefits
-
-20% discount off retail price
-
-15% discount off retail or 5% discount off the promotional price
+1
 
 
 
 ## Page 2
 
+Here's a more in-depth look at how Choice Plus works.
 
+Medical Benefits
 
-### Table (Page 2)
+In Network
+Out-of-Network
 
-| Partial list of Exclusions and Limitations |
-| --- |
-| Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special
-vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet
-professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of
-bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact
-lenses. Other exclusions and limitations may also apply. |
+Annual Medical Deductible
 
-TTY: 711
-To access language services at no cost to you, call 1-888-982-3862.
+Individual
+$3,750
+$10,000
 
-Para acceder a los servicios de idiomas sin costo, llame al 1-888-982-3862. (Spanish)
+Family
+$7,500
+$20,000
 
-如欲使用免費語言服務，請致電 1-888-982-3862。(Chinese)
+Ped Dental Annual Deductible - Family
+Included in your medical deductible
+Included in your medical deductible
 
-Afin d'accéder aux services langagiers sans frais, composez le 1-888-982-3862. (French)
+Ped Dental Annual Deductible - Individual
+Included in your medical deductible
+Included in your medical deductible
 
-Para ma-access ang mga serbisyo sa wika nang wala kayong babayaran, tumawag sa 1-888-982-3862. (Tagalog)
+All individual deductible amounts will count toward the family deductible, but an individual will not have to pay more than the individual deductible amount.
 
-Um auf für Sie kostenlose Sprachdienstleistungen zuzugreifen, rufen Sie 1-888-982-3862 an. (German)
+*After the Annual Medical Deductible has been met.
 
-للحصول على الخدمات اللغوية دون أي 
-،تكلفة الرجاء االتصال على الرقم 1
--
-888
--
-982
--
-3862
-. (Arabic)
+You're responsible for paying 100% of your medical expenses until you reach your deductible. For certain covered services, you may be required to pay a fixed dollar 
+amount - your copay.
 
-Pou jwenn sèvis lang gratis, rele 1-888-982-3862. (French Creole-Haitian)
+Annual Out-of-Pocket Limit
 
-Per accedere ai servizi linguistici, senza alcun costo per lei, chiami il numero  1-888-982-3862. (Italian)
+Individual
+$3,750
+$15,000
 
-Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage. 
-Plan features and availability may vary by location and are subject to change.
+Family
+$7,500
+$30,000
 
-Providers in the Aetna Vision network are contracted and credentialed through EyeMed Vision Care, LLC according to EyeMed’s 
-requirements. EyeMed and Aetna are independent contractors and not agents of each other. Provider participation may change 
-without notice.
+All individual out-of-pocket maximum amounts will count toward the family out-of-pocket maximum, but an individual will not have to pay more than the individual 
+out-of-pocket maximum amount.
 
-Refer to Aetna.com for more information about Aetna® plans.
+Once you’ve met your deductible, you start sharing costs with your plan - coinsurance. You continue paying a portion of the expense until you reach your out-of-
+pocket limit. From there, your plan pays 100% of allowed amounts for the rest of the plan year.
 
-Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently based on 
-their race, color, national origin, sex, age, or disability.
+What You Pay for Services
 
-Aetna provides free aids/services to people with disabilities and to people who need language assistance. If you need a 
-qualified interpreter, written information in other formats, translation or other services, call 1-888-982-3862. If you believe we 
-have failed to provide these services or otherwise discriminated based on a protected class noted above, you can also file a 
-grievance with Civil Rights Coordinator by contacting: Civil Rights Coordinator, P.O. Box 14462, Lexington, KY 40512. 1-800-648-
-7817, TTY: 711, Fax: 859-425-3379, CRCoordinator@aetna.com.
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
 
-You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights 
-Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human 
-Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019, 800-537-
-7697 (TDD).
+Designated Network
+Network
+Out-of-Network
 
-Partial list of Exclusions and Limitations
+Preventive Care Services
 
-Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special 
-vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet 
-professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of 
-bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact 
-lenses. Other exclusions and limitations may also apply.
+Preventive Care Services
+No copay
+Not covered
 
-*You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to 
-receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers 
-actual charge.  
-Claim forms can be found at AetnaVision.com or by calling customer service at 1-877-973-3238. 
-Submit completed claim form with receipts to Aetna, PO Box 8504 Mason, OH 45040-7111. 
-Enrolled members can access our secure member website once their plan becomes effective. Enrolled subscribers will receive 
-a welcome packet with ID card mailed to their home within 15 business days after enrollment is processed.
+Certain preventive care services are provided as specified by 
+the Patient Protection and Affordable Care Act (ACA), with no 
+cost-sharing to you. These services are based on your age, 
+gender and other health factors. UnitedHealthcare also covers 
+other routine services that may require a copay, co-insurance 
+or deductible.
 
-**Allowances are one-time use benefits. No remaining balances may be used. The plan does not provide a declining balance 
-benefit.
+Includes services such as Routine Wellness Checkups, 
+Immunizations, Breast Pumps, Mammography and Colorectal 
+Cancer Screenings.
 
-1Premium progressives and premium anti-reflective Brand designations are subject to annual review and change based on 
-market conditions. Ask your eye care provider for more information.
+Office Services - Sickness & Injury
 
-2Additional pair discount applies to purchases made after the plan allowances have been exhausted.
+Primary Care Physician
+No copay*
+40%*
 
-3Non covered discounts may not be available in all states.
+Additional copays, deductible, or co-insurance may apply 
+when you receive other services at your physician’s office. For 
+example, surgery and lab work.
 
-4Lasik or PRK from the US Laser Network, owned and operated by LCA Vision.
+Telehealth is covered at the same cost share as in the office.
 
-Vision insurance plans are underwritten by Aetna Life Insurance Company (Aetna). Certain claims administration services are 
-provided by First American Administrators, Inc. and certain network administration services are provided through EyeMed 
-Vision Care (“EyeMed”), LLC.
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
+2
 
 
 
 ## Page 3
 
-言語サービスを無料でご利用いただくには、1-888-982-3862 までお電話ください。(Japanese)
+What You Pay for Services
 
-무료 언어 서비스를 이용하려면 1-888-982-3862 번으로 전화해 주십시오. (Korean)
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
 
-برای دسترسی به خدمات زبان به طور 
-،رايگان با شماره 1
--
-888
--
-982
--
-3862
- تماس بگيريد. (Persian-Farsi)
+Designated Network
+Network
+Out-of-Network
 
-Aby uzyskać dostęp do bezpłatnych usług językowych proszę zadzwonoć 1-888-982-3862. (Polish)
+Specialist
+No copay*
+40%*
 
-Para acessar os serviços de idiomas sem custo para você, ligue para 1-888-982-3862. (Portuguese)
+Additional copays, deductible, or co-insurance may apply 
+when you receive other services at your physician’s office. For 
+example, surgery and lab work.
 
-Для того чтобы бесплатно получить помощь переводчика, позвоните по телефону 1-888-982-3862. (Russian)
+Telehealth is covered at the same cost share as in the office.
 
-Nếu quý vị muốn sử dụng miễn phí các dịch vụ ngôn ngữ, hãy gọi tới số 1-888-982-3862. (Vietnamese)
+Urgent Care Center Services
+No copay*
+40%*
 
-Policy forms issued in Idaho include: AL HGrpPol-Vision 03
-Policy forms issued in Missouri include: AL HGrpPol-Vision 02
-Policy forms issued in Oklahoma include: AL HGrpPol-Vision 02
+Virtual Care Services
+No copay*
+Not covered
 
-©2024 Aetna Inc.
+Benefits are available only when services are delivered through 
+a Designated Virtual Network Provider for 24/7 Virtual Visit 
+services only. You can find a 24/7 Virtual Visit Provider by 
+contacting us at myuhc.com® or the telephone number on 
+your ID card. Access to 24/7 Virtual Visits and prescription 
+services may not be available in all states or for all groups.
+
+Emergency Care
+
+Ambulance Services - Emergency Ambulance
+
+Air Ambulance
+No copay*
+No copay*
+
+Ground Ambulance
+No copay*
+No copay*
+
+Ambulance Services - Non-Emergency Ambulance¹
+
+Air Ambulance
+No copay*
+No copay*
+
+Ground Ambulance
+No copay*
+40%*
+
+Dental Services - Accident Only
+No copay*
+No copay*
+
+Emergency Health Care Services - Outpatient¹
+No copay*
+No copay*
+
+Notification is required if it results in confinement to an Out-of-
+Network Hospital.
+
+Inpatient Care
+
+Congenital Heart Disease (CHD) Surgeries¹
+No copay*
+40%*
+
+Habilitative Services - Inpatient¹
+The amount you pay is based on where the covered health care service is provided.
+
+Limited to 60 days per year.
+
+Hospital - Inpatient Stay¹
+No copay*
+40%*
+
+Skilled Nursing Facility/Inpatient Rehabilitation Facility 
+Services¹
+
+No copay*
+40%*
+
+Limited to 60 days per year.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
+3
+
+
+
+## Page 4
+
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Outpatient Care
+
+Habilitative Services - Outpatient
+No copay*
+40%*
+
+Limited to 20 visits of cognitive rehabilitation therapy per year.
+
+Limited to 20 visits of manipulative treatments per year.
+
+Limited to 30 visits of post-cochlear implant aural therapy per 
+year.
+
+Home Health Care¹
+No copay*
+40%*
+
+Lab, X-Ray and Diagnostic - Outpatient - Lab Testing
+No copay*
+No copay*
+Not covered
+
+For Designated Network Benefits, laboratory services must be 
+received from a Designated Diagnostic Provider. Network 
+Benefits include laboratory services received from a Network 
+provider that is not a Designated Diagnostic Provider.
+
+Lab, X-Ray and Diagnostic - Outpatient - X-Ray and other 
+Diagnostic Testing¹
+
+No copay*
+40%*
+
+Major Diagnostic and Imaging - Outpatient¹
+No copay*
+No copay*
+40%*
+
+For Designated Network Benefits, services must be received 
+from a Designated Diagnostic Provider. Network Benefits 
+include services received from a Network provider that is not a 
+Designated Diagnostic Provider.
+
+You may have to pay an extra copay, deductible or 
+coinsurance for physician fees or pharmaceutical products.
+
+Physician Fees for Surgical and Medical Services
+No copay*
+40%*
+
+Rehabilitation Services - Outpatient Therapy and Manipulative 
+Treatment
+
+No copay*
+40%*
+
+Limited to 20 visits of cognitive rehabilitation therapy per year.
+
+Limited to 20 visits of manipulative treatments per year.
+
+Limited to 20 visits of pulmonary rehabilitation therapy per 
+year.
+
+Limited to 30 visits of post-cochlear implant aural therapy per 
+year.
+
+Limited to 36 visits of cardiac rehabilitation therapy per year.
+
+Scopic Procedures - Outpatient Diagnostic and Therapeutic
+No copay*
+40%*
+
+Diagnostic/therapeutic scopic procedures include, but are not 
+limited to colonoscopy, sigmoidoscopy and endoscopy.
+
+Surgery - Outpatient¹
+No copay*
+40%*
+
+Therapeutic Treatments - Outpatient¹
+No copay*
+40%*
+
+For dialysis services, Out-of-Network Benefits are not available.
+
+Therapeutic treatments include, but are not limited to dialysis, 
+intravenous chemotherapy, intravenous infusion, medical 
+education services and radiation oncology.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
+4
+
+
+
+## Page 5
+
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Supplies and Services
+
+Diabetes Self-Management Items¹
+The amount you pay is based on where the covered health care service is provided under 
+Durable Medical Equipment (DME), Orthotics and Supplies or in the Prescription Drug Benefits 
+Section.
+
+Diabetes Self-Management and Training/Diabetic Eye 
+Exams/Foot Care¹
+
+The amount you pay is based on where the covered health care service is provided.
+
+Durable Medical Equipment (DME), Orthotics and Supplies
+No copay*
+Not covered
+
+Enteral Nutrition
+No copay*
+40%*
+
+Hearing Aids
+No copay*
+40%*
+
+Limited to $2,500 per year.
+
+Limited to a single purchase per hearing impaired ear every 3 
+years.
+
+Repair and/or replacement of a hearing aid would apply to this 
+limit in the same manner as a purchase.
+
+Ostomy Supplies
+No copay*
+Not covered
+
+Pharmaceutical Products - Outpatient
+No copay*
+40%*
+
+This includes medications given at a doctor's office, or in a 
+covered person's home.
+
+Prosthetic Devices¹
+No copay*
+40%*
+
+Urinary Catheters
+No copay*
+Not covered
+
+Pregnancy
+
+Pregnancy - Maternity Services¹
+The amount you pay is based on where the covered health care service is provided except that 
+an Annual Deductible will not apply for a newborn child whose length of stay in the Hospital is 
+the same as the mother's length of stay.
+
+Mental Health Care & Substance Related and 
+Addictive Disorder Services
+
+Inpatient¹
+No copay*
+40%*
+
+Intensive Behavioral Therapy (e.g. ABA)¹
+No copay*
+40%*
+
+Other Outpatient Services such as Electro-Convulsive 
+Treatment, Psychological Testing, Transcranial Magnetic 
+Stimulation and Medication Assisted Treatment¹
+
+No copay*
+40%*
+
+Other Outpatient Services, including Partial 
+Hospitalization/Day Treatment/High Intensity 
+Outpatient/Intensive Outpatient Treatment¹
+
+No copay*
+40%*
+
+Outpatient Office Visits
+No copay*
+40%*
+
+Other Services
+
+Cellular and Gene Therapy
+The amount you pay is based on where the covered health 
+care service is provided.
+
+Not covered
+
+For Network Benefits, Cellular or Gene Therapy services must 
+be received from a Designated Provider.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
+5
+
+
+
+## Page 6
+
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Clinical Trials¹
+The amount you pay is based on where the covered health care service is provided.
+
+Fertility Preservation for Iatrogenic Infertility¹
+No copay*
+40%*
+
+Limited to $20,000 per Covered Person per lifetime.
+
+Limited to $5,000 for Prescription Drug Products per Covered 
+Person.
+
+Limited to 1 cycle of fertility preservation for Iatrogenic Infertility 
+per lifetime.
+
+This Benefit limit will be the same as, and combined with, 
+those stated under Preimplantation Genetic Testing (PGT) and 
+Related Services.
+
+Gender Dysphoria¹
+The amount you pay is based on where the covered health care service is provided or in the 
+Prescription Drug Benefits Section.
+
+Limits for voice modification therapy and/or voice lessons will 
+be the same as, and combined with, outpatient speech 
+therapy limits as described under Habilitative Services and 
+Rehabilitation Services Outpatient Therapy and Manipulative 
+Treatment.
+
+Hospice Care¹
+No copay*
+40%*
+
+Preimplantation Genetic Testing (PGT) and Related Services¹
+No copay*
+40%*
+
+Benefit limits for related services will be the same as, and 
+combined with, those stated under Fertility Preservation for 
+Iatrogenic Infertility. This limit does not include Preimplantation 
+Genetic Testing (PGT) for the specific genetic disorder. This 
+limit includes Benefits for ovarian stimulation medications 
+provided under the Outpatient Prescription Drug Rider.
+
+Reconstructive Procedures¹
+The amount you pay is based on where the covered health care service is provided.
+
+Temporomandibular Joint (TMJ) Services¹
+The amount you pay is based on where the covered health care service is provided.
+
+Transplantation Services
+The amount you pay is based on where the covered health 
+care service is provided.
+
+Not covered
+
+For Network Benefits, transplantation services must be 
+received from a Designated Provider.
+
+Pediatric Services - Dental
+
+All Pediatric Dental - Benefits covered up to age 19
+
+Additional limits may apply. Refer to your plan documents for 
+more information.
+
+Basic Dental Services
+No copay*
+40%*
+
+Diagnostic Services
+No copay*
+20%*
+
+Limited to 1 time every 36 months for Panoramic x-rays.
+
+Limited to 2 evaluations (checkup exams) every 12 months.
+
+Limited to 2 series of films every 12 months of Bitewing x-rays.
+
+Major Restorative Services
+No copay*
+50%*
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
+6
+
+
+
+## Page 7
+
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Medically Necessary Orthodontics¹
+No copay*
+50%*
+
+All orthodontic treatment must be prior authorized.
+
+Preventive Services
+No copay*
+20%*
+
+Limited to 2 dental prophylaxis cleanings and fluoride 
+treatments every 12 months.
+
+Pediatric Services - Vision
+
+All Pediatric Vision - Benefits Covered up to age 19
+
+Contact Lenses/Necessary Contact Lenses
+No copay*
+40%*
+
+Limited to 1 fitting and evaluation every 12 months.
+
+Limited to a 12 month supply.
+
+We will pay benefits for only one vision care service. You may 
+choose either eyeglasses (eyeglass lenses and/or eyeglass 
+frames) or contact lenses.
+
+Eyeglass Frames
+
+Eyeglass frames with a retail cost below $130
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $130-$160
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $160-$200
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $200-$250
+No copay*
+40%*
+
+Eyeglass frames with a retail cost greater than $250
+No copay*
+40%*
+
+Limited to once every 12 months.
+
+Eyeglass Lenses
+No copay*
+40%*
+
+Limited to once every 12 months.
+
+Lens Extras
+No copay*
+No copay*
+
+Limited to once every 12 months.
+
+Coverage includes polycarbonate lenses and standard 
+scratch-resistant coating.
+
+Low Vision Testing
+No copay
+25%*
+
+Limited to once every 24 months.
+
+Low Vision Therapy
+25%
+25%*
+
+Limited to once every 24 months.
+
+Routine Vision Exam
+No copay
+40%*
+
+Limited to once every 12 months.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
+7
+
+
+
+## Page 8
+
+Pharmacy Benefits
+
+** Only certain Prescription Drug Products are available through mail order; please visit myuhc.com® or call Customer Care at the telephone number on the back of your ID card for more information. You will be charged a
+retail Copayment and/or Coinsurance for 31 days or 2 times for 60 days based on the number of days supply dispensed for any Prescription Order or Refills sent to the mail order pharmacy. To maximize your Benefit, ask
+your Physician to write your Prescription Order or Refill for a 90-day supply, with refills when appropriate, rather than a 30-day supply with three refills.
+For Specialty Drugs from a Non-Preferred Pharmacy, you will be required to pay the same Co-payment/Co-insurance as the Preferred Specialty Network Pharmacy based on the applicable Tier.
+Your Copayment and/or Coinsurance is determined by the tier to which the Prescription Drug List (PDL) Management Committee has assigned the Prescription Drug Product. All Prescription Drug Products on the
+Prescription Drug List are assigned to Tier 1, Tier 2, Tier 3 or Tier 4.
+If you are a member, you can find individualized information on your benefit coverage, determine tier status, check the status of claims and search for network pharmacies by logging into your account on myuhc.com® or
+calling the Customer Care number on your ID card. If you are not a member, you can view prescription information at welcometouhc.com > Benefits > Pharmacy Benefits.
+
+Pharmacy Plan Details
+
+Pharmacy Network
+National
+
+Prescription Drug List
+Essential
+
+In Network
+
+Annual Pharmacy Deductible
+
+Individual
+See the Annual Medical Deductible section
+
+Family
+See the Annual Medical Deductible section
+
+Annual Deductible - Network and Out-of-Network
+
+The Pharmacy Deductible is the amount you pay for pharmacy 
+expenses per year before you begin to receive Pharmacy 
+Benefits.
+
+Up to a 31-day supply
+Up to a 90-day supply
+
+Prescription Drug Product Tier
+
+Level
+
+Retail and Specialty
+
+Pharmacy Network
+
+Retail 
+Non-preferred
+
+Specialty 
+ Network Pharmacy
+
+Out-of-Network Retail
+
+Pharmacy
+
+In-Network Mail Order
+
+Pharmacy**
+
+Tier 1
+
+$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 2
+
+$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 3
+
+$$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 4
+ $$$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+8
+
+
+
+## Page 9
+
+Here’s an example of how the plan’s costs come into play.
+
+More ways to help manage your health plan and stay in the loop.
+
+Search the network to find doctors.
+You can go to providers in and out of our network — but when
+you stay in network, you’ll likely pay less for care. To get started:
+  . Go to welcometouhc.com > Benefits > Find a Doctor or Facility.
+  . Choose  Search for a health plan.
+  . Choose Choice Plus to view providers in the health plan’s network.
+
+Manage your meds.
+Look up your prescriptions using the Prescription Drug List (PDL).
+It places medications in tiers that represent what you’ll pay, which
+may make it easier for you and your doctor to find options to help
+you save money.
+  . Go to welcometouhc.com > Benefits > Pharmacy Benefits.
+  . Select Essential to view the medications that are
+
+covered under your plan.
+
+Access your plan online.
+With myuhc.com®, you’ve got a personalized health hub to help
+you find a doctor, manage your claims, estimate costs and more.
+
+Get on-the-go access.
+When you’re out and about, the UnitedHealthcare® app puts your
+health plan at your fingertips. Download to find nearby care, video
+chat with a doctor 24/7, access your health plan ID card and more.
+
+9
+
+
+
+## Page 10
+
+Other important information about your benefits.
+
+Medical Exclusions
+
+Services your plan generally does NOT cover. It is recommended that you review your COC, Amendments and Riders for an exact description  of
+the services and supplies that are covered, those which are excluded or limited, and other terms and conditions of coverage.
+• Acupuncture
+• Bariatric Surgery 
+• Cosmetic Surgery
+• Dental Care (Adult)
+• Infertility Treatment
+• Long-Term Care
+• Non-emergency care when traveling outside the U.S.
+• Private-Duty Nursing
+• Routine Eye Care (Adult)
+• Routine Foot Care
+• Weight Loss Programs
+
+Outpatient Prescription Drug Benefits
+
+For Prescription Drug Products dispensed at an In-Network Retail Pharmacy, you are responsible for paying the lowest of the following: 1) The
+applicable Copayment and/or Coinsurance; 2) The In- Network Retail Pharmacy Usual and Customary Charge for the Prescription Drug Product;
+and 3) The Prescription Drug Charge for that Prescription Drug Product. For Prescription Drug Products from an In-Network Mail Order Pharmacy,
+you are responsible for paying the lower of the following: 1) The applicable Copayment and/or Coinsurance; and 2) The Prescription Drug Charge
+for that Prescription Drug Product. For an out-of-Network Retail Pharmacy, your reimbursement is based on the Out-of-Network Reimbursement
+Rate, and you are responsible for the difference between the Out-of-Network Reimbursement Rate and the out-of-Network Pharmacy’s Usual and
+Customary Charge.
+
+See the Copayment and/or Coinsurance stated in the Benefit Information table for amounts. We will not reimburse you for any non-covered drug
+product.
+
+For a single Copayment and/or Coinsurance, you may receive a Prescription Drug Product up to the stated supply limit. Some products are subject
+to additional supply limits based on criteria that we have developed. Supply limits are subject, from time to time, to our review and change.
+
+Specialty Prescription Drug Products supply limits are as written by the provider, up to a consecutive 31-day supply of the Specialty Prescription
+Drug Product, unless adjusted based on the drug manufacturer’s packaging size, or based on supply limits, or as allowed under the Smart Fill
+Program. Supply limits apply to Specialty Prescription Drug Products obtained at a Preferred Specialty Network Pharmacy, a Non-Preferred
+Specialty Network Pharmacy, an out-of-Network Pharmacy, a mail order Network Pharmacy or a Designated Pharmacy.
+
+Certain Prescription Drug Products for which Benefits are described under the Prescription Drug Rider are subject to step therapy requirements. In
+order to receive Benefits for such Prescription Drug Products you must use a different Prescription Drug Product(s) or pharmaceutical product(s) for
+which Benefits are provided as described under the Certificate first. You may find out whether a Prescription Drug Product is subject to step therapy
+requirements by contacting us at myuhc.com or the telephone number on your ID card.
+
+Before certain Prescription Drug Products are dispensed to you, your Physician, your pharmacist or you are required to obtain prior authorization
+from us or our designee to determine whether the Prescription Drug Product is in accordance with our approved guidelines and it meets the
+definition of a Covered Health Care Service and is not an Experimental or Investigational or Unproven Service. We may also require you to obtain
+prior authorization from us or our designee so we can determine whether the Prescription Drug Product, in accordance with our approved
+guidelines, was prescribed by a Specialist.
+
+If you require certain Prescription Drug Products, we may direct you to a Designated Pharmacy with whom we have an arrangement to provide
+those Prescription Drug Products. If you are directed to a Designated Pharmacy and you choose not to obtain your Prescription Drug Product from
+the Designated Pharmacy, you will be subject to the Out-of-Network Benefit for that Prescription Drug Product.
+
+Certain Preventative Care Medications may be covered at zero costshare. You can get more information by contacting us at myuhc.com or the
+telephone number on your ID card.
+
+Benefits are provided for certain Prescription Drug Products dispensed by an In-Network Mail Order Pharmacy or Preferred 90 Day Retail Network
+Pharmacy. The Outpatient Prescription Drug Schedule of Benefits will tell you how In-Network Mail Order Pharmacy and Preferred 90 Day Retail
+Network Pharmacy supply limits apply. Please contact us at myuhc.com or the telephone number on your ID card to find out if Benefits are
+provided for your Prescription Drug Product and for information on how to obtain your Prescription Drug Product through an In-Network Mail Order
+Pharmacy or Preferred 90 Day Retail Network Pharmacy.
+
+10
+
+
+
+## Page 11
+
+Other important information about your benefits.
+
+Pharmacy Exclusions
+
+The following exclusions apply. In addition see your Pharmacy Rider and SBN for additional exclusions and limitations that may apply.
+
+• A Pharmaceutical Product for which Benefits are provided in your Certificate.
+• A Prescription Drug Product with either: an approved biosimilar, a biosimilar and Therapeutically Equivalent to another covered Prescription Drug
+Product or Pharmaceutical Product as described in your Certificate.
+• Any Prescription Drug Product to the extent payment or benefits are provided or available from the local, state or federal government (for
+example, Medicare).
+• Any product dispensed for the purpose of appetite suppression or weight loss.
+• Any product for which the primary use is a source of nutrition, nutritional supplements, or dietary management of disease, and prescription
+medical food products even when used for the treatment of Sickness or Injury, except as required by state mandate.
+• Certain New Prescription Drug Products and/or new dosage forms until the date they are reviewed and placed on a tier by our PDL Management
+Committee.
+• Certain Prescription Drug Products for tobacco cessation.
+• Certain Prescription Drug Products for which there are Therapeutically Equivalent alternatives to another Prescription Drug Product or
+Pharmaceutical Product as described in your Certificate available, unless otherwise required by law or approved by us. Such determinations may be
+made up to six times during a calendar year. We may decide at any time to reinstate Benefits for a Prescription Drug Product that was previously
+excluded under this provision.
+• Certain Prescription Drug Products that are FDA approved as a package with a device or application, including smart package sensors and/or
+embedded drug sensors.
+• Certain compounded drugs.
+• Diagnostic kits and products, including associated services.
+• Drugs available over-the-counter.
+• Drugs which are prescribed, dispensed or intended for use during an Inpatient Stay.
+• Durable Medical Equipment, including certain insulin pumps and related supplies for the management and treatment of diabetes, for which
+Benefits are provided in your Certificate. Prescribed and non-prescribed outpatient supplies. This does not apply to diabetic supplies and inhaler
+spacers specifically stated as covered.
+• Experimental or Investigational or Unproven Services and medications.
+• General vitamins, except Prenatal vitamins, vitamins with fluoride, and single entity vitamins when accompanied by a Prescription Order or Refill.
+• Growth hormone for children with familial short stature (short stature based upon heredity and not caused by a diagnosed medical condition).
+• Medications used for cosmetic or convenience purposes.
+• Prescription Drug Products dispensed outside the United States, except as required for Emergency treatment.
+• Prescription Drug Products when prescribed to treat infertility. This exclusion does not apply to Prescription Drug Products prescribed to treat
+Iatrogenic Infertility and Preimplantation Genetic Testing (PGT) as described in the Certificate.
+• Prescription Drug Products, including New Prescription Drug Products or new dosage forms, that we determine do not meet the definition of a
+Covered Health Care Service.
+• Publicly available software applications and/or monitors that may be available with or without a Prescription Order or Refill.
+
+11
+
+
+
+## Page 12
+
+
+
+### Table (Page 12)
+
+|  |  |
+| --- | --- |
+
+UnitedHealthcare does not treat members differently because  
+of sex, age, race, color, disability or national origin. 
+If you think you weren’t treated fairly because of your sex, age, race, 
+color, disability or national origin, you can send a complaint to the Civil 
+Rights Coordinator:
+Online: UHC_Civil_Rights@uhc.com
+Mail: Civil Rights Coordinator 
+UnitedHealthcare Civil Rights Grievance 
+P.O. Box 30608, Salt Lake City, UT 84130
+You must send the complaint within 60 days of when you found out 
+about it. A decision will be sent to you within 30 days. If you disagree 
+with the decision, you have 15 days to ask us to look at it again. 
+If you need help with your complaint, please call the toll-free phone 
+number listed on your ID card, TTY 711, Monday through Friday, 8 a.m. 
+to 8 p.m. You can also file a complaint with the U.S. Dept. of Health and 
+Human Services. 
+Online: https://ocrportal.hhs.gov/ocr/portal/lobby.jsf
+Complaint forms are available at:  
+http://www.hhs.gov/ocr/office/file/index.html.
+Phone: Toll-free 1-800-368-1019, 1-800-537-7697 (TDD)
+Mail: U.S. Dept. of Health and Human Services,  
+200 Independence Avenue, SW Room 509F, HHH Building 
+Washington, D.C. 20201 
+We provide free services to help you communicate with us such as 
+letters in others languages or large print. You can also ask for an 
+interpreter. To ask for help, please call the toll-free member phone 
+number listed on your health plan ID card.
+
+ATTENTION: If you speak English, language assistance services, free 
+of charge, are available to you. Please call the toll-free phone number 
+listed on your identification card.
+
+ATENCIÓN: Si habla español (Spanish), hay servicios de asistencia 
+de idiomas, sin cargo, a su disposición. Llame al número de 
+teléfono gratuito que aparece en su tarjeta de identificación.
+
+請注意：如果您說中文 (Chinese)，我們免費為您提供語言協助
+服務。請撥打會員卡所列的免付費會員電話號碼。
+
+XIN LƯU Ý: Nếu quý vị nói tiếng Việt (Vietnamese), quý vị sẽ được 
+cung cấp dịch vụ trợ giúp về ngôn ngữ miễn phí. Vui lòng gọi số điện 
+thoại miễn phí ở mặt sau thẻ hội viên của quý vị.
+
+알림: 한국어(Korean)를 사용하시는 경우 언어 지원 서비스를
+무료로 이용하실 수 있습니다. 귀하의 신분증 카드에 기재된 
+무료 회원 전화번호로 문의하십시오.
+
+PAALALA: Kung nagsasalita ka ng Tagalog (Tagalog), may 
+makukuha kang mga libreng serbisyo ng tulong sa wika. 
+Pakitawagan ang toll-free na numero ng telepono na nasa iyong 
+identification card.
+
+ВНИМАНИЕ: бесплатные услуги перевода доступны для 
+людей, чей родной язык является русский (Russian). Позвоните 
+по бесплатному номеру телефона, указанному на вашей 
+идентификационной карте.
+
+( ةيبرعلا ثدحتت تنك اذإ :هيبنتArabic)،  ةيوغللا ةدعاسملا تامدخ نإف
+ ىلع جردملا يناجملا فتاهلا مقرب لاصتالا ىجرُي .كل ةحاتم ةيناجملا
+.كب ةصاخلا فيرعتلا ةقاطب
+
+ATANSYON: Si w pale Kreyòl ayisyen (Haitian Creole), ou kapab 
+benefisye sèvis ki gratis pou ede w nan lang pa w. Tanpri rele 
+nimewo gratis ki sou kat idantifikasyon w.
+
+ATTENTION : Si vous parlez français (French), des services d’aide 
+linguistique vous sont proposés gratuitement. Veuillez appeler le 
+numéro de téléphone gratuit figurant sur votre carte d’identification.
+
+UWAGA: Jeżeli mówisz po polsku (Polish), udostępniliśmy darmowe 
+usługi tłumacza. Prosimy zadzwonić pod bezpłatny numer telefonu 
+podany na karcie identyfikacyjnej.
+
+ATENÇÃO: Se você fala português (Portuguese), contate o serviço 
+de assistência de idiomas gratuito. Ligue gratuitamente para o 
+número encontrado no seu cartão de identificação.
+
+ATTENZIONE: in caso la lingua parlata sia l’italiano (Italian), 
+sono disponibili servizi di assistenza linguistica gratuiti. Per favore 
+chiamate il numero di telefono verde indicato sulla vostra tessera 
+identificativa.
+
+ACHTUNG: Falls Sie Deutsch (German) sprechen, stehen Ihnen 
+kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Bitte 
+rufen Sie die gebührenfreie Rufnummer auf der Rückseite Ihres 
+Mitgliedsausweises an.
+
+注意事項：日本語 (Japanese) を話される場合、無料の言語支援
+サービスをご利用いただけます。健康保険証に記載されている
+フリーダイヤルにお電話ください。
+
+است، خدمات امداد زبانی به طور رایگان در اختیار)Farsi( توجه: اگر زبان شما فارسی
+شما می باشد. لطفا با شماره تلفن رایگانی که روی کارت شناسايی شما قید شده تماس 
+بگيريد.
+
+ध्यान दें: यदि आप हिंदी (Hindi) बोलते है, आपको भाषा सहायता 
+सेबाएं, नि:शुल्क उपलब्ध हैं। कृपया अपने पहचान पत्र पर सूचीबद्ध 
+टोल-फ्री फोन नंबर पर कॉल करें।
+
+CEEB TOOM: Yog koj hais Lus Hmoob (Hmong), muaj kev pab 
+txhais lus pub dawb rau koj. Thov hu rau tus xov tooj hu deb dawb 
+uas teev muaj nyob rau ntawm koj daim yuaj cim qhia tus kheej.
+
+ΠΡΟΣΟΧΗ : Αν μιλάτε Ελληνικά (Greek), υπάρχει δωρεάν βοήθεια 
+στη γλώσσα σας. Παρακαλείστε να καλέσετε το δωρεάν αριθμό που 
+θα βρείτε στην κάρτα ταυτότητας μέλους.
+
+PAKDAAR: Nu saritaem ti Ilocano (Ilocano), ti serbisyo para ti 
+baddang ti lengguahe nga awanan bayadna, ket sidadaan para 
+kenyam. Maidawat nga awagan iti toll-free a numero ti telepono nga 
+nakalista ayan iti identification card mo.
+
+DÍÍ BAA’ÁKONÍNÍZIN: Diné (Navajo) bizaad bee yániłti’go, saad 
+bee áka’anída’awo’ígíí, t’áá jíík’eh, bee ná’ahóót’i’. T’áá shǫǫdí 
+ninaaltsoos nitł’izí bee nééhozinígíí bine’dę́ę́’ t’áá jíík’ehgo béésh bee 
+hane’í biká’ígíí bee hodíilnih.
+
+OGOW: Haddii aad ku hadasho Soomaali (Somali), adeegyada 
+taageerada luqadda, oo bilaash ah, ayaad heli kartaa. Fadlan 
+wac lambarka telefonka khadka bilaashka ee ku yaalla kaarkaaga 
+aqoonsiga.
+
+ગુજરાતી (Gujarati): ધ્યાન આપો: જો તમે ગુજરાતી બોલતા હો તો આપને 
+ભાષાકીય મદદરૂપ સેવા વવના મૂલ્યે પ્રાપ્ય છે. મહેરબાની કરી તમારા 
+આઈડી કાડડની સૂચિ પર આપેલા સભ્ય માટેના ટોલ-ફ્રી નંબર ઉપર કોલ 
+કરો.
+
+Instagram.com/UnitedHealthcare 
+  YouTube.com/UnitedHealthcare
+
+Administrative services provided by United HealthCare Services, Inc. and their affiliates.
+
+Twitter.com/UHC
+
+B2C   9183517.0   11/19   ©2020 United HealthCare Services, Inc. DBID :   19-12550

@@ -2,2081 +2,1837 @@ SAMPLE PDF TEXT #1:
 -----
 ## Page 1
 
-### A54303 (1/25)  
+This Benefit Summary is to highlight your Benefits. Don’t use this document to understand your exact coverage. If this Benefit Summary conflicts
+with the Certificate of Coverage (COC), Schedule of Benefits, Riders, and/or Amendments, those documents govern. Review your COC for an exact
+description of the services and supplies that are and are not covered, those which are excluded or limited, and other terms and conditions of
+coverage.
+
+UnitedHealthcare
+|
+Alabama
+|
+Choice Plus
+|
+DZF4
+|
+E83
+
+Choice Plus plan details, 
+all in one place.
+
+Use this benefit summary to learn more about this plan’s benefits, ways 
+you can get help managing costs and how you may get more out of this 
+health plan.
+
+Check out what’s included in the plan
+Choice Plus
+
+Network coverage only
+You can usually save money when you receive care for covered health care services from
+network providers.
+
+Network and out-of-network benefits
+You may receive care and services from network and out-of-network providers and
+facilities — but staying in the network can help lower your costs.
+
+Primary care physician (PCP) required
+With this plan, you need to select a PCP — the doctor who plays a key role in helping
+manage your care. Each enrolled person on your plan will need to choose a PCP.
+
+Referrals required
+You’ll need referrals from your PCP before seeing a specialist or getting certain health
+care services.
+
+Preventive care covered at 100%
+There is no additional cost to you for seeing a network provider for preventive care.
+
+Pharmacy benefits
+With this plan, you have coverage that helps pay for prescription drugs and medications.
+
+Tier 1 providers
+Using Tier 1 providers may bring you the greatest value from your health care benefits.
+These PCPs and medical specialists meet national standard benchmarks for quality care
+and cost savings.
+
+Freestanding centers
+You may pay less when you use certain freestanding centers — health care facilities that
+do not bill for services as part of a hospital, such as MRI or surgery centers.
+
+Health savings account (HSA)
+With an HSA, you’ve got a personal bank account that lets you put money aside, tax-free.
+Use it to save and pay for qualified medical expenses.
+
 1
-
-Summary of Benefits 
-Group Plan
-
-HMO Plan 
-Blue Shield Access+ Silver 70 HMO® 2500/55 PCP + Child Dental
-
-This Summary of Benefits shows the amount you will pay for Covered Services under this Blue Shield of California Plan. It 
-is only a summary and it is included as part of the Evidence of Coverage (EOC).1 Please read both documents carefully 
-for details.
-
-Medical Provider Network: 
-Access+ HMO Network
-
-This Plan uses a specific network of Health Care Providers, called the Access+ HMO provider network. Medical 
-Groups, Independent Practice Associations (IPAs), and Physicians in this network are called Participating Providers. 
-You must select a Primary Care Physician from this network to provide your primary care and help you access 
-services, but there are some exceptions. Please review your Evidence of Coverage for details about how to access 
-care under this Plan. You can find Participating Providers in this network at blueshieldca.com.
-
-Pharmacy Network: 
-Rx Ultra
-
-Drug Formulary: 
-Standard Formulary
-
-Calendar Year Deductibles (CYD)2
-
-A Calendar Year Deductible (CYD) is the amount a Member pays each Calendar Year before Blue Shield pays for 
-Covered Services under the Plan. Blue Shield pays for some Covered Services before the Calendar Year Deductible is 
-met, as noted in the Benefits chart below.
-
-When using a Participating Provider3
-
-Calendar Year medical Deductible 
-Individual coverage 
-$2,500
-
-Family coverage 
-$2,500: individual
-
-$5,000: Family
-
-Calendar Year pharmacy Deductible 
-Individual coverage
-
-Family coverage
-
-$300
-
-$300: individual
-
-$600: Family
-
-Calendar Year Out-of-Pocket Maximum4
-
-An Out-of-Pocket Maximum is the most a Member will pay for Covered 
-Services each Calendar Year. Any exceptions are listed in the EOC.
-
-No Annual or Lifetime Dollar Limit
-
-When using a Participating Provider3 
- 
-Under this Plan there is no annual or 
-lifetime dollar limit on the amount Blue 
-Shield will pay for Covered Services.     
-Individual coverage 
-$8,750
-
-Family coverage 
-$8,750: individual
-
-$17,500: Family
-
-Blue Shield of California is an independent member of the Blue Shield Association
 
 
 
 ## Page 2
 
-2
+Here's a more in-depth look at how Choice Plus works.
 
-Benefits5 
-Your payment
+Medical Benefits
 
-When using a Participating
+In Network
+Out-of-Network
 
-Provider3
+Annual Medical Deductible
 
-CYD2 
-applies
+Individual
+$3,750
+$10,000
 
-Preventive Health Services6
+Family
+$7,500
+$20,000
 
-Preventive Health Services 
-$0
+Ped Dental Annual Deductible - Family
+Included in your medical deductible
+Included in your medical deductible
 
-California Prenatal Screening Program 
-$0
+Ped Dental Annual Deductible - Individual
+Included in your medical deductible
+Included in your medical deductible
 
-Physician services
+All individual deductible amounts will count toward the family deductible, but an individual will not have to pay more than the individual deductible amount.
 
-Primary care office visit 
-$55/visit
+*After the Annual Medical Deductible has been met.
 
-Access+ specialist care office visit (self-referral) 
-$90/visit
+You're responsible for paying 100% of your medical expenses until you reach your deductible. For certain covered services, you may be required to pay a fixed dollar 
+amount - your copay.
 
-Other specialist care office visit (referred by PCP) 
-$90/visit
+Annual Out-of-Pocket Limit
 
-Physician home visit 
-$55/visit
+Individual
+$3,750
+$15,000
 
-Physician or surgeon services in an Outpatient Facility 
-35%
+Family
+$7,500
+$30,000
 
-Physician or surgeon services in an inpatient facility 
-35%
+All individual out-of-pocket maximum amounts will count toward the family out-of-pocket maximum, but an individual will not have to pay more than the individual 
+out-of-pocket maximum amount.
 
-Other professional services
+Once you’ve met your deductible, you start sharing costs with your plan - coinsurance. You continue paying a portion of the expense until you reach your out-of-
+pocket limit. From there, your plan pays 100% of allowed amounts for the rest of the plan year.
 
-Other practitioner office visit 
-$55/visit
+What You Pay for Services
 
-Includes nurse practitioners, physician assistants, therapists, and 
-podiatrists.
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
 
-Acupuncture services 
-$55/visit
+Designated Network
+Network
+Out-of-Network
 
-Chiropractic services 
+Preventive Care Services
+
+Preventive Care Services
+No copay
 Not covered
 
-Teladoc consultation 
-$0
+Certain preventive care services are provided as specified by 
+the Patient Protection and Affordable Care Act (ACA), with no 
+cost-sharing to you. These services are based on your age, 
+gender and other health factors. UnitedHealthcare also covers 
+other routine services that may require a copay, co-insurance 
+or deductible.
 
-Family planning
+Includes services such as Routine Wellness Checkups, 
+Immunizations, Breast Pumps, Mammography and Colorectal 
+Cancer Screenings.
 
-• 
-Counseling, consulting, and education 
-$0
+Office Services - Sickness & Injury
 
-• 
-Injectable contraceptive, diaphragm fitting, intrauterine 
-device (IUD), implantable contraceptive, and related 
-procedure.
+Primary Care Physician
+No copay*
+40%*
 
-$0
+Additional copays, deductible, or co-insurance may apply 
+when you receive other services at your physician’s office. For 
+example, surgery and lab work.
 
-• 
-Tubal ligation 
-$0
+Telehealth is covered at the same cost share as in the office.
 
-• 
-Vasectomy 
-$0
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
 
-Pregnancy and maternity care
-
-Physician office visits: prenatal and initial postnatal 
-$0
-
-Abortion and abortion-related services 
-$0
-
-Emergency Services
-
-Emergency room services 
-35% 
-
-
-If admitted to the Hospital, this payment for emergency room 
-services does not apply. Instead, you pay the Participating 
-Provider payment under Inpatient facility services/ Hospital 
-services and stay.
-
-Emergency room Physician services 
-$0
+2
 
 
 
 ## Page 3
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Specialist
+No copay*
+40%*
+
+Additional copays, deductible, or co-insurance may apply 
+when you receive other services at your physician’s office. For 
+example, surgery and lab work.
+
+Telehealth is covered at the same cost share as in the office.
+
+Urgent Care Center Services
+No copay*
+40%*
+
+Virtual Care Services
+No copay*
+Not covered
+
+Benefits are available only when services are delivered through 
+a Designated Virtual Network Provider for 24/7 Virtual Visit 
+services only. You can find a 24/7 Virtual Visit Provider by 
+contacting us at myuhc.com® or the telephone number on 
+your ID card. Access to 24/7 Virtual Visits and prescription 
+services may not be available in all states or for all groups.
+
+Emergency Care
+
+Ambulance Services - Emergency Ambulance
+
+Air Ambulance
+No copay*
+No copay*
+
+Ground Ambulance
+No copay*
+No copay*
+
+Ambulance Services - Non-Emergency Ambulance¹
+
+Air Ambulance
+No copay*
+No copay*
+
+Ground Ambulance
+No copay*
+40%*
+
+Dental Services - Accident Only
+No copay*
+No copay*
+
+Emergency Health Care Services - Outpatient¹
+No copay*
+No copay*
+
+Notification is required if it results in confinement to an Out-of-
+Network Hospital.
+
+Inpatient Care
+
+Congenital Heart Disease (CHD) Surgeries¹
+No copay*
+40%*
+
+Habilitative Services - Inpatient¹
+The amount you pay is based on where the covered health care service is provided.
+
+Limited to 60 days per year.
+
+Hospital - Inpatient Stay¹
+No copay*
+40%*
+
+Skilled Nursing Facility/Inpatient Rehabilitation Facility 
+Services¹
+
+No copay*
+40%*
+
+Limited to 60 days per year.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 3
-
-Benefits5 
-Your payment
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Urgent care center services 
-$55/visit
-
-Ambulance services 
-35% 
-
-
-This payment is for emergency or authorized transport.
-
-Outpatient Facility services
-
-Ambulatory Surgery Center 
-35% 
-
-
-Outpatient Department of a Hospital: surgery 
-35% 
-
-
-Outpatient Department of a Hospital: treatment of illness or injury, 
-radiation therapy, chemotherapy, and necessary supplies 
-35%
-
-Inpatient facility services
-
-Hospital services and stay 
-35% 
-
-
-Transplant services
-
-This payment is for all covered transplants except tissue and 
-kidney. For tissue and kidney transplant services, the payment for 
-Inpatient facility services/ Hospital services and stay applies.
-
-• 
-Special transplant facility inpatient services 
-35% 
-
-
-• 
-Physician inpatient services 
-35%
-
-Diagnostic x-ray, imaging, pathology, and laboratory services
-
-This payment is for Covered Services that are diagnostic, non-
-Preventive Health Services, and diagnostic radiological procedures. 
-For the payments for Covered Services that are considered 
-Preventive Health Services, see Preventive Health Services.
-
-Laboratory and pathology services
-
-Includes diagnostic Papanicolaou (Pap) test.
-
-• 
-Laboratory center 
-$55/visit
-
-• 
-Outpatient Department of a Hospital 
-$55/visit
-
-Basic imaging services
-
-Includes plain film X-rays, ultrasounds, and diagnostic 
-mammography.
-
-• 
-Outpatient radiology center 
-$90/visit
-
-• 
-Outpatient Department of a Hospital 
-$90/visit
-
-Other outpatient non-invasive diagnostic testing
-
-Testing to diagnose illness or injury such as vestibular function 
-tests, EKG, cardiac monitoring, non-invasive vascular studies, 
-sleep medicine testing, muscle and range of motion tests, EEG, 
-and EMG.
-
-• 
-Office location 
-$90/visit
-
-• 
-Outpatient Department of a Hospital 
-$90/visit
 
 
 
 ## Page 4
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Outpatient Care
+
+Habilitative Services - Outpatient
+No copay*
+40%*
+
+Limited to 20 visits of cognitive rehabilitation therapy per year.
+
+Limited to 20 visits of manipulative treatments per year.
+
+Limited to 30 visits of post-cochlear implant aural therapy per 
+year.
+
+Home Health Care¹
+No copay*
+40%*
+
+Lab, X-Ray and Diagnostic - Outpatient - Lab Testing
+No copay*
+No copay*
+Not covered
+
+For Designated Network Benefits, laboratory services must be 
+received from a Designated Diagnostic Provider. Network 
+Benefits include laboratory services received from a Network 
+provider that is not a Designated Diagnostic Provider.
+
+Lab, X-Ray and Diagnostic - Outpatient - X-Ray and other 
+Diagnostic Testing¹
+
+No copay*
+40%*
+
+Major Diagnostic and Imaging - Outpatient¹
+No copay*
+No copay*
+40%*
+
+For Designated Network Benefits, services must be received 
+from a Designated Diagnostic Provider. Network Benefits 
+include services received from a Network provider that is not a 
+Designated Diagnostic Provider.
+
+You may have to pay an extra copay, deductible or 
+coinsurance for physician fees or pharmaceutical products.
+
+Physician Fees for Surgical and Medical Services
+No copay*
+40%*
+
+Rehabilitation Services - Outpatient Therapy and Manipulative 
+Treatment
+
+No copay*
+40%*
+
+Limited to 20 visits of cognitive rehabilitation therapy per year.
+
+Limited to 20 visits of manipulative treatments per year.
+
+Limited to 20 visits of pulmonary rehabilitation therapy per 
+year.
+
+Limited to 30 visits of post-cochlear implant aural therapy per 
+year.
+
+Limited to 36 visits of cardiac rehabilitation therapy per year.
+
+Scopic Procedures - Outpatient Diagnostic and Therapeutic
+No copay*
+40%*
+
+Diagnostic/therapeutic scopic procedures include, but are not 
+limited to colonoscopy, sigmoidoscopy and endoscopy.
+
+Surgery - Outpatient¹
+No copay*
+40%*
+
+Therapeutic Treatments - Outpatient¹
+No copay*
+40%*
+
+For dialysis services, Out-of-Network Benefits are not available.
+
+Therapeutic treatments include, but are not limited to dialysis, 
+intravenous chemotherapy, intravenous infusion, medical 
+education services and radiation oncology.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 4
-
-Benefits5 
-Your payment
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Advanced imaging services
-
-Includes diagnostic radiological and nuclear imaging such as CT 
-scans, MRIs, MRAs, and PET scans.
-
-• 
-Outpatient radiology center 
-$300/visit 
-
-
-• 
-Outpatient Department of a Hospital 
-$300/visit 
-
-
-Rehabilitative and Habilitative Services
-
-Includes Physical Therapy, Occupational Therapy, Respiratory 
-Therapy, and Speech Therapy services. There is no visit limit for 
-Rehabilitative or Habilitative Services.
-
-Office location 
-$55/visit
-
-Outpatient Department of a Hospital 
-$55/visit
-
-Durable medical equipment (DME)
-
-### DME 
-35%
-
-Breast pump 
-$0
-
-Orthotic equipment and devices 
-35%
-
-Prosthetic equipment and devices 
-35%
-
-Home health care services 
-$45/visit
-
-Up to 100 visits per Member, per Calendar Year, by a home health 
-care agency. All visits count towards the limit, including visits during 
-any applicable Deductible period. Includes home visits by a nurse, 
-Home Health Aide, medical social worker, physical therapist, speech 
-therapist, or occupational therapist, and medical supplies.
-
-Home infusion and home injectable therapy services
-
-Home infusion agency services 
-$0
-
-Includes home infusion drugs, medical supplies, and visits by a 
-nurse.
-
-Hemophilia home infusion services 
-$0
-
-Includes blood factor products.
-
-Skilled Nursing Facility (SNF) services
-
-Up to 100 days per Member, per benefit period, except when 
-provided as part of a Hospice program. All days count towards the 
-limit, including days during any applicable Deductible period and 
-days in different SNFs during the Calendar Year.
-
-Freestanding SNF 
-35% 
-
-
-Hospital-based SNF 
-35% 
-
-
-Hospice program services 
-$0
-
-Includes pre-Hospice consultation, routine home care, 24-hour 
-continuous home care, short-term inpatient care for pain and 
-symptom management, and inpatient respite care.
 
 
 
 ## Page 5
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Supplies and Services
+
+Diabetes Self-Management Items¹
+The amount you pay is based on where the covered health care service is provided under 
+Durable Medical Equipment (DME), Orthotics and Supplies or in the Prescription Drug Benefits 
+Section.
+
+Diabetes Self-Management and Training/Diabetic Eye 
+Exams/Foot Care¹
+
+The amount you pay is based on where the covered health care service is provided.
+
+Durable Medical Equipment (DME), Orthotics and Supplies
+No copay*
+Not covered
+
+Enteral Nutrition
+No copay*
+40%*
+
+Hearing Aids
+No copay*
+40%*
+
+Limited to $2,500 per year.
+
+Limited to a single purchase per hearing impaired ear every 3 
+years.
+
+Repair and/or replacement of a hearing aid would apply to this 
+limit in the same manner as a purchase.
+
+Ostomy Supplies
+No copay*
+Not covered
+
+Pharmaceutical Products - Outpatient
+No copay*
+40%*
+
+This includes medications given at a doctor's office, or in a 
+covered person's home.
+
+Prosthetic Devices¹
+No copay*
+40%*
+
+Urinary Catheters
+No copay*
+Not covered
+
+Pregnancy
+
+Pregnancy - Maternity Services¹
+The amount you pay is based on where the covered health care service is provided except that 
+an Annual Deductible will not apply for a newborn child whose length of stay in the Hospital is 
+the same as the mother's length of stay.
+
+Mental Health Care & Substance Related and 
+Addictive Disorder Services
+
+Inpatient¹
+No copay*
+40%*
+
+Intensive Behavioral Therapy (e.g. ABA)¹
+No copay*
+40%*
+
+Other Outpatient Services such as Electro-Convulsive 
+Treatment, Psychological Testing, Transcranial Magnetic 
+Stimulation and Medication Assisted Treatment¹
+
+No copay*
+40%*
+
+Other Outpatient Services, including Partial 
+Hospitalization/Day Treatment/High Intensity 
+Outpatient/Intensive Outpatient Treatment¹
+
+No copay*
+40%*
+
+Outpatient Office Visits
+No copay*
+40%*
+
+Other Services
+
+Cellular and Gene Therapy
+The amount you pay is based on where the covered health 
+care service is provided.
+
+Not covered
+
+For Network Benefits, Cellular or Gene Therapy services must 
+be received from a Designated Provider.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 5
-
-Benefits5 
-Your payment
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Other services and supplies
-
-Diabetes care services
-
-• 
-Devices, equipment, and supplies 
-35%
-
-• 
-Self-management training 
-$0
-
-• 
-Medical nutrition therapy 
-$0
-
-Dialysis services 
-35%
-
-PKU product formulas and special food products 
-$0
-
-Allergy serum billed separately from an office visit 
-35%
-
-Mental Health and Substance Use Disorder Benefits 
-Your payment
-
-Mental health and substance use disorder Benefits are provided 
-through Blue Shield's Mental Health Service Administrator (MHSA).
-
-When using a MHSA 
-Participating Provider3
-
-CYD2 
-applies
-
-Outpatient services
-
-Office visit, including Physician office visit 
-$55/visit
-
-Teladoc mental health 
-$0
-
-Other outpatient services, including intensive outpatient care, 
-electroconvulsive therapy, transcranial magnetic stimulation, 
-Behavioral Health Treatment for pervasive developmental disorder 
-or autism in an office setting, home, or other non-institutional facility 
-setting, and office-based opioid treatment
-
-$0
-
-Partial Hospitalization Program 
-$0
-
-Psychological Testing 
-$0
-
-Inpatient services
-
-Physician inpatient services 
-35%
-
-Hospital services 
-35% 
-
-
-Residential Care 
-35% 
-
-
-Prescription Drug Benefits7,8 
-Your payment
-
-A separate Calendar Year pharmacy Deductible applies. 
-When using a Participating
-
-Pharmacy3
-
-CYD2 
-applies
-
-Retail pharmacy prescription Drugs
-
-Per prescription, up to a 30-day supply.
-
-Contraceptive Drugs and devices 
-$0
-
-Tier 1 Drugs 
-$19/prescription
-
-Tier 2 Drugs 
-$85/prescription 
-
-
-Tier 3 Drugs 
-$110/prescription 
-
-
-Tier 4 Drugs 
-30% up to $250/prescription 
-
 
 
 
 ## Page 6
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Clinical Trials¹
+The amount you pay is based on where the covered health care service is provided.
+
+Fertility Preservation for Iatrogenic Infertility¹
+No copay*
+40%*
+
+Limited to $20,000 per Covered Person per lifetime.
+
+Limited to $5,000 for Prescription Drug Products per Covered 
+Person.
+
+Limited to 1 cycle of fertility preservation for Iatrogenic Infertility 
+per lifetime.
+
+This Benefit limit will be the same as, and combined with, 
+those stated under Preimplantation Genetic Testing (PGT) and 
+Related Services.
+
+Gender Dysphoria¹
+The amount you pay is based on where the covered health care service is provided or in the 
+Prescription Drug Benefits Section.
+
+Limits for voice modification therapy and/or voice lessons will 
+be the same as, and combined with, outpatient speech 
+therapy limits as described under Habilitative Services and 
+Rehabilitation Services Outpatient Therapy and Manipulative 
+Treatment.
+
+Hospice Care¹
+No copay*
+40%*
+
+Preimplantation Genetic Testing (PGT) and Related Services¹
+No copay*
+40%*
+
+Benefit limits for related services will be the same as, and 
+combined with, those stated under Fertility Preservation for 
+Iatrogenic Infertility. This limit does not include Preimplantation 
+Genetic Testing (PGT) for the specific genetic disorder. This 
+limit includes Benefits for ovarian stimulation medications 
+provided under the Outpatient Prescription Drug Rider.
+
+Reconstructive Procedures¹
+The amount you pay is based on where the covered health care service is provided.
+
+Temporomandibular Joint (TMJ) Services¹
+The amount you pay is based on where the covered health care service is provided.
+
+Transplantation Services
+The amount you pay is based on where the covered health 
+care service is provided.
+
+Not covered
+
+For Network Benefits, transplantation services must be 
+received from a Designated Provider.
+
+Pediatric Services - Dental
+
+All Pediatric Dental - Benefits covered up to age 19
+
+Additional limits may apply. Refer to your plan documents for 
+more information.
+
+Basic Dental Services
+No copay*
+40%*
+
+Diagnostic Services
+No copay*
+20%*
+
+Limited to 1 time every 36 months for Panoramic x-rays.
+
+Limited to 2 evaluations (checkup exams) every 12 months.
+
+Limited to 2 series of films every 12 months of Bitewing x-rays.
+
+Major Restorative Services
+No copay*
+50%*
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 6
-
-Prescription Drug Benefits7,8 
-Your payment
-
-A separate Calendar Year pharmacy Deductible applies. 
-When using a Participating
-
-Pharmacy3
-
-CYD2 
-applies
-
-Retail pharmacy prescription Drugs
-
-Per prescription, for a 90-day supply.
-
-Contraceptive Drugs and devices 
-$0
-
-Tier 1 Drugs 
-$57/prescription
-
-Tier 2 Drugs 
-$255/prescription 
-
-
-Tier 3 Drugs 
-$330/prescription 
-
-
-Tier 4 Drugs 
-30% up to $750/prescription 
-
-
-Mail service pharmacy prescription Drugs
-
-Per prescription, for a 31-90-day supply.
-
-Contraceptive Drugs and devices 
-$0
-
-Tier 1 Drugs 
-$38/prescription
-
-Tier 2 Drugs 
-$170/prescription 
-
-
-Tier 3 Drugs 
-$220/prescription 
-
-
-Tier 4 Drugs 
-30% up to $500/prescription 
-
-
-Pediatric Benefits 
-Your payment
-
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
-
-When using a Participating
-
-Dentist3
-
-CYD2 
-applies
-
-Pediatric dental9
-
-Diagnostic and preventive services
-
-• 
-Oral exam 
-$0
-
-• 
-Preventive – cleaning 
-$0
-
-• 
-Preventive – x-ray 
-$0
-
-• 
-Sealants per tooth 
-$0
-
-• 
-Topical fluoride application 
-$0
-
-• 
-Space maintainers - fixed 
-$0
-
-Basic services
-
-• 
-Restorative procedures 
-$25 copayment
-
-• 
-Periodontal maintenance 
-$25 copayment
-
-• 
-Adjunctive general services 
-$25 copayment
-
-Major services
-
-• 
-Oral surgery 
-$65 copayment
-
-• 
-Endodontics 
-$300 copayment
-
-• 
-Periodontics (other than maintenance) 
-$150 copayment
-
-• 
-Crowns and casts 
-$300 copayment
-
-• 
-Prosthodontics 
-$300 copayment
 
 
 
 ## Page 7
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Medically Necessary Orthodontics¹
+No copay*
+50%*
+
+All orthodontic treatment must be prior authorized.
+
+Preventive Services
+No copay*
+20%*
+
+Limited to 2 dental prophylaxis cleanings and fluoride 
+treatments every 12 months.
+
+Pediatric Services - Vision
+
+All Pediatric Vision - Benefits Covered up to age 19
+
+Contact Lenses/Necessary Contact Lenses
+No copay*
+40%*
+
+Limited to 1 fitting and evaluation every 12 months.
+
+Limited to a 12 month supply.
+
+We will pay benefits for only one vision care service. You may 
+choose either eyeglasses (eyeglass lenses and/or eyeglass 
+frames) or contact lenses.
+
+Eyeglass Frames
+
+Eyeglass frames with a retail cost below $130
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $130-$160
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $160-$200
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $200-$250
+No copay*
+40%*
+
+Eyeglass frames with a retail cost greater than $250
+No copay*
+40%*
+
+Limited to once every 12 months.
+
+Eyeglass Lenses
+No copay*
+40%*
+
+Limited to once every 12 months.
+
+Lens Extras
+No copay*
+No copay*
+
+Limited to once every 12 months.
+
+Coverage includes polycarbonate lenses and standard 
+scratch-resistant coating.
+
+Low Vision Testing
+No copay
+25%*
+
+Limited to once every 24 months.
+
+Low Vision Therapy
+25%
+25%*
+
+Limited to once every 24 months.
+
+Routine Vision Exam
+No copay
+40%*
+
+Limited to once every 12 months.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 7
-
-Pediatric Benefits 
-Your payment
-
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
-
-When using a Participating
-
-Dentist3
-
-CYD2 
-applies
-
-Orthodontics (Medically Necessary) 
-$1,000
-
-Pediatric Benefits 
-Your payment
-
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Pediatric vision10
-
-Comprehensive eye examination
-
-One exam per Calendar Year.
-
-• 
-Ophthalmologic visit 
-$0
-
-• 
-Optometric visit 
-$0
-
-Contact lens fitting and evaluation
-
-When you choose contact lenses instead of eyeglasses, one per 
-Member every 12 months by a Participating Provider if 
-administered at the same time as the comprehensive exam. 
-There is a maximum of two follow up visits.
-
-• 
-Standard lenses 
-$0
-
-• 
-Non-standard lenses 
-All charges above $60
-
-Eyewear/materials
-
-One eyeglass frame and eyeglass lenses, or contact lenses 
-instead of eyeglasses, up to the Benefit per Calendar Year. Any 
-exceptions are noted below.
-
-• 
-Contact lenses
-
-Non-elective (Medically Necessary) - hard or soft 
-$0
-
-Up to two pairs per eye per Calendar Year.
-
-Elective (cosmetic/convenience)
-
-Standard and non-standard, hard 
-$0
-
-Up to a 3 month supply for each eye per Calendar Year 
-based on lenses selected.
-
-Standard and non-standard, soft 
-$0
-
-Up to a 6 month supply for each eye per Calendar Year 
-based on lenses selected.
-
-• 
-Eyeglass frames
-
-Collection frames 
-$0
-
-Non-collection frames 
-All charges above $150
-
-• 
-Eyeglass lenses
-
-Lenses include choice of glass or plastic lenses, all lens 
-powers (single vision, bifocal, trifocal, lenticular), fashion or 
-gradient tint, scratch coating, oversized, and glass-grey #3 
-prescription sunglasses.
-
-Single vision 
-$0
 
 
 
 ## Page 8
 
-8
+Pharmacy Benefits
 
-Pediatric Benefits 
-Your payment
+** Only certain Prescription Drug Products are available through mail order; please visit myuhc.com® or call Customer Care at the telephone number on the back of your ID card for more information. You will be charged a
+retail Copayment and/or Coinsurance for 31 days or 2 times for 60 days based on the number of days supply dispensed for any Prescription Order or Refills sent to the mail order pharmacy. To maximize your Benefit, ask
+your Physician to write your Prescription Order or Refill for a 90-day supply, with refills when appropriate, rather than a 30-day supply with three refills.
+For Specialty Drugs from a Non-Preferred Pharmacy, you will be required to pay the same Co-payment/Co-insurance as the Preferred Specialty Network Pharmacy based on the applicable Tier.
+Your Copayment and/or Coinsurance is determined by the tier to which the Prescription Drug List (PDL) Management Committee has assigned the Prescription Drug Product. All Prescription Drug Products on the
+Prescription Drug List are assigned to Tier 1, Tier 2, Tier 3 or Tier 4.
+If you are a member, you can find individualized information on your benefit coverage, determine tier status, check the status of claims and search for network pharmacies by logging into your account on myuhc.com® or
+calling the Customer Care number on your ID card. If you are not a member, you can view prescription information at welcometouhc.com > Benefits > Pharmacy Benefits.
 
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
+Pharmacy Plan Details
 
-When using a Participating
+Pharmacy Network
+National
 
-Provider3
+Prescription Drug List
+Essential
 
-CYD2 
-applies
+In Network
 
-Lined bifocal 
-$0
+Annual Pharmacy Deductible
 
-Lined trifocal 
-$0
+Individual
+See the Annual Medical Deductible section
 
-Lenticular 
-$0
+Family
+See the Annual Medical Deductible section
 
-Optional eyeglass lenses and treatments
+Annual Deductible - Network and Out-of-Network
 
-• 
-Ultraviolet protective coating (standard only) 
-$0
-
-• 
-Polycarbonate lenses 
-$0
-
-• 
-Standard progressive lenses 
-$0
-
-• 
-Premium progressive lenses 
-$95
-
-• 
-Anti-reflective lens coating (standard only) 
-$35
-
-• 
-Photochromic - glass lenses 
-$25
-
-• 
-Photochromic - plastic lenses 
-$0
-
-• 
-High index lenses 
-$30
-
-• 
-Polarized lenses 
-$45
-
-Low vision testing and equipment
-
-• 
-Comprehensive low vision exam 
-$0
-
-Once every 5 Calendar Years.
-
-• 
-Low vision devices 
-$0
-
-One aid per Calendar Year.
-
-Notes
-
-1 
-Evidence of Coverage (EOC):
-
-The Evidence of Coverage (EOC) describes the Benefits, limitations, and exclusions that apply to coverage under this 
-Plan. Please review the EOC for more details of coverage outlined in this Summary of Benefits. You can request a copy 
-of the EOC at any time.
-
-Capitalized terms are defined in the EOC. Refer to the EOC for an explanation of the terms used in this Summary of 
+The Pharmacy Deductible is the amount you pay for pharmacy 
+expenses per year before you begin to receive Pharmacy 
 Benefits.
 
-2 
-Calendar Year Deductible (CYD):
+Up to a 31-day supply
+Up to a 90-day supply
 
-Calendar Year Deductible explained. A Calendar Year Deductible is the amount you pay each Calendar Year before 
-Blue Shield pays for Covered Services under the Plan.
+Prescription Drug Product Tier
 
-If this Plan has any Calendar Year Deductible(s), Covered Services subject to that Deductible are identified with a 
-check mark () in the Benefits chart above.
+Level
 
-Covered Services not subject to the Calendar Year medical Deductible. Some Covered Services received from 
-Participating Providers are paid by Blue Shield before you meet any Calendar Year medical Deductible. These 
-Covered Services do not have a check mark () next to them in the “CYD applies” column in the Benefits chart 
-above.
+Retail and Specialty
 
-This Plan has a separate medical Deductible and pharmacy Deductible.
+Pharmacy Network
 
-Family coverage has an individual Deductible within the Family Deductible. This means that the Deductible will be met 
-for an individual with Family coverage who meets the individual Deductible prior to the Family meeting the Family
+Retail 
+Non-preferred
+
+Specialty 
+ Network Pharmacy
+
+Out-of-Network Retail
+
+Pharmacy
+
+In-Network Mail Order
+
+Pharmacy**
+
+Tier 1
+
+$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 2
+
+$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 3
+
+$$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 4
+ $$$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+8
 
 
 
 ## Page 9
 
+Here’s an example of how the plan’s costs come into play.
+
+More ways to help manage your health plan and stay in the loop.
+
+Search the network to find doctors.
+You can go to providers in and out of our network — but when
+you stay in network, you’ll likely pay less for care. To get started:
+  . Go to welcometouhc.com > Benefits > Find a Doctor or Facility.
+  . Choose  Search for a health plan.
+  . Choose Choice Plus to view providers in the health plan’s network.
+
+Manage your meds.
+Look up your prescriptions using the Prescription Drug List (PDL).
+It places medications in tiers that represent what you’ll pay, which
+may make it easier for you and your doctor to find options to help
+you save money.
+  . Go to welcometouhc.com > Benefits > Pharmacy Benefits.
+  . Select Essential to view the medications that are
+
+covered under your plan.
+
+Access your plan online.
+With myuhc.com®, you’ve got a personalized health hub to help
+you find a doctor, manage your claims, estimate costs and more.
+
+Get on-the-go access.
+When you’re out and about, the UnitedHealthcare® app puts your
+health plan at your fingertips. Download to find nearby care, video
+chat with a doctor 24/7, access your health plan ID card and more.
+
 9
-
-Notes
-
-Deductible within a Calendar Year. Any amount you have paid toward the individual Deductible will be applied to 
-both the individual Deductible and the Family Deductible.
-
-3 
-Using Participating Providers:
-
-Participating Providers have a contract to provide health care services to Members. When you receive Covered 
-Services from a Participating Provider, you are only responsible for the Copayment or Coinsurance, once any Calendar 
-Year Deductible has been met.
-
-Teladoc. Teladoc mental health and substance use disorder consultations are provided through Teladoc. These 
-services are not administered by Blue Shield's Mental Health Service Administrator (MHSA).
-
-4 
-Calendar Year Out-of-Pocket Maximum (OOPM):
-
-Calendar Year Out-of-Pocket Maximum explained. The Out-of-Pocket Maximum is the most you are required to pay 
-for Covered Services in a Calendar Year. Once you reach your Out-of-Pocket Maximum, Blue Shield will pay 100% of 
-the Allowed Charges for Covered Services for the rest of the Calendar Year.
-
-Your payment after you reach the Calendar Year OOPM. You will continue to pay all charges for services that are not 
-covered, charges above the Allowed Charges, and charges for services above any Benefit maximum.
-
-Any Deductibles count towards the OOPM. Any amounts you pay that count towards the medical or pharmacy 
-Calendar Year Deductible also count towards the Calendar Year Out-of-Pocket Maximum.
-
-Family coverage has an individual OOPM within the Family OOPM. This means that the OOPM will be met for an 
-individual with Family coverage who meets the individual OOPM prior to the Family meeting the Family OOPM within 
-a Calendar Year. Any amount you have paid toward the individual OOPM will be applied to both the individual OOPM 
-and the Family OOPM.
-
-5 
-Separate Member Payments When Multiple Covered Services are Received:
-
-Each time you receive multiple Covered Services, you might have separate payments (Copayment or Coinsurance) 
-for each service. When this happens, you may be responsible for multiple Copayments or Coinsurance. For example, 
-you may owe an office visit payment in addition to an allergy serum payment when you visit the doctor for an allergy 
-shot.
-
-6 
-Preventive Health Services:
-
-If you only receive Preventive Health Services during a Physician office visit, there is no Copayment or Coinsurance for 
-the visit. If you receive both Preventive Health Services and other Covered Services during the Physician office visit, 
-you may have a Copayment or Coinsurance for the visit.
-
-7 
-Outpatient Prescription Drug Coverage:
-
-Medicare Part D-creditable coverage-
-
-This Plan’s prescription drug coverage is on average equivalent to or better than the standard benefit set by the 
-federal government for Medicare Part D (also called creditable coverage). Because this plan’s prescription drug 
-coverage is creditable, you do not have to enroll in Medicare Part D while you maintain this coverage; however, you 
-should be aware that if you do not enroll in Medicare Part D within 63 days following termination of this coverage, you 
-could be subject to Medicare Part D premium penalties.
-
-8 
-Outpatient Prescription Drug Coverage:
-
-Brand Drug coverage when a Generic or Biosimilar Drug is available. If you, the Physician, or Health Care Provider, 
-select a Brand Drug when a Generic Drug equivalent or Biosimilar Drug is available, you are responsible for the 
-difference between the cost to Blue Shield for the Brand Drug and its Generic Drug equivalent or Biosimilar Drug plus
 
 
 
 ## Page 10
 
+Other important information about your benefits.
+
+Medical Exclusions
+
+Services your plan generally does NOT cover. It is recommended that you review your COC, Amendments and Riders for an exact description  of
+the services and supplies that are covered, those which are excluded or limited, and other terms and conditions of coverage.
+• Acupuncture
+• Bariatric Surgery 
+• Cosmetic Surgery
+• Dental Care (Adult)
+• Infertility Treatment
+• Long-Term Care
+• Non-emergency care when traveling outside the U.S.
+• Private-Duty Nursing
+• Routine Eye Care (Adult)
+• Routine Foot Care
+• Weight Loss Programs
+
+Outpatient Prescription Drug Benefits
+
+For Prescription Drug Products dispensed at an In-Network Retail Pharmacy, you are responsible for paying the lowest of the following: 1) The
+applicable Copayment and/or Coinsurance; 2) The In- Network Retail Pharmacy Usual and Customary Charge for the Prescription Drug Product;
+and 3) The Prescription Drug Charge for that Prescription Drug Product. For Prescription Drug Products from an In-Network Mail Order Pharmacy,
+you are responsible for paying the lower of the following: 1) The applicable Copayment and/or Coinsurance; and 2) The Prescription Drug Charge
+for that Prescription Drug Product. For an out-of-Network Retail Pharmacy, your reimbursement is based on the Out-of-Network Reimbursement
+Rate, and you are responsible for the difference between the Out-of-Network Reimbursement Rate and the out-of-Network Pharmacy’s Usual and
+Customary Charge.
+
+See the Copayment and/or Coinsurance stated in the Benefit Information table for amounts. We will not reimburse you for any non-covered drug
+product.
+
+For a single Copayment and/or Coinsurance, you may receive a Prescription Drug Product up to the stated supply limit. Some products are subject
+to additional supply limits based on criteria that we have developed. Supply limits are subject, from time to time, to our review and change.
+
+Specialty Prescription Drug Products supply limits are as written by the provider, up to a consecutive 31-day supply of the Specialty Prescription
+Drug Product, unless adjusted based on the drug manufacturer’s packaging size, or based on supply limits, or as allowed under the Smart Fill
+Program. Supply limits apply to Specialty Prescription Drug Products obtained at a Preferred Specialty Network Pharmacy, a Non-Preferred
+Specialty Network Pharmacy, an out-of-Network Pharmacy, a mail order Network Pharmacy or a Designated Pharmacy.
+
+Certain Prescription Drug Products for which Benefits are described under the Prescription Drug Rider are subject to step therapy requirements. In
+order to receive Benefits for such Prescription Drug Products you must use a different Prescription Drug Product(s) or pharmaceutical product(s) for
+which Benefits are provided as described under the Certificate first. You may find out whether a Prescription Drug Product is subject to step therapy
+requirements by contacting us at myuhc.com or the telephone number on your ID card.
+
+Before certain Prescription Drug Products are dispensed to you, your Physician, your pharmacist or you are required to obtain prior authorization
+from us or our designee to determine whether the Prescription Drug Product is in accordance with our approved guidelines and it meets the
+definition of a Covered Health Care Service and is not an Experimental or Investigational or Unproven Service. We may also require you to obtain
+prior authorization from us or our designee so we can determine whether the Prescription Drug Product, in accordance with our approved
+guidelines, was prescribed by a Specialist.
+
+If you require certain Prescription Drug Products, we may direct you to a Designated Pharmacy with whom we have an arrangement to provide
+those Prescription Drug Products. If you are directed to a Designated Pharmacy and you choose not to obtain your Prescription Drug Product from
+the Designated Pharmacy, you will be subject to the Out-of-Network Benefit for that Prescription Drug Product.
+
+Certain Preventative Care Medications may be covered at zero costshare. You can get more information by contacting us at myuhc.com or the
+telephone number on your ID card.
+
+Benefits are provided for certain Prescription Drug Products dispensed by an In-Network Mail Order Pharmacy or Preferred 90 Day Retail Network
+Pharmacy. The Outpatient Prescription Drug Schedule of Benefits will tell you how In-Network Mail Order Pharmacy and Preferred 90 Day Retail
+Network Pharmacy supply limits apply. Please contact us at myuhc.com or the telephone number on your ID card to find out if Benefits are
+provided for your Prescription Drug Product and for information on how to obtain your Prescription Drug Product through an In-Network Mail Order
+Pharmacy or Preferred 90 Day Retail Network Pharmacy.
+
 10
-
-Notes
-
-the applicable tier Copayment or Coinsurance of the Brand Drug. This difference in cost will not count towards any 
-Calendar Year pharmacy Deductible, medical Deductible, or the Calendar Year Out-of-Pocket Maximum.
-
-See the Obtaining outpatient prescription Drugs at a Participating Pharmacy section of the EOC for more information 
-about how a brand contraceptive may be covered without a Copayment or Coinsurance.
-
-Request for Medical Necessity Review. If you or your Physician believes a Brand Drug is Medically Necessary, either 
-person may request a Medical Necessity Review. If approved, the Brand Drug will be covered at the applicable Drug 
-tier Copayment or Coinsurance.
-
-Short-Cycle Specialty Drug program. This program allows initial prescriptions for select Specialty Drugs to be filled for a 
-15-day supply with your approval. When this occurs, the Copayment or Coinsurance will be pro-rated.
-
-Specialty Drugs. Specialty Drugs are only available from a Network Specialty Pharmacy, up to a 30-day supply.
-
-Oral Anticancer Drugs. You pay up to $250 for oral Anticancer Drugs from a Participating Pharmacy, up to a 30-day 
-supply. Oral Anticancer Drugs from a Participating Pharmacy are not subject to any Deductible.
-
-Retail pharmacy. You may receive up to a 90-day supply for maintenance Drugs at a Participating Pharmacy when 
-you pay the applicable Copayment or Coinsurance for each 30-day supply.
-
-Mail service Drugs. You pay the applicable 30-day retail pharmacy Copayment or Coinsurance for a 30-day supply or 
-less from the mail service pharmacy.
-
-9 
-Pediatric Dental Coverage:
-
-Pediatric dental Benefits are provided through Blue Shield’s Dental Plan Administrator (DPA).
-
-Orthodontic Covered Services. The Copayment or Coinsurance for Medically Necessary orthodontic Covered Services 
-applies to a course of treatment even if it extends beyond a Calendar Year. This applies as long as the Member remains 
-enrolled in the Plan.
-
-This plan is compliant with requirements of the pediatric dental EHB benchmark plan, including coverage of services 
-in circumstances of Medical Necessity as defined in the Early Periodic Screening, Diagnosis and Treatment (EPSDT) 
-benefit.
-
-10 Pediatric Vision Coverage:
-
-Pediatric vision Benefits are provided through Blue Shield’s Vision Plan Administrator (VPA).
-
-Coverage for frames. If frames are selected that are more expensive than the Allowable Amount established for 
-frames under this Benefit, you pay the difference between the Allowable Amount and the provider’s charge.
-
-“Collection frames” are covered with no Member payment from Participating Providers. Retail chain Participating 
-Providers do not usually display the frames as “collection,” but a comparable selection of frames is maintained.
-
-“Non-collection frames” are covered up to an Allowable Amount of $150; however, if the Participating Provider 
-uses:
-
-• 
-wholesale pricing, then the Allowable Amount will be up to $103.64.
-
-Participating Providers using wholesale pricing are identified in the provider directory.
-
-Plans may be modified to ensure compliance with State and Federal requirements.
 -----
 SAMPLE PLAN JSON #1:
 {
-  "Carrier Name": "Blue Shield of California",
-  "Plan Name": "SG Access+ Silver 70 HMO 2500/55 PCP + Child Dental Mirror",
-  "In-Network Single Deductible": "2,500",
-  "In-Network Family Deductible": "5,000",
-  "Out-of-Network Single Deductible": "",
-  "Out-of-Network Family Deductible": "",
-  "In-Network Single OOP Max": "8,750",
-  "In-Network Family OOP Max": "17,500",
-  "Out-of-Network Single OOP Max": "",
-  "Out-of-Network Family OOP Max": "",
-  "In-Network Coinsurance": "35",
-  "Out-of-Network Coinsurance": "",
-  "In-Network PCP Visit": "55",
-  "Out-of-Network PCP Visit": "",
-  "In-Network Specialist Visit": "90",
-  "Out-of-Network Specialist Visit": "",
-  "In-Network Urgent Care Visit": "55",
-  "Out-of-Network Urgent Care Visit": "",
-  "In-Network ER Visit": "35% after deductible",
-  "Out-of-Network ER Visit": "",
-  "In-Network Preventive Visit": "No Charge",
-  "Out-of-Network Preventive Visit": "",
-  "In-Network Outpatient Surgery": "35% after deductible",
-  "Out-of-Network Outpatient Surgery": "",
-  "In-Network Inpatient Surgery": "35% after deductible",
-  "Out-of-Network Inpatient Surgery": "",
-  "In-Network Newborn Delivery": "35% after deductible",
-  "Out-of-Network Newborn Delivery": "",
-  "In-Network Major Diagnostics": "300",
-  "Out-of-Network Major Diagnostics": "",
-  "In-Network RX Deductible": "Individual $300 / Family : $600",
+  "Carrier Name": "UHC",
+  "Plan Name": "DZF4",
+  "In-Network Single Deductible": "3,750",
+  "In-Network Family Deductible": "7,500",
+  "Out-of-Network Single Deductible": "10,000",
+  "Out-of-Network Family Deductible": "20,000",
+  "In-Network Single OOP Max": "3,750",
+  "In-Network Family OOP Max": "7,500",
+  "Out-of-Network Single OOP Max": "15,000",
+  "Out-of-Network Family OOP Max": "30,000",
+  "In-Network Coinsurance": "0",
+  "Out-of-Network Coinsurance": "40",
+  "In-Network PCP Visit": "No Copay after deductible",
+  "Out-of-Network PCP visit": "40% after deductible",
+  "In-Network Specialist Visit": "No Copay after deductible",
+  "Out-of-Network Specialist visit": "40% after deductible",
+  "In-Network Urgent Care Visit": "No Copay after deductible",
+  "Out-of-Network Urgent Care Visit": "40% after deductible",
+  "In-Network ER Visit": "No Copay after deductible",
+  "Out-of-Network ER visit": "No Copay after deductible",
+  "In-Network Preventive Visit": "No Copay",
+  "Out-of-Network Preventive visit": "Not covered",
+  "In-Network Outpatient Surgery": "No Copay after deductible",
+  "Out-of-Network Outpatient Surgery": "40% after deductible",
+  "In-Network Inpatient Surgery": "No Copay after deductible",
+  "Out-of-Network Inpatient Surgery": "40% after deductible",
+  "In-Network Newborn Delivery": "No Copay after deductible",
+  "Out-of-Network Newborn Delivery": "40% after deductible",
+  "In-Network Major Diagnostics": "No Copay after deductible",
+  "Out-of-Network Major Diagnostics": "40% after deductible",
+  "In-Network RX deductible": "",
   "Out-of-Network RX Deductible": "",
-  "In-Network Generic RX": "",
-  "Out-of-Network Generic RX": "",
-  "In-Network Brand RX": "85",
-  "Out-of-Network Brand RX": "",
-  "In-Network Tier 3 RX": "110",
-  "Out-of-Network Tier 3 RX": "",
-  "In-Network Tier 4 RX": "30% up to $250",
-  "Out-of-Network Tier 4 RX": "",
+  "In-Network Generic RX": "No Copay after deductible",
+  "Out-of-Network Generic RX": "No Copay after deductible",
+  "In-Network Brand RX": "No Copay after deductible",
+  "Out-of-Network Brand RX": "No Copay after deductible",
+  "In-Network Tier 3 RX": "No Copay after deductible",
+  "Out-of-Network Tier 3 RX": "No Copay after deductible",
+  "In-Network Tier 4 RX": "No Copay after deductible",
+  "Out-of-Network Tier 4 RX": "No Copay after deductible",
   "In-Network Tier 5 RX": "",
   "Out-of-Network Tier 5 RX": "",
-  "In-Network Mail Order RX": "$38 / $170 / $220 / 30% up to $500",
-  "Out-of-Network Mail Order RX": "",
+  "In-Network Mail Order RX": "No Copay after deductible",
+  "Out-of-Network Mail Order RX": "Not Covered",
   "Plan Year": "2025",
   "Deductible Period": "",
   "Deductible Explanation": "Embedded",
-  "Network Type": "HMO",
-  "Network Name": "Access+",
-  "Member Website": "www.blueshieldca.com",
-  "Customer Service Phone Number": "(510) 607-2000"
+  "Network Type": "POS",
+  "Network Name": "",
+  "Member Website": "www.myuhc.com",
+  "Customer Service Phone Number": "1-866-801-4409"
 }
 -----
 TARGET PDF TEXT:
 -----
 ## Page 1
 
-### A54303 (1/25)  
+This Benefit Summary is to highlight your Benefits. Don’t use this document to understand your exact coverage. If this Benefit Summary conflicts
+with the Certificate of Coverage (COC), Schedule of Benefits, Riders, and/or Amendments, those documents govern. Review your COC for an exact
+description of the services and supplies that are and are not covered, those which are excluded or limited, and other terms and conditions of
+coverage.
+
+UnitedHealthcare
+|
+Alabama
+|
+Choice Plus
+|
+DZF4
+|
+E83
+
+Choice Plus plan details, 
+all in one place.
+
+Use this benefit summary to learn more about this plan’s benefits, ways 
+you can get help managing costs and how you may get more out of this 
+health plan.
+
+Check out what’s included in the plan
+Choice Plus
+
+Network coverage only
+You can usually save money when you receive care for covered health care services from
+network providers.
+
+Network and out-of-network benefits
+You may receive care and services from network and out-of-network providers and
+facilities — but staying in the network can help lower your costs.
+
+Primary care physician (PCP) required
+With this plan, you need to select a PCP — the doctor who plays a key role in helping
+manage your care. Each enrolled person on your plan will need to choose a PCP.
+
+Referrals required
+You’ll need referrals from your PCP before seeing a specialist or getting certain health
+care services.
+
+Preventive care covered at 100%
+There is no additional cost to you for seeing a network provider for preventive care.
+
+Pharmacy benefits
+With this plan, you have coverage that helps pay for prescription drugs and medications.
+
+Tier 1 providers
+Using Tier 1 providers may bring you the greatest value from your health care benefits.
+These PCPs and medical specialists meet national standard benchmarks for quality care
+and cost savings.
+
+Freestanding centers
+You may pay less when you use certain freestanding centers — health care facilities that
+do not bill for services as part of a hospital, such as MRI or surgery centers.
+
+Health savings account (HSA)
+With an HSA, you’ve got a personal bank account that lets you put money aside, tax-free.
+Use it to save and pay for qualified medical expenses.
+
 1
-
-Summary of Benefits 
-Group Plan
-
-HMO Plan 
-Blue Shield Access+ Silver 70 HMO® 2500/55 PCP + Child Dental
-
-This Summary of Benefits shows the amount you will pay for Covered Services under this Blue Shield of California Plan. It 
-is only a summary and it is included as part of the Evidence of Coverage (EOC).1 Please read both documents carefully 
-for details.
-
-Medical Provider Network: 
-Access+ HMO Network
-
-This Plan uses a specific network of Health Care Providers, called the Access+ HMO provider network. Medical 
-Groups, Independent Practice Associations (IPAs), and Physicians in this network are called Participating Providers. 
-You must select a Primary Care Physician from this network to provide your primary care and help you access 
-services, but there are some exceptions. Please review your Evidence of Coverage for details about how to access 
-care under this Plan. You can find Participating Providers in this network at blueshieldca.com.
-
-Pharmacy Network: 
-Rx Ultra
-
-Drug Formulary: 
-Standard Formulary
-
-Calendar Year Deductibles (CYD)2
-
-A Calendar Year Deductible (CYD) is the amount a Member pays each Calendar Year before Blue Shield pays for 
-Covered Services under the Plan. Blue Shield pays for some Covered Services before the Calendar Year Deductible is 
-met, as noted in the Benefits chart below.
-
-When using a Participating Provider3
-
-Calendar Year medical Deductible 
-Individual coverage 
-$2,500
-
-Family coverage 
-$2,500: individual
-
-$5,000: Family
-
-Calendar Year pharmacy Deductible 
-Individual coverage
-
-Family coverage
-
-$300
-
-$300: individual
-
-$600: Family
-
-Calendar Year Out-of-Pocket Maximum4
-
-An Out-of-Pocket Maximum is the most a Member will pay for Covered 
-Services each Calendar Year. Any exceptions are listed in the EOC.
-
-No Annual or Lifetime Dollar Limit
-
-When using a Participating Provider3 
- 
-Under this Plan there is no annual or 
-lifetime dollar limit on the amount Blue 
-Shield will pay for Covered Services.     
-Individual coverage 
-$8,750
-
-Family coverage 
-$8,750: individual
-
-$17,500: Family
-
-Blue Shield of California is an independent member of the Blue Shield Association
 
 
 
 ## Page 2
 
-2
+Here's a more in-depth look at how Choice Plus works.
 
-Benefits5 
-Your payment
+Medical Benefits
 
-When using a Participating
+In Network
+Out-of-Network
 
-Provider3
+Annual Medical Deductible
 
-CYD2 
-applies
+Individual
+$3,750
+$10,000
 
-Preventive Health Services6
+Family
+$7,500
+$20,000
 
-Preventive Health Services 
-$0
+Ped Dental Annual Deductible - Family
+Included in your medical deductible
+Included in your medical deductible
 
-California Prenatal Screening Program 
-$0
+Ped Dental Annual Deductible - Individual
+Included in your medical deductible
+Included in your medical deductible
 
-Physician services
+All individual deductible amounts will count toward the family deductible, but an individual will not have to pay more than the individual deductible amount.
 
-Primary care office visit 
-$55/visit
+*After the Annual Medical Deductible has been met.
 
-Access+ specialist care office visit (self-referral) 
-$90/visit
+You're responsible for paying 100% of your medical expenses until you reach your deductible. For certain covered services, you may be required to pay a fixed dollar 
+amount - your copay.
 
-Other specialist care office visit (referred by PCP) 
-$90/visit
+Annual Out-of-Pocket Limit
 
-Physician home visit 
-$55/visit
+Individual
+$3,750
+$15,000
 
-Physician or surgeon services in an Outpatient Facility 
-35%
+Family
+$7,500
+$30,000
 
-Physician or surgeon services in an inpatient facility 
-35%
+All individual out-of-pocket maximum amounts will count toward the family out-of-pocket maximum, but an individual will not have to pay more than the individual 
+out-of-pocket maximum amount.
 
-Other professional services
+Once you’ve met your deductible, you start sharing costs with your plan - coinsurance. You continue paying a portion of the expense until you reach your out-of-
+pocket limit. From there, your plan pays 100% of allowed amounts for the rest of the plan year.
 
-Other practitioner office visit 
-$55/visit
+What You Pay for Services
 
-Includes nurse practitioners, physician assistants, therapists, and 
-podiatrists.
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
 
-Acupuncture services 
-$55/visit
+Designated Network
+Network
+Out-of-Network
 
-Chiropractic services 
+Preventive Care Services
+
+Preventive Care Services
+No copay
 Not covered
 
-Teladoc consultation 
-$0
+Certain preventive care services are provided as specified by 
+the Patient Protection and Affordable Care Act (ACA), with no 
+cost-sharing to you. These services are based on your age, 
+gender and other health factors. UnitedHealthcare also covers 
+other routine services that may require a copay, co-insurance 
+or deductible.
 
-Family planning
+Includes services such as Routine Wellness Checkups, 
+Immunizations, Breast Pumps, Mammography and Colorectal 
+Cancer Screenings.
 
-• 
-Counseling, consulting, and education 
-$0
+Office Services - Sickness & Injury
 
-• 
-Injectable contraceptive, diaphragm fitting, intrauterine 
-device (IUD), implantable contraceptive, and related 
-procedure.
+Primary Care Physician
+No copay*
+40%*
 
-$0
+Additional copays, deductible, or co-insurance may apply 
+when you receive other services at your physician’s office. For 
+example, surgery and lab work.
 
-• 
-Tubal ligation 
-$0
+Telehealth is covered at the same cost share as in the office.
 
-• 
-Vasectomy 
-$0
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
 
-Pregnancy and maternity care
-
-Physician office visits: prenatal and initial postnatal 
-$0
-
-Abortion and abortion-related services 
-$0
-
-Emergency Services
-
-Emergency room services 
-35% 
-
-
-If admitted to the Hospital, this payment for emergency room 
-services does not apply. Instead, you pay the Participating 
-Provider payment under Inpatient facility services/ Hospital 
-services and stay.
-
-Emergency room Physician services 
-$0
+2
 
 
 
 ## Page 3
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Specialist
+No copay*
+40%*
+
+Additional copays, deductible, or co-insurance may apply 
+when you receive other services at your physician’s office. For 
+example, surgery and lab work.
+
+Telehealth is covered at the same cost share as in the office.
+
+Urgent Care Center Services
+No copay*
+40%*
+
+Virtual Care Services
+No copay*
+Not covered
+
+Benefits are available only when services are delivered through 
+a Designated Virtual Network Provider for 24/7 Virtual Visit 
+services only. You can find a 24/7 Virtual Visit Provider by 
+contacting us at myuhc.com® or the telephone number on 
+your ID card. Access to 24/7 Virtual Visits and prescription 
+services may not be available in all states or for all groups.
+
+Emergency Care
+
+Ambulance Services - Emergency Ambulance
+
+Air Ambulance
+No copay*
+No copay*
+
+Ground Ambulance
+No copay*
+No copay*
+
+Ambulance Services - Non-Emergency Ambulance¹
+
+Air Ambulance
+No copay*
+No copay*
+
+Ground Ambulance
+No copay*
+40%*
+
+Dental Services - Accident Only
+No copay*
+No copay*
+
+Emergency Health Care Services - Outpatient¹
+No copay*
+No copay*
+
+Notification is required if it results in confinement to an Out-of-
+Network Hospital.
+
+Inpatient Care
+
+Congenital Heart Disease (CHD) Surgeries¹
+No copay*
+40%*
+
+Habilitative Services - Inpatient¹
+The amount you pay is based on where the covered health care service is provided.
+
+Limited to 60 days per year.
+
+Hospital - Inpatient Stay¹
+No copay*
+40%*
+
+Skilled Nursing Facility/Inpatient Rehabilitation Facility 
+Services¹
+
+No copay*
+40%*
+
+Limited to 60 days per year.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 3
-
-Benefits5 
-Your payment
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Urgent care center services 
-$55/visit
-
-Ambulance services 
-35% 
-
-
-This payment is for emergency or authorized transport.
-
-Outpatient Facility services
-
-Ambulatory Surgery Center 
-35% 
-
-
-Outpatient Department of a Hospital: surgery 
-35% 
-
-
-Outpatient Department of a Hospital: treatment of illness or injury, 
-radiation therapy, chemotherapy, and necessary supplies 
-35%
-
-Inpatient facility services
-
-Hospital services and stay 
-35% 
-
-
-Transplant services
-
-This payment is for all covered transplants except tissue and 
-kidney. For tissue and kidney transplant services, the payment for 
-Inpatient facility services/ Hospital services and stay applies.
-
-• 
-Special transplant facility inpatient services 
-35% 
-
-
-• 
-Physician inpatient services 
-35%
-
-Diagnostic x-ray, imaging, pathology, and laboratory services
-
-This payment is for Covered Services that are diagnostic, non-
-Preventive Health Services, and diagnostic radiological procedures. 
-For the payments for Covered Services that are considered 
-Preventive Health Services, see Preventive Health Services.
-
-Laboratory and pathology services
-
-Includes diagnostic Papanicolaou (Pap) test.
-
-• 
-Laboratory center 
-$55/visit
-
-• 
-Outpatient Department of a Hospital 
-$55/visit
-
-Basic imaging services
-
-Includes plain film X-rays, ultrasounds, and diagnostic 
-mammography.
-
-• 
-Outpatient radiology center 
-$90/visit
-
-• 
-Outpatient Department of a Hospital 
-$90/visit
-
-Other outpatient non-invasive diagnostic testing
-
-Testing to diagnose illness or injury such as vestibular function 
-tests, EKG, cardiac monitoring, non-invasive vascular studies, 
-sleep medicine testing, muscle and range of motion tests, EEG, 
-and EMG.
-
-• 
-Office location 
-$90/visit
-
-• 
-Outpatient Department of a Hospital 
-$90/visit
 
 
 
 ## Page 4
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Outpatient Care
+
+Habilitative Services - Outpatient
+No copay*
+40%*
+
+Limited to 20 visits of cognitive rehabilitation therapy per year.
+
+Limited to 20 visits of manipulative treatments per year.
+
+Limited to 30 visits of post-cochlear implant aural therapy per 
+year.
+
+Home Health Care¹
+No copay*
+40%*
+
+Lab, X-Ray and Diagnostic - Outpatient - Lab Testing
+No copay*
+No copay*
+Not covered
+
+For Designated Network Benefits, laboratory services must be 
+received from a Designated Diagnostic Provider. Network 
+Benefits include laboratory services received from a Network 
+provider that is not a Designated Diagnostic Provider.
+
+Lab, X-Ray and Diagnostic - Outpatient - X-Ray and other 
+Diagnostic Testing¹
+
+No copay*
+40%*
+
+Major Diagnostic and Imaging - Outpatient¹
+No copay*
+No copay*
+40%*
+
+For Designated Network Benefits, services must be received 
+from a Designated Diagnostic Provider. Network Benefits 
+include services received from a Network provider that is not a 
+Designated Diagnostic Provider.
+
+You may have to pay an extra copay, deductible or 
+coinsurance for physician fees or pharmaceutical products.
+
+Physician Fees for Surgical and Medical Services
+No copay*
+40%*
+
+Rehabilitation Services - Outpatient Therapy and Manipulative 
+Treatment
+
+No copay*
+40%*
+
+Limited to 20 visits of cognitive rehabilitation therapy per year.
+
+Limited to 20 visits of manipulative treatments per year.
+
+Limited to 20 visits of pulmonary rehabilitation therapy per 
+year.
+
+Limited to 30 visits of post-cochlear implant aural therapy per 
+year.
+
+Limited to 36 visits of cardiac rehabilitation therapy per year.
+
+Scopic Procedures - Outpatient Diagnostic and Therapeutic
+No copay*
+40%*
+
+Diagnostic/therapeutic scopic procedures include, but are not 
+limited to colonoscopy, sigmoidoscopy and endoscopy.
+
+Surgery - Outpatient¹
+No copay*
+40%*
+
+Therapeutic Treatments - Outpatient¹
+No copay*
+40%*
+
+For dialysis services, Out-of-Network Benefits are not available.
+
+Therapeutic treatments include, but are not limited to dialysis, 
+intravenous chemotherapy, intravenous infusion, medical 
+education services and radiation oncology.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 4
-
-Benefits5 
-Your payment
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Advanced imaging services
-
-Includes diagnostic radiological and nuclear imaging such as CT 
-scans, MRIs, MRAs, and PET scans.
-
-• 
-Outpatient radiology center 
-$300/visit 
-
-
-• 
-Outpatient Department of a Hospital 
-$300/visit 
-
-
-Rehabilitative and Habilitative Services
-
-Includes Physical Therapy, Occupational Therapy, Respiratory 
-Therapy, and Speech Therapy services. There is no visit limit for 
-Rehabilitative or Habilitative Services.
-
-Office location 
-$55/visit
-
-Outpatient Department of a Hospital 
-$55/visit
-
-Durable medical equipment (DME)
-
-### DME 
-35%
-
-Breast pump 
-$0
-
-Orthotic equipment and devices 
-35%
-
-Prosthetic equipment and devices 
-35%
-
-Home health care services 
-$45/visit
-
-Up to 100 visits per Member, per Calendar Year, by a home health 
-care agency. All visits count towards the limit, including visits during 
-any applicable Deductible period. Includes home visits by a nurse, 
-Home Health Aide, medical social worker, physical therapist, speech 
-therapist, or occupational therapist, and medical supplies.
-
-Home infusion and home injectable therapy services
-
-Home infusion agency services 
-$0
-
-Includes home infusion drugs, medical supplies, and visits by a 
-nurse.
-
-Hemophilia home infusion services 
-$0
-
-Includes blood factor products.
-
-Skilled Nursing Facility (SNF) services
-
-Up to 100 days per Member, per benefit period, except when 
-provided as part of a Hospice program. All days count towards the 
-limit, including days during any applicable Deductible period and 
-days in different SNFs during the Calendar Year.
-
-Freestanding SNF 
-35% 
-
-
-Hospital-based SNF 
-35% 
-
-
-Hospice program services 
-$0
-
-Includes pre-Hospice consultation, routine home care, 24-hour 
-continuous home care, short-term inpatient care for pain and 
-symptom management, and inpatient respite care.
 
 
 
 ## Page 5
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Supplies and Services
+
+Diabetes Self-Management Items¹
+The amount you pay is based on where the covered health care service is provided under 
+Durable Medical Equipment (DME), Orthotics and Supplies or in the Prescription Drug Benefits 
+Section.
+
+Diabetes Self-Management and Training/Diabetic Eye 
+Exams/Foot Care¹
+
+The amount you pay is based on where the covered health care service is provided.
+
+Durable Medical Equipment (DME), Orthotics and Supplies
+No copay*
+Not covered
+
+Enteral Nutrition
+No copay*
+40%*
+
+Hearing Aids
+No copay*
+40%*
+
+Limited to $2,500 per year.
+
+Limited to a single purchase per hearing impaired ear every 3 
+years.
+
+Repair and/or replacement of a hearing aid would apply to this 
+limit in the same manner as a purchase.
+
+Ostomy Supplies
+No copay*
+Not covered
+
+Pharmaceutical Products - Outpatient
+No copay*
+40%*
+
+This includes medications given at a doctor's office, or in a 
+covered person's home.
+
+Prosthetic Devices¹
+No copay*
+40%*
+
+Urinary Catheters
+No copay*
+Not covered
+
+Pregnancy
+
+Pregnancy - Maternity Services¹
+The amount you pay is based on where the covered health care service is provided except that 
+an Annual Deductible will not apply for a newborn child whose length of stay in the Hospital is 
+the same as the mother's length of stay.
+
+Mental Health Care & Substance Related and 
+Addictive Disorder Services
+
+Inpatient¹
+No copay*
+40%*
+
+Intensive Behavioral Therapy (e.g. ABA)¹
+No copay*
+40%*
+
+Other Outpatient Services such as Electro-Convulsive 
+Treatment, Psychological Testing, Transcranial Magnetic 
+Stimulation and Medication Assisted Treatment¹
+
+No copay*
+40%*
+
+Other Outpatient Services, including Partial 
+Hospitalization/Day Treatment/High Intensity 
+Outpatient/Intensive Outpatient Treatment¹
+
+No copay*
+40%*
+
+Outpatient Office Visits
+No copay*
+40%*
+
+Other Services
+
+Cellular and Gene Therapy
+The amount you pay is based on where the covered health 
+care service is provided.
+
+Not covered
+
+For Network Benefits, Cellular or Gene Therapy services must 
+be received from a Designated Provider.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 5
-
-Benefits5 
-Your payment
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Other services and supplies
-
-Diabetes care services
-
-• 
-Devices, equipment, and supplies 
-35%
-
-• 
-Self-management training 
-$0
-
-• 
-Medical nutrition therapy 
-$0
-
-Dialysis services 
-35%
-
-PKU product formulas and special food products 
-$0
-
-Allergy serum billed separately from an office visit 
-35%
-
-Mental Health and Substance Use Disorder Benefits 
-Your payment
-
-Mental health and substance use disorder Benefits are provided 
-through Blue Shield's Mental Health Service Administrator (MHSA).
-
-When using a MHSA 
-Participating Provider3
-
-CYD2 
-applies
-
-Outpatient services
-
-Office visit, including Physician office visit 
-$55/visit
-
-Teladoc mental health 
-$0
-
-Other outpatient services, including intensive outpatient care, 
-electroconvulsive therapy, transcranial magnetic stimulation, 
-Behavioral Health Treatment for pervasive developmental disorder 
-or autism in an office setting, home, or other non-institutional facility 
-setting, and office-based opioid treatment
-
-$0
-
-Partial Hospitalization Program 
-$0
-
-Psychological Testing 
-$0
-
-Inpatient services
-
-Physician inpatient services 
-35%
-
-Hospital services 
-35% 
-
-
-Residential Care 
-35% 
-
-
-Prescription Drug Benefits7,8 
-Your payment
-
-A separate Calendar Year pharmacy Deductible applies. 
-When using a Participating
-
-Pharmacy3
-
-CYD2 
-applies
-
-Retail pharmacy prescription Drugs
-
-Per prescription, up to a 30-day supply.
-
-Contraceptive Drugs and devices 
-$0
-
-Tier 1 Drugs 
-$19/prescription
-
-Tier 2 Drugs 
-$85/prescription 
-
-
-Tier 3 Drugs 
-$110/prescription 
-
-
-Tier 4 Drugs 
-30% up to $250/prescription 
-
 
 
 
 ## Page 6
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Clinical Trials¹
+The amount you pay is based on where the covered health care service is provided.
+
+Fertility Preservation for Iatrogenic Infertility¹
+No copay*
+40%*
+
+Limited to $20,000 per Covered Person per lifetime.
+
+Limited to $5,000 for Prescription Drug Products per Covered 
+Person.
+
+Limited to 1 cycle of fertility preservation for Iatrogenic Infertility 
+per lifetime.
+
+This Benefit limit will be the same as, and combined with, 
+those stated under Preimplantation Genetic Testing (PGT) and 
+Related Services.
+
+Gender Dysphoria¹
+The amount you pay is based on where the covered health care service is provided or in the 
+Prescription Drug Benefits Section.
+
+Limits for voice modification therapy and/or voice lessons will 
+be the same as, and combined with, outpatient speech 
+therapy limits as described under Habilitative Services and 
+Rehabilitation Services Outpatient Therapy and Manipulative 
+Treatment.
+
+Hospice Care¹
+No copay*
+40%*
+
+Preimplantation Genetic Testing (PGT) and Related Services¹
+No copay*
+40%*
+
+Benefit limits for related services will be the same as, and 
+combined with, those stated under Fertility Preservation for 
+Iatrogenic Infertility. This limit does not include Preimplantation 
+Genetic Testing (PGT) for the specific genetic disorder. This 
+limit includes Benefits for ovarian stimulation medications 
+provided under the Outpatient Prescription Drug Rider.
+
+Reconstructive Procedures¹
+The amount you pay is based on where the covered health care service is provided.
+
+Temporomandibular Joint (TMJ) Services¹
+The amount you pay is based on where the covered health care service is provided.
+
+Transplantation Services
+The amount you pay is based on where the covered health 
+care service is provided.
+
+Not covered
+
+For Network Benefits, transplantation services must be 
+received from a Designated Provider.
+
+Pediatric Services - Dental
+
+All Pediatric Dental - Benefits covered up to age 19
+
+Additional limits may apply. Refer to your plan documents for 
+more information.
+
+Basic Dental Services
+No copay*
+40%*
+
+Diagnostic Services
+No copay*
+20%*
+
+Limited to 1 time every 36 months for Panoramic x-rays.
+
+Limited to 2 evaluations (checkup exams) every 12 months.
+
+Limited to 2 series of films every 12 months of Bitewing x-rays.
+
+Major Restorative Services
+No copay*
+50%*
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 6
-
-Prescription Drug Benefits7,8 
-Your payment
-
-A separate Calendar Year pharmacy Deductible applies. 
-When using a Participating
-
-Pharmacy3
-
-CYD2 
-applies
-
-Retail pharmacy prescription Drugs
-
-Per prescription, for a 90-day supply.
-
-Contraceptive Drugs and devices 
-$0
-
-Tier 1 Drugs 
-$57/prescription
-
-Tier 2 Drugs 
-$255/prescription 
-
-
-Tier 3 Drugs 
-$330/prescription 
-
-
-Tier 4 Drugs 
-30% up to $750/prescription 
-
-
-Mail service pharmacy prescription Drugs
-
-Per prescription, for a 31-90-day supply.
-
-Contraceptive Drugs and devices 
-$0
-
-Tier 1 Drugs 
-$38/prescription
-
-Tier 2 Drugs 
-$170/prescription 
-
-
-Tier 3 Drugs 
-$220/prescription 
-
-
-Tier 4 Drugs 
-30% up to $500/prescription 
-
-
-Pediatric Benefits 
-Your payment
-
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
-
-When using a Participating
-
-Dentist3
-
-CYD2 
-applies
-
-Pediatric dental9
-
-Diagnostic and preventive services
-
-• 
-Oral exam 
-$0
-
-• 
-Preventive – cleaning 
-$0
-
-• 
-Preventive – x-ray 
-$0
-
-• 
-Sealants per tooth 
-$0
-
-• 
-Topical fluoride application 
-$0
-
-• 
-Space maintainers - fixed 
-$0
-
-Basic services
-
-• 
-Restorative procedures 
-$25 copayment
-
-• 
-Periodontal maintenance 
-$25 copayment
-
-• 
-Adjunctive general services 
-$25 copayment
-
-Major services
-
-• 
-Oral surgery 
-$65 copayment
-
-• 
-Endodontics 
-$300 copayment
-
-• 
-Periodontics (other than maintenance) 
-$150 copayment
-
-• 
-Crowns and casts 
-$300 copayment
-
-• 
-Prosthodontics 
-$300 copayment
 
 
 
 ## Page 7
 
+What You Pay for Services
+
+Copays ($) and Coinsurance (%) for 
+Covered Health Care Services
+
+Designated Network
+Network
+Out-of-Network
+
+Medically Necessary Orthodontics¹
+No copay*
+50%*
+
+All orthodontic treatment must be prior authorized.
+
+Preventive Services
+No copay*
+20%*
+
+Limited to 2 dental prophylaxis cleanings and fluoride 
+treatments every 12 months.
+
+Pediatric Services - Vision
+
+All Pediatric Vision - Benefits Covered up to age 19
+
+Contact Lenses/Necessary Contact Lenses
+No copay*
+40%*
+
+Limited to 1 fitting and evaluation every 12 months.
+
+Limited to a 12 month supply.
+
+We will pay benefits for only one vision care service. You may 
+choose either eyeglasses (eyeglass lenses and/or eyeglass 
+frames) or contact lenses.
+
+Eyeglass Frames
+
+Eyeglass frames with a retail cost below $130
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $130-$160
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $160-$200
+No copay*
+40%*
+
+Eyeglass frames with a retail cost between $200-$250
+No copay*
+40%*
+
+Eyeglass frames with a retail cost greater than $250
+No copay*
+40%*
+
+Limited to once every 12 months.
+
+Eyeglass Lenses
+No copay*
+40%*
+
+Limited to once every 12 months.
+
+Lens Extras
+No copay*
+No copay*
+
+Limited to once every 12 months.
+
+Coverage includes polycarbonate lenses and standard 
+scratch-resistant coating.
+
+Low Vision Testing
+No copay
+25%*
+
+Limited to once every 24 months.
+
+Low Vision Therapy
+25%
+25%*
+
+Limited to once every 24 months.
+
+Routine Vision Exam
+No copay
+40%*
+
+Limited to once every 12 months.
+
+*After the Annual Medical Deductible has been met.
+¹Prior Authorization Required. Refer to COC/SBN.
+
 7
-
-Pediatric Benefits 
-Your payment
-
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
-
-When using a Participating
-
-Dentist3
-
-CYD2 
-applies
-
-Orthodontics (Medically Necessary) 
-$1,000
-
-Pediatric Benefits 
-Your payment
-
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
-
-When using a Participating
-
-Provider3
-
-CYD2 
-applies
-
-Pediatric vision10
-
-Comprehensive eye examination
-
-One exam per Calendar Year.
-
-• 
-Ophthalmologic visit 
-$0
-
-• 
-Optometric visit 
-$0
-
-Contact lens fitting and evaluation
-
-When you choose contact lenses instead of eyeglasses, one per 
-Member every 12 months by a Participating Provider if 
-administered at the same time as the comprehensive exam. 
-There is a maximum of two follow up visits.
-
-• 
-Standard lenses 
-$0
-
-• 
-Non-standard lenses 
-All charges above $60
-
-Eyewear/materials
-
-One eyeglass frame and eyeglass lenses, or contact lenses 
-instead of eyeglasses, up to the Benefit per Calendar Year. Any 
-exceptions are noted below.
-
-• 
-Contact lenses
-
-Non-elective (Medically Necessary) - hard or soft 
-$0
-
-Up to two pairs per eye per Calendar Year.
-
-Elective (cosmetic/convenience)
-
-Standard and non-standard, hard 
-$0
-
-Up to a 3 month supply for each eye per Calendar Year 
-based on lenses selected.
-
-Standard and non-standard, soft 
-$0
-
-Up to a 6 month supply for each eye per Calendar Year 
-based on lenses selected.
-
-• 
-Eyeglass frames
-
-Collection frames 
-$0
-
-Non-collection frames 
-All charges above $150
-
-• 
-Eyeglass lenses
-
-Lenses include choice of glass or plastic lenses, all lens 
-powers (single vision, bifocal, trifocal, lenticular), fashion or 
-gradient tint, scratch coating, oversized, and glass-grey #3 
-prescription sunglasses.
-
-Single vision 
-$0
 
 
 
 ## Page 8
 
-8
+Pharmacy Benefits
 
-Pediatric Benefits 
-Your payment
+** Only certain Prescription Drug Products are available through mail order; please visit myuhc.com® or call Customer Care at the telephone number on the back of your ID card for more information. You will be charged a
+retail Copayment and/or Coinsurance for 31 days or 2 times for 60 days based on the number of days supply dispensed for any Prescription Order or Refills sent to the mail order pharmacy. To maximize your Benefit, ask
+your Physician to write your Prescription Order or Refill for a 90-day supply, with refills when appropriate, rather than a 30-day supply with three refills.
+For Specialty Drugs from a Non-Preferred Pharmacy, you will be required to pay the same Co-payment/Co-insurance as the Preferred Specialty Network Pharmacy based on the applicable Tier.
+Your Copayment and/or Coinsurance is determined by the tier to which the Prescription Drug List (PDL) Management Committee has assigned the Prescription Drug Product. All Prescription Drug Products on the
+Prescription Drug List are assigned to Tier 1, Tier 2, Tier 3 or Tier 4.
+If you are a member, you can find individualized information on your benefit coverage, determine tier status, check the status of claims and search for network pharmacies by logging into your account on myuhc.com® or
+calling the Customer Care number on your ID card. If you are not a member, you can view prescription information at welcometouhc.com > Benefits > Pharmacy Benefits.
 
-Pediatric Benefits are available through the end of the month in which 
-the Member turns 19.
+Pharmacy Plan Details
 
-When using a Participating
+Pharmacy Network
+National
 
-Provider3
+Prescription Drug List
+Essential
 
-CYD2 
-applies
+In Network
 
-Lined bifocal 
-$0
+Annual Pharmacy Deductible
 
-Lined trifocal 
-$0
+Individual
+See the Annual Medical Deductible section
 
-Lenticular 
-$0
+Family
+See the Annual Medical Deductible section
 
-Optional eyeglass lenses and treatments
+Annual Deductible - Network and Out-of-Network
 
-• 
-Ultraviolet protective coating (standard only) 
-$0
-
-• 
-Polycarbonate lenses 
-$0
-
-• 
-Standard progressive lenses 
-$0
-
-• 
-Premium progressive lenses 
-$95
-
-• 
-Anti-reflective lens coating (standard only) 
-$35
-
-• 
-Photochromic - glass lenses 
-$25
-
-• 
-Photochromic - plastic lenses 
-$0
-
-• 
-High index lenses 
-$30
-
-• 
-Polarized lenses 
-$45
-
-Low vision testing and equipment
-
-• 
-Comprehensive low vision exam 
-$0
-
-Once every 5 Calendar Years.
-
-• 
-Low vision devices 
-$0
-
-One aid per Calendar Year.
-
-Notes
-
-1 
-Evidence of Coverage (EOC):
-
-The Evidence of Coverage (EOC) describes the Benefits, limitations, and exclusions that apply to coverage under this 
-Plan. Please review the EOC for more details of coverage outlined in this Summary of Benefits. You can request a copy 
-of the EOC at any time.
-
-Capitalized terms are defined in the EOC. Refer to the EOC for an explanation of the terms used in this Summary of 
+The Pharmacy Deductible is the amount you pay for pharmacy 
+expenses per year before you begin to receive Pharmacy 
 Benefits.
 
-2 
-Calendar Year Deductible (CYD):
+Up to a 31-day supply
+Up to a 90-day supply
 
-Calendar Year Deductible explained. A Calendar Year Deductible is the amount you pay each Calendar Year before 
-Blue Shield pays for Covered Services under the Plan.
+Prescription Drug Product Tier
 
-If this Plan has any Calendar Year Deductible(s), Covered Services subject to that Deductible are identified with a 
-check mark () in the Benefits chart above.
+Level
 
-Covered Services not subject to the Calendar Year medical Deductible. Some Covered Services received from 
-Participating Providers are paid by Blue Shield before you meet any Calendar Year medical Deductible. These 
-Covered Services do not have a check mark () next to them in the “CYD applies” column in the Benefits chart 
-above.
+Retail and Specialty
 
-This Plan has a separate medical Deductible and pharmacy Deductible.
+Pharmacy Network
 
-Family coverage has an individual Deductible within the Family Deductible. This means that the Deductible will be met 
-for an individual with Family coverage who meets the individual Deductible prior to the Family meeting the Family
+Retail 
+Non-preferred
+
+Specialty 
+ Network Pharmacy
+
+Out-of-Network Retail
+
+Pharmacy
+
+In-Network Mail Order
+
+Pharmacy**
+
+Tier 1
+
+$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 2
+
+$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 3
+
+$$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+Tier 4
+ $$$$
+No copay*
+No copay*
+No copay*
+No copay*
+
+8
 
 
 
 ## Page 9
 
+Here’s an example of how the plan’s costs come into play.
+
+More ways to help manage your health plan and stay in the loop.
+
+Search the network to find doctors.
+You can go to providers in and out of our network — but when
+you stay in network, you’ll likely pay less for care. To get started:
+  . Go to welcometouhc.com > Benefits > Find a Doctor or Facility.
+  . Choose  Search for a health plan.
+  . Choose Choice Plus to view providers in the health plan’s network.
+
+Manage your meds.
+Look up your prescriptions using the Prescription Drug List (PDL).
+It places medications in tiers that represent what you’ll pay, which
+may make it easier for you and your doctor to find options to help
+you save money.
+  . Go to welcometouhc.com > Benefits > Pharmacy Benefits.
+  . Select Essential to view the medications that are
+
+covered under your plan.
+
+Access your plan online.
+With myuhc.com®, you’ve got a personalized health hub to help
+you find a doctor, manage your claims, estimate costs and more.
+
+Get on-the-go access.
+When you’re out and about, the UnitedHealthcare® app puts your
+health plan at your fingertips. Download to find nearby care, video
+chat with a doctor 24/7, access your health plan ID card and more.
+
 9
-
-Notes
-
-Deductible within a Calendar Year. Any amount you have paid toward the individual Deductible will be applied to 
-both the individual Deductible and the Family Deductible.
-
-3 
-Using Participating Providers:
-
-Participating Providers have a contract to provide health care services to Members. When you receive Covered 
-Services from a Participating Provider, you are only responsible for the Copayment or Coinsurance, once any Calendar 
-Year Deductible has been met.
-
-Teladoc. Teladoc mental health and substance use disorder consultations are provided through Teladoc. These 
-services are not administered by Blue Shield's Mental Health Service Administrator (MHSA).
-
-4 
-Calendar Year Out-of-Pocket Maximum (OOPM):
-
-Calendar Year Out-of-Pocket Maximum explained. The Out-of-Pocket Maximum is the most you are required to pay 
-for Covered Services in a Calendar Year. Once you reach your Out-of-Pocket Maximum, Blue Shield will pay 100% of 
-the Allowed Charges for Covered Services for the rest of the Calendar Year.
-
-Your payment after you reach the Calendar Year OOPM. You will continue to pay all charges for services that are not 
-covered, charges above the Allowed Charges, and charges for services above any Benefit maximum.
-
-Any Deductibles count towards the OOPM. Any amounts you pay that count towards the medical or pharmacy 
-Calendar Year Deductible also count towards the Calendar Year Out-of-Pocket Maximum.
-
-Family coverage has an individual OOPM within the Family OOPM. This means that the OOPM will be met for an 
-individual with Family coverage who meets the individual OOPM prior to the Family meeting the Family OOPM within 
-a Calendar Year. Any amount you have paid toward the individual OOPM will be applied to both the individual OOPM 
-and the Family OOPM.
-
-5 
-Separate Member Payments When Multiple Covered Services are Received:
-
-Each time you receive multiple Covered Services, you might have separate payments (Copayment or Coinsurance) 
-for each service. When this happens, you may be responsible for multiple Copayments or Coinsurance. For example, 
-you may owe an office visit payment in addition to an allergy serum payment when you visit the doctor for an allergy 
-shot.
-
-6 
-Preventive Health Services:
-
-If you only receive Preventive Health Services during a Physician office visit, there is no Copayment or Coinsurance for 
-the visit. If you receive both Preventive Health Services and other Covered Services during the Physician office visit, 
-you may have a Copayment or Coinsurance for the visit.
-
-7 
-Outpatient Prescription Drug Coverage:
-
-Medicare Part D-creditable coverage-
-
-This Plan’s prescription drug coverage is on average equivalent to or better than the standard benefit set by the 
-federal government for Medicare Part D (also called creditable coverage). Because this plan’s prescription drug 
-coverage is creditable, you do not have to enroll in Medicare Part D while you maintain this coverage; however, you 
-should be aware that if you do not enroll in Medicare Part D within 63 days following termination of this coverage, you 
-could be subject to Medicare Part D premium penalties.
-
-8 
-Outpatient Prescription Drug Coverage:
-
-Brand Drug coverage when a Generic or Biosimilar Drug is available. If you, the Physician, or Health Care Provider, 
-select a Brand Drug when a Generic Drug equivalent or Biosimilar Drug is available, you are responsible for the 
-difference between the cost to Blue Shield for the Brand Drug and its Generic Drug equivalent or Biosimilar Drug plus
 
 
 
 ## Page 10
 
+Other important information about your benefits.
+
+Medical Exclusions
+
+Services your plan generally does NOT cover. It is recommended that you review your COC, Amendments and Riders for an exact description  of
+the services and supplies that are covered, those which are excluded or limited, and other terms and conditions of coverage.
+• Acupuncture
+• Bariatric Surgery 
+• Cosmetic Surgery
+• Dental Care (Adult)
+• Infertility Treatment
+• Long-Term Care
+• Non-emergency care when traveling outside the U.S.
+• Private-Duty Nursing
+• Routine Eye Care (Adult)
+• Routine Foot Care
+• Weight Loss Programs
+
+Outpatient Prescription Drug Benefits
+
+For Prescription Drug Products dispensed at an In-Network Retail Pharmacy, you are responsible for paying the lowest of the following: 1) The
+applicable Copayment and/or Coinsurance; 2) The In- Network Retail Pharmacy Usual and Customary Charge for the Prescription Drug Product;
+and 3) The Prescription Drug Charge for that Prescription Drug Product. For Prescription Drug Products from an In-Network Mail Order Pharmacy,
+you are responsible for paying the lower of the following: 1) The applicable Copayment and/or Coinsurance; and 2) The Prescription Drug Charge
+for that Prescription Drug Product. For an out-of-Network Retail Pharmacy, your reimbursement is based on the Out-of-Network Reimbursement
+Rate, and you are responsible for the difference between the Out-of-Network Reimbursement Rate and the out-of-Network Pharmacy’s Usual and
+Customary Charge.
+
+See the Copayment and/or Coinsurance stated in the Benefit Information table for amounts. We will not reimburse you for any non-covered drug
+product.
+
+For a single Copayment and/or Coinsurance, you may receive a Prescription Drug Product up to the stated supply limit. Some products are subject
+to additional supply limits based on criteria that we have developed. Supply limits are subject, from time to time, to our review and change.
+
+Specialty Prescription Drug Products supply limits are as written by the provider, up to a consecutive 31-day supply of the Specialty Prescription
+Drug Product, unless adjusted based on the drug manufacturer’s packaging size, or based on supply limits, or as allowed under the Smart Fill
+Program. Supply limits apply to Specialty Prescription Drug Products obtained at a Preferred Specialty Network Pharmacy, a Non-Preferred
+Specialty Network Pharmacy, an out-of-Network Pharmacy, a mail order Network Pharmacy or a Designated Pharmacy.
+
+Certain Prescription Drug Products for which Benefits are described under the Prescription Drug Rider are subject to step therapy requirements. In
+order to receive Benefits for such Prescription Drug Products you must use a different Prescription Drug Product(s) or pharmaceutical product(s) for
+which Benefits are provided as described under the Certificate first. You may find out whether a Prescription Drug Product is subject to step therapy
+requirements by contacting us at myuhc.com or the telephone number on your ID card.
+
+Before certain Prescription Drug Products are dispensed to you, your Physician, your pharmacist or you are required to obtain prior authorization
+from us or our designee to determine whether the Prescription Drug Product is in accordance with our approved guidelines and it meets the
+definition of a Covered Health Care Service and is not an Experimental or Investigational or Unproven Service. We may also require you to obtain
+prior authorization from us or our designee so we can determine whether the Prescription Drug Product, in accordance with our approved
+guidelines, was prescribed by a Specialist.
+
+If you require certain Prescription Drug Products, we may direct you to a Designated Pharmacy with whom we have an arrangement to provide
+those Prescription Drug Products. If you are directed to a Designated Pharmacy and you choose not to obtain your Prescription Drug Product from
+the Designated Pharmacy, you will be subject to the Out-of-Network Benefit for that Prescription Drug Product.
+
+Certain Preventative Care Medications may be covered at zero costshare. You can get more information by contacting us at myuhc.com or the
+telephone number on your ID card.
+
+Benefits are provided for certain Prescription Drug Products dispensed by an In-Network Mail Order Pharmacy or Preferred 90 Day Retail Network
+Pharmacy. The Outpatient Prescription Drug Schedule of Benefits will tell you how In-Network Mail Order Pharmacy and Preferred 90 Day Retail
+Network Pharmacy supply limits apply. Please contact us at myuhc.com or the telephone number on your ID card to find out if Benefits are
+provided for your Prescription Drug Product and for information on how to obtain your Prescription Drug Product through an In-Network Mail Order
+Pharmacy or Preferred 90 Day Retail Network Pharmacy.
+
 10
-
-Notes
-
-the applicable tier Copayment or Coinsurance of the Brand Drug. This difference in cost will not count towards any 
-Calendar Year pharmacy Deductible, medical Deductible, or the Calendar Year Out-of-Pocket Maximum.
-
-See the Obtaining outpatient prescription Drugs at a Participating Pharmacy section of the EOC for more information 
-about how a brand contraceptive may be covered without a Copayment or Coinsurance.
-
-Request for Medical Necessity Review. If you or your Physician believes a Brand Drug is Medically Necessary, either 
-person may request a Medical Necessity Review. If approved, the Brand Drug will be covered at the applicable Drug 
-tier Copayment or Coinsurance.
-
-Short-Cycle Specialty Drug program. This program allows initial prescriptions for select Specialty Drugs to be filled for a 
-15-day supply with your approval. When this occurs, the Copayment or Coinsurance will be pro-rated.
-
-Specialty Drugs. Specialty Drugs are only available from a Network Specialty Pharmacy, up to a 30-day supply.
-
-Oral Anticancer Drugs. You pay up to $250 for oral Anticancer Drugs from a Participating Pharmacy, up to a 30-day 
-supply. Oral Anticancer Drugs from a Participating Pharmacy are not subject to any Deductible.
-
-Retail pharmacy. You may receive up to a 90-day supply for maintenance Drugs at a Participating Pharmacy when 
-you pay the applicable Copayment or Coinsurance for each 30-day supply.
-
-Mail service Drugs. You pay the applicable 30-day retail pharmacy Copayment or Coinsurance for a 30-day supply or 
-less from the mail service pharmacy.
-
-9 
-Pediatric Dental Coverage:
-
-Pediatric dental Benefits are provided through Blue Shield’s Dental Plan Administrator (DPA).
-
-Orthodontic Covered Services. The Copayment or Coinsurance for Medically Necessary orthodontic Covered Services 
-applies to a course of treatment even if it extends beyond a Calendar Year. This applies as long as the Member remains 
-enrolled in the Plan.
-
-This plan is compliant with requirements of the pediatric dental EHB benchmark plan, including coverage of services 
-in circumstances of Medical Necessity as defined in the Early Periodic Screening, Diagnosis and Treatment (EPSDT) 
-benefit.
-
-10 Pediatric Vision Coverage:
-
-Pediatric vision Benefits are provided through Blue Shield’s Vision Plan Administrator (VPA).
-
-Coverage for frames. If frames are selected that are more expensive than the Allowable Amount established for 
-frames under this Benefit, you pay the difference between the Allowable Amount and the provider’s charge.
-
-“Collection frames” are covered with no Member payment from Participating Providers. Retail chain Participating 
-Providers do not usually display the frames as “collection,” but a comparable selection of frames is maintained.
-
-“Non-collection frames” are covered up to an Allowable Amount of $150; however, if the Participating Provider 
-uses:
-
-• 
-wholesale pricing, then the Allowable Amount will be up to $103.64.
-
-Participating Providers using wholesale pricing are identified in the provider directory.
-
-Plans may be modified to ensure compliance with State and Federal requirements.
 -----
 Output the target's JSON only:

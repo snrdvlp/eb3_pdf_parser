@@ -52,8 +52,11 @@ async def extract_json_endpoint(
     temp = start
 
     pdf_bytes = await file.read()
+
+    dest_pdf_text = pdf_to_text(pdf_bytes)
+
     # Search for top_K similar samples instead of just 1
-    sims = db.search_similar_pdf(category.lower(), pdf_bytes, top_k=1)   # Get 2 for few-shot!
+    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)   # Get 1 for few-shot!
     if not sims:
         return JSONResponse(
             status_code=400,
@@ -71,8 +74,6 @@ async def extract_json_endpoint(
         sample_pdf_text = pdf_to_text(open(s['pdf_path'], 'rb').read())
         sample_json = s['json_data']
         sample_pairs.append((sample_pdf_text, sample_json))
-
-    dest_pdf_text = pdf_to_text(pdf_bytes)
 
     # Record the parsing pdf to string elapsed time
     elapsed = time.perf_counter() - temp

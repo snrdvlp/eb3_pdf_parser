@@ -8,7 +8,7 @@ class RemoteLLM:
     def __init__(self, endpoint="http://143.110.210.212/chat"):
         self.endpoint = endpoint
 
-    def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 1024):
+    def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 800):
         """
         Sends system and user prompts to the remote LLM server and returns its response.
         """

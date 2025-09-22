@@ -51,10 +51,7 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 """,
     "health":"""
 **CRITICAL FIELD EXTRACTION FOR HEALTH BENEFITS:**
-- For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance",
-"PCP Visit", "Specialist Visit", "Urgent Care Visit", "ER Visit", "Preventive Visit",
-"Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics",
-"RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance", "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics", "RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX"(both In-Network and Out-of-Network), generally the In-Network and Out-of-Network values are placed next to each other, you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - If these fields are not present in the target PDF, return an empty string ("").
 
 """
@@ -151,18 +148,22 @@ def ask_llm_mapping_logic(
     # with open("user_prompt.txt", "w", encoding="utf-8") as f:
     #     f.write(user_prompt)  # your PDF->text output
 
-
     result_json = llm.chat(system_prompt, user_prompt)
-    
     print(f"result_json is:\n{result_json}")
-    try:
-        parsed = json.loads(result_json)
-    except Exception:
-        # Sometimes LLM adds markdown code fencing
-        result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
-        parsed = json.loads(result_json)
-
-    return parsed
+    if isinstance(result_json, dict):
+        return result_json
+    if isinstance(result_json, str):
+        result_json = result_json.strip()
+        if not result_json:
+            return {"error": "Empty response from LLM/proxy"}
+        try:
+            parsed = json.loads(result_json)
+        except Exception:
+            # Sometimes LLM adds markdown code fencing
+            result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
+            parsed = json.loads(result_json)
+        return parsed
+    return {"error": f"Unexpected type: {type(result_json)}"}
 
 def fill_from_matched_sample(result_json: dict, matched_sample_json: dict):
     """Fill default-likely fields from matched sample if missing."""
