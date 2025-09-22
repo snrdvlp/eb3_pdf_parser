@@ -2,3236 +2,2081 @@ SAMPLE PDF TEXT #1:
 -----
 ## Page 1
 
+### A54303 (1/25)  
+1
 
+Summary of Benefits 
+Group Plan
 
-### Table (Page 1)
+HMO Plan 
+Blue Shield Access+ Silver 70 HMO® 2500/55 PCP + Child Dental
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Employee-Paid |  |  |  |
-| CRITICAL ILLNESS INSURANCE |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+This Summary of Benefits shows the amount you will pay for Covered Services under this Blue Shield of California Plan. It 
+is only a summary and it is included as part of the Evidence of Coverage (EOC).1 Please read both documents carefully 
+for details.
 
+Medical Provider Network: 
+Access+ HMO Network
 
+This Plan uses a specific network of Health Care Providers, called the Access+ HMO provider network. Medical 
+Groups, Independent Practice Associations (IPAs), and Physicians in this network are called Participating Providers. 
+You must select a Primary Care Physician from this network to provide your primary care and help you access 
+services, but there are some exceptions. Please review your Evidence of Coverage for details about how to access 
+care under this Plan. You can find Participating Providers in this network at blueshieldca.com.
 
-### Table (Page 1)
+Pharmacy Network: 
+Rx Ultra
 
-|  | Benefit Amount | Guaranteed Issue Amount |
-| --- | --- | --- |
-|  | $5,000, $10,000, $15,000, $20,000, $25,000 |  |
-| Employee | $5,000, $10,000, $15,000, $20,000, $25,000 | Up to $30,000 |
-|  | $30,000 |  |
-|  |  |  |
-| Spouse | 50% of employee amount | Up to $15,000 |
-| Children | 50% of employee amount | All guaranteed issue |
+Drug Formulary: 
+Standard Formulary
 
+Calendar Year Deductibles (CYD)2
 
+A Calendar Year Deductible (CYD) is the amount a Member pays each Calendar Year before Blue Shield pays for 
+Covered Services under the Plan. Blue Shield pays for some Covered Services before the Calendar Year Deductible is 
+met, as noted in the Benefits chart below.
 
-### Table (Page 1)
+When using a Participating Provider3
 
-| Covered Conditions | Benefit Amount |
-| --- | --- |
+Calendar Year medical Deductible 
+Individual coverage 
+$2,500
 
+Family coverage 
+$2,500: individual
 
+$5,000: Family
 
-### Table (Page 1)
+Calendar Year pharmacy Deductible 
+Individual coverage
 
-| Skin Cancer* | $250 1x per lifetime |
-| --- | --- |
+Family coverage
 
+$300
 
+$300: individual
 
-### Table (Page 1)
+$600: Family
 
-|  |  | Recurrence % of Initial |
-| --- | --- | --- |
-| Covered Conditions | Initial Benefit Amount % | Benefit Amount |
-| Invasive Cancer | 100% | 100% |
-| Carcinoma in Situ | 25% | 25% |
+Calendar Year Out-of-Pocket Maximum4
 
+An Out-of-Pocket Maximum is the most a Member will pay for Covered 
+Services each Calendar Year. Any exceptions are listed in the EOC.
 
+No Annual or Lifetime Dollar Limit
 
-### Table (Page 1)
-
-| Heart Attack | 100% | 100% |
-| --- | --- | --- |
-| Stroke | 100% | 100% |
-| Coronary Artery Disease | 25% | 25% |
-
-Distributed by: Operating subsidiaries of Cigna Corporation.  Insurance benefits are underwritten by Cigna Health and 
-Life Insurance Company.
-
-Employee-Paid 
+When using a Participating Provider3 
  
-CRITICAL ILLNESS INSURANCE
+Under this Plan there is no annual or 
+lifetime dollar limit on the amount Blue 
+Shield will pay for Covered Services.     
+Individual coverage 
+$8,750
 
-SUMMARY OF BENEFITS 
-Prepared for: Troon Golf, LLC 
- 
-Critical Illness insurance provides a cash benefit when a Covered Person is diagnosed with a covered 
-critical illness or event after coverage is in effect.    See State Variations (marked by *) below. 
- 
-Who Can Elect Coverage: 
-Eligibility for You, Your Spouse and Your Children will be considered by Your employer. 
-You: See your employer to determine your eligibility. 
-Your Spouse:* Up to age 100, as long as you apply for and are approved for coverage yourself. 
-Your Child(ren): Birth to age 26; 26+ if disabled, as long as you apply for and are approved for coverage yourself. 
- 
-Available Coverage: 
-The benefit amounts shown will be paid regardless of the actual expenses incurred. The benefit descriptions are a 
-summary only. There are terms, conditions, state variations, exclusions and limitations applicable to these benefits. 
-Please read all of the information in this Summary and your Certificate of Insurance for more information. All Covered 
-Critical Illness Conditions must be due to disease or sickness. 
-For the Recurrence benefit to be available, the Covered Person must be treatment free and a Physician has 
-determined that there is no evidence of active disease.
+Family coverage 
+$8,750: individual
 
-Benefit Amount 
-Guaranteed Issue Amount
+$17,500: Family
 
-Employee 
-$5,000, $10,000, $15,000, $20,000, $25,000
-
-$30,000 
-Up to $30,000
-
-Spouse 
-50% of employee amount 
-Up to $15,000  
-Children 
-50% of employee amount 
-All guaranteed issue 
-See “Guaranteed Issue” section below for more information.
-
-Covered Conditions 
-Benefit Amount 
-Cancer Conditions 
- 
-Skin Cancer* 
-$250 1x per lifetime
-
-Covered Conditions 
-Initial Benefit Amount %
-
-Recurrence % of Initial
-
-Benefit Amount 
-Invasive Cancer 
-100% 
-100% 
-Carcinoma in Situ 
-25% 
-25% 
-Vascular Conditions 
- 
-Heart Attack 
-100% 
-100% 
-Stroke 
-100% 
-100% 
-Coronary Artery Disease 
-25% 
-25%
+Blue Shield of California is an independent member of the Blue Shield Association
 
 
 
 ## Page 2
 
+2
 
+Benefits5 
+Your payment
 
-### Table (Page 2)
+When using a Participating
 
-|  |  | Recurrence % of Initial |
-| --- | --- | --- |
-| Covered Conditions | Initial Benefit Amount % | Benefit Amount |
+Provider3
 
+CYD2 
+applies
 
+Preventive Health Services6
 
-### Table (Page 2)
+Preventive Health Services 
+$0
 
-| Advanced Stage Alzheimer's |  |  |
-| --- | --- | --- |
-|  | 100% | Not Available |
-| Disease | 100% |  |
-|  |  |  |
-| Amyotrophic Lateral Sclerosis (ALS) | 25% | Not Available |
-| Parkinson's Disease | 100% | Not Available |
-| Multiple Sclerosis | 100% | Not Available |
+California Prenatal Screening Program 
+$0
 
+Physician services
 
+Primary care office visit 
+$55/visit
 
-### Table (Page 2)
+Access+ specialist care office visit (self-referral) 
+$90/visit
 
-| Benign Brain Tumor | 100% | 100% |
-| --- | --- | --- |
-| Blindness | 100% | Not Available |
-| Coma | 25% | 25% |
-| End-Stage Renal (Kidney) Disease | 100% | 100% |
-| Major Organ Failure | 100% | 100% |
-| Paralysis | 100% | 100% |
-| Pulmonary Embolism | 25% | 25% |
+Other specialist care office visit (referred by PCP) 
+$90/visit
 
+Physician home visit 
+$55/visit
 
+Physician or surgeon services in an Outpatient Facility 
+35%
 
-### Table (Page 2)
+Physician or surgeon services in an inpatient facility 
+35%
 
-| Wellness Treatment, Health Screening Test and Preventive Care |  |  |  |
-| --- | --- | --- | --- |
-| Benefit* |  |  | Benefit Amount |
-| The benefit amount shown will be paid regardless of the actual expenses |  |  |  |
-| incurred and is paid on a per day basis. Also includes COVID-19 Immunization. |  |  | $50 1 per year |
-| Virtual Care accepted. |  |  | $50 1 per year |
-|  |  |  |  |
-| Benefits |  |  |  |
-|  | Benefit for a diagnosis made after the effective date of coverage for each Covered |  |  |
-|  | Condition shown above. The amount payable per Covered Condition is the Initial Benefit |  |  |
-| Initial Critical Illness Benefit |  |  |  |
-|  | Amount multiplied by the applicable percentage shown. Each Covered Condition will be |  |  |
-|  |  |  |  |
-|  | payable one time per Covered Person. |  |  |
-|  | Benefit for the diagnosis of a subsequent and same Covered Condition for which an Initial |  |  |
-| Recurrence Benefit |  |  |  |
-|  | Critical Illness Benefit has been paid. |  |  |
-|  |  |  |  |
-| Skin Cancer Benefit | Pays benefit stated above. |  |  |
-|  |  |  |  |
-| Additional Benefits |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| Hospital Indemnity - Pandemic Infectious Disease Admission Only |  |  |  |
-| Benefit* |  | Hospital PID Admission: $3000 per admission |  |
-| Pays when a Covered Person is confined to a hospital due to any |  | (Limited to 1 days, 1 benefit every 12 months) |  |
-| Pandemic Infectious Disease (PID) hospitalization, including COVID-19. |  |  |  |
-|  |  |  |  |
+Other professional services
 
+Other practitioner office visit 
+$55/visit
 
+Includes nurse practitioners, physician assistants, therapists, and 
+podiatrists.
 
-### Table (Page 2)
+Acupuncture services 
+$55/visit
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $0.99 | $1.19 | $1.75 | $2.06 | $1.42 | $1.62 | $2.18 | $2.51 |
-| 25 to 29 | $1.23 | $1.63 | $2.16 | $2.82 | $1.66 | $2.06 | $2.60 | $3.24 |
-| 30 to 34 | $1.64 | $2.57 | $3.04 | $4.37 | $2.17 | $3.00 | $3.47 | $4.81 |
-| 35 to 39 | $1.70 | $3.76 | $4.18 | $6.97 | $2.87 | $4.62 | $4.61 | $7.40 |
-| 40 to 44 | $2.40 | $5.65 | $5.74 | $10.20 | $3.89 | $6.72 | $6.18 | $10.62 |
-| 45 to 49 | $3.54 | $8.92 | $8.17 | $15.61 | $5.51 | $10.37 | $8.60 | $16.06 |
-| 50 to 54 | $5.81 | $12.36 | $11.35 | $21.31 | $7.70 | $14.17 | $11.79 | $21.74 |
-| 55 to 59 | $9.20 | $17.04 | $15.68 | $28.92 | $10.67 | $19.38 | $16.12 | $29.35 |
+Chiropractic services 
+Not covered
 
-Covered Conditions 
-Initial Benefit Amount %
+Teladoc consultation 
+$0
 
-Recurrence % of Initial
+Family planning
 
-Benefit Amount 
-Nervous System Conditions 
- 
-Advanced Stage Alzheimer's 
-Disease 
-100% 
-Not Available
+• 
+Counseling, consulting, and education 
+$0
 
-Amyotrophic Lateral Sclerosis (ALS) 
-25% 
-Not Available 
-Parkinson's Disease 
-100% 
-Not Available 
-Multiple Sclerosis 
-100% 
-Not Available 
-Other Specified Conditions 
- 
-Benign Brain Tumor 
-100% 
-100% 
-Blindness 
-100% 
-Not Available 
-Coma 
-25% 
-25% 
-End-Stage Renal (Kidney) Disease 
-100% 
-100% 
-Major Organ Failure 
-100% 
-100% 
-Paralysis 
-100% 
-100% 
-Pulmonary Embolism 
-25% 
-25% 
- 
-Wellness Treatment, Health Screening Test and Preventive Care 
-Benefit* 
-Benefit Amount 
-The benefit amount shown will be paid regardless of the actual expenses 
-incurred and is paid on a per day basis.  Also includes COVID-19 Immunization. 
-Virtual Care accepted.
+• 
+Injectable contraceptive, diaphragm fitting, intrauterine 
+device (IUD), implantable contraceptive, and related 
+procedure.
 
-$50  1 per year
+$0
 
-Benefits
+• 
+Tubal ligation 
+$0
 
-Initial Critical Illness Benefit
+• 
+Vasectomy 
+$0
 
-Benefit for a diagnosis made after the effective date of coverage for each Covered 
-Condition shown above. The amount payable per Covered Condition is the Initial Benefit 
-Amount multiplied by the applicable percentage shown. Each Covered Condition will be 
-payable one time per Covered Person.
+Pregnancy and maternity care
 
-Recurrence Benefit 
-Benefit for the diagnosis of a subsequent and same Covered Condition for which an Initial 
-Critical Illness Benefit has been paid. 
-Skin Cancer Benefit 
-Pays benefit stated above.
+Physician office visits: prenatal and initial postnatal 
+$0
 
-Additional Benefits 
- 
- 
- 
-Hospital Indemnity - Pandemic Infectious Disease Admission Only 
-Benefit* 
-Pays when a Covered Person is confined to a hospital due to any 
-Pandemic Infectious Disease (PID) hospitalization, including COVID-19.
+Abortion and abortion-related services 
+$0
 
-Hospital PID Admission: $3000 per admission 
-(Limited to 1 days, 1 benefit every 12 months)
+Emergency Services
 
-Portability Feature: You can continue 100% of coverage for all Covered Persons at the time Your coverage ends. You 
-must be covered under the policy and be under the age of 100 in order to continue your coverage. Rates may change and 
-all coverage ends at age 100. Applies to United States Citizens and Permanent Resident Aliens residing in the United 
-States. 
- 
- 
- 
-Employee’s Bi-Weekly Cost of Coverage:
+Emergency room services 
+35% 
+
 
-Benefit Amount: $5,000
+If admitted to the Hospital, this payment for emergency room 
+services does not apply. Instead, you pay the Participating 
+Provider payment under Inpatient facility services/ Hospital 
+services and stay.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$0.99 
-$1.19 
-$1.75 
-$2.06 
-$1.42 
-$1.62 
-$2.18 
-$2.51 
-25 to 29 
-$1.23 
-$1.63 
-$2.16 
-$2.82 
-$1.66 
-$2.06 
-$2.60 
-$3.24 
-30 to 34 
-$1.64 
-$2.57 
-$3.04 
-$4.37 
-$2.17 
-$3.00 
-$3.47 
-$4.81 
-35 to 39 
-$1.70 
-$3.76 
-$4.18 
-$6.97 
-$2.87 
-$4.62 
-$4.61 
-$7.40 
-40 to 44 
-$2.40 
-$5.65 
-$5.74 
-$10.20 
-$3.89 
-$6.72 
-$6.18 
-$10.62 
-45 to 49 
-$3.54 
-$8.92 
-$8.17 
-$15.61 
-$5.51 
-$10.37 
-$8.60 
-$16.06 
-50 to 54 
-$5.81 
-$12.36 
-$11.35 
-$21.31 
-$7.70 
-$14.17 
-$11.79 
-$21.74 
-55 to 59 
-$9.20 
-$17.04 
-$15.68 
-$28.92 
-$10.67 
-$19.38 
-$16.12 
-$29.35
+Emergency room Physician services 
+$0
 
 
 
 ## Page 3
 
+3
 
+Benefits5 
+Your payment
 
-### Table (Page 3)
+When using a Participating
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| 60 to 64 | $12.02 | $24.60 | $20.80 | $37.11 | $14.19 | $25.03 | $21.23 | $37.54 |
-| 65 to 69 | $18.36 | $30.04 | $27.38 | $45.51 | $18.80 | $30.47 | $27.82 | $45.94 |
-| 70 to 74 | $23.50 | $36.80 | $34.87 | $55.20 | $23.94 | $37.23 | $35.30 | $55.63 |
-| 75 to 79 | $29.22 | $40.85 | $43.26 | $61.87 | $29.64 | $41.28 | $43.69 | $62.31 |
-| 80 to 84 | $33.13 | $46.37 | $50.02 | $71.33 | $33.57 | $46.80 | $50.46 | $71.77 |
-| 85 to 89 | $42.73 | $50.56 | $59.72 | $71.96 | $43.17 | $51.00 | $60.15 | $72.40 |
-| 90 to 94 | $42.73 | $50.56 | $59.72 | $71.96 | $43.17 | $51.00 | $60.15 | $72.40 |
-| 95+ | $42.73 | $50.56 | $59.72 | $71.96 | $43.17 | $51.00 | $60.15 | $72.40 |
+Provider3
 
+CYD2 
+applies
 
+Urgent care center services 
+$55/visit
 
-### Table (Page 3)
+Ambulance services 
+35% 
+
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $1.98 | $2.38 | $3.50 | $4.13 | $2.84 | $3.24 | $4.37 | $5.01 |
-| 25 to 29 | $2.46 | $3.26 | $4.32 | $5.63 | $3.32 | $4.13 | $5.21 | $6.49 |
-| 30 to 34 | $3.28 | $5.13 | $6.07 | $8.73 | $4.34 | $5.99 | $6.93 | $9.61 |
-| 35 to 39 | $3.40 | $7.51 | $8.35 | $13.94 | $5.73 | $9.23 | $9.21 | $14.80 |
-| 40 to 44 | $4.80 | $11.29 | $11.47 | $20.39 | $7.77 | $13.44 | $12.36 | $21.25 |
-| 45 to 49 | $7.09 | $17.84 | $16.34 | $31.23 | $11.02 | $20.73 | $17.21 | $32.11 |
-| 50 to 54 | $11.62 | $24.72 | $22.69 | $42.62 | $15.40 | $28.34 | $23.58 | $43.49 |
-| 55 to 59 | $18.41 | $34.09 | $31.37 | $57.83 | $21.33 | $38.76 | $32.23 | $58.71 |
-| 60 to 64 | $24.04 | $49.20 | $41.60 | $74.21 | $28.38 | $50.05 | $42.46 | $75.07 |
-| 65 to 69 | $36.72 | $60.07 | $54.76 | $91.02 | $37.60 | $60.93 | $55.64 | $91.88 |
-| 70 to 74 | $46.99 | $73.59 | $69.74 | $110.41 | $47.87 | $74.45 | $70.61 | $111.27 |
-| 75 to 79 | $58.43 | $81.70 | $86.51 | $123.75 | $59.29 | $82.56 | $87.37 | $124.61 |
-| 80 to 84 | $66.26 | $92.74 | $100.03 | $142.66 | $67.14 | $93.60 | $100.91 | $143.54 |
-| 85 to 89 | $85.47 | $101.11 | $119.44 | $143.92 | $86.33 | $102.00 | $120.30 | $144.80 |
-| 90 to 94 | $85.47 | $101.11 | $119.44 | $143.92 | $86.33 | $102.00 | $120.30 | $144.80 |
-| 95+ | $85.47 | $101.11 | $119.44 | $143.92 | $86.33 | $102.00 | $120.30 | $144.80 |
+This payment is for emergency or authorized transport.
 
+Outpatient Facility services
 
+Ambulatory Surgery Center 
+35% 
+
 
-### Table (Page 3)
+Outpatient Department of a Hospital: surgery 
+35% 
+
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $2.97 | $3.57 | $5.26 | $6.19 | $4.26 | $4.87 | $6.55 | $7.51 |
-| 25 to 29 | $3.69 | $4.90 | $6.49 | $8.44 | $4.98 | $6.19 | $7.81 | $9.73 |
-| 30 to 34 | $4.92 | $7.69 | $9.11 | $13.10 | $6.52 | $8.98 | $10.39 | $14.42 |
-| 35 to 39 | $5.10 | $11.27 | $12.53 | $20.91 | $8.59 | $13.85 | $13.82 | $22.20 |
-| 40 to 44 | $7.21 | $16.94 | $17.21 | $30.59 | $11.65 | $20.16 | $18.54 | $31.87 |
-| 45 to 49 | $10.63 | $26.76 | $24.52 | $46.84 | $16.53 | $31.09 | $25.81 | $48.17 |
-| 50 to 54 | $17.43 | $37.08 | $34.04 | $63.94 | $23.10 | $42.52 | $35.36 | $65.23 |
-| 55 to 59 | $27.61 | $51.13 | $47.05 | $86.74 | $32.00 | $58.14 | $48.35 | $88.06 |
-| 60 to 64 | $36.06 | $73.80 | $62.40 | $111.32 | $42.57 | $75.08 | $63.69 | $112.61 |
-| 65 to 69 | $55.08 | $90.11 | $82.14 | $136.52 | $56.40 | $91.40 | $83.46 | $137.82 |
-| 70 to 74 | $70.49 | $110.39 | $104.62 | $165.61 | $71.81 | $111.68 | $105.91 | $166.90 |
-| 75 to 79 | $87.64 | $122.55 | $129.77 | $185.62 | $88.93 | $123.85 | $131.06 | $186.92 |
-| 80 to 84 | $99.39 | $139.11 | $150.05 | $213.99 | $100.71 | $140.40 | $151.37 | $215.31 |
-| 85 to 89 | $128.20 | $151.67 | $179.16 | $215.88 | $129.50 | $153.00 | $180.46 | $217.20 |
-| 90 to 94 | $128.20 | $151.67 | $179.16 | $215.88 | $129.50 | $153.00 | $180.46 | $217.20 |
-| 95+ | $128.20 | $151.67 | $179.16 | $215.88 | $129.50 | $153.00 | $180.46 | $217.20 |
+Outpatient Department of a Hospital: treatment of illness or injury, 
+radiation therapy, chemotherapy, and necessary supplies 
+35%
 
+Inpatient facility services
 
+Hospital services and stay 
+35% 
+
 
-### Table (Page 3)
+Transplant services
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $3.96 | $4.76 | $7.01 | $8.25 | $5.69 | $6.49 | $8.73 | $10.02 |
-| 25 to 29 | $4.92 | $6.53 | $8.65 | $11.25 | $6.65 | $8.25 | $10.41 | $12.98 |
-| 30 to 34 | $6.56 | $10.26 | $12.14 | $17.46 | $8.69 | $11.97 | $13.86 | $19.23 |
-| 35 to 39 | $6.80 | $15.02 | $16.70 | $27.88 | $11.46 | $18.46 | $18.42 | $29.60 |
-| 40 to 44 | $9.61 | $22.59 | $22.95 | $40.78 | $15.54 | $26.88 | $24.71 | $42.50 |
-| 45 to 49 | $14.18 | $35.69 | $32.69 | $62.46 | $22.03 | $41.46 | $34.41 | $64.22 |
-| 50 to 54 | $23.23 | $49.43 | $45.39 | $85.25 | $30.80 | $56.69 | $47.15 | $86.97 |
-| 55 to 59 | $36.81 | $68.18 | $62.73 | $115.65 | $42.66 | $77.51 | $64.46 | $117.42 |
+This payment is for all covered transplants except tissue and 
+kidney. For tissue and kidney transplant services, the payment for 
+Inpatient facility services/ Hospital services and stay applies.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-60 to 64 
-$12.02 
-$24.60 
-$20.80 
-$37.11 
-$14.19 
-$25.03 
-$21.23 
-$37.54 
-65 to 69 
-$18.36 
-$30.04 
-$27.38 
-$45.51 
-$18.80 
-$30.47 
-$27.82 
-$45.94 
-70 to 74 
-$23.50 
-$36.80 
-$34.87 
-$55.20 
-$23.94 
-$37.23 
-$35.30 
-$55.63 
-75 to 79 
-$29.22 
-$40.85 
-$43.26 
-$61.87 
-$29.64 
-$41.28 
-$43.69 
-$62.31 
-80 to 84 
-$33.13 
-$46.37 
-$50.02 
-$71.33 
-$33.57 
-$46.80 
-$50.46 
-$71.77 
-85 to 89 
-$42.73 
-$50.56 
-$59.72 
-$71.96 
-$43.17 
-$51.00 
-$60.15 
-$72.40 
-90 to 94 
-$42.73 
-$50.56 
-$59.72 
-$71.96 
-$43.17 
-$51.00 
-$60.15 
-$72.40 
-95+ 
-$42.73 
-$50.56 
-$59.72 
-$71.96 
-$43.17 
-$51.00 
-$60.15 
-$72.40
+• 
+Special transplant facility inpatient services 
+35% 
+
 
-Benefit Amount: $10,000
+• 
+Physician inpatient services 
+35%
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$1.98 
-$2.38 
-$3.50 
-$4.13 
-$2.84 
-$3.24 
-$4.37 
-$5.01 
-25 to 29 
-$2.46 
-$3.26 
-$4.32 
-$5.63 
-$3.32 
-$4.13 
-$5.21 
-$6.49 
-30 to 34 
-$3.28 
-$5.13 
-$6.07 
-$8.73 
-$4.34 
-$5.99 
-$6.93 
-$9.61 
-35 to 39 
-$3.40 
-$7.51 
-$8.35 
-$13.94 
-$5.73 
-$9.23 
-$9.21 
-$14.80 
-40 to 44 
-$4.80 
-$11.29 
-$11.47 
-$20.39 
-$7.77 
-$13.44 
-$12.36 
-$21.25 
-45 to 49 
-$7.09 
-$17.84 
-$16.34 
-$31.23 
-$11.02 
-$20.73 
-$17.21 
-$32.11 
-50 to 54 
-$11.62 
-$24.72 
-$22.69 
-$42.62 
-$15.40 
-$28.34 
-$23.58 
-$43.49 
-55 to 59 
-$18.41 
-$34.09 
-$31.37 
-$57.83 
-$21.33 
-$38.76 
-$32.23 
-$58.71 
-60 to 64 
-$24.04 
-$49.20 
-$41.60 
-$74.21 
-$28.38 
-$50.05 
-$42.46 
-$75.07 
-65 to 69 
-$36.72 
-$60.07 
-$54.76 
-$91.02 
-$37.60 
-$60.93 
-$55.64 
-$91.88 
-70 to 74 
-$46.99 
-$73.59 
-$69.74 
-$110.41 
-$47.87 
-$74.45 
-$70.61 
-$111.27 
-75 to 79 
-$58.43 
-$81.70 
-$86.51 
-$123.75 
-$59.29 
-$82.56 
-$87.37 
-$124.61 
-80 to 84 
-$66.26 
-$92.74 
-$100.03 
-$142.66 
-$67.14 
-$93.60 
-$100.91 
-$143.54 
-85 to 89 
-$85.47 
-$101.11 
-$119.44 
-$143.92 
-$86.33 
-$102.00 
-$120.30 
-$144.80 
-90 to 94 
-$85.47 
-$101.11 
-$119.44 
-$143.92 
-$86.33 
-$102.00 
-$120.30 
-$144.80 
-95+ 
-$85.47 
-$101.11 
-$119.44 
-$143.92 
-$86.33 
-$102.00 
-$120.30 
-$144.80
+Diagnostic x-ray, imaging, pathology, and laboratory services
 
-Benefit Amount: $15,000
+This payment is for Covered Services that are diagnostic, non-
+Preventive Health Services, and diagnostic radiological procedures. 
+For the payments for Covered Services that are considered 
+Preventive Health Services, see Preventive Health Services.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$2.97 
-$3.57 
-$5.26 
-$6.19 
-$4.26 
-$4.87 
-$6.55 
-$7.51 
-25 to 29 
-$3.69 
-$4.90 
-$6.49 
-$8.44 
-$4.98 
-$6.19 
-$7.81 
-$9.73 
-30 to 34 
-$4.92 
-$7.69 
-$9.11 
-$13.10 
-$6.52 
-$8.98 
-$10.39 
-$14.42 
-35 to 39 
-$5.10 
-$11.27 
-$12.53 
-$20.91 
-$8.59 
-$13.85 
-$13.82 
-$22.20 
-40 to 44 
-$7.21 
-$16.94 
-$17.21 
-$30.59 
-$11.65 
-$20.16 
-$18.54 
-$31.87 
-45 to 49 
-$10.63 
-$26.76 
-$24.52 
-$46.84 
-$16.53 
-$31.09 
-$25.81 
-$48.17 
-50 to 54 
-$17.43 
-$37.08 
-$34.04 
-$63.94 
-$23.10 
-$42.52 
-$35.36 
-$65.23 
-55 to 59 
-$27.61 
-$51.13 
-$47.05 
-$86.74 
-$32.00 
-$58.14 
-$48.35 
-$88.06 
-60 to 64 
-$36.06 
-$73.80 
-$62.40 
-$111.32 
-$42.57 
-$75.08 
-$63.69 
-$112.61 
-65 to 69 
-$55.08 
-$90.11 
-$82.14 
-$136.52 
-$56.40 
-$91.40 
-$83.46 
-$137.82 
-70 to 74 
-$70.49 
-$110.39 
-$104.62 
-$165.61 
-$71.81 
-$111.68 
-$105.91 
-$166.90 
-75 to 79 
-$87.64 
-$122.55 
-$129.77 
-$185.62 
-$88.93 
-$123.85 
-$131.06 
-$186.92 
-80 to 84 
-$99.39 
-$139.11 
-$150.05 
-$213.99 
-$100.71 
-$140.40 
-$151.37 
-$215.31 
-85 to 89 
-$128.20 
-$151.67 
-$179.16 
-$215.88 
-$129.50 
-$153.00 
-$180.46 
-$217.20 
-90 to 94 
-$128.20 
-$151.67 
-$179.16 
-$215.88 
-$129.50 
-$153.00 
-$180.46 
-$217.20 
-95+ 
-$128.20 
-$151.67 
-$179.16 
-$215.88 
-$129.50 
-$153.00 
-$180.46 
-$217.20
+Laboratory and pathology services
 
-Benefit Amount: $20,000
+Includes diagnostic Papanicolaou (Pap) test.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$3.96 
-$4.76 
-$7.01 
-$8.25 
-$5.69 
-$6.49 
-$8.73 
-$10.02 
-25 to 29 
-$4.92 
-$6.53 
-$8.65 
-$11.25 
-$6.65 
-$8.25 
-$10.41 
-$12.98 
-30 to 34 
-$6.56 
-$10.26 
-$12.14 
-$17.46 
-$8.69 
-$11.97 
-$13.86 
-$19.23 
-35 to 39 
-$6.80 
-$15.02 
-$16.70 
-$27.88 
-$11.46 
-$18.46 
-$18.42 
-$29.60 
-40 to 44 
-$9.61 
-$22.59 
-$22.95 
-$40.78 
-$15.54 
-$26.88 
-$24.71 
-$42.50 
-45 to 49 
-$14.18 
-$35.69 
-$32.69 
-$62.46 
-$22.03 
-$41.46 
-$34.41 
-$64.22 
-50 to 54 
-$23.23 
-$49.43 
-$45.39 
-$85.25 
-$30.80 
-$56.69 
-$47.15 
-$86.97 
-55 to 59 
-$36.81 
-$68.18 
-$62.73 
-$115.65 
-$42.66 
-$77.51 
-$64.46 
-$117.42
+• 
+Laboratory center 
+$55/visit
+
+• 
+Outpatient Department of a Hospital 
+$55/visit
+
+Basic imaging services
+
+Includes plain film X-rays, ultrasounds, and diagnostic 
+mammography.
+
+• 
+Outpatient radiology center 
+$90/visit
+
+• 
+Outpatient Department of a Hospital 
+$90/visit
+
+Other outpatient non-invasive diagnostic testing
+
+Testing to diagnose illness or injury such as vestibular function 
+tests, EKG, cardiac monitoring, non-invasive vascular studies, 
+sleep medicine testing, muscle and range of motion tests, EEG, 
+and EMG.
+
+• 
+Office location 
+$90/visit
+
+• 
+Outpatient Department of a Hospital 
+$90/visit
 
 
 
 ## Page 4
 
+4
 
+Benefits5 
+Your payment
 
-### Table (Page 4)
+When using a Participating
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| 60 to 64 | $48.07 | $98.39 | $83.21 | $148.42 | $56.76 | $100.11 | $84.92 | $150.15 |
-| 65 to 69 | $73.43 | $120.14 | $109.52 | $182.03 | $75.19 | $121.86 | $111.29 | $183.76 |
-| 70 to 74 | $93.98 | $147.18 | $139.49 | $220.82 | $95.74 | $148.90 | $141.21 | $222.54 |
-| 75 to 79 | $116.85 | $163.40 | $173.02 | $247.50 | $118.58 | $165.13 | $174.75 | $249.22 |
-| 80 to 84 | $132.52 | $185.48 | $200.06 | $285.31 | $134.28 | $187.20 | $201.82 | $287.08 |
-| 85 to 89 | $170.94 | $202.23 | $238.88 | $287.83 | $172.66 | $203.99 | $240.61 | $289.60 |
-| 90 to 94 | $170.94 | $202.23 | $238.88 | $287.83 | $172.66 | $203.99 | $240.61 | $289.60 |
-| 95+ | $170.94 | $202.23 | $238.88 | $287.83 | $172.66 | $203.99 | $240.61 | $289.60 |
+Provider3
 
+CYD2 
+applies
 
+Advanced imaging services
 
-### Table (Page 4)
+Includes diagnostic radiological and nuclear imaging such as CT 
+scans, MRIs, MRAs, and PET scans.
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $4.95 | $5.95 | $8.76 | $10.32 | $7.11 | $8.11 | $10.92 | $12.52 |
-| 25 to 29 | $6.15 | $8.16 | $10.81 | $14.07 | $8.31 | $10.32 | $13.02 | $16.22 |
-| 30 to 34 | $8.21 | $12.82 | $15.18 | $21.83 | $10.86 | $14.97 | $17.32 | $24.04 |
-| 35 to 39 | $8.51 | $18.78 | $20.88 | $34.85 | $14.32 | $23.08 | $23.03 | $37.01 |
-| 40 to 44 | $12.01 | $28.24 | $28.68 | $50.98 | $19.42 | $33.60 | $30.89 | $53.12 |
-| 45 to 49 | $17.72 | $44.61 | $40.86 | $78.07 | $27.54 | $51.82 | $43.02 | $80.28 |
-| 50 to 54 | $29.04 | $61.79 | $56.74 | $106.56 | $38.51 | $70.86 | $58.94 | $108.72 |
-| 55 to 59 | $46.02 | $85.22 | $78.42 | $144.57 | $53.33 | $96.89 | $80.58 | $146.77 |
-| 60 to 64 | $60.09 | $122.99 | $104.01 | $185.53 | $70.95 | $125.14 | $106.15 | $187.68 |
-| 65 to 69 | $91.79 | $150.18 | $136.91 | $227.54 | $93.99 | $152.33 | $139.11 | $229.70 |
-| 70 to 74 | $117.48 | $183.98 | $174.36 | $276.02 | $119.68 | $186.13 | $176.52 | $278.17 |
-| 75 to 79 | $146.07 | $204.25 | $216.28 | $309.37 | $148.22 | $206.41 | $218.44 | $311.53 |
-| 80 to 84 | $165.65 | $231.85 | $250.08 | $356.64 | $167.85 | $234.00 | $252.28 | $358.85 |
-| 85 to 89 | $213.67 | $252.78 | $298.61 | $359.79 | $215.83 | $254.99 | $300.76 | $362.00 |
-| 90 to 94 | $213.67 | $252.78 | $298.61 | $359.79 | $215.83 | $254.99 | $300.76 | $362.00 |
-| 95+ | $213.67 | $252.78 | $298.61 | $359.79 | $215.83 | $254.99 | $300.76 | $362.00 |
+• 
+Outpatient radiology center 
+$300/visit 
+
 
+• 
+Outpatient Department of a Hospital 
+$300/visit 
+
 
+Rehabilitative and Habilitative Services
 
-### Table (Page 4)
+Includes Physical Therapy, Occupational Therapy, Respiratory 
+Therapy, and Speech Therapy services. There is no visit limit for 
+Rehabilitative or Habilitative Services.
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $5.94 | $7.14 | $10.51 | $12.38 | $8.53 | $9.73 | $13.10 | $15.02 |
-| 25 to 29 | $7.38 | $9.79 | $12.97 | $16.88 | $9.97 | $12.38 | $15.62 | $19.47 |
-| 30 to 34 | $9.84 | $15.38 | $18.21 | $26.20 | $13.03 | $17.96 | $20.78 | $28.84 |
-| 35 to 39 | $10.20 | $22.53 | $25.05 | $41.82 | $17.18 | $27.69 | $27.64 | $44.40 |
-| 40 to 44 | $14.41 | $33.88 | $34.42 | $61.17 | $23.30 | $40.32 | $37.07 | $63.75 |
-| 45 to 49 | $21.27 | $53.53 | $49.03 | $93.68 | $33.05 | $62.18 | $51.62 | $96.33 |
-| 50 to 54 | $34.85 | $74.15 | $68.08 | $127.87 | $46.20 | $85.03 | $70.73 | $130.46 |
-| 55 to 59 | $55.22 | $102.27 | $94.10 | $173.48 | $64.00 | $116.27 | $96.69 | $176.12 |
-| 60 to 64 | $72.11 | $147.59 | $124.81 | $222.63 | $85.14 | $150.16 | $127.38 | $225.22 |
-| 65 to 69 | $110.15 | $180.21 | $164.28 | $273.05 | $112.79 | $182.80 | $166.93 | $275.64 |
-| 70 to 74 | $140.97 | $220.78 | $209.23 | $331.23 | $143.61 | $223.35 | $211.82 | $333.80 |
-| 75 to 79 | $175.28 | $245.10 | $259.53 | $371.24 | $177.87 | $247.69 | $262.12 | $373.83 |
-| 80 to 84 | $198.78 | $278.22 | $300.09 | $427.97 | $201.42 | $280.80 | $302.73 | $430.62 |
-| 85 to 89 | $256.40 | $303.34 | $358.32 | $431.75 | $258.99 | $305.99 | $360.91 | $434.40 |
-| 90 to 94 | $256.40 | $303.34 | $358.32 | $431.75 | $258.99 | $305.99 | $360.91 | $434.40 |
-| 95+ | $256.40 | $303.34 | $358.32 | $431.75 | $258.99 | $305.99 | $360.91 | $434.40 |
+Office location 
+$55/visit
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-60 to 64 
-$48.07 
-$98.39 
-$83.21 
-$148.42 
-$56.76 
-$100.11 
-$84.92 
-$150.15 
-65 to 69 
-$73.43 
-$120.14 
-$109.52 
-$182.03 
-$75.19 
-$121.86 
-$111.29 
-$183.76 
-70 to 74 
-$93.98 
-$147.18 
-$139.49 
-$220.82 
-$95.74 
-$148.90 
-$141.21 
-$222.54 
-75 to 79 
-$116.85 
-$163.40 
-$173.02 
-$247.50 
-$118.58 
-$165.13 
-$174.75 
-$249.22 
-80 to 84 
-$132.52 
-$185.48 
-$200.06 
-$285.31 
-$134.28 
-$187.20 
-$201.82 
-$287.08 
-85 to 89 
-$170.94 
-$202.23 
-$238.88 
-$287.83 
-$172.66 
-$203.99 
-$240.61 
-$289.60 
-90 to 94 
-$170.94 
-$202.23 
-$238.88 
-$287.83 
-$172.66 
-$203.99 
-$240.61 
-$289.60 
-95+ 
-$170.94 
-$202.23 
-$238.88 
-$287.83 
-$172.66 
-$203.99 
-$240.61 
-$289.60
+Outpatient Department of a Hospital 
+$55/visit
 
-Benefit Amount: $25,000
+Durable medical equipment (DME)
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$4.95 
-$5.95 
-$8.76 
-$10.32 
-$7.11 
-$8.11 
-$10.92 
-$12.52 
-25 to 29 
-$6.15 
-$8.16 
-$10.81 
-$14.07 
-$8.31 
-$10.32 
-$13.02 
-$16.22 
-30 to 34 
-$8.21 
-$12.82 
-$15.18 
-$21.83 
-$10.86 
-$14.97 
-$17.32 
-$24.04 
-35 to 39 
-$8.51 
-$18.78 
-$20.88 
-$34.85 
-$14.32 
-$23.08 
-$23.03 
-$37.01 
-40 to 44 
-$12.01 
-$28.24 
-$28.68 
-$50.98 
-$19.42 
-$33.60 
-$30.89 
-$53.12 
-45 to 49 
-$17.72 
-$44.61 
-$40.86 
-$78.07 
-$27.54 
-$51.82 
-$43.02 
-$80.28 
-50 to 54 
-$29.04 
-$61.79 
-$56.74 
-$106.56 
-$38.51 
-$70.86 
-$58.94 
-$108.72 
-55 to 59 
-$46.02 
-$85.22 
-$78.42 
-$144.57 
-$53.33 
-$96.89 
-$80.58 
-$146.77 
-60 to 64 
-$60.09 
-$122.99 
-$104.01 
-$185.53 
-$70.95 
-$125.14 
-$106.15 
-$187.68 
-65 to 69 
-$91.79 
-$150.18 
-$136.91 
-$227.54 
-$93.99 
-$152.33 
-$139.11 
-$229.70 
-70 to 74 
-$117.48 
-$183.98 
-$174.36 
-$276.02 
-$119.68 
-$186.13 
-$176.52 
-$278.17 
-75 to 79 
-$146.07 
-$204.25 
-$216.28 
-$309.37 
-$148.22 
-$206.41 
-$218.44 
-$311.53 
-80 to 84 
-$165.65 
-$231.85 
-$250.08 
-$356.64 
-$167.85 
-$234.00 
-$252.28 
-$358.85 
-85 to 89 
-$213.67 
-$252.78 
-$298.61 
-$359.79 
-$215.83 
-$254.99 
-$300.76 
-$362.00 
-90 to 94 
-$213.67 
-$252.78 
-$298.61 
-$359.79 
-$215.83 
-$254.99 
-$300.76 
-$362.00 
-95+ 
-$213.67 
-$252.78 
-$298.61 
-$359.79 
-$215.83 
-$254.99 
-$300.76 
-$362.00
+### DME 
+35%
 
-Benefit Amount: $30,000
+Breast pump 
+$0
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$5.94 
-$7.14 
-$10.51 
-$12.38 
-$8.53 
-$9.73 
-$13.10 
-$15.02 
-25 to 29 
-$7.38 
-$9.79 
-$12.97 
-$16.88 
-$9.97 
-$12.38 
-$15.62 
-$19.47 
-30 to 34 
-$9.84 
-$15.38 
-$18.21 
-$26.20 
-$13.03 
-$17.96 
-$20.78 
-$28.84 
-35 to 39 
-$10.20 
-$22.53 
-$25.05 
-$41.82 
-$17.18 
-$27.69 
-$27.64 
-$44.40 
-40 to 44 
-$14.41 
-$33.88 
-$34.42 
-$61.17 
-$23.30 
-$40.32 
-$37.07 
-$63.75 
-45 to 49 
-$21.27 
-$53.53 
-$49.03 
-$93.68 
-$33.05 
-$62.18 
-$51.62 
-$96.33 
-50 to 54 
-$34.85 
-$74.15 
-$68.08 
-$127.87 
-$46.20 
-$85.03 
-$70.73 
-$130.46 
-55 to 59 
-$55.22 
-$102.27 
-$94.10 
-$173.48 
-$64.00 
-$116.27 
-$96.69 
-$176.12 
-60 to 64 
-$72.11 
-$147.59 
-$124.81 
-$222.63 
-$85.14 
-$150.16 
-$127.38 
-$225.22 
-65 to 69 
-$110.15 
-$180.21 
-$164.28 
-$273.05 
-$112.79 
-$182.80 
-$166.93 
-$275.64 
-70 to 74 
-$140.97 
-$220.78 
-$209.23 
-$331.23 
-$143.61 
-$223.35 
-$211.82 
-$333.80 
-75 to 79 
-$175.28 
-$245.10 
-$259.53 
-$371.24 
-$177.87 
-$247.69 
-$262.12 
-$373.83 
-80 to 84 
-$198.78 
-$278.22 
-$300.09 
-$427.97 
-$201.42 
-$280.80 
-$302.73 
-$430.62 
-85 to 89 
-$256.40 
-$303.34 
-$358.32 
-$431.75 
-$258.99 
-$305.99 
-$360.91 
-$434.40 
-90 to 94 
-$256.40 
-$303.34 
-$358.32 
-$431.75 
-$258.99 
-$305.99 
-$360.91 
-$434.40 
-95+ 
-$256.40 
-$303.34 
-$358.32 
-$431.75 
-$258.99 
-$305.99 
-$360.91 
-$434.40
+Orthotic equipment and devices 
+35%
 
-Costs are subject to change. Actual per pay period premiums may differ slightly due to rounding.
-Premiums on coverage you first elect will be based on your age as of the first effective date of coverage and will not 
-increase. Thereafter, premium rates may change if coverage is later increased or decreased. When increases occur, 
-premiums on the increased amount only will be based on Your age of the effective date of such increase. Premiums for 
-existing coverage amounts will continue to be based on your age as of the first effective date of that coverage. In addition, 
-should rates increase for all individuals, your established age for premium purposes will remain unchanged while the rate 
-for that age increases. If You continue coverage upon termination of employment with the employer, or when You are no 
-longer eligible for coverage as an active employee premium rates will remain in effect at the age you were as of the 
-effective dates of coverage with Us when active service or eligibility ends.
+Prosthetic equipment and devices 
+35%
+
+Home health care services 
+$45/visit
+
+Up to 100 visits per Member, per Calendar Year, by a home health 
+care agency. All visits count towards the limit, including visits during 
+any applicable Deductible period. Includes home visits by a nurse, 
+Home Health Aide, medical social worker, physical therapist, speech 
+therapist, or occupational therapist, and medical supplies.
+
+Home infusion and home injectable therapy services
+
+Home infusion agency services 
+$0
+
+Includes home infusion drugs, medical supplies, and visits by a 
+nurse.
+
+Hemophilia home infusion services 
+$0
+
+Includes blood factor products.
+
+Skilled Nursing Facility (SNF) services
+
+Up to 100 days per Member, per benefit period, except when 
+provided as part of a Hospice program. All days count towards the 
+limit, including days during any applicable Deductible period and 
+days in different SNFs during the Calendar Year.
+
+Freestanding SNF 
+35% 
+
+
+Hospital-based SNF 
+35% 
+
+
+Hospice program services 
+$0
+
+Includes pre-Hospice consultation, routine home care, 24-hour 
+continuous home care, short-term inpatient care for pain and 
+symptom management, and inpatient respite care.
 
 
 
 ## Page 5
 
-Important Policy Provisions and Definitions:  
-Covered Person: An eligible person who is enrolled for coverage under the Policy. 
-Covered Loss: A loss that is specified in the Policy in the Schedule of Benefits section and suffered by the Covered 
-Person within the applicable time period described in the Policy. 
-When your coverage begins: Coverage begins on the later of the program’s effective date, the date you become eligible, 
-the first of the month following the date your completed enrollment form is received, or if evidence of insurability is 
-required, the first of the month after we have approved you (or your dependent) for coverage in writing, unless otherwise 
-agreed upon by Cigna.  Your coverage will not begin unless you are actively at work on the effective date.  Coverage for all 
-other Covered Persons will not begin on the effective date if the covered person is confined to a hospital, facility or at 
-home, disabled or receiving disability benefits or unable to perform activities of daily living. 
-When your coverage ends: Coverage ends on the earliest of the date you and your dependents are no longer eligible, 
-the date the group policy is no longer in force, or the date for the last period for which required premiums are paid. For 
-your dependent, coverage also ends when your coverage ends, when their premiums are not paid or when they are no 
-longer eligible. (Under certain circumstances, your coverage may be continued. Be sure to read the provisions in your 
-Certificate about when coverage may continue.) 
-30 Day Right To Examine Certificate: If a Covered Person is not satisfied with the Certificate of Insurance for any 
-reason, it may be returned to us within 30 days after receipt. We will return any premium that has been paid and the 
-Certificate will be void as if it had never been issued. 
- 
-Benefit Reductions, Common Exclusions and Limitations: 
-Exclusions: In addition to any benefit-specific exclusions, benefits will not be paid for any Covered Loss  that is caused 
-directly or indirectly, in whole or in part  by any of the following:• intentionally self-inflicted injury, suicide or any attempt 
-thereat while sane or insane; • commission or attempt to commit a felony or an assault; • declared or undeclared war or act 
-of war; • a Covered Loss  that results from active duty service in the military, naval or air force of any country or 
-international organization (upon our receipt of proof of service, we will refund any premium paid for this time; Reserve or 
-National Guard active duty training is not excluded unless it extends beyond 31 days); • voluntary ingestion of any narcotic, 
-drug, poison, gas or fumes, unless prescribed or taken under the direction of a Physician and taken in accordance with the 
-prescribed dosage; • operating any type of vehicle while under the influence of alcohol or any drug, narcotic or other 
-intoxicant (‘’Under the influence of alcohol’’, for purposes of this exclusion, means intoxicated, as defined by the law of the 
-state in which the Covered Loss occurred)•   a diagnosis not in accordance with generally accepted medical principles 
-prevailing in the United States at the time of the diagnosis. 
- 
-Specific Definitions, Benefit Exclusions and Limitations: 
-The date of diagnosis must occur while coverage is in force and the condition definition must be satisfied. Only one Initial 
-Benefit will be paid for each Covered Condition per person. 
-Skin Cancer, basal cell/squamous cell carcinoma or certain forms of melanoma. 
-Invasive Cancer, uncontrolled/abnormal growth or spread of invasive malignant cells.  Excludes pre-malignant conditions 
-or conditions with malignant potential. 
-Carcinoma in Situ, non-invasive malignant tumor.  Excludes premalignant conditions or conditions with malignant 
-potential, skin cancers, invasive cancer (basal/squamous cell carcinoma or melanoma/melanoma in situ). 
-Heart Attack, includes the following that confirms permanent loss of heart muscle function: 1) EKG; 2) elevation of cardia 
-enzyme.  Must have an inpatient admission. 
-Stroke, cerebrovascular event–for instance, cerebral hemorrhage–confirmed by neuroimaging studies and neurological 
-deficits lasting 96 hours or more. Excludes transient ischemic attack (TIAs), brain injury related to trauma or infection, brain 
-injury associated with hypoxia or anoxia, vascular disease affecting eye or optic nerve or ischemic disorders of the 
-vestibular system. Must have an inpatient admission. 
-Coronary Artery Disease, heart disease/angina resulting in a blockage that restricts blood flow to the heart. 
-Advanced Stage Alzheimer’s Disease, progressive degenerative disorder that attacks the brain’s nerve cells resulting in 
-cognitive deficits interfering with independence in completion of instrumental activities of daily living and may also require 
-the inability to perform at least 2 physical activities of daily living. 
-Amyotrophic Lateral Sclerosis (ALS aka Lou Gehrig’s Disease), motor neuron disease resulting in muscular weakness 
-and atrophy. 
-Parkinson’s Disease, progressive, degenerative neurologic disease with indicated signs of the disease. 
-Multiple Sclerosis, disease involving damage to brain and spinal cord cells with signs of motor or sensory deficits 
-confirmed by MRI.  Includes Neuromyelitis Optica and Transverse Myelitits. 
-Benign Brain Tumor, non-cancerous abnormal cells in the brain. 
-Blindness, irreversible sight reduction in both eyes; Best corrected single eye visual acuity less than 20/200 (E-Chart) or 
-6/60 (Metric) or with visual field reduction (both eyes) to 20 degrees or less. May require loss be due to specific illness. 
-Coma, unconscious state lasting at least 96 continuous hours. Excludes any state of unconsciousness intentionally or 
-medically induced from unconsciousness intentionally which the Covered Person is able to be aroused. May require loss 
-be due to specific illness. 
-End-Stage Renal (Kidney) Disease, chronic, irreversible function of both kidneys. Requires hemo or peritoneal dialysis.
+5
+
+Benefits5 
+Your payment
+
+When using a Participating
+
+Provider3
+
+CYD2 
+applies
+
+Other services and supplies
+
+Diabetes care services
+
+• 
+Devices, equipment, and supplies 
+35%
+
+• 
+Self-management training 
+$0
+
+• 
+Medical nutrition therapy 
+$0
+
+Dialysis services 
+35%
+
+PKU product formulas and special food products 
+$0
+
+Allergy serum billed separately from an office visit 
+35%
+
+Mental Health and Substance Use Disorder Benefits 
+Your payment
+
+Mental health and substance use disorder Benefits are provided 
+through Blue Shield's Mental Health Service Administrator (MHSA).
+
+When using a MHSA 
+Participating Provider3
+
+CYD2 
+applies
+
+Outpatient services
+
+Office visit, including Physician office visit 
+$55/visit
+
+Teladoc mental health 
+$0
+
+Other outpatient services, including intensive outpatient care, 
+electroconvulsive therapy, transcranial magnetic stimulation, 
+Behavioral Health Treatment for pervasive developmental disorder 
+or autism in an office setting, home, or other non-institutional facility 
+setting, and office-based opioid treatment
+
+$0
+
+Partial Hospitalization Program 
+$0
+
+Psychological Testing 
+$0
+
+Inpatient services
+
+Physician inpatient services 
+35%
+
+Hospital services 
+35% 
+
+
+Residential Care 
+35% 
+
+
+Prescription Drug Benefits7,8 
+Your payment
+
+A separate Calendar Year pharmacy Deductible applies. 
+When using a Participating
+
+Pharmacy3
+
+CYD2 
+applies
+
+Retail pharmacy prescription Drugs
+
+Per prescription, up to a 30-day supply.
+
+Contraceptive Drugs and devices 
+$0
+
+Tier 1 Drugs 
+$19/prescription
+
+Tier 2 Drugs 
+$85/prescription 
+
+
+Tier 3 Drugs 
+$110/prescription 
+
+
+Tier 4 Drugs 
+30% up to $250/prescription 
+
 
 
 
 ## Page 6
 
-Specific Definitions, Benefit Exclusions and Limitations: 
-Major Organ Failure, includes: liver, lung, pancreas, kidney, heart or bone marrow. Happens when transplant is 
-prescribed or recommended and placed on UNOS registry.  If the Covered Person has a combination transplant (i.e. heart 
-and lung), a single benefit amount will be payable. Recurrence Benefit not payable for same organ for which a benefit was 
-previously paid. 
-Paralysis, complete, permanent loss of use of two or more limbs due to a disease. Excludes loss due to Stroke and 
-Multiple Sclerosis. May require loss be due to specific illness. 
-Pulmonary Embolism, obstruction of the arteries that carries blood to the lungs. Excludes blood clot confined to the lower 
-extremities or pelvis. 
-No Evidence of Disease, for cancer means recommended treatment has been completed and a physician through a 
-round of bloodwork or special imaging studies confirms there is no evidence of active primary malignant disease. For Heart 
-Attack and Stroke means person discharged from the hospital.  
- 
-***Benefits-Specific Conditions, Exclusions and Limitations (Additional Benefits): 
-Hospital Indemnity:  The Common Exclusions apply to this Additional Benefit.  In addition, the following applies: 
-Hospital Pandemic Infectious Disease Admission: Must be admitted inpatient due to a Pandemic Infectious Disease. 
-Excludes:  treatment in an emergency room, provided on an outpatient basis. 
-Intensive Care Unit (ICU) Stay: Must be admitted as an inpatient and confined in an ICU of a Hospital, due to injury or 
-sickness, including COVID-10 and PID hospitalization at the direction and under the care of a physician.  ICU stays within 
-90 days for the same or a related covered injury or covered illness is considered one ICU stay.   Not available to residents 
-of NH, ID and WA. 
- 
-Guaranteed Issue: 
-If you are a new hire you are not required to provide proof of good health if you enroll during your employer's eligibility 
-waiting period and you choose an amount of coverage up to and including the Guaranteed Issue Amount. If you apply for 
-an amount of coverage greater than the Guaranteed Issue Amount, coverage in excess of the Guaranteed Issue Amount 
-will not be issued until the insurance company approves acceptable proof of good health. Guaranteed Issue coverage may 
-be available at other specified periods of time.  Your employer will notify you when these periods of time are available. 
-Your Spouse must be age 18 or older to apply if evidence of insurability is required. 
- 
-*State Variations
+6
 
-For purposes of this brochure, wherever the term Spouse appears, it shall also include Domestic Partner registered under any 
-state which legally recognizes Domestic Partnerships or Civil Unions.Spouse definition includes civil union partners in New 
-Hampshire and Vermont, but excludes civil union partners for Idaho residents.  Heart Attack benefits available for residents of 
-AK. Not all shown covered conditions may be available and the Specific Definitions, Benefit Exclusions and Limitations for 
-some of the conditions may vary for residents of ID, MD, NH, OR, WA. Portability in TX and VT is referred to as Continuation 
-due to loss of eligibility. Portability conditions may differ for residents of UT, TX and VT. Exclusions may vary for residents of ID, 
-LA, MN, NC, NH, SC, SD, VT, TX and WA. Wellness Treatment and Preventive Care Benefit is referred to as Health 
-Screening Test or Preventive Care Benefit in WA and not available to residents of OR. Healthy Living Preventive Care Benefits 
-may not be available to NC residents. Wellness Treatment, Health Screening Test or Preventive Care Benefit dental and 
-ophthalmological exam benefits are not available to residents of NH and WA. Hospital Chronic Admission Only benefits are 
-not available to residents of ID. Covid- 19 benefits are not available to residents of NH. The coverage effective date will not be 
-deferred for residents of TX if receiving chemotherapy or radiation treatment and deferring due to disability or ADLS only applies 
-to the Spouse. For residents of ID, NH, WA the effective date won’t be deferred due to ability to perform ADLs.
+Prescription Drug Benefits7,8 
+Your payment
+
+A separate Calendar Year pharmacy Deductible applies. 
+When using a Participating
+
+Pharmacy3
+
+CYD2 
+applies
+
+Retail pharmacy prescription Drugs
+
+Per prescription, for a 90-day supply.
+
+Contraceptive Drugs and devices 
+$0
+
+Tier 1 Drugs 
+$57/prescription
+
+Tier 2 Drugs 
+$255/prescription 
+
+
+Tier 3 Drugs 
+$330/prescription 
+
+
+Tier 4 Drugs 
+30% up to $750/prescription 
+
+
+Mail service pharmacy prescription Drugs
+
+Per prescription, for a 31-90-day supply.
+
+Contraceptive Drugs and devices 
+$0
+
+Tier 1 Drugs 
+$38/prescription
+
+Tier 2 Drugs 
+$170/prescription 
+
+
+Tier 3 Drugs 
+$220/prescription 
+
+
+Tier 4 Drugs 
+30% up to $500/prescription 
+
+
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Dentist3
+
+CYD2 
+applies
+
+Pediatric dental9
+
+Diagnostic and preventive services
+
+• 
+Oral exam 
+$0
+
+• 
+Preventive – cleaning 
+$0
+
+• 
+Preventive – x-ray 
+$0
+
+• 
+Sealants per tooth 
+$0
+
+• 
+Topical fluoride application 
+$0
+
+• 
+Space maintainers - fixed 
+$0
+
+Basic services
+
+• 
+Restorative procedures 
+$25 copayment
+
+• 
+Periodontal maintenance 
+$25 copayment
+
+• 
+Adjunctive general services 
+$25 copayment
+
+Major services
+
+• 
+Oral surgery 
+$65 copayment
+
+• 
+Endodontics 
+$300 copayment
+
+• 
+Periodontics (other than maintenance) 
+$150 copayment
+
+• 
+Crowns and casts 
+$300 copayment
+
+• 
+Prosthodontics 
+$300 copayment
 
 
 
 ## Page 7
 
-Series 1.0 
- Terms and conditions of coverage for Critical Illness insurance are set forth in Group Policy No. CI111288. This is not intended 
-as a complete description of the insurance coverage offered. This is not a contract. Please see your Plan Sponsor to obtain a 
-copy of the Group Policy. If there are any differences between this summary and the Group Policy, the information in the Group 
-Policy takes precedence. Product availability, benefits, riders, covered conditions, policy provisions and/or features may vary by 
-state. Please keep this material as a reference. 
- 
-THIS POLICY PAYS LIMITED BENEFITS ONLY.  IT IS NOT COMPREHENSIVE HEALTH INSURANCE COVERAGE AND 
-DOES NOT COVER ALL MEDICAL EXPENSES.  THIS COVERAGE DOES NOT SATISFY THE “MINIMUM ESSENTIAL 
-COVERAGE” OR INDIVIDUAL MANDATE REQUIREMENTS OF THE AFFORDABLE CARE ACT (ACA).  THIS COVERAGE IS 
-NOT MEDICAID OR MEDICARE SUPPLEMENT INSURANCE. 
- 
-Product availability may vary by location and plan type and is subject to change.  All group insurance policies may contain 
-exclusions, limitations, reduction in benefits, and terms under which the policy may be continued in force or discontinued.   An 
-appeal of an adverse benefit determination before Cigna shall be a condition precedent to any legal or equitable action seeking 
-the enforcement of rights under the Policy or plan, or any other remedies relating directly or indirectly to the claim under the 
-Policy or plan.  For costs and details of coverage, review your plan documents.  Policies are distributed exclusively by or through 
-operating subsidiaries of Cigna Corporation and are administered and insured by Cigna Health and Life Insurance Company 
-(Bloomfield, CT). The Cigna name, logo, and other Cigna marks are owned by Cigna Intellectual Property, Inc.
+7
 
-958324 © 2023 Cigna.  Some content provided under license.
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Dentist3
+
+CYD2 
+applies
+
+Orthodontics (Medically Necessary) 
+$1,000
+
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Provider3
+
+CYD2 
+applies
+
+Pediatric vision10
+
+Comprehensive eye examination
+
+One exam per Calendar Year.
+
+• 
+Ophthalmologic visit 
+$0
+
+• 
+Optometric visit 
+$0
+
+Contact lens fitting and evaluation
+
+When you choose contact lenses instead of eyeglasses, one per 
+Member every 12 months by a Participating Provider if 
+administered at the same time as the comprehensive exam. 
+There is a maximum of two follow up visits.
+
+• 
+Standard lenses 
+$0
+
+• 
+Non-standard lenses 
+All charges above $60
+
+Eyewear/materials
+
+One eyeglass frame and eyeglass lenses, or contact lenses 
+instead of eyeglasses, up to the Benefit per Calendar Year. Any 
+exceptions are noted below.
+
+• 
+Contact lenses
+
+Non-elective (Medically Necessary) - hard or soft 
+$0
+
+Up to two pairs per eye per Calendar Year.
+
+Elective (cosmetic/convenience)
+
+Standard and non-standard, hard 
+$0
+
+Up to a 3 month supply for each eye per Calendar Year 
+based on lenses selected.
+
+Standard and non-standard, soft 
+$0
+
+Up to a 6 month supply for each eye per Calendar Year 
+based on lenses selected.
+
+• 
+Eyeglass frames
+
+Collection frames 
+$0
+
+Non-collection frames 
+All charges above $150
+
+• 
+Eyeglass lenses
+
+Lenses include choice of glass or plastic lenses, all lens 
+powers (single vision, bifocal, trifocal, lenticular), fashion or 
+gradient tint, scratch coating, oversized, and glass-grey #3 
+prescription sunglasses.
+
+Single vision 
+$0
+
+
+
+## Page 8
+
+8
+
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Provider3
+
+CYD2 
+applies
+
+Lined bifocal 
+$0
+
+Lined trifocal 
+$0
+
+Lenticular 
+$0
+
+Optional eyeglass lenses and treatments
+
+• 
+Ultraviolet protective coating (standard only) 
+$0
+
+• 
+Polycarbonate lenses 
+$0
+
+• 
+Standard progressive lenses 
+$0
+
+• 
+Premium progressive lenses 
+$95
+
+• 
+Anti-reflective lens coating (standard only) 
+$35
+
+• 
+Photochromic - glass lenses 
+$25
+
+• 
+Photochromic - plastic lenses 
+$0
+
+• 
+High index lenses 
+$30
+
+• 
+Polarized lenses 
+$45
+
+Low vision testing and equipment
+
+• 
+Comprehensive low vision exam 
+$0
+
+Once every 5 Calendar Years.
+
+• 
+Low vision devices 
+$0
+
+One aid per Calendar Year.
+
+Notes
+
+1 
+Evidence of Coverage (EOC):
+
+The Evidence of Coverage (EOC) describes the Benefits, limitations, and exclusions that apply to coverage under this 
+Plan. Please review the EOC for more details of coverage outlined in this Summary of Benefits. You can request a copy 
+of the EOC at any time.
+
+Capitalized terms are defined in the EOC. Refer to the EOC for an explanation of the terms used in this Summary of 
+Benefits.
+
+2 
+Calendar Year Deductible (CYD):
+
+Calendar Year Deductible explained. A Calendar Year Deductible is the amount you pay each Calendar Year before 
+Blue Shield pays for Covered Services under the Plan.
+
+If this Plan has any Calendar Year Deductible(s), Covered Services subject to that Deductible are identified with a 
+check mark () in the Benefits chart above.
+
+Covered Services not subject to the Calendar Year medical Deductible. Some Covered Services received from 
+Participating Providers are paid by Blue Shield before you meet any Calendar Year medical Deductible. These 
+Covered Services do not have a check mark () next to them in the “CYD applies” column in the Benefits chart 
+above.
+
+This Plan has a separate medical Deductible and pharmacy Deductible.
+
+Family coverage has an individual Deductible within the Family Deductible. This means that the Deductible will be met 
+for an individual with Family coverage who meets the individual Deductible prior to the Family meeting the Family
+
+
+
+## Page 9
+
+9
+
+Notes
+
+Deductible within a Calendar Year. Any amount you have paid toward the individual Deductible will be applied to 
+both the individual Deductible and the Family Deductible.
+
+3 
+Using Participating Providers:
+
+Participating Providers have a contract to provide health care services to Members. When you receive Covered 
+Services from a Participating Provider, you are only responsible for the Copayment or Coinsurance, once any Calendar 
+Year Deductible has been met.
+
+Teladoc. Teladoc mental health and substance use disorder consultations are provided through Teladoc. These 
+services are not administered by Blue Shield's Mental Health Service Administrator (MHSA).
+
+4 
+Calendar Year Out-of-Pocket Maximum (OOPM):
+
+Calendar Year Out-of-Pocket Maximum explained. The Out-of-Pocket Maximum is the most you are required to pay 
+for Covered Services in a Calendar Year. Once you reach your Out-of-Pocket Maximum, Blue Shield will pay 100% of 
+the Allowed Charges for Covered Services for the rest of the Calendar Year.
+
+Your payment after you reach the Calendar Year OOPM. You will continue to pay all charges for services that are not 
+covered, charges above the Allowed Charges, and charges for services above any Benefit maximum.
+
+Any Deductibles count towards the OOPM. Any amounts you pay that count towards the medical or pharmacy 
+Calendar Year Deductible also count towards the Calendar Year Out-of-Pocket Maximum.
+
+Family coverage has an individual OOPM within the Family OOPM. This means that the OOPM will be met for an 
+individual with Family coverage who meets the individual OOPM prior to the Family meeting the Family OOPM within 
+a Calendar Year. Any amount you have paid toward the individual OOPM will be applied to both the individual OOPM 
+and the Family OOPM.
+
+5 
+Separate Member Payments When Multiple Covered Services are Received:
+
+Each time you receive multiple Covered Services, you might have separate payments (Copayment or Coinsurance) 
+for each service. When this happens, you may be responsible for multiple Copayments or Coinsurance. For example, 
+you may owe an office visit payment in addition to an allergy serum payment when you visit the doctor for an allergy 
+shot.
+
+6 
+Preventive Health Services:
+
+If you only receive Preventive Health Services during a Physician office visit, there is no Copayment or Coinsurance for 
+the visit. If you receive both Preventive Health Services and other Covered Services during the Physician office visit, 
+you may have a Copayment or Coinsurance for the visit.
+
+7 
+Outpatient Prescription Drug Coverage:
+
+Medicare Part D-creditable coverage-
+
+This Plan’s prescription drug coverage is on average equivalent to or better than the standard benefit set by the 
+federal government for Medicare Part D (also called creditable coverage). Because this plan’s prescription drug 
+coverage is creditable, you do not have to enroll in Medicare Part D while you maintain this coverage; however, you 
+should be aware that if you do not enroll in Medicare Part D within 63 days following termination of this coverage, you 
+could be subject to Medicare Part D premium penalties.
+
+8 
+Outpatient Prescription Drug Coverage:
+
+Brand Drug coverage when a Generic or Biosimilar Drug is available. If you, the Physician, or Health Care Provider, 
+select a Brand Drug when a Generic Drug equivalent or Biosimilar Drug is available, you are responsible for the 
+difference between the cost to Blue Shield for the Brand Drug and its Generic Drug equivalent or Biosimilar Drug plus
+
+
+
+## Page 10
+
+10
+
+Notes
+
+the applicable tier Copayment or Coinsurance of the Brand Drug. This difference in cost will not count towards any 
+Calendar Year pharmacy Deductible, medical Deductible, or the Calendar Year Out-of-Pocket Maximum.
+
+See the Obtaining outpatient prescription Drugs at a Participating Pharmacy section of the EOC for more information 
+about how a brand contraceptive may be covered without a Copayment or Coinsurance.
+
+Request for Medical Necessity Review. If you or your Physician believes a Brand Drug is Medically Necessary, either 
+person may request a Medical Necessity Review. If approved, the Brand Drug will be covered at the applicable Drug 
+tier Copayment or Coinsurance.
+
+Short-Cycle Specialty Drug program. This program allows initial prescriptions for select Specialty Drugs to be filled for a 
+15-day supply with your approval. When this occurs, the Copayment or Coinsurance will be pro-rated.
+
+Specialty Drugs. Specialty Drugs are only available from a Network Specialty Pharmacy, up to a 30-day supply.
+
+Oral Anticancer Drugs. You pay up to $250 for oral Anticancer Drugs from a Participating Pharmacy, up to a 30-day 
+supply. Oral Anticancer Drugs from a Participating Pharmacy are not subject to any Deductible.
+
+Retail pharmacy. You may receive up to a 90-day supply for maintenance Drugs at a Participating Pharmacy when 
+you pay the applicable Copayment or Coinsurance for each 30-day supply.
+
+Mail service Drugs. You pay the applicable 30-day retail pharmacy Copayment or Coinsurance for a 30-day supply or 
+less from the mail service pharmacy.
+
+9 
+Pediatric Dental Coverage:
+
+Pediatric dental Benefits are provided through Blue Shield’s Dental Plan Administrator (DPA).
+
+Orthodontic Covered Services. The Copayment or Coinsurance for Medically Necessary orthodontic Covered Services 
+applies to a course of treatment even if it extends beyond a Calendar Year. This applies as long as the Member remains 
+enrolled in the Plan.
+
+This plan is compliant with requirements of the pediatric dental EHB benchmark plan, including coverage of services 
+in circumstances of Medical Necessity as defined in the Early Periodic Screening, Diagnosis and Treatment (EPSDT) 
+benefit.
+
+10 Pediatric Vision Coverage:
+
+Pediatric vision Benefits are provided through Blue Shield’s Vision Plan Administrator (VPA).
+
+Coverage for frames. If frames are selected that are more expensive than the Allowable Amount established for 
+frames under this Benefit, you pay the difference between the Allowable Amount and the provider’s charge.
+
+“Collection frames” are covered with no Member payment from Participating Providers. Retail chain Participating 
+Providers do not usually display the frames as “collection,” but a comparable selection of frames is maintained.
+
+“Non-collection frames” are covered up to an Allowable Amount of $150; however, if the Participating Provider 
+uses:
+
+• 
+wholesale pricing, then the Allowable Amount will be up to $103.64.
+
+Participating Providers using wholesale pricing are identified in the provider directory.
+
+Plans may be modified to ensure compliance with State and Federal requirements.
 -----
 SAMPLE PLAN JSON #1:
 {
-  "Carrier Name": "Cigna",
-  "Plan Name": "",
-  "Minimum Benefit": "$5,000",
-  "Maximum Benefit": "$30,000",
-  "Employee Scheduled Benefit": "$30,000",
-  "Spouse Scheduled Benefit": "50% of employee amount",
-  "Child Scheduled Benefit": "50% of employee amount",
-  "Guaranteed Insurability": "Up to $30,000",
-  "Pre-Existing Condition Clause": "",
-  "Wellness Benefit": "$50  1 per year",
-  "Cancer": "100%",
-  "Cancer - Carcinoma in situ": "25%",
-  "Heart Attack": "100%",
-  "Major Organ Failure": "100%",
-  "Stroke": "100%",
-  "Plan Year": "",
-  "Member Website": "",
-  "Customer Service Phone Number": ""
+  "Carrier Name": "Blue Shield of California",
+  "Plan Name": "SG Access+ Silver 70 HMO 2500/55 PCP + Child Dental Mirror",
+  "In-Network Single Deductible": "2,500",
+  "In-Network Family Deductible": "5,000",
+  "Out-of-Network Single Deductible": "",
+  "Out-of-Network Family Deductible": "",
+  "In-Network Single OOP Max": "8,750",
+  "In-Network Family OOP Max": "17,500",
+  "Out-of-Network Single OOP Max": "",
+  "Out-of-Network Family OOP Max": "",
+  "In-Network Coinsurance": "35",
+  "Out-of-Network Coinsurance": "",
+  "In-Network PCP Visit": "55",
+  "Out-of-Network PCP Visit": "",
+  "In-Network Specialist Visit": "90",
+  "Out-of-Network Specialist Visit": "",
+  "In-Network Urgent Care Visit": "55",
+  "Out-of-Network Urgent Care Visit": "",
+  "In-Network ER Visit": "35% after deductible",
+  "Out-of-Network ER Visit": "",
+  "In-Network Preventive Visit": "No Charge",
+  "Out-of-Network Preventive Visit": "",
+  "In-Network Outpatient Surgery": "35% after deductible",
+  "Out-of-Network Outpatient Surgery": "",
+  "In-Network Inpatient Surgery": "35% after deductible",
+  "Out-of-Network Inpatient Surgery": "",
+  "In-Network Newborn Delivery": "35% after deductible",
+  "Out-of-Network Newborn Delivery": "",
+  "In-Network Major Diagnostics": "300",
+  "Out-of-Network Major Diagnostics": "",
+  "In-Network RX Deductible": "Individual $300 / Family : $600",
+  "Out-of-Network RX Deductible": "",
+  "In-Network Generic RX": "",
+  "Out-of-Network Generic RX": "",
+  "In-Network Brand RX": "85",
+  "Out-of-Network Brand RX": "",
+  "In-Network Tier 3 RX": "110",
+  "Out-of-Network Tier 3 RX": "",
+  "In-Network Tier 4 RX": "30% up to $250",
+  "Out-of-Network Tier 4 RX": "",
+  "In-Network Tier 5 RX": "",
+  "Out-of-Network Tier 5 RX": "",
+  "In-Network Mail Order RX": "$38 / $170 / $220 / 30% up to $500",
+  "Out-of-Network Mail Order RX": "",
+  "Plan Year": "2025",
+  "Deductible Period": "",
+  "Deductible Explanation": "Embedded",
+  "Network Type": "HMO",
+  "Network Name": "Access+",
+  "Member Website": "www.blueshieldca.com",
+  "Customer Service Phone Number": "(510) 607-2000"
 }
 -----
 TARGET PDF TEXT:
 -----
 ## Page 1
 
+### A54303 (1/25)  
+1
 
+Summary of Benefits 
+Group Plan
 
-### Table (Page 1)
+HMO Plan 
+Blue Shield Access+ Silver 70 HMO® 2500/55 PCP + Child Dental
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Employee-Paid |  |  |  |
-| CRITICAL ILLNESS INSURANCE |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+This Summary of Benefits shows the amount you will pay for Covered Services under this Blue Shield of California Plan. It 
+is only a summary and it is included as part of the Evidence of Coverage (EOC).1 Please read both documents carefully 
+for details.
 
+Medical Provider Network: 
+Access+ HMO Network
 
+This Plan uses a specific network of Health Care Providers, called the Access+ HMO provider network. Medical 
+Groups, Independent Practice Associations (IPAs), and Physicians in this network are called Participating Providers. 
+You must select a Primary Care Physician from this network to provide your primary care and help you access 
+services, but there are some exceptions. Please review your Evidence of Coverage for details about how to access 
+care under this Plan. You can find Participating Providers in this network at blueshieldca.com.
 
-### Table (Page 1)
+Pharmacy Network: 
+Rx Ultra
 
-|  | Benefit Amount | Guaranteed Issue Amount |
-| --- | --- | --- |
-|  | $5,000, $10,000, $15,000, $20,000, $25,000 |  |
-| Employee | $5,000, $10,000, $15,000, $20,000, $25,000 | Up to $30,000 |
-|  | $30,000 |  |
-|  |  |  |
-| Spouse | 50% of employee amount | Up to $15,000 |
-| Children | 50% of employee amount | All guaranteed issue |
+Drug Formulary: 
+Standard Formulary
 
+Calendar Year Deductibles (CYD)2
 
+A Calendar Year Deductible (CYD) is the amount a Member pays each Calendar Year before Blue Shield pays for 
+Covered Services under the Plan. Blue Shield pays for some Covered Services before the Calendar Year Deductible is 
+met, as noted in the Benefits chart below.
 
-### Table (Page 1)
+When using a Participating Provider3
 
-| Covered Conditions | Benefit Amount |
-| --- | --- |
+Calendar Year medical Deductible 
+Individual coverage 
+$2,500
 
+Family coverage 
+$2,500: individual
 
+$5,000: Family
 
-### Table (Page 1)
+Calendar Year pharmacy Deductible 
+Individual coverage
 
-| Skin Cancer* | $250 1x per lifetime |
-| --- | --- |
+Family coverage
 
+$300
 
+$300: individual
 
-### Table (Page 1)
+$600: Family
 
-|  |  | Recurrence % of Initial |
-| --- | --- | --- |
-| Covered Conditions | Initial Benefit Amount % | Benefit Amount |
-| Invasive Cancer | 100% | 100% |
-| Carcinoma in Situ | 25% | 25% |
+Calendar Year Out-of-Pocket Maximum4
 
+An Out-of-Pocket Maximum is the most a Member will pay for Covered 
+Services each Calendar Year. Any exceptions are listed in the EOC.
 
+No Annual or Lifetime Dollar Limit
 
-### Table (Page 1)
-
-| Heart Attack | 100% | 100% |
-| --- | --- | --- |
-| Stroke | 100% | 100% |
-| Coronary Artery Disease | 25% | 25% |
-
-Distributed by: Operating subsidiaries of Cigna Corporation.  Insurance benefits are underwritten by Cigna Health and 
-Life Insurance Company.
-
-Employee-Paid 
+When using a Participating Provider3 
  
-CRITICAL ILLNESS INSURANCE
+Under this Plan there is no annual or 
+lifetime dollar limit on the amount Blue 
+Shield will pay for Covered Services.     
+Individual coverage 
+$8,750
 
-SUMMARY OF BENEFITS 
-Prepared for: Troon Golf, LLC 
- 
-Critical Illness insurance provides a cash benefit when a Covered Person is diagnosed with a covered 
-critical illness or event after coverage is in effect.    See State Variations (marked by *) below. 
- 
-Who Can Elect Coverage: 
-Eligibility for You, Your Spouse and Your Children will be considered by Your employer. 
-You: See your employer to determine your eligibility. 
-Your Spouse:* Up to age 100, as long as you apply for and are approved for coverage yourself. 
-Your Child(ren): Birth to age 26; 26+ if disabled, as long as you apply for and are approved for coverage yourself. 
- 
-Available Coverage: 
-The benefit amounts shown will be paid regardless of the actual expenses incurred. The benefit descriptions are a 
-summary only. There are terms, conditions, state variations, exclusions and limitations applicable to these benefits. 
-Please read all of the information in this Summary and your Certificate of Insurance for more information. All Covered 
-Critical Illness Conditions must be due to disease or sickness. 
-For the Recurrence benefit to be available, the Covered Person must be treatment free and a Physician has 
-determined that there is no evidence of active disease.
+Family coverage 
+$8,750: individual
 
-Benefit Amount 
-Guaranteed Issue Amount
+$17,500: Family
 
-Employee 
-$5,000, $10,000, $15,000, $20,000, $25,000
-
-$30,000 
-Up to $30,000
-
-Spouse 
-50% of employee amount 
-Up to $15,000  
-Children 
-50% of employee amount 
-All guaranteed issue 
-See “Guaranteed Issue” section below for more information.
-
-Covered Conditions 
-Benefit Amount 
-Cancer Conditions 
- 
-Skin Cancer* 
-$250 1x per lifetime
-
-Covered Conditions 
-Initial Benefit Amount %
-
-Recurrence % of Initial
-
-Benefit Amount 
-Invasive Cancer 
-100% 
-100% 
-Carcinoma in Situ 
-25% 
-25% 
-Vascular Conditions 
- 
-Heart Attack 
-100% 
-100% 
-Stroke 
-100% 
-100% 
-Coronary Artery Disease 
-25% 
-25%
+Blue Shield of California is an independent member of the Blue Shield Association
 
 
 
 ## Page 2
 
+2
 
+Benefits5 
+Your payment
 
-### Table (Page 2)
+When using a Participating
 
-|  |  | Recurrence % of Initial |
-| --- | --- | --- |
-| Covered Conditions | Initial Benefit Amount % | Benefit Amount |
+Provider3
 
+CYD2 
+applies
 
+Preventive Health Services6
 
-### Table (Page 2)
+Preventive Health Services 
+$0
 
-| Advanced Stage Alzheimer's |  |  |
-| --- | --- | --- |
-|  | 100% | Not Available |
-| Disease | 100% |  |
-|  |  |  |
-| Amyotrophic Lateral Sclerosis (ALS) | 25% | Not Available |
-| Parkinson's Disease | 100% | Not Available |
-| Multiple Sclerosis | 100% | Not Available |
+California Prenatal Screening Program 
+$0
 
+Physician services
 
+Primary care office visit 
+$55/visit
 
-### Table (Page 2)
+Access+ specialist care office visit (self-referral) 
+$90/visit
 
-| Benign Brain Tumor | 100% | 100% |
-| --- | --- | --- |
-| Blindness | 100% | Not Available |
-| Coma | 25% | 25% |
-| End-Stage Renal (Kidney) Disease | 100% | 100% |
-| Major Organ Failure | 100% | 100% |
-| Paralysis | 100% | 100% |
-| Pulmonary Embolism | 25% | 25% |
+Other specialist care office visit (referred by PCP) 
+$90/visit
 
+Physician home visit 
+$55/visit
 
+Physician or surgeon services in an Outpatient Facility 
+35%
 
-### Table (Page 2)
+Physician or surgeon services in an inpatient facility 
+35%
 
-| Wellness Treatment, Health Screening Test and Preventive Care |  |  |  |
-| --- | --- | --- | --- |
-| Benefit* |  |  | Benefit Amount |
-| The benefit amount shown will be paid regardless of the actual expenses |  |  |  |
-| incurred and is paid on a per day basis. Also includes COVID-19 Immunization. |  |  | $50 1 per year |
-| Virtual Care accepted. |  |  | $50 1 per year |
-|  |  |  |  |
-| Benefits |  |  |  |
-|  | Benefit for a diagnosis made after the effective date of coverage for each Covered |  |  |
-|  | Condition shown above. The amount payable per Covered Condition is the Initial Benefit |  |  |
-| Initial Critical Illness Benefit |  |  |  |
-|  | Amount multiplied by the applicable percentage shown. Each Covered Condition will be |  |  |
-|  |  |  |  |
-|  | payable one time per Covered Person. |  |  |
-|  | Benefit for the diagnosis of a subsequent and same Covered Condition for which an Initial |  |  |
-| Recurrence Benefit |  |  |  |
-|  | Critical Illness Benefit has been paid. |  |  |
-|  |  |  |  |
-| Skin Cancer Benefit | Pays benefit stated above. |  |  |
-|  |  |  |  |
-| Additional Benefits |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| Hospital Indemnity - Pandemic Infectious Disease Admission Only |  |  |  |
-| Benefit* |  | Hospital PID Admission: $3000 per admission |  |
-| Pays when a Covered Person is confined to a hospital due to any |  | (Limited to 1 days, 1 benefit every 12 months) |  |
-| Pandemic Infectious Disease (PID) hospitalization, including COVID-19. |  |  |  |
-|  |  |  |  |
+Other professional services
 
+Other practitioner office visit 
+$55/visit
 
+Includes nurse practitioners, physician assistants, therapists, and 
+podiatrists.
 
-### Table (Page 2)
+Acupuncture services 
+$55/visit
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $0.99 | $1.19 | $1.75 | $2.06 | $1.42 | $1.62 | $2.18 | $2.51 |
-| 25 to 29 | $1.23 | $1.63 | $2.16 | $2.82 | $1.66 | $2.06 | $2.60 | $3.24 |
-| 30 to 34 | $1.64 | $2.57 | $3.04 | $4.37 | $2.17 | $3.00 | $3.47 | $4.81 |
-| 35 to 39 | $1.70 | $3.76 | $4.18 | $6.97 | $2.87 | $4.62 | $4.61 | $7.40 |
-| 40 to 44 | $2.40 | $5.65 | $5.74 | $10.20 | $3.89 | $6.72 | $6.18 | $10.62 |
-| 45 to 49 | $3.54 | $8.92 | $8.17 | $15.61 | $5.51 | $10.37 | $8.60 | $16.06 |
-| 50 to 54 | $5.81 | $12.36 | $11.35 | $21.31 | $7.70 | $14.17 | $11.79 | $21.74 |
-| 55 to 59 | $9.20 | $17.04 | $15.68 | $28.92 | $10.67 | $19.38 | $16.12 | $29.35 |
+Chiropractic services 
+Not covered
 
-Covered Conditions 
-Initial Benefit Amount %
+Teladoc consultation 
+$0
 
-Recurrence % of Initial
+Family planning
 
-Benefit Amount 
-Nervous System Conditions 
- 
-Advanced Stage Alzheimer's 
-Disease 
-100% 
-Not Available
+• 
+Counseling, consulting, and education 
+$0
 
-Amyotrophic Lateral Sclerosis (ALS) 
-25% 
-Not Available 
-Parkinson's Disease 
-100% 
-Not Available 
-Multiple Sclerosis 
-100% 
-Not Available 
-Other Specified Conditions 
- 
-Benign Brain Tumor 
-100% 
-100% 
-Blindness 
-100% 
-Not Available 
-Coma 
-25% 
-25% 
-End-Stage Renal (Kidney) Disease 
-100% 
-100% 
-Major Organ Failure 
-100% 
-100% 
-Paralysis 
-100% 
-100% 
-Pulmonary Embolism 
-25% 
-25% 
- 
-Wellness Treatment, Health Screening Test and Preventive Care 
-Benefit* 
-Benefit Amount 
-The benefit amount shown will be paid regardless of the actual expenses 
-incurred and is paid on a per day basis.  Also includes COVID-19 Immunization. 
-Virtual Care accepted.
+• 
+Injectable contraceptive, diaphragm fitting, intrauterine 
+device (IUD), implantable contraceptive, and related 
+procedure.
 
-$50  1 per year
+$0
 
-Benefits
+• 
+Tubal ligation 
+$0
 
-Initial Critical Illness Benefit
+• 
+Vasectomy 
+$0
 
-Benefit for a diagnosis made after the effective date of coverage for each Covered 
-Condition shown above. The amount payable per Covered Condition is the Initial Benefit 
-Amount multiplied by the applicable percentage shown. Each Covered Condition will be 
-payable one time per Covered Person.
+Pregnancy and maternity care
 
-Recurrence Benefit 
-Benefit for the diagnosis of a subsequent and same Covered Condition for which an Initial 
-Critical Illness Benefit has been paid. 
-Skin Cancer Benefit 
-Pays benefit stated above.
+Physician office visits: prenatal and initial postnatal 
+$0
 
-Additional Benefits 
- 
- 
- 
-Hospital Indemnity - Pandemic Infectious Disease Admission Only 
-Benefit* 
-Pays when a Covered Person is confined to a hospital due to any 
-Pandemic Infectious Disease (PID) hospitalization, including COVID-19.
+Abortion and abortion-related services 
+$0
 
-Hospital PID Admission: $3000 per admission 
-(Limited to 1 days, 1 benefit every 12 months)
+Emergency Services
 
-Portability Feature: You can continue 100% of coverage for all Covered Persons at the time Your coverage ends. You 
-must be covered under the policy and be under the age of 100 in order to continue your coverage. Rates may change and 
-all coverage ends at age 100. Applies to United States Citizens and Permanent Resident Aliens residing in the United 
-States. 
- 
- 
- 
-Employee’s Bi-Weekly Cost of Coverage:
+Emergency room services 
+35% 
+
 
-Benefit Amount: $5,000
+If admitted to the Hospital, this payment for emergency room 
+services does not apply. Instead, you pay the Participating 
+Provider payment under Inpatient facility services/ Hospital 
+services and stay.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$0.99 
-$1.19 
-$1.75 
-$2.06 
-$1.42 
-$1.62 
-$2.18 
-$2.51 
-25 to 29 
-$1.23 
-$1.63 
-$2.16 
-$2.82 
-$1.66 
-$2.06 
-$2.60 
-$3.24 
-30 to 34 
-$1.64 
-$2.57 
-$3.04 
-$4.37 
-$2.17 
-$3.00 
-$3.47 
-$4.81 
-35 to 39 
-$1.70 
-$3.76 
-$4.18 
-$6.97 
-$2.87 
-$4.62 
-$4.61 
-$7.40 
-40 to 44 
-$2.40 
-$5.65 
-$5.74 
-$10.20 
-$3.89 
-$6.72 
-$6.18 
-$10.62 
-45 to 49 
-$3.54 
-$8.92 
-$8.17 
-$15.61 
-$5.51 
-$10.37 
-$8.60 
-$16.06 
-50 to 54 
-$5.81 
-$12.36 
-$11.35 
-$21.31 
-$7.70 
-$14.17 
-$11.79 
-$21.74 
-55 to 59 
-$9.20 
-$17.04 
-$15.68 
-$28.92 
-$10.67 
-$19.38 
-$16.12 
-$29.35
+Emergency room Physician services 
+$0
 
 
 
 ## Page 3
 
+3
 
+Benefits5 
+Your payment
 
-### Table (Page 3)
+When using a Participating
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| 60 to 64 | $12.02 | $24.60 | $20.80 | $37.11 | $14.19 | $25.03 | $21.23 | $37.54 |
-| 65 to 69 | $18.36 | $30.04 | $27.38 | $45.51 | $18.80 | $30.47 | $27.82 | $45.94 |
-| 70 to 74 | $23.50 | $36.80 | $34.87 | $55.20 | $23.94 | $37.23 | $35.30 | $55.63 |
-| 75 to 79 | $29.22 | $40.85 | $43.26 | $61.87 | $29.64 | $41.28 | $43.69 | $62.31 |
-| 80 to 84 | $33.13 | $46.37 | $50.02 | $71.33 | $33.57 | $46.80 | $50.46 | $71.77 |
-| 85 to 89 | $42.73 | $50.56 | $59.72 | $71.96 | $43.17 | $51.00 | $60.15 | $72.40 |
-| 90 to 94 | $42.73 | $50.56 | $59.72 | $71.96 | $43.17 | $51.00 | $60.15 | $72.40 |
-| 95+ | $42.73 | $50.56 | $59.72 | $71.96 | $43.17 | $51.00 | $60.15 | $72.40 |
+Provider3
 
+CYD2 
+applies
 
+Urgent care center services 
+$55/visit
 
-### Table (Page 3)
+Ambulance services 
+35% 
+
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $1.98 | $2.38 | $3.50 | $4.13 | $2.84 | $3.24 | $4.37 | $5.01 |
-| 25 to 29 | $2.46 | $3.26 | $4.32 | $5.63 | $3.32 | $4.13 | $5.21 | $6.49 |
-| 30 to 34 | $3.28 | $5.13 | $6.07 | $8.73 | $4.34 | $5.99 | $6.93 | $9.61 |
-| 35 to 39 | $3.40 | $7.51 | $8.35 | $13.94 | $5.73 | $9.23 | $9.21 | $14.80 |
-| 40 to 44 | $4.80 | $11.29 | $11.47 | $20.39 | $7.77 | $13.44 | $12.36 | $21.25 |
-| 45 to 49 | $7.09 | $17.84 | $16.34 | $31.23 | $11.02 | $20.73 | $17.21 | $32.11 |
-| 50 to 54 | $11.62 | $24.72 | $22.69 | $42.62 | $15.40 | $28.34 | $23.58 | $43.49 |
-| 55 to 59 | $18.41 | $34.09 | $31.37 | $57.83 | $21.33 | $38.76 | $32.23 | $58.71 |
-| 60 to 64 | $24.04 | $49.20 | $41.60 | $74.21 | $28.38 | $50.05 | $42.46 | $75.07 |
-| 65 to 69 | $36.72 | $60.07 | $54.76 | $91.02 | $37.60 | $60.93 | $55.64 | $91.88 |
-| 70 to 74 | $46.99 | $73.59 | $69.74 | $110.41 | $47.87 | $74.45 | $70.61 | $111.27 |
-| 75 to 79 | $58.43 | $81.70 | $86.51 | $123.75 | $59.29 | $82.56 | $87.37 | $124.61 |
-| 80 to 84 | $66.26 | $92.74 | $100.03 | $142.66 | $67.14 | $93.60 | $100.91 | $143.54 |
-| 85 to 89 | $85.47 | $101.11 | $119.44 | $143.92 | $86.33 | $102.00 | $120.30 | $144.80 |
-| 90 to 94 | $85.47 | $101.11 | $119.44 | $143.92 | $86.33 | $102.00 | $120.30 | $144.80 |
-| 95+ | $85.47 | $101.11 | $119.44 | $143.92 | $86.33 | $102.00 | $120.30 | $144.80 |
+This payment is for emergency or authorized transport.
 
+Outpatient Facility services
 
+Ambulatory Surgery Center 
+35% 
+
 
-### Table (Page 3)
+Outpatient Department of a Hospital: surgery 
+35% 
+
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $2.97 | $3.57 | $5.26 | $6.19 | $4.26 | $4.87 | $6.55 | $7.51 |
-| 25 to 29 | $3.69 | $4.90 | $6.49 | $8.44 | $4.98 | $6.19 | $7.81 | $9.73 |
-| 30 to 34 | $4.92 | $7.69 | $9.11 | $13.10 | $6.52 | $8.98 | $10.39 | $14.42 |
-| 35 to 39 | $5.10 | $11.27 | $12.53 | $20.91 | $8.59 | $13.85 | $13.82 | $22.20 |
-| 40 to 44 | $7.21 | $16.94 | $17.21 | $30.59 | $11.65 | $20.16 | $18.54 | $31.87 |
-| 45 to 49 | $10.63 | $26.76 | $24.52 | $46.84 | $16.53 | $31.09 | $25.81 | $48.17 |
-| 50 to 54 | $17.43 | $37.08 | $34.04 | $63.94 | $23.10 | $42.52 | $35.36 | $65.23 |
-| 55 to 59 | $27.61 | $51.13 | $47.05 | $86.74 | $32.00 | $58.14 | $48.35 | $88.06 |
-| 60 to 64 | $36.06 | $73.80 | $62.40 | $111.32 | $42.57 | $75.08 | $63.69 | $112.61 |
-| 65 to 69 | $55.08 | $90.11 | $82.14 | $136.52 | $56.40 | $91.40 | $83.46 | $137.82 |
-| 70 to 74 | $70.49 | $110.39 | $104.62 | $165.61 | $71.81 | $111.68 | $105.91 | $166.90 |
-| 75 to 79 | $87.64 | $122.55 | $129.77 | $185.62 | $88.93 | $123.85 | $131.06 | $186.92 |
-| 80 to 84 | $99.39 | $139.11 | $150.05 | $213.99 | $100.71 | $140.40 | $151.37 | $215.31 |
-| 85 to 89 | $128.20 | $151.67 | $179.16 | $215.88 | $129.50 | $153.00 | $180.46 | $217.20 |
-| 90 to 94 | $128.20 | $151.67 | $179.16 | $215.88 | $129.50 | $153.00 | $180.46 | $217.20 |
-| 95+ | $128.20 | $151.67 | $179.16 | $215.88 | $129.50 | $153.00 | $180.46 | $217.20 |
+Outpatient Department of a Hospital: treatment of illness or injury, 
+radiation therapy, chemotherapy, and necessary supplies 
+35%
 
+Inpatient facility services
 
+Hospital services and stay 
+35% 
+
 
-### Table (Page 3)
+Transplant services
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $3.96 | $4.76 | $7.01 | $8.25 | $5.69 | $6.49 | $8.73 | $10.02 |
-| 25 to 29 | $4.92 | $6.53 | $8.65 | $11.25 | $6.65 | $8.25 | $10.41 | $12.98 |
-| 30 to 34 | $6.56 | $10.26 | $12.14 | $17.46 | $8.69 | $11.97 | $13.86 | $19.23 |
-| 35 to 39 | $6.80 | $15.02 | $16.70 | $27.88 | $11.46 | $18.46 | $18.42 | $29.60 |
-| 40 to 44 | $9.61 | $22.59 | $22.95 | $40.78 | $15.54 | $26.88 | $24.71 | $42.50 |
-| 45 to 49 | $14.18 | $35.69 | $32.69 | $62.46 | $22.03 | $41.46 | $34.41 | $64.22 |
-| 50 to 54 | $23.23 | $49.43 | $45.39 | $85.25 | $30.80 | $56.69 | $47.15 | $86.97 |
-| 55 to 59 | $36.81 | $68.18 | $62.73 | $115.65 | $42.66 | $77.51 | $64.46 | $117.42 |
+This payment is for all covered transplants except tissue and 
+kidney. For tissue and kidney transplant services, the payment for 
+Inpatient facility services/ Hospital services and stay applies.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-60 to 64 
-$12.02 
-$24.60 
-$20.80 
-$37.11 
-$14.19 
-$25.03 
-$21.23 
-$37.54 
-65 to 69 
-$18.36 
-$30.04 
-$27.38 
-$45.51 
-$18.80 
-$30.47 
-$27.82 
-$45.94 
-70 to 74 
-$23.50 
-$36.80 
-$34.87 
-$55.20 
-$23.94 
-$37.23 
-$35.30 
-$55.63 
-75 to 79 
-$29.22 
-$40.85 
-$43.26 
-$61.87 
-$29.64 
-$41.28 
-$43.69 
-$62.31 
-80 to 84 
-$33.13 
-$46.37 
-$50.02 
-$71.33 
-$33.57 
-$46.80 
-$50.46 
-$71.77 
-85 to 89 
-$42.73 
-$50.56 
-$59.72 
-$71.96 
-$43.17 
-$51.00 
-$60.15 
-$72.40 
-90 to 94 
-$42.73 
-$50.56 
-$59.72 
-$71.96 
-$43.17 
-$51.00 
-$60.15 
-$72.40 
-95+ 
-$42.73 
-$50.56 
-$59.72 
-$71.96 
-$43.17 
-$51.00 
-$60.15 
-$72.40
+• 
+Special transplant facility inpatient services 
+35% 
+
 
-Benefit Amount: $10,000
+• 
+Physician inpatient services 
+35%
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$1.98 
-$2.38 
-$3.50 
-$4.13 
-$2.84 
-$3.24 
-$4.37 
-$5.01 
-25 to 29 
-$2.46 
-$3.26 
-$4.32 
-$5.63 
-$3.32 
-$4.13 
-$5.21 
-$6.49 
-30 to 34 
-$3.28 
-$5.13 
-$6.07 
-$8.73 
-$4.34 
-$5.99 
-$6.93 
-$9.61 
-35 to 39 
-$3.40 
-$7.51 
-$8.35 
-$13.94 
-$5.73 
-$9.23 
-$9.21 
-$14.80 
-40 to 44 
-$4.80 
-$11.29 
-$11.47 
-$20.39 
-$7.77 
-$13.44 
-$12.36 
-$21.25 
-45 to 49 
-$7.09 
-$17.84 
-$16.34 
-$31.23 
-$11.02 
-$20.73 
-$17.21 
-$32.11 
-50 to 54 
-$11.62 
-$24.72 
-$22.69 
-$42.62 
-$15.40 
-$28.34 
-$23.58 
-$43.49 
-55 to 59 
-$18.41 
-$34.09 
-$31.37 
-$57.83 
-$21.33 
-$38.76 
-$32.23 
-$58.71 
-60 to 64 
-$24.04 
-$49.20 
-$41.60 
-$74.21 
-$28.38 
-$50.05 
-$42.46 
-$75.07 
-65 to 69 
-$36.72 
-$60.07 
-$54.76 
-$91.02 
-$37.60 
-$60.93 
-$55.64 
-$91.88 
-70 to 74 
-$46.99 
-$73.59 
-$69.74 
-$110.41 
-$47.87 
-$74.45 
-$70.61 
-$111.27 
-75 to 79 
-$58.43 
-$81.70 
-$86.51 
-$123.75 
-$59.29 
-$82.56 
-$87.37 
-$124.61 
-80 to 84 
-$66.26 
-$92.74 
-$100.03 
-$142.66 
-$67.14 
-$93.60 
-$100.91 
-$143.54 
-85 to 89 
-$85.47 
-$101.11 
-$119.44 
-$143.92 
-$86.33 
-$102.00 
-$120.30 
-$144.80 
-90 to 94 
-$85.47 
-$101.11 
-$119.44 
-$143.92 
-$86.33 
-$102.00 
-$120.30 
-$144.80 
-95+ 
-$85.47 
-$101.11 
-$119.44 
-$143.92 
-$86.33 
-$102.00 
-$120.30 
-$144.80
+Diagnostic x-ray, imaging, pathology, and laboratory services
 
-Benefit Amount: $15,000
+This payment is for Covered Services that are diagnostic, non-
+Preventive Health Services, and diagnostic radiological procedures. 
+For the payments for Covered Services that are considered 
+Preventive Health Services, see Preventive Health Services.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$2.97 
-$3.57 
-$5.26 
-$6.19 
-$4.26 
-$4.87 
-$6.55 
-$7.51 
-25 to 29 
-$3.69 
-$4.90 
-$6.49 
-$8.44 
-$4.98 
-$6.19 
-$7.81 
-$9.73 
-30 to 34 
-$4.92 
-$7.69 
-$9.11 
-$13.10 
-$6.52 
-$8.98 
-$10.39 
-$14.42 
-35 to 39 
-$5.10 
-$11.27 
-$12.53 
-$20.91 
-$8.59 
-$13.85 
-$13.82 
-$22.20 
-40 to 44 
-$7.21 
-$16.94 
-$17.21 
-$30.59 
-$11.65 
-$20.16 
-$18.54 
-$31.87 
-45 to 49 
-$10.63 
-$26.76 
-$24.52 
-$46.84 
-$16.53 
-$31.09 
-$25.81 
-$48.17 
-50 to 54 
-$17.43 
-$37.08 
-$34.04 
-$63.94 
-$23.10 
-$42.52 
-$35.36 
-$65.23 
-55 to 59 
-$27.61 
-$51.13 
-$47.05 
-$86.74 
-$32.00 
-$58.14 
-$48.35 
-$88.06 
-60 to 64 
-$36.06 
-$73.80 
-$62.40 
-$111.32 
-$42.57 
-$75.08 
-$63.69 
-$112.61 
-65 to 69 
-$55.08 
-$90.11 
-$82.14 
-$136.52 
-$56.40 
-$91.40 
-$83.46 
-$137.82 
-70 to 74 
-$70.49 
-$110.39 
-$104.62 
-$165.61 
-$71.81 
-$111.68 
-$105.91 
-$166.90 
-75 to 79 
-$87.64 
-$122.55 
-$129.77 
-$185.62 
-$88.93 
-$123.85 
-$131.06 
-$186.92 
-80 to 84 
-$99.39 
-$139.11 
-$150.05 
-$213.99 
-$100.71 
-$140.40 
-$151.37 
-$215.31 
-85 to 89 
-$128.20 
-$151.67 
-$179.16 
-$215.88 
-$129.50 
-$153.00 
-$180.46 
-$217.20 
-90 to 94 
-$128.20 
-$151.67 
-$179.16 
-$215.88 
-$129.50 
-$153.00 
-$180.46 
-$217.20 
-95+ 
-$128.20 
-$151.67 
-$179.16 
-$215.88 
-$129.50 
-$153.00 
-$180.46 
-$217.20
+Laboratory and pathology services
 
-Benefit Amount: $20,000
+Includes diagnostic Papanicolaou (Pap) test.
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$3.96 
-$4.76 
-$7.01 
-$8.25 
-$5.69 
-$6.49 
-$8.73 
-$10.02 
-25 to 29 
-$4.92 
-$6.53 
-$8.65 
-$11.25 
-$6.65 
-$8.25 
-$10.41 
-$12.98 
-30 to 34 
-$6.56 
-$10.26 
-$12.14 
-$17.46 
-$8.69 
-$11.97 
-$13.86 
-$19.23 
-35 to 39 
-$6.80 
-$15.02 
-$16.70 
-$27.88 
-$11.46 
-$18.46 
-$18.42 
-$29.60 
-40 to 44 
-$9.61 
-$22.59 
-$22.95 
-$40.78 
-$15.54 
-$26.88 
-$24.71 
-$42.50 
-45 to 49 
-$14.18 
-$35.69 
-$32.69 
-$62.46 
-$22.03 
-$41.46 
-$34.41 
-$64.22 
-50 to 54 
-$23.23 
-$49.43 
-$45.39 
-$85.25 
-$30.80 
-$56.69 
-$47.15 
-$86.97 
-55 to 59 
-$36.81 
-$68.18 
-$62.73 
-$115.65 
-$42.66 
-$77.51 
-$64.46 
-$117.42
+• 
+Laboratory center 
+$55/visit
+
+• 
+Outpatient Department of a Hospital 
+$55/visit
+
+Basic imaging services
+
+Includes plain film X-rays, ultrasounds, and diagnostic 
+mammography.
+
+• 
+Outpatient radiology center 
+$90/visit
+
+• 
+Outpatient Department of a Hospital 
+$90/visit
+
+Other outpatient non-invasive diagnostic testing
+
+Testing to diagnose illness or injury such as vestibular function 
+tests, EKG, cardiac monitoring, non-invasive vascular studies, 
+sleep medicine testing, muscle and range of motion tests, EEG, 
+and EMG.
+
+• 
+Office location 
+$90/visit
+
+• 
+Outpatient Department of a Hospital 
+$90/visit
 
 
 
 ## Page 4
 
+4
 
+Benefits5 
+Your payment
 
-### Table (Page 4)
+When using a Participating
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| 60 to 64 | $48.07 | $98.39 | $83.21 | $148.42 | $56.76 | $100.11 | $84.92 | $150.15 |
-| 65 to 69 | $73.43 | $120.14 | $109.52 | $182.03 | $75.19 | $121.86 | $111.29 | $183.76 |
-| 70 to 74 | $93.98 | $147.18 | $139.49 | $220.82 | $95.74 | $148.90 | $141.21 | $222.54 |
-| 75 to 79 | $116.85 | $163.40 | $173.02 | $247.50 | $118.58 | $165.13 | $174.75 | $249.22 |
-| 80 to 84 | $132.52 | $185.48 | $200.06 | $285.31 | $134.28 | $187.20 | $201.82 | $287.08 |
-| 85 to 89 | $170.94 | $202.23 | $238.88 | $287.83 | $172.66 | $203.99 | $240.61 | $289.60 |
-| 90 to 94 | $170.94 | $202.23 | $238.88 | $287.83 | $172.66 | $203.99 | $240.61 | $289.60 |
-| 95+ | $170.94 | $202.23 | $238.88 | $287.83 | $172.66 | $203.99 | $240.61 | $289.60 |
+Provider3
 
+CYD2 
+applies
 
+Advanced imaging services
 
-### Table (Page 4)
+Includes diagnostic radiological and nuclear imaging such as CT 
+scans, MRIs, MRAs, and PET scans.
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $4.95 | $5.95 | $8.76 | $10.32 | $7.11 | $8.11 | $10.92 | $12.52 |
-| 25 to 29 | $6.15 | $8.16 | $10.81 | $14.07 | $8.31 | $10.32 | $13.02 | $16.22 |
-| 30 to 34 | $8.21 | $12.82 | $15.18 | $21.83 | $10.86 | $14.97 | $17.32 | $24.04 |
-| 35 to 39 | $8.51 | $18.78 | $20.88 | $34.85 | $14.32 | $23.08 | $23.03 | $37.01 |
-| 40 to 44 | $12.01 | $28.24 | $28.68 | $50.98 | $19.42 | $33.60 | $30.89 | $53.12 |
-| 45 to 49 | $17.72 | $44.61 | $40.86 | $78.07 | $27.54 | $51.82 | $43.02 | $80.28 |
-| 50 to 54 | $29.04 | $61.79 | $56.74 | $106.56 | $38.51 | $70.86 | $58.94 | $108.72 |
-| 55 to 59 | $46.02 | $85.22 | $78.42 | $144.57 | $53.33 | $96.89 | $80.58 | $146.77 |
-| 60 to 64 | $60.09 | $122.99 | $104.01 | $185.53 | $70.95 | $125.14 | $106.15 | $187.68 |
-| 65 to 69 | $91.79 | $150.18 | $136.91 | $227.54 | $93.99 | $152.33 | $139.11 | $229.70 |
-| 70 to 74 | $117.48 | $183.98 | $174.36 | $276.02 | $119.68 | $186.13 | $176.52 | $278.17 |
-| 75 to 79 | $146.07 | $204.25 | $216.28 | $309.37 | $148.22 | $206.41 | $218.44 | $311.53 |
-| 80 to 84 | $165.65 | $231.85 | $250.08 | $356.64 | $167.85 | $234.00 | $252.28 | $358.85 |
-| 85 to 89 | $213.67 | $252.78 | $298.61 | $359.79 | $215.83 | $254.99 | $300.76 | $362.00 |
-| 90 to 94 | $213.67 | $252.78 | $298.61 | $359.79 | $215.83 | $254.99 | $300.76 | $362.00 |
-| 95+ | $213.67 | $252.78 | $298.61 | $359.79 | $215.83 | $254.99 | $300.76 | $362.00 |
+• 
+Outpatient radiology center 
+$300/visit 
+
 
+• 
+Outpatient Department of a Hospital 
+$300/visit 
+
 
+Rehabilitative and Habilitative Services
 
-### Table (Page 4)
+Includes Physical Therapy, Occupational Therapy, Respiratory 
+Therapy, and Speech Therapy services. There is no visit limit for 
+Rehabilitative or Habilitative Services.
 
-|  | Empl | oyee | Employee | + Spouse | Employee | + Children | Employee | + Family |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco | Non-Tobacco | Tobacco |
-| <25 | $5.94 | $7.14 | $10.51 | $12.38 | $8.53 | $9.73 | $13.10 | $15.02 |
-| 25 to 29 | $7.38 | $9.79 | $12.97 | $16.88 | $9.97 | $12.38 | $15.62 | $19.47 |
-| 30 to 34 | $9.84 | $15.38 | $18.21 | $26.20 | $13.03 | $17.96 | $20.78 | $28.84 |
-| 35 to 39 | $10.20 | $22.53 | $25.05 | $41.82 | $17.18 | $27.69 | $27.64 | $44.40 |
-| 40 to 44 | $14.41 | $33.88 | $34.42 | $61.17 | $23.30 | $40.32 | $37.07 | $63.75 |
-| 45 to 49 | $21.27 | $53.53 | $49.03 | $93.68 | $33.05 | $62.18 | $51.62 | $96.33 |
-| 50 to 54 | $34.85 | $74.15 | $68.08 | $127.87 | $46.20 | $85.03 | $70.73 | $130.46 |
-| 55 to 59 | $55.22 | $102.27 | $94.10 | $173.48 | $64.00 | $116.27 | $96.69 | $176.12 |
-| 60 to 64 | $72.11 | $147.59 | $124.81 | $222.63 | $85.14 | $150.16 | $127.38 | $225.22 |
-| 65 to 69 | $110.15 | $180.21 | $164.28 | $273.05 | $112.79 | $182.80 | $166.93 | $275.64 |
-| 70 to 74 | $140.97 | $220.78 | $209.23 | $331.23 | $143.61 | $223.35 | $211.82 | $333.80 |
-| 75 to 79 | $175.28 | $245.10 | $259.53 | $371.24 | $177.87 | $247.69 | $262.12 | $373.83 |
-| 80 to 84 | $198.78 | $278.22 | $300.09 | $427.97 | $201.42 | $280.80 | $302.73 | $430.62 |
-| 85 to 89 | $256.40 | $303.34 | $358.32 | $431.75 | $258.99 | $305.99 | $360.91 | $434.40 |
-| 90 to 94 | $256.40 | $303.34 | $358.32 | $431.75 | $258.99 | $305.99 | $360.91 | $434.40 |
-| 95+ | $256.40 | $303.34 | $358.32 | $431.75 | $258.99 | $305.99 | $360.91 | $434.40 |
+Office location 
+$55/visit
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-60 to 64 
-$48.07 
-$98.39 
-$83.21 
-$148.42 
-$56.76 
-$100.11 
-$84.92 
-$150.15 
-65 to 69 
-$73.43 
-$120.14 
-$109.52 
-$182.03 
-$75.19 
-$121.86 
-$111.29 
-$183.76 
-70 to 74 
-$93.98 
-$147.18 
-$139.49 
-$220.82 
-$95.74 
-$148.90 
-$141.21 
-$222.54 
-75 to 79 
-$116.85 
-$163.40 
-$173.02 
-$247.50 
-$118.58 
-$165.13 
-$174.75 
-$249.22 
-80 to 84 
-$132.52 
-$185.48 
-$200.06 
-$285.31 
-$134.28 
-$187.20 
-$201.82 
-$287.08 
-85 to 89 
-$170.94 
-$202.23 
-$238.88 
-$287.83 
-$172.66 
-$203.99 
-$240.61 
-$289.60 
-90 to 94 
-$170.94 
-$202.23 
-$238.88 
-$287.83 
-$172.66 
-$203.99 
-$240.61 
-$289.60 
-95+ 
-$170.94 
-$202.23 
-$238.88 
-$287.83 
-$172.66 
-$203.99 
-$240.61 
-$289.60
+Outpatient Department of a Hospital 
+$55/visit
 
-Benefit Amount: $25,000
+Durable medical equipment (DME)
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$4.95 
-$5.95 
-$8.76 
-$10.32 
-$7.11 
-$8.11 
-$10.92 
-$12.52 
-25 to 29 
-$6.15 
-$8.16 
-$10.81 
-$14.07 
-$8.31 
-$10.32 
-$13.02 
-$16.22 
-30 to 34 
-$8.21 
-$12.82 
-$15.18 
-$21.83 
-$10.86 
-$14.97 
-$17.32 
-$24.04 
-35 to 39 
-$8.51 
-$18.78 
-$20.88 
-$34.85 
-$14.32 
-$23.08 
-$23.03 
-$37.01 
-40 to 44 
-$12.01 
-$28.24 
-$28.68 
-$50.98 
-$19.42 
-$33.60 
-$30.89 
-$53.12 
-45 to 49 
-$17.72 
-$44.61 
-$40.86 
-$78.07 
-$27.54 
-$51.82 
-$43.02 
-$80.28 
-50 to 54 
-$29.04 
-$61.79 
-$56.74 
-$106.56 
-$38.51 
-$70.86 
-$58.94 
-$108.72 
-55 to 59 
-$46.02 
-$85.22 
-$78.42 
-$144.57 
-$53.33 
-$96.89 
-$80.58 
-$146.77 
-60 to 64 
-$60.09 
-$122.99 
-$104.01 
-$185.53 
-$70.95 
-$125.14 
-$106.15 
-$187.68 
-65 to 69 
-$91.79 
-$150.18 
-$136.91 
-$227.54 
-$93.99 
-$152.33 
-$139.11 
-$229.70 
-70 to 74 
-$117.48 
-$183.98 
-$174.36 
-$276.02 
-$119.68 
-$186.13 
-$176.52 
-$278.17 
-75 to 79 
-$146.07 
-$204.25 
-$216.28 
-$309.37 
-$148.22 
-$206.41 
-$218.44 
-$311.53 
-80 to 84 
-$165.65 
-$231.85 
-$250.08 
-$356.64 
-$167.85 
-$234.00 
-$252.28 
-$358.85 
-85 to 89 
-$213.67 
-$252.78 
-$298.61 
-$359.79 
-$215.83 
-$254.99 
-$300.76 
-$362.00 
-90 to 94 
-$213.67 
-$252.78 
-$298.61 
-$359.79 
-$215.83 
-$254.99 
-$300.76 
-$362.00 
-95+ 
-$213.67 
-$252.78 
-$298.61 
-$359.79 
-$215.83 
-$254.99 
-$300.76 
-$362.00
+### DME 
+35%
 
-Benefit Amount: $30,000
+Breast pump 
+$0
 
-Employee 
-Employee + Spouse 
-Employee + Children 
-Employee + Family 
-Age 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-Non-Tobacco
-Tobacco 
-<25 
-$5.94 
-$7.14 
-$10.51 
-$12.38 
-$8.53 
-$9.73 
-$13.10 
-$15.02 
-25 to 29 
-$7.38 
-$9.79 
-$12.97 
-$16.88 
-$9.97 
-$12.38 
-$15.62 
-$19.47 
-30 to 34 
-$9.84 
-$15.38 
-$18.21 
-$26.20 
-$13.03 
-$17.96 
-$20.78 
-$28.84 
-35 to 39 
-$10.20 
-$22.53 
-$25.05 
-$41.82 
-$17.18 
-$27.69 
-$27.64 
-$44.40 
-40 to 44 
-$14.41 
-$33.88 
-$34.42 
-$61.17 
-$23.30 
-$40.32 
-$37.07 
-$63.75 
-45 to 49 
-$21.27 
-$53.53 
-$49.03 
-$93.68 
-$33.05 
-$62.18 
-$51.62 
-$96.33 
-50 to 54 
-$34.85 
-$74.15 
-$68.08 
-$127.87 
-$46.20 
-$85.03 
-$70.73 
-$130.46 
-55 to 59 
-$55.22 
-$102.27 
-$94.10 
-$173.48 
-$64.00 
-$116.27 
-$96.69 
-$176.12 
-60 to 64 
-$72.11 
-$147.59 
-$124.81 
-$222.63 
-$85.14 
-$150.16 
-$127.38 
-$225.22 
-65 to 69 
-$110.15 
-$180.21 
-$164.28 
-$273.05 
-$112.79 
-$182.80 
-$166.93 
-$275.64 
-70 to 74 
-$140.97 
-$220.78 
-$209.23 
-$331.23 
-$143.61 
-$223.35 
-$211.82 
-$333.80 
-75 to 79 
-$175.28 
-$245.10 
-$259.53 
-$371.24 
-$177.87 
-$247.69 
-$262.12 
-$373.83 
-80 to 84 
-$198.78 
-$278.22 
-$300.09 
-$427.97 
-$201.42 
-$280.80 
-$302.73 
-$430.62 
-85 to 89 
-$256.40 
-$303.34 
-$358.32 
-$431.75 
-$258.99 
-$305.99 
-$360.91 
-$434.40 
-90 to 94 
-$256.40 
-$303.34 
-$358.32 
-$431.75 
-$258.99 
-$305.99 
-$360.91 
-$434.40 
-95+ 
-$256.40 
-$303.34 
-$358.32 
-$431.75 
-$258.99 
-$305.99 
-$360.91 
-$434.40
+Orthotic equipment and devices 
+35%
 
-Costs are subject to change. Actual per pay period premiums may differ slightly due to rounding.
-Premiums on coverage you first elect will be based on your age as of the first effective date of coverage and will not 
-increase. Thereafter, premium rates may change if coverage is later increased or decreased. When increases occur, 
-premiums on the increased amount only will be based on Your age of the effective date of such increase. Premiums for 
-existing coverage amounts will continue to be based on your age as of the first effective date of that coverage. In addition, 
-should rates increase for all individuals, your established age for premium purposes will remain unchanged while the rate 
-for that age increases. If You continue coverage upon termination of employment with the employer, or when You are no 
-longer eligible for coverage as an active employee premium rates will remain in effect at the age you were as of the 
-effective dates of coverage with Us when active service or eligibility ends.
+Prosthetic equipment and devices 
+35%
+
+Home health care services 
+$45/visit
+
+Up to 100 visits per Member, per Calendar Year, by a home health 
+care agency. All visits count towards the limit, including visits during 
+any applicable Deductible period. Includes home visits by a nurse, 
+Home Health Aide, medical social worker, physical therapist, speech 
+therapist, or occupational therapist, and medical supplies.
+
+Home infusion and home injectable therapy services
+
+Home infusion agency services 
+$0
+
+Includes home infusion drugs, medical supplies, and visits by a 
+nurse.
+
+Hemophilia home infusion services 
+$0
+
+Includes blood factor products.
+
+Skilled Nursing Facility (SNF) services
+
+Up to 100 days per Member, per benefit period, except when 
+provided as part of a Hospice program. All days count towards the 
+limit, including days during any applicable Deductible period and 
+days in different SNFs during the Calendar Year.
+
+Freestanding SNF 
+35% 
+
+
+Hospital-based SNF 
+35% 
+
+
+Hospice program services 
+$0
+
+Includes pre-Hospice consultation, routine home care, 24-hour 
+continuous home care, short-term inpatient care for pain and 
+symptom management, and inpatient respite care.
 
 
 
 ## Page 5
 
-Important Policy Provisions and Definitions:  
-Covered Person: An eligible person who is enrolled for coverage under the Policy. 
-Covered Loss: A loss that is specified in the Policy in the Schedule of Benefits section and suffered by the Covered 
-Person within the applicable time period described in the Policy. 
-When your coverage begins: Coverage begins on the later of the program’s effective date, the date you become eligible, 
-the first of the month following the date your completed enrollment form is received, or if evidence of insurability is 
-required, the first of the month after we have approved you (or your dependent) for coverage in writing, unless otherwise 
-agreed upon by Cigna.  Your coverage will not begin unless you are actively at work on the effective date.  Coverage for all 
-other Covered Persons will not begin on the effective date if the covered person is confined to a hospital, facility or at 
-home, disabled or receiving disability benefits or unable to perform activities of daily living. 
-When your coverage ends: Coverage ends on the earliest of the date you and your dependents are no longer eligible, 
-the date the group policy is no longer in force, or the date for the last period for which required premiums are paid. For 
-your dependent, coverage also ends when your coverage ends, when their premiums are not paid or when they are no 
-longer eligible. (Under certain circumstances, your coverage may be continued. Be sure to read the provisions in your 
-Certificate about when coverage may continue.) 
-30 Day Right To Examine Certificate: If a Covered Person is not satisfied with the Certificate of Insurance for any 
-reason, it may be returned to us within 30 days after receipt. We will return any premium that has been paid and the 
-Certificate will be void as if it had never been issued. 
- 
-Benefit Reductions, Common Exclusions and Limitations: 
-Exclusions: In addition to any benefit-specific exclusions, benefits will not be paid for any Covered Loss  that is caused 
-directly or indirectly, in whole or in part  by any of the following:• intentionally self-inflicted injury, suicide or any attempt 
-thereat while sane or insane; • commission or attempt to commit a felony or an assault; • declared or undeclared war or act 
-of war; • a Covered Loss  that results from active duty service in the military, naval or air force of any country or 
-international organization (upon our receipt of proof of service, we will refund any premium paid for this time; Reserve or 
-National Guard active duty training is not excluded unless it extends beyond 31 days); • voluntary ingestion of any narcotic, 
-drug, poison, gas or fumes, unless prescribed or taken under the direction of a Physician and taken in accordance with the 
-prescribed dosage; • operating any type of vehicle while under the influence of alcohol or any drug, narcotic or other 
-intoxicant (‘’Under the influence of alcohol’’, for purposes of this exclusion, means intoxicated, as defined by the law of the 
-state in which the Covered Loss occurred)•   a diagnosis not in accordance with generally accepted medical principles 
-prevailing in the United States at the time of the diagnosis. 
- 
-Specific Definitions, Benefit Exclusions and Limitations: 
-The date of diagnosis must occur while coverage is in force and the condition definition must be satisfied. Only one Initial 
-Benefit will be paid for each Covered Condition per person. 
-Skin Cancer, basal cell/squamous cell carcinoma or certain forms of melanoma. 
-Invasive Cancer, uncontrolled/abnormal growth or spread of invasive malignant cells.  Excludes pre-malignant conditions 
-or conditions with malignant potential. 
-Carcinoma in Situ, non-invasive malignant tumor.  Excludes premalignant conditions or conditions with malignant 
-potential, skin cancers, invasive cancer (basal/squamous cell carcinoma or melanoma/melanoma in situ). 
-Heart Attack, includes the following that confirms permanent loss of heart muscle function: 1) EKG; 2) elevation of cardia 
-enzyme.  Must have an inpatient admission. 
-Stroke, cerebrovascular event–for instance, cerebral hemorrhage–confirmed by neuroimaging studies and neurological 
-deficits lasting 96 hours or more. Excludes transient ischemic attack (TIAs), brain injury related to trauma or infection, brain 
-injury associated with hypoxia or anoxia, vascular disease affecting eye or optic nerve or ischemic disorders of the 
-vestibular system. Must have an inpatient admission. 
-Coronary Artery Disease, heart disease/angina resulting in a blockage that restricts blood flow to the heart. 
-Advanced Stage Alzheimer’s Disease, progressive degenerative disorder that attacks the brain’s nerve cells resulting in 
-cognitive deficits interfering with independence in completion of instrumental activities of daily living and may also require 
-the inability to perform at least 2 physical activities of daily living. 
-Amyotrophic Lateral Sclerosis (ALS aka Lou Gehrig’s Disease), motor neuron disease resulting in muscular weakness 
-and atrophy. 
-Parkinson’s Disease, progressive, degenerative neurologic disease with indicated signs of the disease. 
-Multiple Sclerosis, disease involving damage to brain and spinal cord cells with signs of motor or sensory deficits 
-confirmed by MRI.  Includes Neuromyelitis Optica and Transverse Myelitits. 
-Benign Brain Tumor, non-cancerous abnormal cells in the brain. 
-Blindness, irreversible sight reduction in both eyes; Best corrected single eye visual acuity less than 20/200 (E-Chart) or 
-6/60 (Metric) or with visual field reduction (both eyes) to 20 degrees or less. May require loss be due to specific illness. 
-Coma, unconscious state lasting at least 96 continuous hours. Excludes any state of unconsciousness intentionally or 
-medically induced from unconsciousness intentionally which the Covered Person is able to be aroused. May require loss 
-be due to specific illness. 
-End-Stage Renal (Kidney) Disease, chronic, irreversible function of both kidneys. Requires hemo or peritoneal dialysis.
+5
+
+Benefits5 
+Your payment
+
+When using a Participating
+
+Provider3
+
+CYD2 
+applies
+
+Other services and supplies
+
+Diabetes care services
+
+• 
+Devices, equipment, and supplies 
+35%
+
+• 
+Self-management training 
+$0
+
+• 
+Medical nutrition therapy 
+$0
+
+Dialysis services 
+35%
+
+PKU product formulas and special food products 
+$0
+
+Allergy serum billed separately from an office visit 
+35%
+
+Mental Health and Substance Use Disorder Benefits 
+Your payment
+
+Mental health and substance use disorder Benefits are provided 
+through Blue Shield's Mental Health Service Administrator (MHSA).
+
+When using a MHSA 
+Participating Provider3
+
+CYD2 
+applies
+
+Outpatient services
+
+Office visit, including Physician office visit 
+$55/visit
+
+Teladoc mental health 
+$0
+
+Other outpatient services, including intensive outpatient care, 
+electroconvulsive therapy, transcranial magnetic stimulation, 
+Behavioral Health Treatment for pervasive developmental disorder 
+or autism in an office setting, home, or other non-institutional facility 
+setting, and office-based opioid treatment
+
+$0
+
+Partial Hospitalization Program 
+$0
+
+Psychological Testing 
+$0
+
+Inpatient services
+
+Physician inpatient services 
+35%
+
+Hospital services 
+35% 
+
+
+Residential Care 
+35% 
+
+
+Prescription Drug Benefits7,8 
+Your payment
+
+A separate Calendar Year pharmacy Deductible applies. 
+When using a Participating
+
+Pharmacy3
+
+CYD2 
+applies
+
+Retail pharmacy prescription Drugs
+
+Per prescription, up to a 30-day supply.
+
+Contraceptive Drugs and devices 
+$0
+
+Tier 1 Drugs 
+$19/prescription
+
+Tier 2 Drugs 
+$85/prescription 
+
+
+Tier 3 Drugs 
+$110/prescription 
+
+
+Tier 4 Drugs 
+30% up to $250/prescription 
+
 
 
 
 ## Page 6
 
-Specific Definitions, Benefit Exclusions and Limitations: 
-Major Organ Failure, includes: liver, lung, pancreas, kidney, heart or bone marrow. Happens when transplant is 
-prescribed or recommended and placed on UNOS registry.  If the Covered Person has a combination transplant (i.e. heart 
-and lung), a single benefit amount will be payable. Recurrence Benefit not payable for same organ for which a benefit was 
-previously paid. 
-Paralysis, complete, permanent loss of use of two or more limbs due to a disease. Excludes loss due to Stroke and 
-Multiple Sclerosis. May require loss be due to specific illness. 
-Pulmonary Embolism, obstruction of the arteries that carries blood to the lungs. Excludes blood clot confined to the lower 
-extremities or pelvis. 
-No Evidence of Disease, for cancer means recommended treatment has been completed and a physician through a 
-round of bloodwork or special imaging studies confirms there is no evidence of active primary malignant disease. For Heart 
-Attack and Stroke means person discharged from the hospital.  
- 
-***Benefits-Specific Conditions, Exclusions and Limitations (Additional Benefits): 
-Hospital Indemnity:  The Common Exclusions apply to this Additional Benefit.  In addition, the following applies: 
-Hospital Pandemic Infectious Disease Admission: Must be admitted inpatient due to a Pandemic Infectious Disease. 
-Excludes:  treatment in an emergency room, provided on an outpatient basis. 
-Intensive Care Unit (ICU) Stay: Must be admitted as an inpatient and confined in an ICU of a Hospital, due to injury or 
-sickness, including COVID-10 and PID hospitalization at the direction and under the care of a physician.  ICU stays within 
-90 days for the same or a related covered injury or covered illness is considered one ICU stay.   Not available to residents 
-of NH, ID and WA. 
- 
-Guaranteed Issue: 
-If you are a new hire you are not required to provide proof of good health if you enroll during your employer's eligibility 
-waiting period and you choose an amount of coverage up to and including the Guaranteed Issue Amount. If you apply for 
-an amount of coverage greater than the Guaranteed Issue Amount, coverage in excess of the Guaranteed Issue Amount 
-will not be issued until the insurance company approves acceptable proof of good health. Guaranteed Issue coverage may 
-be available at other specified periods of time.  Your employer will notify you when these periods of time are available. 
-Your Spouse must be age 18 or older to apply if evidence of insurability is required. 
- 
-*State Variations
+6
 
-For purposes of this brochure, wherever the term Spouse appears, it shall also include Domestic Partner registered under any 
-state which legally recognizes Domestic Partnerships or Civil Unions.Spouse definition includes civil union partners in New 
-Hampshire and Vermont, but excludes civil union partners for Idaho residents.  Heart Attack benefits available for residents of 
-AK. Not all shown covered conditions may be available and the Specific Definitions, Benefit Exclusions and Limitations for 
-some of the conditions may vary for residents of ID, MD, NH, OR, WA. Portability in TX and VT is referred to as Continuation 
-due to loss of eligibility. Portability conditions may differ for residents of UT, TX and VT. Exclusions may vary for residents of ID, 
-LA, MN, NC, NH, SC, SD, VT, TX and WA. Wellness Treatment and Preventive Care Benefit is referred to as Health 
-Screening Test or Preventive Care Benefit in WA and not available to residents of OR. Healthy Living Preventive Care Benefits 
-may not be available to NC residents. Wellness Treatment, Health Screening Test or Preventive Care Benefit dental and 
-ophthalmological exam benefits are not available to residents of NH and WA. Hospital Chronic Admission Only benefits are 
-not available to residents of ID. Covid- 19 benefits are not available to residents of NH. The coverage effective date will not be 
-deferred for residents of TX if receiving chemotherapy or radiation treatment and deferring due to disability or ADLS only applies 
-to the Spouse. For residents of ID, NH, WA the effective date won’t be deferred due to ability to perform ADLs.
+Prescription Drug Benefits7,8 
+Your payment
+
+A separate Calendar Year pharmacy Deductible applies. 
+When using a Participating
+
+Pharmacy3
+
+CYD2 
+applies
+
+Retail pharmacy prescription Drugs
+
+Per prescription, for a 90-day supply.
+
+Contraceptive Drugs and devices 
+$0
+
+Tier 1 Drugs 
+$57/prescription
+
+Tier 2 Drugs 
+$255/prescription 
+
+
+Tier 3 Drugs 
+$330/prescription 
+
+
+Tier 4 Drugs 
+30% up to $750/prescription 
+
+
+Mail service pharmacy prescription Drugs
+
+Per prescription, for a 31-90-day supply.
+
+Contraceptive Drugs and devices 
+$0
+
+Tier 1 Drugs 
+$38/prescription
+
+Tier 2 Drugs 
+$170/prescription 
+
+
+Tier 3 Drugs 
+$220/prescription 
+
+
+Tier 4 Drugs 
+30% up to $500/prescription 
+
+
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Dentist3
+
+CYD2 
+applies
+
+Pediatric dental9
+
+Diagnostic and preventive services
+
+• 
+Oral exam 
+$0
+
+• 
+Preventive – cleaning 
+$0
+
+• 
+Preventive – x-ray 
+$0
+
+• 
+Sealants per tooth 
+$0
+
+• 
+Topical fluoride application 
+$0
+
+• 
+Space maintainers - fixed 
+$0
+
+Basic services
+
+• 
+Restorative procedures 
+$25 copayment
+
+• 
+Periodontal maintenance 
+$25 copayment
+
+• 
+Adjunctive general services 
+$25 copayment
+
+Major services
+
+• 
+Oral surgery 
+$65 copayment
+
+• 
+Endodontics 
+$300 copayment
+
+• 
+Periodontics (other than maintenance) 
+$150 copayment
+
+• 
+Crowns and casts 
+$300 copayment
+
+• 
+Prosthodontics 
+$300 copayment
 
 
 
 ## Page 7
 
-Series 1.0 
- Terms and conditions of coverage for Critical Illness insurance are set forth in Group Policy No. CI111288. This is not intended 
-as a complete description of the insurance coverage offered. This is not a contract. Please see your Plan Sponsor to obtain a 
-copy of the Group Policy. If there are any differences between this summary and the Group Policy, the information in the Group 
-Policy takes precedence. Product availability, benefits, riders, covered conditions, policy provisions and/or features may vary by 
-state. Please keep this material as a reference. 
- 
-THIS POLICY PAYS LIMITED BENEFITS ONLY.  IT IS NOT COMPREHENSIVE HEALTH INSURANCE COVERAGE AND 
-DOES NOT COVER ALL MEDICAL EXPENSES.  THIS COVERAGE DOES NOT SATISFY THE “MINIMUM ESSENTIAL 
-COVERAGE” OR INDIVIDUAL MANDATE REQUIREMENTS OF THE AFFORDABLE CARE ACT (ACA).  THIS COVERAGE IS 
-NOT MEDICAID OR MEDICARE SUPPLEMENT INSURANCE. 
- 
-Product availability may vary by location and plan type and is subject to change.  All group insurance policies may contain 
-exclusions, limitations, reduction in benefits, and terms under which the policy may be continued in force or discontinued.   An 
-appeal of an adverse benefit determination before Cigna shall be a condition precedent to any legal or equitable action seeking 
-the enforcement of rights under the Policy or plan, or any other remedies relating directly or indirectly to the claim under the 
-Policy or plan.  For costs and details of coverage, review your plan documents.  Policies are distributed exclusively by or through 
-operating subsidiaries of Cigna Corporation and are administered and insured by Cigna Health and Life Insurance Company 
-(Bloomfield, CT). The Cigna name, logo, and other Cigna marks are owned by Cigna Intellectual Property, Inc.
+7
 
-958324 © 2023 Cigna.  Some content provided under license.
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Dentist3
+
+CYD2 
+applies
+
+Orthodontics (Medically Necessary) 
+$1,000
+
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Provider3
+
+CYD2 
+applies
+
+Pediatric vision10
+
+Comprehensive eye examination
+
+One exam per Calendar Year.
+
+• 
+Ophthalmologic visit 
+$0
+
+• 
+Optometric visit 
+$0
+
+Contact lens fitting and evaluation
+
+When you choose contact lenses instead of eyeglasses, one per 
+Member every 12 months by a Participating Provider if 
+administered at the same time as the comprehensive exam. 
+There is a maximum of two follow up visits.
+
+• 
+Standard lenses 
+$0
+
+• 
+Non-standard lenses 
+All charges above $60
+
+Eyewear/materials
+
+One eyeglass frame and eyeglass lenses, or contact lenses 
+instead of eyeglasses, up to the Benefit per Calendar Year. Any 
+exceptions are noted below.
+
+• 
+Contact lenses
+
+Non-elective (Medically Necessary) - hard or soft 
+$0
+
+Up to two pairs per eye per Calendar Year.
+
+Elective (cosmetic/convenience)
+
+Standard and non-standard, hard 
+$0
+
+Up to a 3 month supply for each eye per Calendar Year 
+based on lenses selected.
+
+Standard and non-standard, soft 
+$0
+
+Up to a 6 month supply for each eye per Calendar Year 
+based on lenses selected.
+
+• 
+Eyeglass frames
+
+Collection frames 
+$0
+
+Non-collection frames 
+All charges above $150
+
+• 
+Eyeglass lenses
+
+Lenses include choice of glass or plastic lenses, all lens 
+powers (single vision, bifocal, trifocal, lenticular), fashion or 
+gradient tint, scratch coating, oversized, and glass-grey #3 
+prescription sunglasses.
+
+Single vision 
+$0
+
+
+
+## Page 8
+
+8
+
+Pediatric Benefits 
+Your payment
+
+Pediatric Benefits are available through the end of the month in which 
+the Member turns 19.
+
+When using a Participating
+
+Provider3
+
+CYD2 
+applies
+
+Lined bifocal 
+$0
+
+Lined trifocal 
+$0
+
+Lenticular 
+$0
+
+Optional eyeglass lenses and treatments
+
+• 
+Ultraviolet protective coating (standard only) 
+$0
+
+• 
+Polycarbonate lenses 
+$0
+
+• 
+Standard progressive lenses 
+$0
+
+• 
+Premium progressive lenses 
+$95
+
+• 
+Anti-reflective lens coating (standard only) 
+$35
+
+• 
+Photochromic - glass lenses 
+$25
+
+• 
+Photochromic - plastic lenses 
+$0
+
+• 
+High index lenses 
+$30
+
+• 
+Polarized lenses 
+$45
+
+Low vision testing and equipment
+
+• 
+Comprehensive low vision exam 
+$0
+
+Once every 5 Calendar Years.
+
+• 
+Low vision devices 
+$0
+
+One aid per Calendar Year.
+
+Notes
+
+1 
+Evidence of Coverage (EOC):
+
+The Evidence of Coverage (EOC) describes the Benefits, limitations, and exclusions that apply to coverage under this 
+Plan. Please review the EOC for more details of coverage outlined in this Summary of Benefits. You can request a copy 
+of the EOC at any time.
+
+Capitalized terms are defined in the EOC. Refer to the EOC for an explanation of the terms used in this Summary of 
+Benefits.
+
+2 
+Calendar Year Deductible (CYD):
+
+Calendar Year Deductible explained. A Calendar Year Deductible is the amount you pay each Calendar Year before 
+Blue Shield pays for Covered Services under the Plan.
+
+If this Plan has any Calendar Year Deductible(s), Covered Services subject to that Deductible are identified with a 
+check mark () in the Benefits chart above.
+
+Covered Services not subject to the Calendar Year medical Deductible. Some Covered Services received from 
+Participating Providers are paid by Blue Shield before you meet any Calendar Year medical Deductible. These 
+Covered Services do not have a check mark () next to them in the “CYD applies” column in the Benefits chart 
+above.
+
+This Plan has a separate medical Deductible and pharmacy Deductible.
+
+Family coverage has an individual Deductible within the Family Deductible. This means that the Deductible will be met 
+for an individual with Family coverage who meets the individual Deductible prior to the Family meeting the Family
+
+
+
+## Page 9
+
+9
+
+Notes
+
+Deductible within a Calendar Year. Any amount you have paid toward the individual Deductible will be applied to 
+both the individual Deductible and the Family Deductible.
+
+3 
+Using Participating Providers:
+
+Participating Providers have a contract to provide health care services to Members. When you receive Covered 
+Services from a Participating Provider, you are only responsible for the Copayment or Coinsurance, once any Calendar 
+Year Deductible has been met.
+
+Teladoc. Teladoc mental health and substance use disorder consultations are provided through Teladoc. These 
+services are not administered by Blue Shield's Mental Health Service Administrator (MHSA).
+
+4 
+Calendar Year Out-of-Pocket Maximum (OOPM):
+
+Calendar Year Out-of-Pocket Maximum explained. The Out-of-Pocket Maximum is the most you are required to pay 
+for Covered Services in a Calendar Year. Once you reach your Out-of-Pocket Maximum, Blue Shield will pay 100% of 
+the Allowed Charges for Covered Services for the rest of the Calendar Year.
+
+Your payment after you reach the Calendar Year OOPM. You will continue to pay all charges for services that are not 
+covered, charges above the Allowed Charges, and charges for services above any Benefit maximum.
+
+Any Deductibles count towards the OOPM. Any amounts you pay that count towards the medical or pharmacy 
+Calendar Year Deductible also count towards the Calendar Year Out-of-Pocket Maximum.
+
+Family coverage has an individual OOPM within the Family OOPM. This means that the OOPM will be met for an 
+individual with Family coverage who meets the individual OOPM prior to the Family meeting the Family OOPM within 
+a Calendar Year. Any amount you have paid toward the individual OOPM will be applied to both the individual OOPM 
+and the Family OOPM.
+
+5 
+Separate Member Payments When Multiple Covered Services are Received:
+
+Each time you receive multiple Covered Services, you might have separate payments (Copayment or Coinsurance) 
+for each service. When this happens, you may be responsible for multiple Copayments or Coinsurance. For example, 
+you may owe an office visit payment in addition to an allergy serum payment when you visit the doctor for an allergy 
+shot.
+
+6 
+Preventive Health Services:
+
+If you only receive Preventive Health Services during a Physician office visit, there is no Copayment or Coinsurance for 
+the visit. If you receive both Preventive Health Services and other Covered Services during the Physician office visit, 
+you may have a Copayment or Coinsurance for the visit.
+
+7 
+Outpatient Prescription Drug Coverage:
+
+Medicare Part D-creditable coverage-
+
+This Plan’s prescription drug coverage is on average equivalent to or better than the standard benefit set by the 
+federal government for Medicare Part D (also called creditable coverage). Because this plan’s prescription drug 
+coverage is creditable, you do not have to enroll in Medicare Part D while you maintain this coverage; however, you 
+should be aware that if you do not enroll in Medicare Part D within 63 days following termination of this coverage, you 
+could be subject to Medicare Part D premium penalties.
+
+8 
+Outpatient Prescription Drug Coverage:
+
+Brand Drug coverage when a Generic or Biosimilar Drug is available. If you, the Physician, or Health Care Provider, 
+select a Brand Drug when a Generic Drug equivalent or Biosimilar Drug is available, you are responsible for the 
+difference between the cost to Blue Shield for the Brand Drug and its Generic Drug equivalent or Biosimilar Drug plus
+
+
+
+## Page 10
+
+10
+
+Notes
+
+the applicable tier Copayment or Coinsurance of the Brand Drug. This difference in cost will not count towards any 
+Calendar Year pharmacy Deductible, medical Deductible, or the Calendar Year Out-of-Pocket Maximum.
+
+See the Obtaining outpatient prescription Drugs at a Participating Pharmacy section of the EOC for more information 
+about how a brand contraceptive may be covered without a Copayment or Coinsurance.
+
+Request for Medical Necessity Review. If you or your Physician believes a Brand Drug is Medically Necessary, either 
+person may request a Medical Necessity Review. If approved, the Brand Drug will be covered at the applicable Drug 
+tier Copayment or Coinsurance.
+
+Short-Cycle Specialty Drug program. This program allows initial prescriptions for select Specialty Drugs to be filled for a 
+15-day supply with your approval. When this occurs, the Copayment or Coinsurance will be pro-rated.
+
+Specialty Drugs. Specialty Drugs are only available from a Network Specialty Pharmacy, up to a 30-day supply.
+
+Oral Anticancer Drugs. You pay up to $250 for oral Anticancer Drugs from a Participating Pharmacy, up to a 30-day 
+supply. Oral Anticancer Drugs from a Participating Pharmacy are not subject to any Deductible.
+
+Retail pharmacy. You may receive up to a 90-day supply for maintenance Drugs at a Participating Pharmacy when 
+you pay the applicable Copayment or Coinsurance for each 30-day supply.
+
+Mail service Drugs. You pay the applicable 30-day retail pharmacy Copayment or Coinsurance for a 30-day supply or 
+less from the mail service pharmacy.
+
+9 
+Pediatric Dental Coverage:
+
+Pediatric dental Benefits are provided through Blue Shield’s Dental Plan Administrator (DPA).
+
+Orthodontic Covered Services. The Copayment or Coinsurance for Medically Necessary orthodontic Covered Services 
+applies to a course of treatment even if it extends beyond a Calendar Year. This applies as long as the Member remains 
+enrolled in the Plan.
+
+This plan is compliant with requirements of the pediatric dental EHB benchmark plan, including coverage of services 
+in circumstances of Medical Necessity as defined in the Early Periodic Screening, Diagnosis and Treatment (EPSDT) 
+benefit.
+
+10 Pediatric Vision Coverage:
+
+Pediatric vision Benefits are provided through Blue Shield’s Vision Plan Administrator (VPA).
+
+Coverage for frames. If frames are selected that are more expensive than the Allowable Amount established for 
+frames under this Benefit, you pay the difference between the Allowable Amount and the provider’s charge.
+
+“Collection frames” are covered with no Member payment from Participating Providers. Retail chain Participating 
+Providers do not usually display the frames as “collection,” but a comparable selection of frames is maintained.
+
+“Non-collection frames” are covered up to an Allowable Amount of $150; however, if the Participating Provider 
+uses:
+
+• 
+wholesale pricing, then the Allowable Amount will be up to $103.64.
+
+Participating Providers using wholesale pricing are identified in the provider directory.
+
+Plans may be modified to ensure compliance with State and Federal requirements.
 -----
 Output the target's JSON only:

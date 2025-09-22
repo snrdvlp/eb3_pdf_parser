@@ -15,9 +15,13 @@ You are a highly accurate insurance PDF-to-JSON converter.
 ---
 
 
-**CRITICAL FIELD EXTRACTION FOR CRITICAL ILLNESS BENEFITS:**
-- For the following fields: "Child Scheduled Benefit", "Guaranteed Insurability", "Pre-Existing Condition Clause", "Wellness Benefit", "Cancer", "Cancer - Carcinoma in situ", "Heart Attack", "Major Organ Failure", "Stroke", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+**CRITICAL FIELD EXTRACTION FOR SUP LIFE BENEFITS:**
+- For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance",
+"PCP Visit", "Specialist Visit", "Urgent Care Visit", "ER Visit", "Preventive Visit",
+"Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics",
+"RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - If these fields are not present in the target PDF, return an empty string ("").
+
 
 
 ---
@@ -53,20 +57,53 @@ Extract and output ONLY these fields (no extras):
 
 - "Carrier Name"
 - "Plan Name"
-- "Minimum Benefit"
-- "Maximum Benefit"
-- "Employee Scheduled Benefit"
-- "Spouse Scheduled Benefit"
-- "Child Scheduled Benefit"
-- "Guaranteed Insurability"
-- "Pre-Existing Condition Clause"
-- "Wellness Benefit"
-- "Cancer"
-- "Cancer - Carcinoma in situ"
-- "Heart Attack"
-- "Major Organ Failure"
-- "Stroke"
+- "In-Network Single Deductible"
+- "In-Network Family Deductible"
+- "Out-of-Network Single Deductible"
+- "Out-of-Network Family Deductible"
+- "In-Network Single OOP Max"
+- "In-Network Family OOP Max"
+- "Out-of-Network Single OOP Max"
+- "Out-of-Network Family OOP Max"
+- "In-Network Coinsurance"
+- "Out-of-Network Coinsurance"
+- "In-Network PCP Visit"
+- "Out-of-Network PCP Visit"
+- "In-Network Specialist Visit"
+- "Out-of-Network Specialist Visit"
+- "In-Network Urgent Care Visit"
+- "Out-of-Network Urgent Care Visit"
+- "In-Network ER Visit"
+- "Out-of-Network ER Visit"
+- "In-Network Preventive Visit"
+- "Out-of-Network Preventive Visit"
+- "In-Network Outpatient Surgery"
+- "Out-of-Network Outpatient Surgery"
+- "In-Network Inpatient Surgery"
+- "Out-of-Network Inpatient Surgery"
+- "In-Network Newborn Delivery"
+- "Out-of-Network Newborn Delivery"
+- "In-Network Major Diagnostics"
+- "Out-of-Network Major Diagnostics"
+- "In-Network RX Deductible"
+- "Out-of-Network RX Deductible"
+- "In-Network Generic RX"
+- "Out-of-Network Generic RX"
+- "In-Network Brand RX"
+- "Out-of-Network Brand RX"
+- "In-Network Tier 3 RX"
+- "Out-of-Network Tier 3 RX"
+- "In-Network Tier 4 RX"
+- "Out-of-Network Tier 4 RX"
+- "In-Network Tier 5 RX"
+- "Out-of-Network Tier 5 RX"
+- "In-Network Mail Order RX"
+- "Out-of-Network Mail Order RX"
 - "Plan Year"
+- "Deductible Period"
+- "Deductible Explanation"
+- "Network Type"
+- "Network Name"
 - "Member Website"
 - "Customer Service Phone Number"
 

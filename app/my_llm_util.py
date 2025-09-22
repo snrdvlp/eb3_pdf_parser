@@ -50,6 +50,15 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 **CRITICAL FIELD EXTRACTION FOR SUP LIFE BENEFITS:**
 - For the following fields: "Child(ren) Life Insurance Coverage", "Accidental Death & Dismemberment", "Age Reduction Schedule", "Guaranteed Insurability", "Beneficiary", "Taxation of Benefit", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - If these fields are not present in the target PDF, return an empty string ("").
+""",
+    "health":"""
+**CRITICAL FIELD EXTRACTION FOR SUP LIFE BENEFITS:**
+- For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance",
+"PCP Visit", "Specialist Visit", "Urgent Care Visit", "ER Visit", "Preventive Visit",
+"Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics",
+"RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- If these fields are not present in the target PDF, return an empty string ("").
+
 """
     # Add more categories as needed...
 }
