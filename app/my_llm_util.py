@@ -29,8 +29,6 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 - For the following fields: "Elimination Period", "Payment Period", "Pre-Existing Conditions", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - If these fields are not present in the target PDF, return an empty string ("").
 """,
-    "std":"""
-""",
     "ltd":"""
 **CRITICAL FIELD EXTRACTION FOR LTD BENEFITS:**
 - For the following fields: "Elimination Period", "Payment Period", "Pre-Existing Conditions", "Own Occupation Limitation", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
