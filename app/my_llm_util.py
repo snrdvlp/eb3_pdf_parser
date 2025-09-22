@@ -52,7 +52,7 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 - If these fields are not present in the target PDF, return an empty string ("").
 """,
     "health":"""
-**CRITICAL FIELD EXTRACTION FOR SUP LIFE BENEFITS:**
+**CRITICAL FIELD EXTRACTION FOR HEALTH BENEFITS:**
 - For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance",
 "PCP Visit", "Specialist Visit", "Urgent Care Visit", "ER Visit", "Preventive Visit",
 "Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics",
@@ -148,10 +148,10 @@ def ask_llm_mapping_logic(
     user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
     user_prompt += "Output the target's JSON only:"
 
-    with open("system_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(system_prompt)  # your PDF->text output
-    with open("user_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(user_prompt)  # your PDF->text output
+    # with open("system_prompt.txt", "w", encoding="utf-8") as f:
+    #     f.write(system_prompt)  # your PDF->text output
+    # with open("user_prompt.txt", "w", encoding="utf-8") as f:
+    #     f.write(user_prompt)  # your PDF->text output
 
 
     result_json = llm.chat(system_prompt, user_prompt)
