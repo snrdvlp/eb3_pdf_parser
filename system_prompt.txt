@@ -15,12 +15,15 @@ You are a highly accurate insurance PDF-to-JSON converter.
 ---
 
 
-**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance", "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics", "RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX"(both In-Network and Out-of-Network), generally the In-Network and Out-of-Network values are placed next to each other, you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields, so that no one field is missing it's value, especially "specialist" field.
-- "out-of-network specialist visit": set it as "40%"
-- If these fields are not present in the target PDF, return an empty string ("").
+**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
+- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
 
+---
+
+**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
+- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields, so that no one field is missing it's value, especially "x-rays".
+- If these fields are not present in the target PDF, return an empty string ("").
 
 
 ---
@@ -60,47 +63,43 @@ Extract and output ONLY these fields (no extras and case-insensitive):
 - "In-Network Family Deductible"
 - "Out-of-Network Single Deductible"
 - "Out-of-Network Family Deductible"
-- "In-Network Single OOP Max"
-- "In-Network Family OOP Max"
-- "Out-of-Network Single OOP Max"
-- "Out-of-Network Family OOP Max"
-- "In-Network Coinsurance"
-- "Out-of-Network Coinsurance"
-- "In-Network PCP Visit"
-- "Out-of-Network PCP Visit"
-- "In-Network Specialist Visit"
-- "Out-of-Network Specialist Visit"
-- "In-Network Urgent Care Visit"
-- "Out-of-Network Urgent Care Visit"
-- "In-Network ER Visit"
-- "Out-of-Network ER Visit"
-- "In-Network Preventive Visit"
-- "Out-of-Network Preventive Visit"
-- "In-Network Outpatient Surgery"
-- "Out-of-Network Outpatient Surgery"
-- "In-Network Inpatient Surgery"
-- "Out-of-Network Inpatient Surgery"
-- "In-Network Newborn Delivery"
-- "Out-of-Network Newborn Delivery"
-- "In-Network Major Diagnostics"
-- "Out-of-Network Major Diagnostics"
-- "In-Network RX Deductible"
-- "Out-of-Network RX Deductible"
-- "In-Network Generic RX"
-- "Out-of-Network Generic RX"
-- "In-Network Brand RX"
-- "Out-of-Network Brand RX"
-- "In-Network Tier 3 RX"
-- "Out-of-Network Tier 3 RX"
-- "In-Network Tier 4 RX"
-- "Out-of-Network Tier 4 RX"
-- "In-Network Tier 5 RX"
-- "Out-of-Network Tier 5 RX"
-- "In-Network Mail Order RX"
-- "Out-of-Network Mail Order RX"
+- "In-Network Annual Maximum"
+- "Out-of-Network Annual Maximum"
+- "Frequencies Cleaning"
+- "Frequencies Exam"
+- "In-Network Cleanings"
+- "Out-of-Network Cleanings"
+- "In-Network Exams"
+- "Out-of-Network Exams"
+- "In-Network X-Rays"
+- "Out-of-Network X-Rays"
+- "In-Network Sealants"
+- "Out-of-Network Sealants"
+- "In-Network Fillings"
+- "Out-of-Network Fillings"
+- "In-Network Simple Extractions"
+- "Out-of-Network Simple Extractions"
+- "In-Network Root Canal"
+- "Out-of-Network Root Canal"
+- "In-Network Periodontal Gum Disease"
+- "Out-of-Network Periodontal Gum Disease"
+- "In-Network Oral Surgery"
+- "Out-of-Network Oral Surgery"
+- "In-Network Crowns"
+- "Out-of-Network Crowns"
+- "In-Network Dentures"
+- "Out-of-Network Dentures"
+- "In-Network Bridges"
+- "Out-of-Network Bridges"
+- "In-Network Implants"
+- "Out-of-Network Implants"
+- "In-Network Orthodontia"
+- "Out-of-Network Orthodontia"
+- "Orthodontia Lifetime Maximum"
+- "Orthodontia Maximum Age"
+- "Out of Network Explanation"
+- "Waiting Period for Major Services"
 - "Plan Year"
-- "Deductible Period"
-- "Deductible Explanation"
 - "Network Type"
 - "Network Name"
 - "Member Website"

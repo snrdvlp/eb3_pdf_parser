@@ -2,1837 +2,852 @@ SAMPLE PDF TEXT #1:
 -----
 ## Page 1
 
-This Benefit Summary is to highlight your Benefits. Don’t use this document to understand your exact coverage. If this Benefit Summary conflicts
-with the Certificate of Coverage (COC), Schedule of Benefits, Riders, and/or Amendments, those documents govern. Review your COC for an exact
-description of the services and supplies that are and are not covered, those which are excluded or limited, and other terms and conditions of
-coverage.
 
-UnitedHealthcare
-|
-Alabama
-|
-Choice Plus
-|
-DZF4
-|
-E83
 
-Choice Plus plan details, 
-all in one place.
+### Table (Page 1)
 
-Use this benefit summary to learn more about this plan’s benefits, ways 
-you can get help managing costs and how you may get more out of this 
-health plan.
+| Eligibility |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| JobClass | Active Members |  |  |  |
+|  |  |  |  |  |
+| Benefits Payable |  |  |  |  |
+| Network | DentalPreferredProviderOrganization(PPO) |  |  |  |
+|  | CalendarYearDeductible |  | Coinsurance (Policy Pays) |  |
+|  | In-Network | Non-Network | In-Network | Non-Network |
+| Unit1–Preventive | $0 | $0 | 100% | 100% |
+| Unit 2 – Basic | $50 | $50 | 90% | 80% |
+| Unit 3 – Major | $50 | $50 | 60% | 50% |
+| FamilyDeductibleMaximum | 3timestheperpersondeductibleamount | $50 | 60% | 50% |
+| CombinedDeductible | In-networkdeductiblesforbasicandmajorproceduresarecombined.Non-networkdeductibles
+forbasicandmajorproceduresarecombined. | $50 | 60% | 50% |
+| CombinedMaximums | Maximums forpreventive, basic, and majorprocedures are combined. In-networkCalendar year
+maximums are $2,000 per person. Non-networkCalendar yearmaximums are $2,000 per
+person. | $50 | 60% | 50% |
+| PrevailingCharge | Whenusingnon-networkproviders,youpayanyamountovertheallowablecharge. | $50 | 60% | 50% |
+| MaximumAccumulation | Thisallowsforaportionofunusedmaximumbenefittocarryovertonextyear'smaximum
+benefitamount. Toqualify,youmusthavehadadentalserviceperformedwithintheCalendar
+yearandusedlessthanthemaximumthreshold. Thethresholdisequaltothelesserof50%of
+themaximumbenefitor$1000. Ifqualificationismet,50%ofthethresholdiscarriedoverto
+nextyear'smaximumbenefit. Individualswithfourthquartereffectiveswillstartqualifyingfor
+rolloveratthebeginningofthenextcalendaryear.Youcanaccumulatenomorethanfour
+timesthecarryoveramount.Theentireaccumulationamountwillbeforfeitedifnodental
+serviceissubmittedwithinacalendaryear. | $50 | 60% | 50% |
+| Additional Benefits | Thisallowsforaportionofunusedmaximumbenefittocarryovertonextyear'smaximum
+benefitamount. Toqualify,youmusthavehadadentalserviceperformedwithintheCalendar
+yearandusedlessthanthemaximumthreshold. Thethresholdisequaltothelesserof50%of
+themaximumbenefitor$1000. Ifqualificationismet,50%ofthethresholdiscarriedoverto
+nextyear'smaximumbenefit. Individualswithfourthquartereffectiveswillstartqualifyingfor
+rolloveratthebeginningofthenextcalendaryear.Youcanaccumulatenomorethanfour
+timesthecarryoveramount.Theentireaccumulationamountwillbeforfeitedifnodental
+serviceissubmittedwithinacalendaryear. | $50 | 60% | 50% |
+|  | LifetimeDeductible |  | Coinsurance (Policy Pays) |  |
+|  | In-Network | Non-Network | In-Network | Non-Network |
+| Unit 4 - Orthodontia
+• Child
+Lifetime Maximum:
+In-Network: $1,500
+Non-Network: $1,500 | $0 | $0 | 50% | 50% |
 
-Check out what’s included in the plan
-Choice Plus
+1 of 4
 
-Network coverage only
-You can usually save money when you receive care for covered health care services from
-network providers.
+Dental PPO Benefit Summary
 
-Network and out-of-network benefits
-You may receive care and services from network and out-of-network providers and
-facilities — but staying in the network can help lower your costs.
+Plan 24
 
-Primary care physician (PCP) required
-With this plan, you need to select a PCP — the doctor who plays a key role in helping
-manage your care. Each enrolled person on your plan will need to choose a PCP.
+Predetermination of Benefits: Before treatment begins for inlays, onlays, single crowns, prosthetics,
+periodontics and oral surgery, you may file a dental treatment plan with Principal Life Insurance Company.
+Principal Life will provide a written response indicating benefits that may be payable for the proposed treatment.
 
-Referrals required
-You’ll need referrals from your PCP before seeing a specialist or getting certain health
-care services.
+This chart provides you a brief summary of the key benefits of the dental coverage available from Principal Life
+Insurance Company. Following the chart, you will find additional information to answer questions you may have.
+For a complete list of all your dental coverage benefits and restrictions, please refer to your booklet or contact your
+employer.
 
-Preventive care covered at 100%
-There is no additional cost to you for seeing a network provider for preventive care.
+Eligibility
 
-Pharmacy benefits
-With this plan, you have coverage that helps pay for prescription drugs and medications.
+Job Class
+Active Members
 
-Tier 1 providers
-Using Tier 1 providers may bring you the greatest value from your health care benefits.
-These PCPs and medical specialists meet national standard benchmarks for quality care
-and cost savings.
+Benefits Payable
 
-Freestanding centers
-You may pay less when you use certain freestanding centers — health care facilities that
-do not bill for services as part of a hospital, such as MRI or surgery centers.
+Network
+Dental Preferred Provider Organization (PPO)
 
-Health savings account (HSA)
-With an HSA, you’ve got a personal bank account that lets you put money aside, tax-free.
-Use it to save and pay for qualified medical expenses.
+Calendar Year Deductible
+Coinsurance (Policy Pays)
+In-Network
+Non-Network
+In-Network
+Non-Network
+Unit 1 – Preventive
+$0
+$0
+100%
+100%
 
-1
+Unit 2 – Basic
+$50
+$50
+90%
+80%
+
+Unit 3 – Major
+$50
+$50
+60%
+50%
+
+Family Deductible Maximum
+3 times the per person deductible amount
+
+Combined Deductible
+In-network deductibles for basic and major procedures are combined. Non-network deductibles
+for basic and major procedures are combined.
+
+Combined Maximums
+Maximums for preventive, basic, and major procedures are combined. In-network Calendar year
+maximums are $2,000 per person. Non-network Calendar year maximums are $2,000 per
+person.
+
+Prevailing Charge
+When using non-network providers, you pay any amount over the allowable charge.
+
+Maximum Accumulation
+This allows for a portion of unused maximum benefit to carry over to next year's maximum
+benefit amount. To qualify, you must have had a dental service performed within the Calendar
+year and used less than the maximum threshold. The threshold is equal to the lesser of 50% of
+the maximum benefit or $1000. If qualification is met, 50% of the threshold is carried over to
+next year's maximum benefit. Individuals with fourth quarter effectives will start qualifying for
+rollover at the beginning of the next calendar year. You can accumulate no more than four
+times the carry over amount. The entire accumulation amount will be forfeited if no dental
+service is submitted within a calendar year.
+
+Additional Benefits
+
+Lifetime Deductible
+Coinsurance (Policy Pays)
+
+In-Network
+Non-Network
+In-Network
+Non-Network
+
+Unit 4 - Orthodontia
+•
+Child
+
+Lifetime Maximum:
+In-Network: $1,500
+Non-Network: $1,500
+
+$0
+$0
+50%
+50%
 
 
 
 ## Page 2
 
-Here's a more in-depth look at how Choice Plus works.
 
-Medical Benefits
 
-In Network
-Out-of-Network
+### Table (Page 2)
 
-Annual Medical Deductible
+| Unit1–
+Preventive
+Procedures | •
+Routine exams - two per calendar year
+•
+Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+•
+Second Opinion Consultation
+•
+Fluoride –one treatment each calendar year (covered only for dependent children under
+age 14)
+•
+Space maintainers - covered only for dependent children under age 14; repairs not
+covered
+•
+Sealants – on first and second permanent molars for dependent children under age 14;
+one each tooth each36months
+•
+Harmful Habit Appliance - covered only for dependent children under age 14
+•
+X-rays - Bitewing (one set every calendar year), occlusal, periapical
+•
+X-rays – Full mouth survey (one every 60months), extraoral |
+| --- | --- |
+| Unit2–
+Basic
+Procedures | • Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
+treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+• Emergency exams – subject to Routine exam frequency limit
+• Fillings and stainless steel crowns
+• Simple Oral Surgery
+• Complex Oral Surgical Procedures
+• Non-surgical Periodontics, including scaling and root planing - once each quadrant each
+24 months (For expectant mothers, diabetics and those with heart disease, this procedure
+is provided with no deductible and 100% coinsurance.)
+• Periodontal Surgical Procedures – one each quadrant each 36 months
+• Simple Endodontics (root canal therapy for anterior teeth)
+• Complex Endodontics (root canal therapy for molar teeth) |
+| Unit3–
+Major
+Procedures | • General Anesthesia (covered only for specific procedures)/IV Sedation
+• Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
+Adjustment to Bridge/Denture, within policy limitations
+• Crowns – each120months per tooth if tooth cannot be restored by a filling.
+• Inlays, Onlays, Cast Post and Core, Core Buildup - each 120months per tooth
+• Bridges - Initial placement / Replacement of bridges 120months old.
+• Dentures - Initial placement of complete or partial dentures / Replacement of complete or
+partial dentures over 60 months old |
+| Unit4-Orthodontic
+Procedures | • Fordependentchildrenwhenbandsareplacedbeforeage19,x-raysandother
+diagnosticprocedures,fixedandremovableappliances |
 
-Individual
-$3,750
-$10,000
+### DENTAL
 
-Family
-$7,500
-$20,000
+2 of 4
 
-Ped Dental Annual Deductible - Family
-Included in your medical deductible
-Included in your medical deductible
+How Are Dental Procedures Covered?
 
-Ped Dental Annual Deductible - Individual
-Included in your medical deductible
-Included in your medical deductible
+The list of common procedures shows what unit the procedure is included in and how often they are covered.
 
-All individual deductible amounts will count toward the family deductible, but an individual will not have to pay more than the individual deductible amount.
+Unit 1 –
+Preventive
+Procedures
 
-*After the Annual Medical Deductible has been met.
+•
+Routine exams - two per calendar year
+•
+Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+•
+Second Opinion Consultation
+•
+Fluoride – one treatment each calendar year (covered only for dependent children under
+age 14)
+•
+Space maintainers - covered only for dependent children under age 14; repairs not
+covered
+•
+Sealants – on first and second permanent molars for  dependent children under age 14;
+one each tooth each 36 months
+•
+Harmful Habit Appliance - covered only for dependent children under age  14
+•
+X-rays - Bitewing (one set every calendar year), occlusal, periapical
+•
+X-rays – Full mouth survey (one every 60 months), extraoral
 
-You're responsible for paying 100% of your medical expenses until you reach your deductible. For certain covered services, you may be required to pay a fixed dollar 
-amount - your copay.
+•
+Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
+treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+•
+Emergency exams – subject to Routine exam frequency limit
+•
+Fillings and stainless steel crowns
+•
+Simple Oral Surgery
+•
+Complex Oral Surgical Procedures
+•
+Non-surgical Periodontics, including scaling and root planing - once each quadrant each
+24 months (For expectant mothers, diabetics and those with heart disease, this procedure
+is provided with no deductible and 100% coinsurance.)
+•
+Periodontal Surgical Procedures – one each quadrant each 36 months
+•
+Simple Endodontics (root canal therapy for anterior teeth)
+•
+Complex Endodontics (root canal therapy for molar teeth)
 
-Annual Out-of-Pocket Limit
+Unit 2 –
+Basic
+Procedures
 
-Individual
-$3,750
-$15,000
+•
+General Anesthesia (covered only for specific procedures)/IV Sedation
+•
+Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
+Adjustment to Bridge/Denture, within policy limitations
+•
+Crowns – each 120 months per tooth if tooth cannot be restored by a filling.
+•
+Inlays, Onlays, Cast Post and Core, Core Buildup - each 120 months per tooth
+•
+Bridges - Initial placement / Replacement of bridges 120 months old.
+•
+Dentures - Initial placement of complete or partial dentures / Replacement of complete or
+partial dentures over 60 months old
 
-Family
-$7,500
-$30,000
+Unit 3 –
+Major
+Procedures
 
-All individual out-of-pocket maximum amounts will count toward the family out-of-pocket maximum, but an individual will not have to pay more than the individual 
-out-of-pocket maximum amount.
+Unit 4 - Orthodontic
+Procedures
+•
+For dependent children when bands are placed before age 19, x-rays and other
+diagnostic procedures, fixed and removable appliances
 
-Once you’ve met your deductible, you start sharing costs with your plan - coinsurance. You continue paying a portion of the expense until you reach your out-of-
-pocket limit. From there, your plan pays 100% of allowed amounts for the rest of the plan year.
+There is Coordination of Benefits, which is a procedure for limiting benefits from two or more carriers to 100% of
 
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Preventive Care Services
-
-Preventive Care Services
-No copay
-Not covered
-
-Certain preventive care services are provided as specified by 
-the Patient Protection and Affordable Care Act (ACA), with no 
-cost-sharing to you. These services are based on your age, 
-gender and other health factors. UnitedHealthcare also covers 
-other routine services that may require a copay, co-insurance 
-or deductible.
-
-Includes services such as Routine Wellness Checkups, 
-Immunizations, Breast Pumps, Mammography and Colorectal 
-Cancer Screenings.
-
-Office Services - Sickness & Injury
-
-Primary Care Physician
-No copay*
-40%*
-
-Additional copays, deductible, or co-insurance may apply 
-when you receive other services at your physician’s office. For 
-example, surgery and lab work.
-
-Telehealth is covered at the same cost share as in the office.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-2
+the claimant's covered expenses.
 
 
 
 ## Page 3
 
-What You Pay for Services
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
 
-Designated Network
-Network
-Out-of-Network
+### Table (Page 3)
 
-Specialist
-No copay*
-40%*
+| 1 | Visitwww.principal.com/dentist. |
+| --- | --- |
+| 2 | Beginyoursearchbypickingthestatewhereyouwouldliketofindaprovider. Next,specifyanetwork. Depending
+onthenetworkchosen,youmaybetransferredtoapartnersite. |
+| 3 | Enterthenameoftheprovideryouarelookingfor(ifknown). Ifyouarelookingforanearbydentist,enterthecity
+andstateand/orZIPcode. Besuretoindicatehowfaryouarewillingtotravel. |
+| 4 | SelectthedesiredspecialtyorusetheNoSpecialtyPreferencedefault. ClickContinue. |
+| 5 | SelectalanguageifyourpreferenceisotherthanEnglish. ClickContinue. |
 
-Additional copays, deductible, or co-insurance may apply 
-when you receive other services at your physician’s office. For 
-example, surgery and lab work.
+### DENTAL
 
-Telehealth is covered at the same cost share as in the office.
+3 of 4
 
-Urgent Care Center Services
-No copay*
-40%*
+Understanding Your Dental Benefits
 
-Virtual Care Services
-No copay*
-Not covered
+Am I Eligible For Coverage?
 
-Benefits are available only when services are delivered through 
-a Designated Virtual Network Provider for 24/7 Virtual Visit 
-services only. You can find a 24/7 Virtual Visit Provider by 
-contacting us at myuhc.com® or the telephone number on 
-your ID card. Access to 24/7 Virtual Visits and prescription 
-services may not be available in all states or for all groups.
+To be eligible for coverage, you must qualify as an eligible member and be considered actively at work.
 
-Emergency Care
+You must be enrolled for dental coverage before it can be offered to your dependents.  Eligible dependents
 
-Ambulance Services - Emergency Ambulance
+include your spouse , state registered domestic partner, and children, including those of your state registered
 
-Air Ambulance
-No copay*
-No copay*
+domestic partner. Additional eligibility requirements may apply.
 
-Ground Ambulance
-No copay*
-No copay*
+Open enrollment applies. Any employee or dependent that didn't enroll within 31 days of being eligible can only
 
-Ambulance Services - Non-Emergency Ambulance¹
+enroll during the open enrollment period.
 
-Air Ambulance
-No copay*
-No copay*
+How Do I Find A Participating Provider?
 
-Ground Ambulance
-No copay*
-40%*
+Use the Provider Directory on www.principal.com to locate nearby dentists or see if your dentist participates in
 
-Dental Services - Accident Only
-No copay*
-No copay*
+your network.
 
-Emergency Health Care Services - Outpatient¹
-No copay*
-No copay*
+1
+Visit www.principal.com/dentist.
 
-Notification is required if it results in confinement to an Out-of-
-Network Hospital.
-
-Inpatient Care
-
-Congenital Heart Disease (CHD) Surgeries¹
-No copay*
-40%*
-
-Habilitative Services - Inpatient¹
-The amount you pay is based on where the covered health care service is provided.
-
-Limited to 60 days per year.
-
-Hospital - Inpatient Stay¹
-No copay*
-40%*
-
-Skilled Nursing Facility/Inpatient Rehabilitation Facility 
-Services¹
-
-No copay*
-40%*
-
-Limited to 60 days per year.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
+2
+Begin your search by picking the state where you would like to find a provider. Next, specify a network. Depending
+on the network chosen, you may be transferred to a partner site.
 
 3
+Enter the name of the provider you are looking for (if known). If you are looking for a nearby dentist, enter the city
+and state and/or ZIP code. Be sure to indicate how far you are willing to travel.
+
+4
+Select the desired specialty or use the No Specialty Preference default. Click Continue.
+
+5
+Select a language if your preference is other than English. Click Continue.
+
+You may nominate your dentist for inclusion in our network. Please submit the dentist's name, address, phone
+and specialty by calling 1-800-832-4450, or submit through www.principal.com/refer-dental-provider.
+
+What Are The Restrictions Of My Coverage?
+
+This Benefit Summary is a summary only. For a complete list of benefit restrictions, please refer to your booklet.
 
 
 
 ## Page 4
 
-What You Pay for Services
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
 
-Designated Network
-Network
-Out-of-Network
+### Table (Page 4)
 
-Outpatient Care
+| Limitations&Exclusions |  |
+| --- | --- |
+| MissingTooth | Benefitsfortheinitialplacementofbridges,partialsanddenturesarenotcoveredifthoseteeth
+weremissingpriortobecominginsuredunderthePrincipalLifepolicy.Whenthepolicy
+replacescoverageunderapriorplan,continuouscoverageunderthepriorplanmaybe
+appliedtothemissingtoothprovisionrequirement. |
+| Orthodontia | Ifthereisorthodontia(ortho)treatmentinprogressonthecoverageeffectivedateandyouare
+coveredunderanypriorgroupcoverageforortho,therewillbeimmediatecoveragefor
+treatmentifproofissubmittedthatshows:
+1) Thelifetimemaximumunderanypriorgroupcoveragehasnotbeenexceeded,
+2) Orthotreatmentwasstartedandbandsorapplianceswereinsertedwhileinsuredunder
+anypriorgroupcoverage,and
+3) Orthotreatmenthasbeencontinuedwhileinsuredunderthispolicy.
+PrincipalLifewillcreditpaymentsmadebythepriorcarriertowardthePrincipalLifelifetime
+orthopaymentlimit.
+Youwillnotbecoverediforthotreatmentisinprogresspriortotheeffectivedatewith
+PrincipalLifeandyouarenotcoveredunderanypriorgroupcoverageforortho. |
+| OtherLimitations | Thereareadditionallimitationstoyourcoverage. Acompletelistisincludedinyourbooklet. |
 
-Habilitative Services - Outpatient
-No copay*
-40%*
+### DENTAL
 
-Limited to 20 visits of cognitive rehabilitation therapy per year.
+4 of 4
 
-Limited to 20 visits of manipulative treatments per year.
+Limitations & Exclusions
 
-Limited to 30 visits of post-cochlear implant aural therapy per 
-year.
+Missing Tooth
+Benefits for the initial placement of bridges, partials and dentures are not covered if those teeth
+were missing prior to becoming insured under the Principal Life policy. When the policy
+replaces coverage under a prior plan, continuous coverage under the prior plan may be
+applied to the missing tooth provision requirement.
 
-Home Health Care¹
-No copay*
-40%*
+Orthodontia
+If there is orthodontia (ortho) treatment in progress on the coverage effective date and you are
+covered under any prior group coverage for ortho, there will be immediate coverage for
+treatment if proof is submitted that shows:
+1) The lifetime maximum under any prior group coverage has not been exceeded,
+2) Ortho treatment was started and bands or appliances were inserted while insured under
+any prior group coverage, and
+3) Ortho treatment has been continued while insured under this policy.
 
-Lab, X-Ray and Diagnostic - Outpatient - Lab Testing
-No copay*
-No copay*
-Not covered
+Principal Life will credit payments made by the prior carrier toward the Principal Life lifetime
+ortho payment limit.
 
-For Designated Network Benefits, laboratory services must be 
-received from a Designated Diagnostic Provider. Network 
-Benefits include laboratory services received from a Network 
-provider that is not a Designated Diagnostic Provider.
+You will not be covered if ortho treatment is in progress prior to the effective date with
+Principal Life and you are not covered under any prior group coverage for ortho.
 
-Lab, X-Ray and Diagnostic - Outpatient - X-Ray and other 
-Diagnostic Testing¹
+Other Limitations
+There are additional limitations to your coverage. A complete list is included in your booklet.
 
-No copay*
-40%*
+Principal Life Insurance Company, Des Moines, Iowa 50392-0002, www.principal.com
 
-Major Diagnostic and Imaging - Outpatient¹
-No copay*
-No copay*
-40%*
+This is a summary of dental coverage underwritten by or with administrative services provided by Principal Life Insurance Company.  This
 
-For Designated Network Benefits, services must be received 
-from a Designated Diagnostic Provider. Network Benefits 
-include services received from a Network provider that is not a 
-Designated Diagnostic Provider.
+benefit summary is for administrative purposes and is not a complete statement of benefits and restrictions. You’ll receive a benefit booklet
 
-You may have to pay an extra copay, deductible or 
-coinsurance for physician fees or pharmaceutical products.
+with details about your coverage. If there is a discrepancy between this summary and your benefit booklet, the benefit booklet prevails.
 
-Physician Fees for Surgical and Medical Services
-No copay*
-40%*
+Principal, Principal and symbol design and Principal Financial Group are trademarks and service marks of Principal Financial Services, Inc., a
+member of the Principal Financial Group.
 
-Rehabilitation Services - Outpatient Therapy and Manipulative 
-Treatment
-
-No copay*
-40%*
-
-Limited to 20 visits of cognitive rehabilitation therapy per year.
-
-Limited to 20 visits of manipulative treatments per year.
-
-Limited to 20 visits of pulmonary rehabilitation therapy per 
-year.
-
-Limited to 30 visits of post-cochlear implant aural therapy per 
-year.
-
-Limited to 36 visits of cardiac rehabilitation therapy per year.
-
-Scopic Procedures - Outpatient Diagnostic and Therapeutic
-No copay*
-40%*
-
-Diagnostic/therapeutic scopic procedures include, but are not 
-limited to colonoscopy, sigmoidoscopy and endoscopy.
-
-Surgery - Outpatient¹
-No copay*
-40%*
-
-Therapeutic Treatments - Outpatient¹
-No copay*
-40%*
-
-For dialysis services, Out-of-Network Benefits are not available.
-
-Therapeutic treatments include, but are not limited to dialysis, 
-intravenous chemotherapy, intravenous infusion, medical 
-education services and radiation oncology.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-4
-
-
-
-## Page 5
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Supplies and Services
-
-Diabetes Self-Management Items¹
-The amount you pay is based on where the covered health care service is provided under 
-Durable Medical Equipment (DME), Orthotics and Supplies or in the Prescription Drug Benefits 
-Section.
-
-Diabetes Self-Management and Training/Diabetic Eye 
-Exams/Foot Care¹
-
-The amount you pay is based on where the covered health care service is provided.
-
-Durable Medical Equipment (DME), Orthotics and Supplies
-No copay*
-Not covered
-
-Enteral Nutrition
-No copay*
-40%*
-
-Hearing Aids
-No copay*
-40%*
-
-Limited to $2,500 per year.
-
-Limited to a single purchase per hearing impaired ear every 3 
-years.
-
-Repair and/or replacement of a hearing aid would apply to this 
-limit in the same manner as a purchase.
-
-Ostomy Supplies
-No copay*
-Not covered
-
-Pharmaceutical Products - Outpatient
-No copay*
-40%*
-
-This includes medications given at a doctor's office, or in a 
-covered person's home.
-
-Prosthetic Devices¹
-No copay*
-40%*
-
-Urinary Catheters
-No copay*
-Not covered
-
-Pregnancy
-
-Pregnancy - Maternity Services¹
-The amount you pay is based on where the covered health care service is provided except that 
-an Annual Deductible will not apply for a newborn child whose length of stay in the Hospital is 
-the same as the mother's length of stay.
-
-Mental Health Care & Substance Related and 
-Addictive Disorder Services
-
-Inpatient¹
-No copay*
-40%*
-
-Intensive Behavioral Therapy (e.g. ABA)¹
-No copay*
-40%*
-
-Other Outpatient Services such as Electro-Convulsive 
-Treatment, Psychological Testing, Transcranial Magnetic 
-Stimulation and Medication Assisted Treatment¹
-
-No copay*
-40%*
-
-Other Outpatient Services, including Partial 
-Hospitalization/Day Treatment/High Intensity 
-Outpatient/Intensive Outpatient Treatment¹
-
-No copay*
-40%*
-
-Outpatient Office Visits
-No copay*
-40%*
-
-Other Services
-
-Cellular and Gene Therapy
-The amount you pay is based on where the covered health 
-care service is provided.
-
-Not covered
-
-For Network Benefits, Cellular or Gene Therapy services must 
-be received from a Designated Provider.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-5
-
-
-
-## Page 6
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Clinical Trials¹
-The amount you pay is based on where the covered health care service is provided.
-
-Fertility Preservation for Iatrogenic Infertility¹
-No copay*
-40%*
-
-Limited to $20,000 per Covered Person per lifetime.
-
-Limited to $5,000 for Prescription Drug Products per Covered 
-Person.
-
-Limited to 1 cycle of fertility preservation for Iatrogenic Infertility 
-per lifetime.
-
-This Benefit limit will be the same as, and combined with, 
-those stated under Preimplantation Genetic Testing (PGT) and 
-Related Services.
-
-Gender Dysphoria¹
-The amount you pay is based on where the covered health care service is provided or in the 
-Prescription Drug Benefits Section.
-
-Limits for voice modification therapy and/or voice lessons will 
-be the same as, and combined with, outpatient speech 
-therapy limits as described under Habilitative Services and 
-Rehabilitation Services Outpatient Therapy and Manipulative 
-Treatment.
-
-Hospice Care¹
-No copay*
-40%*
-
-Preimplantation Genetic Testing (PGT) and Related Services¹
-No copay*
-40%*
-
-Benefit limits for related services will be the same as, and 
-combined with, those stated under Fertility Preservation for 
-Iatrogenic Infertility. This limit does not include Preimplantation 
-Genetic Testing (PGT) for the specific genetic disorder. This 
-limit includes Benefits for ovarian stimulation medications 
-provided under the Outpatient Prescription Drug Rider.
-
-Reconstructive Procedures¹
-The amount you pay is based on where the covered health care service is provided.
-
-Temporomandibular Joint (TMJ) Services¹
-The amount you pay is based on where the covered health care service is provided.
-
-Transplantation Services
-The amount you pay is based on where the covered health 
-care service is provided.
-
-Not covered
-
-For Network Benefits, transplantation services must be 
-received from a Designated Provider.
-
-Pediatric Services - Dental
-
-All Pediatric Dental - Benefits covered up to age 19
-
-Additional limits may apply. Refer to your plan documents for 
-more information.
-
-Basic Dental Services
-No copay*
-40%*
-
-Diagnostic Services
-No copay*
-20%*
-
-Limited to 1 time every 36 months for Panoramic x-rays.
-
-Limited to 2 evaluations (checkup exams) every 12 months.
-
-Limited to 2 series of films every 12 months of Bitewing x-rays.
-
-Major Restorative Services
-No copay*
-50%*
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-6
-
-
-
-## Page 7
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Medically Necessary Orthodontics¹
-No copay*
-50%*
-
-All orthodontic treatment must be prior authorized.
-
-Preventive Services
-No copay*
-20%*
-
-Limited to 2 dental prophylaxis cleanings and fluoride 
-treatments every 12 months.
-
-Pediatric Services - Vision
-
-All Pediatric Vision - Benefits Covered up to age 19
-
-Contact Lenses/Necessary Contact Lenses
-No copay*
-40%*
-
-Limited to 1 fitting and evaluation every 12 months.
-
-Limited to a 12 month supply.
-
-We will pay benefits for only one vision care service. You may 
-choose either eyeglasses (eyeglass lenses and/or eyeglass 
-frames) or contact lenses.
-
-Eyeglass Frames
-
-Eyeglass frames with a retail cost below $130
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $130-$160
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $160-$200
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $200-$250
-No copay*
-40%*
-
-Eyeglass frames with a retail cost greater than $250
-No copay*
-40%*
-
-Limited to once every 12 months.
-
-Eyeglass Lenses
-No copay*
-40%*
-
-Limited to once every 12 months.
-
-Lens Extras
-No copay*
-No copay*
-
-Limited to once every 12 months.
-
-Coverage includes polycarbonate lenses and standard 
-scratch-resistant coating.
-
-Low Vision Testing
-No copay
-25%*
-
-Limited to once every 24 months.
-
-Low Vision Therapy
-25%
-25%*
-
-Limited to once every 24 months.
-
-Routine Vision Exam
-No copay
-40%*
-
-Limited to once every 12 months.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-7
-
-
-
-## Page 8
-
-Pharmacy Benefits
-
-** Only certain Prescription Drug Products are available through mail order; please visit myuhc.com® or call Customer Care at the telephone number on the back of your ID card for more information. You will be charged a
-retail Copayment and/or Coinsurance for 31 days or 2 times for 60 days based on the number of days supply dispensed for any Prescription Order or Refills sent to the mail order pharmacy. To maximize your Benefit, ask
-your Physician to write your Prescription Order or Refill for a 90-day supply, with refills when appropriate, rather than a 30-day supply with three refills.
-For Specialty Drugs from a Non-Preferred Pharmacy, you will be required to pay the same Co-payment/Co-insurance as the Preferred Specialty Network Pharmacy based on the applicable Tier.
-Your Copayment and/or Coinsurance is determined by the tier to which the Prescription Drug List (PDL) Management Committee has assigned the Prescription Drug Product. All Prescription Drug Products on the
-Prescription Drug List are assigned to Tier 1, Tier 2, Tier 3 or Tier 4.
-If you are a member, you can find individualized information on your benefit coverage, determine tier status, check the status of claims and search for network pharmacies by logging into your account on myuhc.com® or
-calling the Customer Care number on your ID card. If you are not a member, you can view prescription information at welcometouhc.com > Benefits > Pharmacy Benefits.
-
-Pharmacy Plan Details
-
-Pharmacy Network
-National
-
-Prescription Drug List
-Essential
-
-In Network
-
-Annual Pharmacy Deductible
-
-Individual
-See the Annual Medical Deductible section
-
-Family
-See the Annual Medical Deductible section
-
-Annual Deductible - Network and Out-of-Network
-
-The Pharmacy Deductible is the amount you pay for pharmacy 
-expenses per year before you begin to receive Pharmacy 
-Benefits.
-
-Up to a 31-day supply
-Up to a 90-day supply
-
-Prescription Drug Product Tier
-
-Level
-
-Retail and Specialty
-
-Pharmacy Network
-
-Retail 
-Non-preferred
-
-Specialty 
- Network Pharmacy
-
-Out-of-Network Retail
-
-Pharmacy
-
-In-Network Mail Order
-
-Pharmacy**
-
-Tier 1
-
-$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 2
-
-$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 3
-
-$$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 4
- $$$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-8
-
-
-
-## Page 9
-
-Here’s an example of how the plan’s costs come into play.
-
-More ways to help manage your health plan and stay in the loop.
-
-Search the network to find doctors.
-You can go to providers in and out of our network — but when
-you stay in network, you’ll likely pay less for care. To get started:
-  . Go to welcometouhc.com > Benefits > Find a Doctor or Facility.
-  . Choose  Search for a health plan.
-  . Choose Choice Plus to view providers in the health plan’s network.
-
-Manage your meds.
-Look up your prescriptions using the Prescription Drug List (PDL).
-It places medications in tiers that represent what you’ll pay, which
-may make it easier for you and your doctor to find options to help
-you save money.
-  . Go to welcometouhc.com > Benefits > Pharmacy Benefits.
-  . Select Essential to view the medications that are
-
-covered under your plan.
-
-Access your plan online.
-With myuhc.com®, you’ve got a personalized health hub to help
-you find a doctor, manage your claims, estimate costs and more.
-
-Get on-the-go access.
-When you’re out and about, the UnitedHealthcare® app puts your
-health plan at your fingertips. Download to find nearby care, video
-chat with a doctor 24/7, access your health plan ID card and more.
-
-9
-
-
-
-## Page 10
-
-Other important information about your benefits.
-
-Medical Exclusions
-
-Services your plan generally does NOT cover. It is recommended that you review your COC, Amendments and Riders for an exact description  of
-the services and supplies that are covered, those which are excluded or limited, and other terms and conditions of coverage.
-• Acupuncture
-• Bariatric Surgery 
-• Cosmetic Surgery
-• Dental Care (Adult)
-• Infertility Treatment
-• Long-Term Care
-• Non-emergency care when traveling outside the U.S.
-• Private-Duty Nursing
-• Routine Eye Care (Adult)
-• Routine Foot Care
-• Weight Loss Programs
-
-Outpatient Prescription Drug Benefits
-
-For Prescription Drug Products dispensed at an In-Network Retail Pharmacy, you are responsible for paying the lowest of the following: 1) The
-applicable Copayment and/or Coinsurance; 2) The In- Network Retail Pharmacy Usual and Customary Charge for the Prescription Drug Product;
-and 3) The Prescription Drug Charge for that Prescription Drug Product. For Prescription Drug Products from an In-Network Mail Order Pharmacy,
-you are responsible for paying the lower of the following: 1) The applicable Copayment and/or Coinsurance; and 2) The Prescription Drug Charge
-for that Prescription Drug Product. For an out-of-Network Retail Pharmacy, your reimbursement is based on the Out-of-Network Reimbursement
-Rate, and you are responsible for the difference between the Out-of-Network Reimbursement Rate and the out-of-Network Pharmacy’s Usual and
-Customary Charge.
-
-See the Copayment and/or Coinsurance stated in the Benefit Information table for amounts. We will not reimburse you for any non-covered drug
-product.
-
-For a single Copayment and/or Coinsurance, you may receive a Prescription Drug Product up to the stated supply limit. Some products are subject
-to additional supply limits based on criteria that we have developed. Supply limits are subject, from time to time, to our review and change.
-
-Specialty Prescription Drug Products supply limits are as written by the provider, up to a consecutive 31-day supply of the Specialty Prescription
-Drug Product, unless adjusted based on the drug manufacturer’s packaging size, or based on supply limits, or as allowed under the Smart Fill
-Program. Supply limits apply to Specialty Prescription Drug Products obtained at a Preferred Specialty Network Pharmacy, a Non-Preferred
-Specialty Network Pharmacy, an out-of-Network Pharmacy, a mail order Network Pharmacy or a Designated Pharmacy.
-
-Certain Prescription Drug Products for which Benefits are described under the Prescription Drug Rider are subject to step therapy requirements. In
-order to receive Benefits for such Prescription Drug Products you must use a different Prescription Drug Product(s) or pharmaceutical product(s) for
-which Benefits are provided as described under the Certificate first. You may find out whether a Prescription Drug Product is subject to step therapy
-requirements by contacting us at myuhc.com or the telephone number on your ID card.
-
-Before certain Prescription Drug Products are dispensed to you, your Physician, your pharmacist or you are required to obtain prior authorization
-from us or our designee to determine whether the Prescription Drug Product is in accordance with our approved guidelines and it meets the
-definition of a Covered Health Care Service and is not an Experimental or Investigational or Unproven Service. We may also require you to obtain
-prior authorization from us or our designee so we can determine whether the Prescription Drug Product, in accordance with our approved
-guidelines, was prescribed by a Specialist.
-
-If you require certain Prescription Drug Products, we may direct you to a Designated Pharmacy with whom we have an arrangement to provide
-those Prescription Drug Products. If you are directed to a Designated Pharmacy and you choose not to obtain your Prescription Drug Product from
-the Designated Pharmacy, you will be subject to the Out-of-Network Benefit for that Prescription Drug Product.
-
-Certain Preventative Care Medications may be covered at zero costshare. You can get more information by contacting us at myuhc.com or the
-telephone number on your ID card.
-
-Benefits are provided for certain Prescription Drug Products dispensed by an In-Network Mail Order Pharmacy or Preferred 90 Day Retail Network
-Pharmacy. The Outpatient Prescription Drug Schedule of Benefits will tell you how In-Network Mail Order Pharmacy and Preferred 90 Day Retail
-Network Pharmacy supply limits apply. Please contact us at myuhc.com or the telephone number on your ID card to find out if Benefits are
-provided for your Prescription Drug Product and for information on how to obtain your Prescription Drug Product through an In-Network Mail Order
-Pharmacy or Preferred 90 Day Retail Network Pharmacy.
-
-10
+GP55773-26  |  09/2019  |  © 2019  Principal Financial Services, Inc.
 -----
 SAMPLE PLAN JSON #1:
 {
-  "Carrier Name": "UHC",
-  "Plan Name": "DZF4",
-  "In-Network Single Deductible": "3,750",
-  "In-Network Family Deductible": "7,500",
-  "Out-of-Network Single Deductible": "10,000",
-  "Out-of-Network Family Deductible": "20,000",
-  "In-Network Single OOP Max": "3,750",
-  "In-Network Family OOP Max": "7,500",
-  "Out-of-Network Single OOP Max": "15,000",
-  "Out-of-Network Family OOP Max": "30,000",
-  "In-Network Coinsurance": "0",
-  "Out-of-Network Coinsurance": "40",
-  "In-Network PCP Visit": "No Copay after deductible",
-  "Out-of-Network PCP Visit": "40% after deductible",
-  "In-Network Specialist Visit": "No Copay after deductible",
-  "Out-of-Network Specialist Visit": "40% after deductible",
-  "In-Network Urgent Care Visit": "No Copay after deductible",
-  "Out-of-Network Urgent Care Visit": "40% after deductible",
-  "In-Network ER Visit": "No Copay after deductible",
-  "Out-of-Network ER Visit": "No Copay after deductible",
-  "In-Network Preventive Visit": "No Copay",
-  "Out-of-Network Preventive Visit": "Not covered",
-  "In-Network Outpatient Surgery": "No Copay after deductible",
-  "Out-of-Network Outpatient Surgery": "40% after deductible",
-  "In-Network Inpatient Surgery": "No Copay after deductible",
-  "Out-of-Network Inpatient Surgery": "40% after deductible",
-  "In-Network Newborn Delivery": "No Copay after deductible",
-  "Out-of-Network Newborn Delivery": "40% after deductible",
-  "In-Network Major Diagnostics": "No Copay after deductible",
-  "Out-of-Network Major Diagnostics": "40% after deductible",
-  "In-Network RX Deductible": "",
-  "Out-of-Network RX Deductible": "",
-  "In-Network Generic RX": "No Copay after deductible",
-  "Out-of-Network Generic RX": "No Copay after deductible",
-  "In-Network Brand RX": "No Copay after deductible",
-  "Out-of-Network Brand RX": "No Copay after deductible",
-  "In-Network Tier 3 RX": "No Copay after deductible",
-  "Out-of-Network Tier 3 RX": "No Copay after deductible",
-  "In-Network Tier 4 RX": "No Copay after deductible",
-  "Out-of-Network Tier 4 RX": "No Copay after deductible",
-  "In-Network Tier 5 RX": "",
-  "Out-of-Network Tier 5 RX": "",
-  "In-Network Mail Order RX": "No Copay after deductible",
-  "Out-of-Network Mail Order RX": "Not Covered",
-  "Plan Year": "2025",
-  "Deductible Period": "",
-  "Deductible Explanation": "Embedded",
-  "Network Type": "POS",
-  "Network Name": "",
-  "Member Website": "www.myuhc.com",
-  "Customer Service Phone Number": "1-866-801-4409"
+  "Carrier Name": "Principal",
+  "Plan Name": "Plan 24",
+  "In-Network Single Deductible": "$50",
+  "In-Network Family Deductible": "3 times the per person deductible amount",
+  "Out-of-Network Single Deductible": "$50",
+  "Out-of-Network Family Deductible": "3 times the per person deductible amount",
+  "In-Network Annual Maximum": "$2,000 per person",
+  "Out-of-Network Annual Maximum": "$2,000 per person",
+  "Frequencies Cleaning": "two per calendar year",
+  "Frequencies Exam": "two per calendar year",
+  "In-Network Cleanings": "100%",
+  "Out-of-Network Cleanings": "100%",
+  "In-Network Exams": "100%",
+  "Out-of-Network Exams": "100%",
+  "In-Network X-Rays": "100%",
+  "Out-of-Network X-Rays": "100%",
+  "In-Network Sealants": "100%",
+  "Out-of-Network Sealants": "100%",
+  "In-Network Fillings": "90%",
+  "Out-of-Network Fillings": "80%",
+  "In-Network Simple Extractions": "",
+  "Out-of-Network Simple Extractions": "",
+  "In-Network Root Canal": "90%",
+  "Out-of-Network Root Canal": "80%",
+  "In-Network Periodontal Gum Disease": "90%",
+  "Out-of-Network Periodontal Gum Disease": "80%",
+  "In-Network Oral Surgery": "90%",
+  "Out-of-Network Oral Surgery": "80%",
+  "In-Network Crowns": "60%",
+  "Out-of-Network Crowns": "50%",
+  "In-Network Dentures": "60%",
+  "Out-of-Network Dentures": "50%",
+  "In-Network Bridges": "60%",
+  "Out-of-Network Bridges": "50%",
+  "In-Network Implants": "",
+  "Out-of-Network Implants": "",
+  "In-Network Orthodontia": "50%",
+  "Out-of-Network Orthodontia": "50%",
+  "Orthodontia Lifetime Maximum": "$1,500",
+  "Orthodontia Maximum Age": "19",
+  "Out of Network Explanation": "When using non-network providers, you pay any amount over the allowable charge.",
+  "Waiting Period for Major Services": "",
+  "Plan Year": "2019",
+  "Network Type": "PPO",
+  "Network Name": "Dental Preferred Provider Organization (PPO)",
+  "Member Website": "www.principal.com",
+  "Customer Service Phone Number": "1-800-832-4450"
 }
 -----
 TARGET PDF TEXT:
 -----
 ## Page 1
 
-This Benefit Summary is to highlight your Benefits. Don’t use this document to understand your exact coverage. If this Benefit Summary conflicts
-with the Certificate of Coverage (COC), Schedule of Benefits, Riders, and/or Amendments, those documents govern. Review your COC for an exact
-description of the services and supplies that are and are not covered, those which are excluded or limited, and other terms and conditions of
-coverage.
 
-UnitedHealthcare
-|
-Alabama
-|
-Choice Plus
-|
-DZF4
-|
-E83
 
-Choice Plus plan details, 
-all in one place.
+### Table (Page 1)
 
-Use this benefit summary to learn more about this plan’s benefits, ways 
-you can get help managing costs and how you may get more out of this 
-health plan.
+| Eligibility |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| JobClass | Active Members |  |  |  |
+|  |  |  |  |  |
+| Benefits Payable |  |  |  |  |
+| Network | DentalPreferredProviderOrganization(PPO) |  |  |  |
+|  | CalendarYearDeductible |  | Coinsurance (Policy Pays) |  |
+|  | In-Network | Non-Network | In-Network | Non-Network |
+| Unit1–Preventive | $0 | $0 | 100% | 100% |
+| Unit 2 – Basic | $50 | $50 | 90% | 80% |
+| Unit 3 – Major | $50 | $50 | 60% | 50% |
+| FamilyDeductibleMaximum | 3timestheperpersondeductibleamount | $50 | 60% | 50% |
+| CombinedDeductible | In-networkdeductiblesforbasicandmajorproceduresarecombined.Non-networkdeductibles
+forbasicandmajorproceduresarecombined. | $50 | 60% | 50% |
+| CombinedMaximums | Maximums forpreventive, basic, and majorprocedures are combined. In-networkCalendar year
+maximums are $2,500 per person. Non-networkCalendar yearmaximums are $2,500 per
+person. | $50 | 60% | 50% |
+| PrevailingCharge | Whenusingnon-networkproviders,youpayanyamountovertheallowablecharge. | $50 | 60% | 50% |
+| MaximumAccumulation | Thisallowsforaportionofunusedmaximumbenefittocarryovertonextyear'smaximum
+benefitamount. Toqualify,youmusthavehadadentalserviceperformedwithintheCalendar
+yearandusedlessthanthemaximumthreshold. Thethresholdisequaltothelesserof50%of
+themaximumbenefitor$1000. Ifqualificationismet,50%ofthethresholdiscarriedoverto
+nextyear'smaximumbenefit. Individualswithfourthquartereffectiveswillstartqualifyingfor
+rolloveratthebeginningofthenextcalendaryear.Youcanaccumulatenomorethanfour
+timesthecarryoveramount.Theentireaccumulationamountwillbeforfeitedifnodental
+serviceissubmittedwithinacalendaryear. | $50 | 60% | 50% |
 
-Check out what’s included in the plan
-Choice Plus
+1 of 4
 
-Network coverage only
-You can usually save money when you receive care for covered health care services from
-network providers.
+Dental PPO Benefit Summary
 
-Network and out-of-network benefits
-You may receive care and services from network and out-of-network providers and
-facilities — but staying in the network can help lower your costs.
+Plan 21
 
-Primary care physician (PCP) required
-With this plan, you need to select a PCP — the doctor who plays a key role in helping
-manage your care. Each enrolled person on your plan will need to choose a PCP.
+Predetermination of Benefits: Before treatment begins for inlays, onlays, single crowns, prosthetics,
+periodontics and oral surgery, you may file a dental treatment plan with Principal Life Insurance Company.
+Principal Life will provide a written response indicating benefits that may be payable for the proposed treatment.
 
-Referrals required
-You’ll need referrals from your PCP before seeing a specialist or getting certain health
-care services.
+This chart provides you a brief summary of the key benefits of the dental coverage available from Principal Life
+Insurance Company. Following the chart, you will find additional information to answer questions you may have.
+For a complete list of all your dental coverage benefits and restrictions, please refer to your booklet or contact your
+employer.
 
-Preventive care covered at 100%
-There is no additional cost to you for seeing a network provider for preventive care.
+Eligibility
 
-Pharmacy benefits
-With this plan, you have coverage that helps pay for prescription drugs and medications.
+Job Class
+Active Members
 
-Tier 1 providers
-Using Tier 1 providers may bring you the greatest value from your health care benefits.
-These PCPs and medical specialists meet national standard benchmarks for quality care
-and cost savings.
+Benefits Payable
 
-Freestanding centers
-You may pay less when you use certain freestanding centers — health care facilities that
-do not bill for services as part of a hospital, such as MRI or surgery centers.
+Network
+Dental Preferred Provider Organization (PPO)
 
-Health savings account (HSA)
-With an HSA, you’ve got a personal bank account that lets you put money aside, tax-free.
-Use it to save and pay for qualified medical expenses.
+Calendar Year Deductible
+Coinsurance (Policy Pays)
+In-Network
+Non-Network
+In-Network
+Non-Network
+Unit 1 – Preventive
+$0
+$0
+100%
+100%
 
-1
+Unit 2 – Basic
+$50
+$50
+90%
+80%
+
+Unit 3 – Major
+$50
+$50
+60%
+50%
+
+Family Deductible Maximum
+3 times the per person deductible amount
+
+Combined Deductible
+In-network deductibles for basic and major procedures are combined. Non-network deductibles
+for basic and major procedures are combined.
+
+Combined Maximums
+Maximums for preventive, basic, and major procedures are combined. In-network Calendar year
+maximums are $2,500 per person. Non-network Calendar year maximums are $2,500 per
+person.
+
+Prevailing Charge
+When using non-network providers, you pay any amount over the allowable charge.
+
+Maximum Accumulation
+This allows for a portion of unused maximum benefit to carry over to next year's maximum
+benefit amount. To qualify, you must have had a dental service performed within the Calendar
+year and used less than the maximum threshold. The threshold is equal to the lesser of 50% of
+the maximum benefit or $1000. If qualification is met, 50% of the threshold is carried over to
+next year's maximum benefit. Individuals with fourth quarter effectives will start qualifying for
+rollover at the beginning of the next calendar year. You can accumulate no more than four
+times the carry over amount. The entire accumulation amount will be forfeited if no dental
+service is submitted within a calendar year.
 
 
 
 ## Page 2
 
-Here's a more in-depth look at how Choice Plus works.
 
-Medical Benefits
 
-In Network
-Out-of-Network
+### Table (Page 2)
 
-Annual Medical Deductible
+| Unit1–
+Preventive
+Procedures | •
+Routine exams - two per calendar year
+•
+Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+•
+Second Opinion Consultation
+•
+Fluoride –one treatment each calendar year (covered only for dependent children under
+age 14)
+•
+Space maintainers - covered only for dependent children under age 14; repairs not
+covered
+•
+Sealants – on first and second permanent molars for dependent children under age 14;
+one each tooth each36months
+•
+Harmful Habit Appliance - covered only for dependent children under age 14
+•
+X-rays - Bitewing (one set every calendar year), occlusal, periapical
+•
+X-rays – Full mouth survey (one every 60months), extraoral |
+| --- | --- |
+| Unit2–
+Basic
+Procedures | • Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
+treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+• Emergency exams – subject to Routine exam frequency limit
+• Fillings and stainless steel crowns
+• Simple Oral Surgery
+• Complex Oral Surgical Procedures
+• Non-surgical Periodontics, including scaling and root planing - once each quadrant each
+24 months (For expectant mothers, diabetics and those with heart disease, this procedure
+is provided with no deductible and 100% coinsurance.)
+• Periodontal Surgical Procedures – one each quadrant each 36 months
+• Simple Endodontics (root canal therapy for anterior teeth)
+• Complex Endodontics (root canal therapy for molar teeth) |
+| Unit3–
+Major
+Procedures | • General Anesthesia (covered only for specific procedures)/IV Sedation
+• Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
+Adjustment to Bridge/Denture, within policy limitations
+• Crowns – each120months per tooth if tooth cannot be restored by a filling.
+• Inlays, Onlays, Cast Post and Core, Core Buildup - each 120months per tooth
+• Bridges - Initial placement / Replacement of bridges 120months old.
+• Dentures - Initial placement of complete or partial dentures / Replacement of complete or
+partial dentures over 60 months old |
 
-Individual
-$3,750
-$10,000
+### DENTAL
 
-Family
-$7,500
-$20,000
+2 of 4
 
-Ped Dental Annual Deductible - Family
-Included in your medical deductible
-Included in your medical deductible
+How Are Dental Procedures Covered?
 
-Ped Dental Annual Deductible - Individual
-Included in your medical deductible
-Included in your medical deductible
+The list of common procedures shows what unit the procedure is included in and how often they are covered.
 
-All individual deductible amounts will count toward the family deductible, but an individual will not have to pay more than the individual deductible amount.
+Unit 1 –
+Preventive
+Procedures
 
-*After the Annual Medical Deductible has been met.
+•
+Routine exams - two per calendar year
+•
+Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+•
+Second Opinion Consultation
+•
+Fluoride – one treatment each calendar year (covered only for dependent children under
+age 14)
+•
+Space maintainers - covered only for dependent children under age 14; repairs not
+covered
+•
+Sealants – on first and second permanent molars for  dependent children under age 14;
+one each tooth each 36 months
+•
+Harmful Habit Appliance - covered only for dependent children under age  14
+•
+X-rays - Bitewing (one set every calendar year), occlusal, periapical
+•
+X-rays – Full mouth survey (one every 60 months), extraoral
 
-You're responsible for paying 100% of your medical expenses until you reach your deductible. For certain covered services, you may be required to pay a fixed dollar 
-amount - your copay.
+•
+Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
+treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
+those with heart disease receive one additional routine or periodontal cleaning.)
+•
+Emergency exams – subject to Routine exam frequency limit
+•
+Fillings and stainless steel crowns
+•
+Simple Oral Surgery
+•
+Complex Oral Surgical Procedures
+•
+Non-surgical Periodontics, including scaling and root planing - once each quadrant each
+24 months (For expectant mothers, diabetics and those with heart disease, this procedure
+is provided with no deductible and 100% coinsurance.)
+•
+Periodontal Surgical Procedures – one each quadrant each 36 months
+•
+Simple Endodontics (root canal therapy for anterior teeth)
+•
+Complex Endodontics (root canal therapy for molar teeth)
 
-Annual Out-of-Pocket Limit
+Unit 2 –
+Basic
+Procedures
 
-Individual
-$3,750
-$15,000
+•
+General Anesthesia (covered only for specific procedures)/IV Sedation
+•
+Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
+Adjustment to Bridge/Denture, within policy limitations
+•
+Crowns – each 120 months per tooth if tooth cannot be restored by a filling.
+•
+Inlays, Onlays, Cast Post and Core, Core Buildup - each 120 months per tooth
+•
+Bridges - Initial placement / Replacement of bridges 120 months old.
+•
+Dentures - Initial placement of complete or partial dentures / Replacement of complete or
+partial dentures over 60 months old
 
-Family
-$7,500
-$30,000
+Unit 3 –
+Major
+Procedures
 
-All individual out-of-pocket maximum amounts will count toward the family out-of-pocket maximum, but an individual will not have to pay more than the individual 
-out-of-pocket maximum amount.
+There is Coordination of Benefits, which is a procedure for limiting benefits from two or more carriers to 100% of
 
-Once you’ve met your deductible, you start sharing costs with your plan - coinsurance. You continue paying a portion of the expense until you reach your out-of-
-pocket limit. From there, your plan pays 100% of allowed amounts for the rest of the plan year.
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Preventive Care Services
-
-Preventive Care Services
-No copay
-Not covered
-
-Certain preventive care services are provided as specified by 
-the Patient Protection and Affordable Care Act (ACA), with no 
-cost-sharing to you. These services are based on your age, 
-gender and other health factors. UnitedHealthcare also covers 
-other routine services that may require a copay, co-insurance 
-or deductible.
-
-Includes services such as Routine Wellness Checkups, 
-Immunizations, Breast Pumps, Mammography and Colorectal 
-Cancer Screenings.
-
-Office Services - Sickness & Injury
-
-Primary Care Physician
-No copay*
-40%*
-
-Additional copays, deductible, or co-insurance may apply 
-when you receive other services at your physician’s office. For 
-example, surgery and lab work.
-
-Telehealth is covered at the same cost share as in the office.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-2
+the claimant's covered expenses.
 
 
 
 ## Page 3
 
-What You Pay for Services
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
 
-Designated Network
-Network
-Out-of-Network
+### Table (Page 3)
 
-Specialist
-No copay*
-40%*
+| 1 | Visitwww.principal.com/dentist. |
+| --- | --- |
+| 2 | Beginyoursearchbypickingthestatewhereyouwouldliketofindaprovider. Next,specifyanetwork. Depending
+onthenetworkchosen,youmaybetransferredtoapartnersite. |
+| 3 | Enterthenameoftheprovideryouarelookingfor(ifknown). Ifyouarelookingforanearbydentist,enterthecity
+andstateand/orZIPcode. Besuretoindicatehowfaryouarewillingtotravel. |
+| 4 | SelectthedesiredspecialtyorusetheNoSpecialtyPreferencedefault. ClickContinue. |
+| 5 | SelectalanguageifyourpreferenceisotherthanEnglish. ClickContinue. |
 
-Additional copays, deductible, or co-insurance may apply 
-when you receive other services at your physician’s office. For 
-example, surgery and lab work.
 
-Telehealth is covered at the same cost share as in the office.
 
-Urgent Care Center Services
-No copay*
-40%*
+### Table (Page 3)
 
-Virtual Care Services
-No copay*
-Not covered
+| Limitations&Exclusions |  |
+| --- | --- |
+| MissingTooth | Benefitsfortheinitialplacementofbridges,partialsanddenturesarenotcoveredifthoseteeth
+weremissingpriortobecominginsuredunderthePrincipalLifepolicy.Whenthepolicy
+replacescoverageunderapriorplan,continuouscoverageunderthepriorplanmaybe
+appliedtothemissingtoothprovisionrequirement. |
+| OtherLimitations | Thereareadditionallimitationstoyourcoverage. Acompletelistisincludedinyourbooklet. |
 
-Benefits are available only when services are delivered through 
-a Designated Virtual Network Provider for 24/7 Virtual Visit 
-services only. You can find a 24/7 Virtual Visit Provider by 
-contacting us at myuhc.com® or the telephone number on 
-your ID card. Access to 24/7 Virtual Visits and prescription 
-services may not be available in all states or for all groups.
+### DENTAL
 
-Emergency Care
+3 of 4
 
-Ambulance Services - Emergency Ambulance
+Understanding Your Dental Benefits
 
-Air Ambulance
-No copay*
-No copay*
+Am I Eligible For Coverage?
 
-Ground Ambulance
-No copay*
-No copay*
+To be eligible for coverage, you must qualify as an eligible member and be considered actively at work.
 
-Ambulance Services - Non-Emergency Ambulance¹
+You must be enrolled for dental coverage before it can be offered to your dependents.  Eligible dependents
 
-Air Ambulance
-No copay*
-No copay*
+include your spouse , state registered domestic partner, and children, including those of your state registered
 
-Ground Ambulance
-No copay*
-40%*
+domestic partner. Additional eligibility requirements may apply.
 
-Dental Services - Accident Only
-No copay*
-No copay*
+Open enrollment applies. Any employee or dependent that didn't enroll within 31 days of being eligible can only
 
-Emergency Health Care Services - Outpatient¹
-No copay*
-No copay*
+enroll during the open enrollment period.
 
-Notification is required if it results in confinement to an Out-of-
-Network Hospital.
+How Do I Find A Participating Provider?
 
-Inpatient Care
+Use the Provider Directory on www.principal.com to locate nearby dentists or see if your dentist participates in
 
-Congenital Heart Disease (CHD) Surgeries¹
-No copay*
-40%*
+your network.
 
-Habilitative Services - Inpatient¹
-The amount you pay is based on where the covered health care service is provided.
+1
+Visit www.principal.com/dentist.
 
-Limited to 60 days per year.
-
-Hospital - Inpatient Stay¹
-No copay*
-40%*
-
-Skilled Nursing Facility/Inpatient Rehabilitation Facility 
-Services¹
-
-No copay*
-40%*
-
-Limited to 60 days per year.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
+2
+Begin your search by picking the state where you would like to find a provider. Next, specify a network. Depending
+on the network chosen, you may be transferred to a partner site.
 
 3
+Enter the name of the provider you are looking for (if known). If you are looking for a nearby dentist, enter the city
+and state and/or ZIP code. Be sure to indicate how far you are willing to travel.
+
+4
+Select the desired specialty or use the No Specialty Preference default. Click Continue.
+
+5
+Select a language if your preference is other than English. Click Continue.
+
+You may nominate your dentist for inclusion in our network. Please submit the dentist's name, address, phone
+and specialty by calling 1-800-832-4450, or submit through www.principal.com/refer-dental-provider.
+
+What Are The Restrictions Of My Coverage?
+
+This Benefit Summary is a summary only. For a complete list of benefit restrictions, please refer to your booklet.
+
+Limitations & Exclusions
+
+Missing Tooth
+Benefits for the initial placement of bridges, partials and dentures are not covered if those teeth
+were missing prior to becoming insured under the Principal Life policy. When the policy
+replaces coverage under a prior plan, continuous coverage under the prior plan may be
+applied to the missing tooth provision requirement.
+
+Other Limitations
+There are additional limitations to your coverage. A complete list is included in your booklet.
 
 
 
 ## Page 4
 
-What You Pay for Services
+### DENTAL
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
+4 of 4
 
-Designated Network
-Network
-Out-of-Network
+Principal Life Insurance Company, Des Moines, Iowa 50392-0002, www.principal.com
 
-Outpatient Care
+This is a summary of dental coverage underwritten by or with administrative services provided by Principal Life Insurance Company.  This
 
-Habilitative Services - Outpatient
-No copay*
-40%*
+benefit summary is for administrative purposes and is not a complete statement of benefits and restrictions. You’ll receive a benefit booklet
 
-Limited to 20 visits of cognitive rehabilitation therapy per year.
+with details about your coverage. If there is a discrepancy between this summary and your benefit booklet, the benefit booklet prevails.
 
-Limited to 20 visits of manipulative treatments per year.
+Principal, Principal and symbol design and Principal Financial Group are trademarks and service marks of Principal Financial Services, Inc., a
+member of the Principal Financial Group.
 
-Limited to 30 visits of post-cochlear implant aural therapy per 
-year.
-
-Home Health Care¹
-No copay*
-40%*
-
-Lab, X-Ray and Diagnostic - Outpatient - Lab Testing
-No copay*
-No copay*
-Not covered
-
-For Designated Network Benefits, laboratory services must be 
-received from a Designated Diagnostic Provider. Network 
-Benefits include laboratory services received from a Network 
-provider that is not a Designated Diagnostic Provider.
-
-Lab, X-Ray and Diagnostic - Outpatient - X-Ray and other 
-Diagnostic Testing¹
-
-No copay*
-40%*
-
-Major Diagnostic and Imaging - Outpatient¹
-No copay*
-No copay*
-40%*
-
-For Designated Network Benefits, services must be received 
-from a Designated Diagnostic Provider. Network Benefits 
-include services received from a Network provider that is not a 
-Designated Diagnostic Provider.
-
-You may have to pay an extra copay, deductible or 
-coinsurance for physician fees or pharmaceutical products.
-
-Physician Fees for Surgical and Medical Services
-No copay*
-40%*
-
-Rehabilitation Services - Outpatient Therapy and Manipulative 
-Treatment
-
-No copay*
-40%*
-
-Limited to 20 visits of cognitive rehabilitation therapy per year.
-
-Limited to 20 visits of manipulative treatments per year.
-
-Limited to 20 visits of pulmonary rehabilitation therapy per 
-year.
-
-Limited to 30 visits of post-cochlear implant aural therapy per 
-year.
-
-Limited to 36 visits of cardiac rehabilitation therapy per year.
-
-Scopic Procedures - Outpatient Diagnostic and Therapeutic
-No copay*
-40%*
-
-Diagnostic/therapeutic scopic procedures include, but are not 
-limited to colonoscopy, sigmoidoscopy and endoscopy.
-
-Surgery - Outpatient¹
-No copay*
-40%*
-
-Therapeutic Treatments - Outpatient¹
-No copay*
-40%*
-
-For dialysis services, Out-of-Network Benefits are not available.
-
-Therapeutic treatments include, but are not limited to dialysis, 
-intravenous chemotherapy, intravenous infusion, medical 
-education services and radiation oncology.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-4
-
-
-
-## Page 5
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Supplies and Services
-
-Diabetes Self-Management Items¹
-The amount you pay is based on where the covered health care service is provided under 
-Durable Medical Equipment (DME), Orthotics and Supplies or in the Prescription Drug Benefits 
-Section.
-
-Diabetes Self-Management and Training/Diabetic Eye 
-Exams/Foot Care¹
-
-The amount you pay is based on where the covered health care service is provided.
-
-Durable Medical Equipment (DME), Orthotics and Supplies
-No copay*
-Not covered
-
-Enteral Nutrition
-No copay*
-40%*
-
-Hearing Aids
-No copay*
-40%*
-
-Limited to $2,500 per year.
-
-Limited to a single purchase per hearing impaired ear every 3 
-years.
-
-Repair and/or replacement of a hearing aid would apply to this 
-limit in the same manner as a purchase.
-
-Ostomy Supplies
-No copay*
-Not covered
-
-Pharmaceutical Products - Outpatient
-No copay*
-40%*
-
-This includes medications given at a doctor's office, or in a 
-covered person's home.
-
-Prosthetic Devices¹
-No copay*
-40%*
-
-Urinary Catheters
-No copay*
-Not covered
-
-Pregnancy
-
-Pregnancy - Maternity Services¹
-The amount you pay is based on where the covered health care service is provided except that 
-an Annual Deductible will not apply for a newborn child whose length of stay in the Hospital is 
-the same as the mother's length of stay.
-
-Mental Health Care & Substance Related and 
-Addictive Disorder Services
-
-Inpatient¹
-No copay*
-40%*
-
-Intensive Behavioral Therapy (e.g. ABA)¹
-No copay*
-40%*
-
-Other Outpatient Services such as Electro-Convulsive 
-Treatment, Psychological Testing, Transcranial Magnetic 
-Stimulation and Medication Assisted Treatment¹
-
-No copay*
-40%*
-
-Other Outpatient Services, including Partial 
-Hospitalization/Day Treatment/High Intensity 
-Outpatient/Intensive Outpatient Treatment¹
-
-No copay*
-40%*
-
-Outpatient Office Visits
-No copay*
-40%*
-
-Other Services
-
-Cellular and Gene Therapy
-The amount you pay is based on where the covered health 
-care service is provided.
-
-Not covered
-
-For Network Benefits, Cellular or Gene Therapy services must 
-be received from a Designated Provider.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-5
-
-
-
-## Page 6
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Clinical Trials¹
-The amount you pay is based on where the covered health care service is provided.
-
-Fertility Preservation for Iatrogenic Infertility¹
-No copay*
-40%*
-
-Limited to $20,000 per Covered Person per lifetime.
-
-Limited to $5,000 for Prescription Drug Products per Covered 
-Person.
-
-Limited to 1 cycle of fertility preservation for Iatrogenic Infertility 
-per lifetime.
-
-This Benefit limit will be the same as, and combined with, 
-those stated under Preimplantation Genetic Testing (PGT) and 
-Related Services.
-
-Gender Dysphoria¹
-The amount you pay is based on where the covered health care service is provided or in the 
-Prescription Drug Benefits Section.
-
-Limits for voice modification therapy and/or voice lessons will 
-be the same as, and combined with, outpatient speech 
-therapy limits as described under Habilitative Services and 
-Rehabilitation Services Outpatient Therapy and Manipulative 
-Treatment.
-
-Hospice Care¹
-No copay*
-40%*
-
-Preimplantation Genetic Testing (PGT) and Related Services¹
-No copay*
-40%*
-
-Benefit limits for related services will be the same as, and 
-combined with, those stated under Fertility Preservation for 
-Iatrogenic Infertility. This limit does not include Preimplantation 
-Genetic Testing (PGT) for the specific genetic disorder. This 
-limit includes Benefits for ovarian stimulation medications 
-provided under the Outpatient Prescription Drug Rider.
-
-Reconstructive Procedures¹
-The amount you pay is based on where the covered health care service is provided.
-
-Temporomandibular Joint (TMJ) Services¹
-The amount you pay is based on where the covered health care service is provided.
-
-Transplantation Services
-The amount you pay is based on where the covered health 
-care service is provided.
-
-Not covered
-
-For Network Benefits, transplantation services must be 
-received from a Designated Provider.
-
-Pediatric Services - Dental
-
-All Pediatric Dental - Benefits covered up to age 19
-
-Additional limits may apply. Refer to your plan documents for 
-more information.
-
-Basic Dental Services
-No copay*
-40%*
-
-Diagnostic Services
-No copay*
-20%*
-
-Limited to 1 time every 36 months for Panoramic x-rays.
-
-Limited to 2 evaluations (checkup exams) every 12 months.
-
-Limited to 2 series of films every 12 months of Bitewing x-rays.
-
-Major Restorative Services
-No copay*
-50%*
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-6
-
-
-
-## Page 7
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Medically Necessary Orthodontics¹
-No copay*
-50%*
-
-All orthodontic treatment must be prior authorized.
-
-Preventive Services
-No copay*
-20%*
-
-Limited to 2 dental prophylaxis cleanings and fluoride 
-treatments every 12 months.
-
-Pediatric Services - Vision
-
-All Pediatric Vision - Benefits Covered up to age 19
-
-Contact Lenses/Necessary Contact Lenses
-No copay*
-40%*
-
-Limited to 1 fitting and evaluation every 12 months.
-
-Limited to a 12 month supply.
-
-We will pay benefits for only one vision care service. You may 
-choose either eyeglasses (eyeglass lenses and/or eyeglass 
-frames) or contact lenses.
-
-Eyeglass Frames
-
-Eyeglass frames with a retail cost below $130
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $130-$160
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $160-$200
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $200-$250
-No copay*
-40%*
-
-Eyeglass frames with a retail cost greater than $250
-No copay*
-40%*
-
-Limited to once every 12 months.
-
-Eyeglass Lenses
-No copay*
-40%*
-
-Limited to once every 12 months.
-
-Lens Extras
-No copay*
-No copay*
-
-Limited to once every 12 months.
-
-Coverage includes polycarbonate lenses and standard 
-scratch-resistant coating.
-
-Low Vision Testing
-No copay
-25%*
-
-Limited to once every 24 months.
-
-Low Vision Therapy
-25%
-25%*
-
-Limited to once every 24 months.
-
-Routine Vision Exam
-No copay
-40%*
-
-Limited to once every 12 months.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-7
-
-
-
-## Page 8
-
-Pharmacy Benefits
-
-** Only certain Prescription Drug Products are available through mail order; please visit myuhc.com® or call Customer Care at the telephone number on the back of your ID card for more information. You will be charged a
-retail Copayment and/or Coinsurance for 31 days or 2 times for 60 days based on the number of days supply dispensed for any Prescription Order or Refills sent to the mail order pharmacy. To maximize your Benefit, ask
-your Physician to write your Prescription Order or Refill for a 90-day supply, with refills when appropriate, rather than a 30-day supply with three refills.
-For Specialty Drugs from a Non-Preferred Pharmacy, you will be required to pay the same Co-payment/Co-insurance as the Preferred Specialty Network Pharmacy based on the applicable Tier.
-Your Copayment and/or Coinsurance is determined by the tier to which the Prescription Drug List (PDL) Management Committee has assigned the Prescription Drug Product. All Prescription Drug Products on the
-Prescription Drug List are assigned to Tier 1, Tier 2, Tier 3 or Tier 4.
-If you are a member, you can find individualized information on your benefit coverage, determine tier status, check the status of claims and search for network pharmacies by logging into your account on myuhc.com® or
-calling the Customer Care number on your ID card. If you are not a member, you can view prescription information at welcometouhc.com > Benefits > Pharmacy Benefits.
-
-Pharmacy Plan Details
-
-Pharmacy Network
-National
-
-Prescription Drug List
-Essential
-
-In Network
-
-Annual Pharmacy Deductible
-
-Individual
-See the Annual Medical Deductible section
-
-Family
-See the Annual Medical Deductible section
-
-Annual Deductible - Network and Out-of-Network
-
-The Pharmacy Deductible is the amount you pay for pharmacy 
-expenses per year before you begin to receive Pharmacy 
-Benefits.
-
-Up to a 31-day supply
-Up to a 90-day supply
-
-Prescription Drug Product Tier
-
-Level
-
-Retail and Specialty
-
-Pharmacy Network
-
-Retail 
-Non-preferred
-
-Specialty 
- Network Pharmacy
-
-Out-of-Network Retail
-
-Pharmacy
-
-In-Network Mail Order
-
-Pharmacy**
-
-Tier 1
-
-$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 2
-
-$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 3
-
-$$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 4
- $$$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-8
-
-
-
-## Page 9
-
-Here’s an example of how the plan’s costs come into play.
-
-More ways to help manage your health plan and stay in the loop.
-
-Search the network to find doctors.
-You can go to providers in and out of our network — but when
-you stay in network, you’ll likely pay less for care. To get started:
-  . Go to welcometouhc.com > Benefits > Find a Doctor or Facility.
-  . Choose  Search for a health plan.
-  . Choose Choice Plus to view providers in the health plan’s network.
-
-Manage your meds.
-Look up your prescriptions using the Prescription Drug List (PDL).
-It places medications in tiers that represent what you’ll pay, which
-may make it easier for you and your doctor to find options to help
-you save money.
-  . Go to welcometouhc.com > Benefits > Pharmacy Benefits.
-  . Select Essential to view the medications that are
-
-covered under your plan.
-
-Access your plan online.
-With myuhc.com®, you’ve got a personalized health hub to help
-you find a doctor, manage your claims, estimate costs and more.
-
-Get on-the-go access.
-When you’re out and about, the UnitedHealthcare® app puts your
-health plan at your fingertips. Download to find nearby care, video
-chat with a doctor 24/7, access your health plan ID card and more.
-
-9
-
-
-
-## Page 10
-
-Other important information about your benefits.
-
-Medical Exclusions
-
-Services your plan generally does NOT cover. It is recommended that you review your COC, Amendments and Riders for an exact description  of
-the services and supplies that are covered, those which are excluded or limited, and other terms and conditions of coverage.
-• Acupuncture
-• Bariatric Surgery 
-• Cosmetic Surgery
-• Dental Care (Adult)
-• Infertility Treatment
-• Long-Term Care
-• Non-emergency care when traveling outside the U.S.
-• Private-Duty Nursing
-• Routine Eye Care (Adult)
-• Routine Foot Care
-• Weight Loss Programs
-
-Outpatient Prescription Drug Benefits
-
-For Prescription Drug Products dispensed at an In-Network Retail Pharmacy, you are responsible for paying the lowest of the following: 1) The
-applicable Copayment and/or Coinsurance; 2) The In- Network Retail Pharmacy Usual and Customary Charge for the Prescription Drug Product;
-and 3) The Prescription Drug Charge for that Prescription Drug Product. For Prescription Drug Products from an In-Network Mail Order Pharmacy,
-you are responsible for paying the lower of the following: 1) The applicable Copayment and/or Coinsurance; and 2) The Prescription Drug Charge
-for that Prescription Drug Product. For an out-of-Network Retail Pharmacy, your reimbursement is based on the Out-of-Network Reimbursement
-Rate, and you are responsible for the difference between the Out-of-Network Reimbursement Rate and the out-of-Network Pharmacy’s Usual and
-Customary Charge.
-
-See the Copayment and/or Coinsurance stated in the Benefit Information table for amounts. We will not reimburse you for any non-covered drug
-product.
-
-For a single Copayment and/or Coinsurance, you may receive a Prescription Drug Product up to the stated supply limit. Some products are subject
-to additional supply limits based on criteria that we have developed. Supply limits are subject, from time to time, to our review and change.
-
-Specialty Prescription Drug Products supply limits are as written by the provider, up to a consecutive 31-day supply of the Specialty Prescription
-Drug Product, unless adjusted based on the drug manufacturer’s packaging size, or based on supply limits, or as allowed under the Smart Fill
-Program. Supply limits apply to Specialty Prescription Drug Products obtained at a Preferred Specialty Network Pharmacy, a Non-Preferred
-Specialty Network Pharmacy, an out-of-Network Pharmacy, a mail order Network Pharmacy or a Designated Pharmacy.
-
-Certain Prescription Drug Products for which Benefits are described under the Prescription Drug Rider are subject to step therapy requirements. In
-order to receive Benefits for such Prescription Drug Products you must use a different Prescription Drug Product(s) or pharmaceutical product(s) for
-which Benefits are provided as described under the Certificate first. You may find out whether a Prescription Drug Product is subject to step therapy
-requirements by contacting us at myuhc.com or the telephone number on your ID card.
-
-Before certain Prescription Drug Products are dispensed to you, your Physician, your pharmacist or you are required to obtain prior authorization
-from us or our designee to determine whether the Prescription Drug Product is in accordance with our approved guidelines and it meets the
-definition of a Covered Health Care Service and is not an Experimental or Investigational or Unproven Service. We may also require you to obtain
-prior authorization from us or our designee so we can determine whether the Prescription Drug Product, in accordance with our approved
-guidelines, was prescribed by a Specialist.
-
-If you require certain Prescription Drug Products, we may direct you to a Designated Pharmacy with whom we have an arrangement to provide
-those Prescription Drug Products. If you are directed to a Designated Pharmacy and you choose not to obtain your Prescription Drug Product from
-the Designated Pharmacy, you will be subject to the Out-of-Network Benefit for that Prescription Drug Product.
-
-Certain Preventative Care Medications may be covered at zero costshare. You can get more information by contacting us at myuhc.com or the
-telephone number on your ID card.
-
-Benefits are provided for certain Prescription Drug Products dispensed by an In-Network Mail Order Pharmacy or Preferred 90 Day Retail Network
-Pharmacy. The Outpatient Prescription Drug Schedule of Benefits will tell you how In-Network Mail Order Pharmacy and Preferred 90 Day Retail
-Network Pharmacy supply limits apply. Please contact us at myuhc.com or the telephone number on your ID card to find out if Benefits are
-provided for your Prescription Drug Product and for information on how to obtain your Prescription Drug Product through an In-Network Mail Order
-Pharmacy or Preferred 90 Day Retail Network Pharmacy.
-
-10
+GP55773-26  |  09/2019  |  © 2019  Principal Financial Services, Inc.
 -----
 Output the target's JSON only:
