@@ -110,7 +110,7 @@ async def extract_json_endpoint(
     start = time.perf_counter()
     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-    # return cleaned_result_json
+    return cleaned_result_json
     return {
         "result_json": cleaned_result_json,
         "matched_sample_plan": matched_plan,
