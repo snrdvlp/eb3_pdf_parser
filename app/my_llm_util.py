@@ -1,4 +1,6 @@
 import json
+import re
+import time
 from .category_key_registry import get_required_keys
 
 CARRIER_DEFAULT_LIKE_KEYS = [
@@ -128,44 +130,113 @@ Extract and output ONLY these fields (no extras and case-insensitive):
 """
     return system_prompt
 
-def ask_llm_mapping_logic(
-    llm, # LLM model
-    sample_pairs, # List of tuples: (sample_pdf_text, sample_json)
-    dest_pdf_text: str,
-    category: str
-) -> dict:
+SYSTEM_PROMPT_CACHE = {}
+
+def get_cached_system_prompt(category):
+    cat = category.lower()
+    if cat in SYSTEM_PROMPT_CACHE:
+        return SYSTEM_PROMPT_CACHE[cat]
     required_keys = get_required_keys(category)
     system_prompt = get_system_prompt(category, required_keys)
+    SYSTEM_PROMPT_CACHE[cat] = system_prompt
+    return system_prompt
 
-    user_prompt = ""
-    for i, (sample_pdf_text, sample_json) in enumerate(sample_pairs):
-        user_prompt += f"SAMPLE PDF TEXT #{i+1}:\n-----\n{sample_pdf_text}\n-----\n"
-        user_prompt += f"SAMPLE PLAN JSON #{i+1}:\n{json.dumps(sample_json, indent=2)}\n-----\n"
+def tokenize_text_for_overlap(s):
+    return set(re.findall(r'\w{3,}', (s or "").lower()))
 
-    user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
-    user_prompt += "Output the target's JSON only:"
+def select_top_k_samples_by_overlap(dest_excerpt, sample_pairs, k=1):
+    if not sample_pairs:
+        return []
+    dest_tokens = tokenize_text_for_overlap(dest_excerpt)
+    scored = []
+    for (sample_pdf_text, sample_json) in sample_pairs:
+        score = len(dest_tokens & tokenize_text_for_overlap(sample_pdf_text))
+        scored.append((score, (sample_pdf_text, sample_json)))
+    scored.sort(reverse=True, key=lambda x: x[0])
+    top = [pair for score, pair in scored[:k]]
+    if all(score == 0 for score, _ in scored):
+        return sample_pairs[:k]
+    return top
 
-    with open("system_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(system_prompt)  # your PDF->text output
-    with open("user_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(user_prompt)  # your PDF->text output
+def extract_relevant_excerpt(dest_pdf_text, required_keys, max_chars=4000, context_lines=1):
+    if not dest_pdf_text:
+        return ""
+    lines = dest_pdf_text.splitlines()
+    lower_lines = [l.lower() for l in lines]
+    required_lower = [k.lower() for k in required_keys]
+    matched_idx = set()
+    for i, l in enumerate(lower_lines):
+        for key in required_lower:
+            if key in l:
+                for j in range(max(0, i - context_lines), min(len(lines), i + context_lines + 1)):
+                    matched_idx.add(j)
+                break
+    if matched_idx:
+        excerpt_lines = [lines[i] for i in sorted(matched_idx)]
+        excerpt = "\n".join(excerpt_lines)
+    else:
+        excerpt = dest_pdf_text[:max_chars]
+    if len(excerpt) > max_chars:
+        return excerpt[:max_chars]
+    return excerpt
 
-    result_json = llm.chat(system_prompt, user_prompt)
-    print(f"result_json is:\n{result_json}")
-    if isinstance(result_json, dict):
-        return result_json
-    if isinstance(result_json, str):
-        result_json = result_json.strip()
-        if not result_json:
-            return {"error": "Empty response from LLM/proxy"}
+def ask_llm_mapping_logic(
+    llm, 
+    sample_pairs, 
+    dest_pdf_text: str,
+    category: str,
+    top_k_samples: int = 1,
+    max_new_tokens: int = 800
+) -> dict:
+    t0 = time.perf_counter()
+
+    required_keys = get_required_keys(category)
+    system_prompt = get_cached_system_prompt(category)
+
+    # Select only 1 sample pair
+    selected_samples = select_top_k_samples_by_overlap(dest_pdf_text, sample_pairs, k=top_k_samples)
+
+    # Compact sample
+    user_prompt_parts = []
+    for i, (s_pdf, s_json) in enumerate(selected_samples):
+        compact_json = json.dumps(s_json, separators=(",", ":"))
+        user_prompt_parts.append(
+            f"SAMPLE PDF #{i+1}:\n{s_pdf[:2000]}\nSAMPLE JSON #{i+1}:\n{compact_json}\n---\n"
+        )
+
+    # Build strict JSON template
+    template_dict = {k: "value_here" for k in required_keys}
+    template_json = json.dumps(template_dict, indent=2)
+
+    user_prompt_parts.append(f"TARGET PDF:\n{dest_pdf_text[:12000]}\n---\n")
+    user_prompt_parts.append(
+        "Now, extract the information into the following JSON template.\n"
+        "⚠️ Do not remove any fields.\n"
+        "⚠️ If a value is not found, put 'NA'.\n"
+        "⚠️ Output only valid JSON:\n"
+    )
+    user_prompt_parts.append(template_json)
+
+    user_prompt = "\n".join(user_prompt_parts)
+
+    raw = llm.chat(system_prompt, user_prompt, max_new_tokens=max_new_tokens)
+
+    if isinstance(raw, dict):
+        parsed = raw
+    else:
+        s = raw.strip() if isinstance(raw, str) else ""
         try:
-            parsed = json.loads(result_json)
-        except Exception:
-            # Sometimes LLM adds markdown code fencing
-            result_json = result_json[result_json.find("{"):result_json.rfind("}")+1]
-            parsed = json.loads(result_json)
-        return parsed
-    return {"error": f"Unexpected type: {type(result_json)}"}
+            parsed = json.loads(s[s.find("{"): s.rfind("}")+1])
+        except Exception as ex:
+            return {"error": f"Failed to parse: {ex}", "raw": s[:400]}
+
+    if not isinstance(parsed, dict):
+        return {"error": "LLM did not return JSON."}
+
+    parsed = replace_nulls(parsed)
+
+    print("timing total:", round(time.perf_counter() - t0, 3), "sec")
+    return parsed
 
 def fill_from_matched_sample(result_json: dict, matched_sample_json: dict):
     """Fill default-likely fields from matched sample if missing."""
