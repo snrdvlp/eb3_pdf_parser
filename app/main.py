@@ -110,13 +110,18 @@ async def extract_json_endpoint(
     start = time.perf_counter()
     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-    return cleaned_result_json
-    # return {
-    #     "result_json": cleaned_result_json,
-    #     "matched_sample_plan": matched_plan,
-    #     "matched_json1": sims[0]['json_data'],
-    #     "matched_json2": sims[1]['json_data']
-    # }
+    # return cleaned_result_json
+    return {
+        "result_json": cleaned_result_json,
+        "matched_sample_plan": matched_plan,
+        "matched_json1": sims[0]['json_data'],
+        # "matched_json2": sims[1]['json_data']
+    }
+
+import os
+import json
+import hashlib
+from fastapi import UploadFile, File, Form
 
 @app.post("/sample/add_one")
 async def add_sample_endpoint(
@@ -124,7 +129,6 @@ async def add_sample_endpoint(
       json_file: UploadFile = File(...),
       category: str = Form(...)
 ):
-    import hashlib
     pdf_bytes = await pdf_file.read()
     json_bytes = await json_file.read()
     json_data = json.loads(json_bytes.decode())
@@ -135,14 +139,38 @@ async def add_sample_endpoint(
     import sqlite3
     conn = sqlite3.connect(db.SQLITE_METADATA)
     c = conn.cursor()
-    c.execute('SELECT 1 FROM samples WHERE pdf_hash=?', (pdf_hash,))
-    if c.fetchone():
+    
+    # Check if sample exists
+    c.execute('SELECT id, pdf_path FROM samples WHERE pdf_hash=?', (pdf_hash,))
+    row = c.fetchone()
+    
+    if row:
+        sample_id, old_pdf_path = row
+        
+        # Overwrite PDF file on disk
+        pdf_path = os.path.join(db.DB_DIR, old_pdf_path)
+        with open(pdf_path, "wb") as pf:
+            pf.write(pdf_bytes)
+        
+        # Update metadata
+        c.execute(
+            'UPDATE samples SET category=?, carrier=?, plan=?, json_data=? WHERE id=?',
+            (
+                category.lower(),
+                json_data.get('Carrier Name', ''),
+                json_data.get('Plan Name', ''),
+                json.dumps(json_data),
+                sample_id
+            )
+        )
+        conn.commit()
         conn.close()
-        return {"status": "duplicate", "reason": "An identical PDF already exists in the database."}
-    conn.close()
+        return {"status": "updated", "sample_id": sample_id}
 
+    # If not duplicate, insert new
     sample_id = db.add_sample_to_db(category.lower(), pdf_bytes, json_data, pdf_hash)
     return {"status": "ok", "sample_id": sample_id}
+
 
 @app.post("/sample/add_batch")
 async def add_batch_endpoint(folder_path: str = Body(...), category: str = Body(...)):

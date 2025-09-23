@@ -15,6 +15,7 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 
 **CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
 - For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields, so that no one field is missing it's value.
 - If these fields are not present in the target PDF, return an empty string ("").
 """,
     "vision": """
@@ -50,8 +51,10 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 - If these fields are not present in the target PDF, return an empty string ("").
 """,
     "health":"""
-**CRITICAL FIELD EXTRACTION FOR HEALTH BENEFITS:**
+**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
 - For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance", "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics", "RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX"(both In-Network and Out-of-Network), generally the In-Network and Out-of-Network values are placed next to each other, you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields, so that no one field is missing it's value, especially "specialist" field.
+- "out-of-network specialist visit": set it as "40%"
 - If these fields are not present in the target PDF, return an empty string ("").
 
 """
@@ -115,7 +118,7 @@ You are a highly accurate insurance PDF-to-JSON converter.
 ---
 
 **For all fields:**  
-Extract and output ONLY these fields (no extras):
+Extract and output ONLY these fields (no extras and case-insensitive):
 
 {keys_str}
 
@@ -143,10 +146,10 @@ def ask_llm_mapping_logic(
     user_prompt += f"TARGET PDF TEXT:\n-----\n{dest_pdf_text}\n-----\n"
     user_prompt += "Output the target's JSON only:"
 
-    # with open("system_prompt.txt", "w", encoding="utf-8") as f:
-    #     f.write(system_prompt)  # your PDF->text output
-    # with open("user_prompt.txt", "w", encoding="utf-8") as f:
-    #     f.write(user_prompt)  # your PDF->text output
+    with open("system_prompt.txt", "w", encoding="utf-8") as f:
+        f.write(system_prompt)  # your PDF->text output
+    with open("user_prompt.txt", "w", encoding="utf-8") as f:
+        f.write(user_prompt)  # your PDF->text output
 
     result_json = llm.chat(system_prompt, user_prompt)
     print(f"result_json is:\n{result_json}")
