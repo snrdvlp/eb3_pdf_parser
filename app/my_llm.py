@@ -7,6 +7,12 @@ class RemoteLLM:
     """
     def __init__(self, endpoint="http://143.110.210.212/chat"):
         self.endpoint = endpoint
+    
+    def set_category(self, category):
+        if category == "health":
+            self.endpoint = "http://143.110.210.212/chat_health"
+        else:
+            self.endpoint = "http://143.110.210.212/chat"
 
     def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 800):
         """
@@ -19,6 +25,8 @@ class RemoteLLM:
         }
         try:
             r = requests.post(self.endpoint, json=payload, timeout=120)
+
+            print(f"endpoint is : {self.endpoint}")
             r.raise_for_status()
             data = r.json()
 

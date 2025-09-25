@@ -47,6 +47,7 @@ async def extract_json_endpoint(
     file: UploadFile = File(...),
     category: str = Form(...)
 ):
+    llm.set_category(category.lower())
     # Record the start time
     start = time.perf_counter()
     temp = start
