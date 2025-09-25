@@ -1,149 +1,196 @@
-SAMPLE PDF TEXT #1:
------
+SAMPLE PDF #1:
 ## Page 1
-This is page 1.
+
 
 
 ### Table (Page 1)
 
-| Eligibility |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| JobClass | Active Members |  |  |  |
-|  |  |  |  |  |
-| Benefits Payable |  |  |  |  |
-| Network | DentalPreferredProviderOrganization(PPO) |  |  |  |
-|  | CalendarYearDeductible |  | Coinsurance (Policy Pays) |  |
-|  | In-Network | Non-Network | In-Network | Non-Network |
-| Unit1–Preventive | $0 | $0 | 100% | 100% |
-| Unit 2 – Basic | $50 | $50 | 90% | 80% |
-| Unit 3 – Major | $50 | $50 | 60% | 50% |
-| FamilyDeductibleMaximum | 3timestheperpersondeductibleamount | $50 | 60% | 50% |
-| CombinedDeductible | In-networkdeductiblesforbasicandmajorproceduresarecombined.Non-networkdeductibles
-forbasicandmajorproceduresarecombined. | $50 | 60% | 50% |
-| CombinedMaximums | Maximums forpreventive, basic, and majorprocedures are combined. In-networkCalendar year
-maximums are $2,000 per person. Non-networkCalendar yearmaximums are $2,000 per
-person. | $50 | 60% | 50% |
-| PrevailingCharge | Whenusingnon-networkproviders,youpayanyamountovertheallowablecharge. | $50 | 60% | 50% |
-| MaximumAccumulation | Thisallowsforaportionofunusedmaximumbenefittocarryovertonextyear'smaximum
-benefitamount. Toqualify,youmusthavehadadentalserviceperformedwithintheCalendar
-yearandusedlessthanthemaximumthreshold. Thethresholdisequaltothelesserof50%of
-themaximumbenefitor$1000. Ifqualificationismet,50%ofthethresholdiscarriedoverto
-nextyear'smaximumbenefit. Individualswithfourthquartereffectiveswillstartqualifyingfor
-rolloveratthebeginningofthenextcalendaryear.Youcanaccumulatenomorethanfour
-timesthecarryoveramount.Theentireaccumulationamountwillbeforfeitedifnodental
-serviceissubmittedwithinacalendaryear. | $50 | 60% | 50% |
-| Additional Benefits | Thisallowsforaportionofunusedmaximumbenefittocarryovertonextyear'smaximum
-benefitamount. Toqualify,youmusthavehadadentalserviceperformedwithintheCalendar
-yearandusedlessthanthemaximumthreshold. Thethresholdisequaltothelesserof50%of
-themaximumbenefitor$1000. Ifqualificationismet,50%ofthethresholdiscarriedoverto
-nextyear'smaximumbenefit. Individualswithfourthquartereffectiveswillstartqualifyingfor
-rolloveratthebeginningofthenextcalendaryear.Youcanaccumulatenomorethanfour
-timesthecarryoveramount.Theentireaccumulationamountwillbeforfeitedifnodental
-serviceissubmittedwithinacalendaryear. | $50 | 60% | 50% |
-|  | LifetimeDeductible |  | Coinsurance (Policy Pays) |  |
-|  | In-Network | Non-Network | In-Network | Non-Network |
-| Unit 4 - Orthodontia
-• Child
-Lifetime Maximum:
-In-Network: $1,500
-Non-Network: $1,500 | $0 | $0 | 50% | 50% |
+| PLAN FEATURES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| --- | --- | --- |
+| Primary Care Physician Selection | Not required | Not required |
+| Deductible (per calendar year) | $1,000 Individual
+$2,000 Family | $2,000 Individual
+$6,000 Family |
+|  |  |  |
+| Unless otherwise indicated, the deductible must be met before benefits can be paid. |  |  |
+| All covered expenses accumulate separately toward the network and out-of-network Deductible. |  |  |
+| As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible. |  |  |
+| No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
+deductible is met, all family members will be considered as having met their deductible for the remainder of the year. |  |  |
+| Member Coinsurance
+(applies to all expenses unless otherwise stated) | 0% | 50% |
+| Out-of-Pocket (OOP) Maximum
+(per calendar year, includes deductible) | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit. | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| Pharmacy expenses apply towards the Out-of-Pocket Maximum.
+Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
+penalty amounts) may be used to satisfy the out-of-pocket maximum. | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
+maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
+maximum for the remainder of the year. | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| Payment for Out-of-Network Care* | Not applicable | Professional: 105% of Medicare
+Facility: 140% of Medicare |
+| Precertification Requirements |  | Professional: 105% of Medicare
+Facility: 140% of Medicare |
+| Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
+per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
+this approval. |  |  |
+| Referral Requirement | Not Required | Not applicable |
+| PHYSICIAN SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Office Visits to Non-Specialist | $25 copay deductible waived | 50% after deductible |
+| Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
+injury. | $25 copay deductible waived | 50% after deductible |
+| Telemedicine Consultations with Non-Specialist | $25 copay deductible waived | 50% after deductible |
+| Virtual Primary Care Telemedicine Provider
+Consultations
+Includes basic medical and preventive health care
+services for persons 18 years of age or older.
+Telemedicine preventive screening and counseling
+services are subject to the preventive care benefit. | Covered in full | Not Covered |
+| Non-Specialist Telemedicine Provider
+Consultations | Covered in full | Not Covered |
+| Specialist Office Visits | $75 copay deductible waived | 50% after deductible |
+| Telemedicine Consultations with Specialist | $75 copay deductible waived | 50% after deductible |
+| Specialist Telemedicine Provider Consultations | Covered in full | Not Covered |
+| Non-Specialist and Specialist Surgical Services | Covered in full after deductible | 50% after deductible |
+| Walk-in Clinics | Designated Walk-in Clinics:
+Covered in full
+All Other Network Providers:
+$25 copay deductible waived | 50% after deductible |
 
-1 of 4
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-Dental PPO Benefit Summary
+### PLAN DESIGN & BENEFITS
 
-Plan 24
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-Predetermination of Benefits: Before treatment begins for inlays, onlays, single crowns, prosthetics,
-periodontics and oral surgery, you may file a dental treatment plan with Principal Life Insurance Company.
-Principal Life will provide a written response indicating benefits that may be payable for the proposed treatment.
+### PLAN FEATURES
+NETWORK CARE
+OUT-OF-NETWORK CARE
 
-This chart provides you a brief summary of the key benefits of the dental coverage available from Principal Life
-Insurance Company. Following the chart, you will find additional information to answer questions you may have.
-For a complete list of all your dental coverage benefits and restrictions, please refer to your booklet or contact your
-employer.
+Primary Care Physician Selection
+Not required
+Not required
 
-Eligibility
+Deductible (per calendar year)
+$1,000 Individual
+$2,000 Family
+$2,000 Individual
+$6,000 Family
 
-Job Class
-Active Members
+Unless otherwise indicated, the deductible must be met before benefits can be paid.
 
-Benefits Payable
+All covered expenses accumulate separately toward the network and out-of-network Deductible.
 
-Network
-Dental Preferred Provider Organization (PPO)
+As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible.
 
-Calendar Year Deductible
-Coinsurance (Policy Pays)
-In-Network
-Non-Network
-In-Network
-Non-Network
-Unit 1 – Preventive
-$0
-$0
-100%
-100%
+No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
+deductible is met, all family members will be considered as having met their deductible for the remainder of the year.
 
-Unit 2 – Basic
-$50
-$50
-90%
-80%
-
-Unit 3 – Major
-$50
-$50
-60%
+Member Coinsurance
+(applies to all expenses unless otherwise stated)
+0%
 50%
 
-Family Deductible Maximum
-3 times the per person deductible amount
+Out-of-Pocket (OOP) Maximum
+(per calendar year, includes deductible)
+$4,500 Individual
+$9,000 Family
+$12,000 Individual
+$36,000 Family
 
-Combined Deductible
-In-network deductibles for basic and major procedures are combined. Non-network deductibles
-for basic and major procedures are combined.
+All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit.
 
-Combined Maximums
-Maximums for preventive, basic, and major procedures are combined. In-network Calendar year
-maximums are $2,000 per person. Non-network Calendar year maximums are $2,000 per
-person.
+Pharmacy expenses apply towards the Out-of-Pocket Maximum.
+Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
+penalty amounts) may be used to satisfy the out-of-pocket maximum.
 
-Prevailing Charge
-When using non-network providers, you pay any amount over the allowable charge.
+No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
+maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
+maximum for the remainder of the year.
 
-Maximum Accumulation
-This allows for a portion of unused maximum benefit to carry over to next year's maximum
-benefit amount. To qualify, you must have had a dental service performed within the Calendar
-year and used less than the maximum threshold. The threshold is equal to the lesser of 50% of
-the maximum benefit or $1000. If qualification is met, 50% of the threshold is carried over to
-next year's maximum benefit. Individuals with fourth quarter effectives will start qualifying for
-rollover at the beginning of the next calendar year. You can accumulate no more than four
-times the carry over amount. The entire accumulation amount will be forfeited if no dental
-service is submitted within a calendar year.
+Payment for Out-of-Network Care*
+Not applicable
+Professional: 105% of Medicare
+Facility:  140% of Medicare
 
-Additional Benefits
+Precertification Requirements
 
-Lifetime Deductible
-Coinsurance (Policy Pays)
+Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
+per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
+this approval.
 
-In-Network
-Non-Network
-In-Network
-Non-Network
+Referral Requirement
+Not Required
+Not applicable
 
-Unit 4 - Orthodontia
-•
-Child
+### PHYSICIAN SERVICES
+NETWORK CARE
+OUT-OF-NETWORK CARE
 
-Lifetime Maximum:
-In-Network: $1,500
-Non-Network: $1,500
+Office Visits to Non-Specialist
+$25 copay deductible waived
+50% after deductible
 
-$0
-$0
-50%
-50%
+Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
+injury.
+
+Telemedicine Consultations with Non-Specialist
+$25 copay deductible waived
+50% after deductible
+
+Virtual Primary Care Telemedicine Provider
+Consultations
+Includes basic medical and preventive health care
+services for persons 18 years of age or older.
+Telemedicine preventive screening and counseling
+services are subject to the preventive care benefit.
+
+Covered in full
+Not Covered
+
+Non-Specialist Telemedicine Provider
+Consultations
+Covered in full
+Not Covered
+
+Specialist Office Visits
+$75 copay deductible waived
+50% after deductible
+
+Telemedicine Consultations with Specialist
+$75 copay deductible waived
+50% after deductible
+
+Specialist Telemedicine Provider Consultations
+Covered in full
+Not Covered
+
+Non-Specialist and Specialist Surgical Services
+Covered in full after deductible
+50% after deductible
+
+Walk-in Clinics
+Designated Walk-in Clinics:
+Covered in full
+
+All Other Network Providers:
+$25 copay deductible waived
+
+50% after deductible
+
+Print Date: 06/19/2024
+TPID: 30018710
+Page 1
 
 
 
@@ -153,150 +200,507 @@ $0
 
 ### Table (Page 2)
 
-| Unit1–
-Preventive
-Procedures | •
-Routine exams - two per calendar year
-•
-Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-•
-Second Opinion Consultation
-•
-Fluoride –one treatment each calendar year (covered only for dependent children under
-age 14)
-•
-Space maintainers - covered only for dependent children under age 14; repairs not
-covered
-•
-Sealants – on first and second permanent molars for dependent children under age 14;
-one each tooth each36months
-•
-Harmful Habit Appliance - covered only for dependent children under age 14
-•
-X-rays - Bitewing (one set every calendar year), occlusal, periapical
-•
-X-rays – Full mouth survey (one every 60months), extraoral |
-| --- | --- |
-| Unit2–
-Basic
-Procedures | • Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
-treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-• Emergency exams – subject to Routine exam frequency limit
-• Fillings and stainless steel crowns
-• Simple Oral Surgery
-• Complex Oral Surgical Procedures
-• Non-surgical Periodontics, including scaling and root planing - once each quadrant each
-24 months (For expectant mothers, diabetics and those with heart disease, this procedure
-is provided with no deductible and 100% coinsurance.)
-• Periodontal Surgical Procedures – one each quadrant each 36 months
-• Simple Endodontics (root canal therapy for anterior teeth)
-• Complex Endodontics (root canal therapy for molar teeth) |
-| Unit3–
-Major
-Procedures | • General Anesthesia (covered only for specific procedures)/IV Sedation
-• Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
-Adjustment to Bridge/Denture, within policy limitations
-• Crowns – each120months per tooth if tooth cannot be restored by a filling.
-• Inlays, Onlays, Cast Post and Core, Core Buildup - each 120months per tooth
-• Bridges - Initial placement / Replacement of bridges 120months old.
-• Dentures - Initial placement of complete or partial dentures / Replacement of complete or
-partial dentures over 60 months old |
-| Unit4-Orthodontic
-Procedures | • Fordependentchildrenwhenbandsareplacedbeforeage19,x-raysandother
-diagnosticprocedures,fixedandremovableappliances |
+| Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
+other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
+emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
+to be walk-in clinics. |  |  |
+| --- | --- | --- |
+| Telemedicine Consultations for Non-Emergency
+Services through a Walk-in Clinic
+If telemedicine preventive screening and counseling
+services are provided through a walk-in clinic, these
+services are paid under the preventive care benefit. | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| Maternity - Delivery and Post-Partum Care | Covered in full after deductible | 50% after deductible |
+| Allergy Testing | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| Allergy Injections | Covered in full after deductible | 50% after deductible |
+| PREVENTIVE CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Preventive care services are covered in accordance with Health Care Reform. |  |  |
+| Routine Adult Physical Exams and Immunizations
+Limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
+| Well Child Exams and Immunizations
+Provides coverage for 7 exams in the first year of life; 3
+exams in the second year; 3 exams in the third year;
+and 1 exam per 12 months from age 3 to age 22. | Covered in full | 50% after deductible |
+| Routine Gynecological Exams
+Includes routine tests and related lab fees. Limited to 1
+exam every 12 months. | Covered in full | 50% after deductible |
+| Routine Mammograms | Covered in full | 50% after deductible |
+| Women's Health
+Includes: Screening for gestational diabetes, HPV
+(Human Papillomavirus) DNA testing, counseling for
+sexually transmitted infections, counseling and
+screening for Human Immunodeficiency Virus,
+screening and counseling for interpersonal and
+domestic violence, breastfeeding support, supplies,
+and counseling. Contraceptive methods, sterilization
+procedures, patient education and counseling.
+Limitations may apply. | Covered in full | 50% after deductible |
+| Prenatal Maternity | Covered in full | 50% after deductible |
+| Routine Digital Rectal Exam /
+Prostate-Specific Antigen Test
+Recommended: For covered males age 40 and over. | Covered in full | 50% after deductible |
+| Colorectal Cancer Screening
+Recommended: For all members age 45 and over. | Covered in full | 50% after deductible |
+| Routine Eye and Hearing Screenings | Paid as part of routine physical
+exam. | Paid as part of routine physical
+exam. |
+| HEARING SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Hearing Exam (by Specialist) | Not covered | Not covered |
+| Hearing Aid | Not covered | Not covered |
+| VISION SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Adult Routine Eye Exams (Refraction)
+Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
+| Pediatric Routine Eye Exams (Refraction)
+Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
+| Adult Vision Hardware | Not Covered | Not Covered |
+| Pediatric Vision Hardware | Not Covered | Not Covered |
+| DIAGNOSTIC PROCEDURES | NETWORK CARE | OUT-OF-NETWORK CARE |
 
-### DENTAL
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-2 of 4
+### PLAN DESIGN & BENEFITS
 
-How Are Dental Procedures Covered?
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-The list of common procedures shows what unit the procedure is included in and how often they are covered.
+Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
+other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
+emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
+to be walk-in clinics.
 
-Unit 1 –
-Preventive
-Procedures
+Telemedicine Consultations for Non-Emergency
+Services through a Walk-in Clinic
+If telemedicine preventive screening and counseling
+services are provided through a walk-in clinic, these
+services are paid under the preventive care benefit.
 
-•
-Routine exams - two per calendar year
-•
-Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-•
-Second Opinion Consultation
-•
-Fluoride – one treatment each calendar year (covered only for dependent children under
-age 14)
-•
-Space maintainers - covered only for dependent children under age 14; repairs not
-covered
-•
-Sealants – on first and second permanent molars for  dependent children under age 14;
-one each tooth each 36 months
-•
-Harmful Habit Appliance - covered only for dependent children under age  14
-•
-X-rays - Bitewing (one set every calendar year), occlusal, periapical
-•
-X-rays – Full mouth survey (one every 60 months), extraoral
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
 
-•
-Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
-treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-•
-Emergency exams – subject to Routine exam frequency limit
-•
-Fillings and stainless steel crowns
-•
-Simple Oral Surgery
-•
-Complex Oral Surgical Procedures
-•
-Non-surgical Periodontics, including scaling and root planing - once each quadrant each
-24 months (For expectant mothers, diabetics and those with heart disease, this procedure
-is provided with no deductible and 100% coinsurance.)
-•
-Periodontal Surgical Procedures – one each quadrant each 36 months
-•
-Simple Endodontics (root canal therapy for anterior teeth)
-•
-Complex Endodontics (root canal therapy for molar teeth)
+Maternity - Delivery  and Post-Partum Care
+Covered in full after deductible
+50% after deductible
 
-Unit 2 –
-Basic
-Procedures
+Allergy Testing
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
 
-•
-General Anesthesia (covered only for specific procedures)/IV Sedation
-•
-Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
-Adjustment to Bridge/Denture, within policy limitations
-•
-Crowns – each 120 months per tooth if tooth cannot be restored by a filling.
-•
-Inlays, Onlays, Cast Post and Core, Core Buildup - each 120 months per tooth
-•
-Bridges - Initial placement / Replacement of bridges 120 months old.
-•
-Dentures - Initial placement of complete or partial dentures / Replacement of complete or
-partial dentures over 60 months old
+Allergy Injections
+Covered in full after deductible
+50% after deductible
 
-Unit 3 –
-Major
-Procedures
+### PREVENTIVE CARE
+NETWORK CA
+SAMPLE JSON #1:
+{"Carrier Name":"Aetna AFA","Plan Name":"1000 100-50","In-Network Single Deductible":"1000","In-Network Family Deductible":"2000","Out-of-Network Single Deductible":"2000","Out-of-Network Family Deductible":"6000","In-Network Single OOP Max":"4500","In-Network Family OOP Max":"9000","Out-of-Network Single OOP Max":"12000","Out-of-Network Family OOP Max":"36000","In-Network Coinsurance":"0","Out-of-Network Coinsurance":"50","In-Network PCP Visit":"$25 deductible waived","Out-of-Network PCP Visit":"50% after deductible","In-Network Specialist Visit":"$75 deductible waived","Out-of-Network Specialist Visit":"50% after deductible","In-Network Urgent Care Visit":"$75 deductible waived","Out-of-Network Urgent Care Visit":"50% after deductible","In-Network ER Visit":"$300 after deductible","Out-of-Network ER Visit":"$300 after deductible","In-Network Preventive Visit":"Covered in full","Out-of-Network Preventive Visit":"50% after deductible","In-Network Outpatient Surgery":"Covered in full after deductible","Out-of-Network Outpatient Surgery":"50% after deductible","In-Network Inpatient Surgery":"Covered in full after deductible","Out-of-Network Inpatient Surgery":"50% after deductible","In-Network Newborn Delivery":"Covered in full after deductible","Out-of-Network Newborn Delivery":"50% after deductible","In-Network Major Diagnostics":"Covered in full after deductible","Out-of-Network Major Diagnostics":"50% after deductible","In-Network RX deductible":"Not Applicable","Out-of-Network RX Deductible":"Not Applicable","In-Network Generic RX":"T1A: $3 / T1: $10","Out-of-Network Generic RX":"50% after deductible","In-Network Brand RX":"45","Out-of-Network Brand RX":"50% after deductible","In-Network Tier 3 RX":"75","Out-of-Network Tier 3 RX":"50% after deductible","In-Network Tier 4 RX":"20% up to $250","Out-of-Network Tier 4 RX":"Not covered","In-Network Tier 5 RX":"40% up to $500","Out-of-Network Tier 5 RX":"Not covered","In-Network Mail Order RX":"T1A: $6 / T1: $20 / $90 / $150","Out-of-Network Mail Order RX":"Not covered","Plan Year":"","Deductible Period":"","Deductible Explanation":"Embedded","Network Type":"POS","Network Name":"CPOSII","Member Website":"www.aetna.com","Customer Service Phone Number":"Please check the back of your ID card"}
+---
 
-Unit 4 - Orthodontic
-Procedures
-•
-For dependent children when bands are placed before age 19, x-rays and other
-diagnostic procedures, fixed and removable appliances
+TARGET PDF:
+## Page 1
 
-There is Coordination of Benefits, which is a procedure for limiting benefits from two or more carriers to 100% of
 
-the claimant's covered expenses.
+
+### Table (Page 1)
+
+| PLAN FEATURES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| --- | --- | --- |
+| Primary Care Physician Selection | Not required | Not required |
+| Deductible (per calendar year) | $1,000 Individual
+$2,000 Family | $2,000 Individual
+$6,000 Family |
+|  |  |  |
+| Unless otherwise indicated, the deductible must be met before benefits can be paid. |  |  |
+| All covered expenses accumulate separately toward the network and out-of-network Deductible. |  |  |
+| As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible. |  |  |
+| No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
+deductible is met, all family members will be considered as having met their deductible for the remainder of the year. |  |  |
+| Member Coinsurance
+(applies to all expenses unless otherwise stated) | 0% | 50% |
+| Out-of-Pocket (OOP) Maximum
+(per calendar year, includes deductible) | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit. | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| Pharmacy expenses apply towards the Out-of-Pocket Maximum.
+Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
+penalty amounts) may be used to satisfy the out-of-pocket maximum. | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
+maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
+maximum for the remainder of the year. | $4,500 Individual
+$9,000 Family | $12,000 Individual
+$36,000 Family |
+| Payment for Out-of-Network Care* | Not applicable | Professional: 105% of Medicare
+Facility: 140% of Medicare |
+| Precertification Requirements |  | Professional: 105% of Medicare
+Facility: 140% of Medicare |
+| Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
+per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
+this approval. |  |  |
+| Referral Requirement | Not Required | Not applicable |
+| PHYSICIAN SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Office Visits to Non-Specialist | $25 copay deductible waived | 50% after deductible |
+| Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
+injury. | $25 copay deductible waived | 50% after deductible |
+| Telemedicine Consultations with Non-Specialist | $25 copay deductible waived | 50% after deductible |
+| Virtual Primary Care Telemedicine Provider
+Consultations
+Includes basic medical and preventive health care
+services for persons 18 years of age or older.
+Telemedicine preventive screening and counseling
+services are subject to the preventive care benefit. | Covered in full | Not Covered |
+| Non-Specialist Telemedicine Provider
+Consultations | Covered in full | Not Covered |
+| Specialist Office Visits | $75 copay deductible waived | 50% after deductible |
+| Telemedicine Consultations with Specialist | $75 copay deductible waived | 50% after deductible |
+| Specialist Telemedicine Provider Consultations | Covered in full | Not Covered |
+| Non-Specialist and Specialist Surgical Services | Covered in full after deductible | 50% after deductible |
+| Walk-in Clinics | Designated Walk-in Clinics:
+Covered in full
+All Other Network Providers:
+$25 copay deductible waived | 50% after deductible |
+
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
+
+### PLAN DESIGN & BENEFITS
+
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+
+### PLAN FEATURES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Primary Care Physician Selection
+Not required
+Not required
+
+Deductible (per calendar year)
+$1,000 Individual
+$2,000 Family
+$2,000 Individual
+$6,000 Family
+
+Unless otherwise indicated, the deductible must be met before benefits can be paid.
+
+All covered expenses accumulate separately toward the network and out-of-network Deductible.
+
+As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible.
+
+No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
+deductible is met, all family members will be considered as having met their deductible for the remainder of the year.
+
+Member Coinsurance
+(applies to all expenses unless otherwise stated)
+0%
+50%
+
+Out-of-Pocket (OOP) Maximum
+(per calendar year, includes deductible)
+$4,500 Individual
+$9,000 Family
+$12,000 Individual
+$36,000 Family
+
+All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit.
+
+Pharmacy expenses apply towards the Out-of-Pocket Maximum.
+Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
+penalty amounts) may be used to satisfy the out-of-pocket maximum.
+
+No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
+maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
+maximum for the remainder of the year.
+
+Payment for Out-of-Network Care*
+Not applicable
+Professional: 105% of Medicare
+Facility:  140% of Medicare
+
+Precertification Requirements
+
+Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
+per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
+this approval.
+
+Referral Requirement
+Not Required
+Not applicable
+
+### PHYSICIAN SERVICES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Office Visits to Non-Specialist
+$25 copay deductible waived
+50% after deductible
+
+Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
+injury.
+
+Telemedicine Consultations with Non-Specialist
+$25 copay deductible waived
+50% after deductible
+
+Virtual Primary Care Telemedicine Provider
+Consultations
+Includes basic medical and preventive health care
+services for persons 18 years of age or older.
+Telemedicine preventive screening and counseling
+services are subject to the preventive care benefit.
+
+Covered in full
+Not Covered
+
+Non-Specialist Telemedicine Provider
+Consultations
+Covered in full
+Not Covered
+
+Specialist Office Visits
+$75 copay deductible waived
+50% after deductible
+
+Telemedicine Consultations with Specialist
+$75 copay deductible waived
+50% after deductible
+
+Specialist Telemedicine Provider Consultations
+Covered in full
+Not Covered
+
+Non-Specialist and Specialist Surgical Services
+Covered in full after deductible
+50% after deductible
+
+Walk-in Clinics
+Designated Walk-in Clinics:
+Covered in full
+
+All Other Network Providers:
+$25 copay deductible waived
+
+50% after deductible
+
+Print Date: 06/19/2024
+TPID: 30018710
+Page 1
+
+
+
+## Page 2
+
+
+
+### Table (Page 2)
+
+| Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
+other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
+emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
+to be walk-in clinics. |  |  |
+| --- | --- | --- |
+| Telemedicine Consultations for Non-Emergency
+Services through a Walk-in Clinic
+If telemedicine preventive screening and counseling
+services are provided through a walk-in clinic, these
+services are paid under the preventive care benefit. | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| Maternity - Delivery and Post-Partum Care | Covered in full after deductible | 50% after deductible |
+| Allergy Testing | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| Allergy Injections | Covered in full after deductible | 50% after deductible |
+| PREVENTIVE CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Preventive care services are covered in accordance with Health Care Reform. |  |  |
+| Routine Adult Physical Exams and Immunizations
+Limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
+| Well Child Exams and Immunizations
+Provides coverage for 7 exams in the first year of life; 3
+exams in the second year; 3 exams in the third year;
+and 1 exam per 12 months from age 3 to age 22. | Covered in full | 50% after deductible |
+| Routine Gynecological Exams
+Includes routine tests and related lab fees. Limited to 1
+exam every 12 months. | Covered in full | 50% after deductible |
+| Routine Mammograms | Covered in full | 50% after deductible |
+| Women's Health
+Includes: Screening for gestational diabetes, HPV
+(Human Papillomavirus) DNA testing, counseling for
+sexually transmitted infections, counseling and
+screening for Human Immunodeficiency Virus,
+screening and counseling for interpersonal and
+domestic violence, breastfeeding support, supplies,
+and counseling. Contraceptive methods, sterilization
+procedures, patient education and counseling.
+Limitations may apply. | Covered in full | 50% after deductible |
+| Prenatal Maternity | Covered in full | 50% after deductible |
+| Routine Digital Rectal Exam /
+Prostate-Specific Antigen Test
+Recommended: For covered males age 40 and over. | Covered in full | 50% after deductible |
+| Colorectal Cancer Screening
+Recommended: For all members age 45 and over. | Covered in full | 50% after deductible |
+| Routine Eye and Hearing Screenings | Paid as part of routine physical
+exam. | Paid as part of routine physical
+exam. |
+| HEARING SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Hearing Exam (by Specialist) | Not covered | Not covered |
+| Hearing Aid | Not covered | Not covered |
+| VISION SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Adult Routine Eye Exams (Refraction)
+Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
+| Pediatric Routine Eye Exams (Refraction)
+Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
+| Adult Vision Hardware | Not Covered | Not Covered |
+| Pediatric Vision Hardware | Not Covered | Not Covered |
+| DIAGNOSTIC PROCEDURES | NETWORK CARE | OUT-OF-NETWORK CARE |
+
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
+
+### PLAN DESIGN & BENEFITS
+
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+
+Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
+other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
+emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
+to be walk-in clinics.
+
+Telemedicine Consultations for Non-Emergency
+Services through a Walk-in Clinic
+If telemedicine preventive screening and counseling
+services are provided through a walk-in clinic, these
+services are paid under the preventive care benefit.
+
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
+
+Maternity - Delivery  and Post-Partum Care
+Covered in full after deductible
+50% after deductible
+
+Allergy Testing
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
+
+Allergy Injections
+Covered in full after deductible
+50% after deductible
+
+### PREVENTIVE CARE
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Preventive care services are covered in accordance with Health Care Reform.
+
+Routine Adult Physical Exams and Immunizations
+Limited to 1 exam every 12 months.
+Covered in full
+50% after deductible
+
+Well Child Exams and Immunizations
+Provides coverage for 7 exams in the first year of life; 3
+exams in the second year; 3 exams in the third year;
+and 1 exam per 12 months from age 3 to age 22.
+
+Covered in full
+50% after deductible
+
+Routine Gynecological Exams
+Includes routine tests and related lab fees. Limited to 1
+exam every 12 months.
+
+Covered in full
+50% after deductible
+
+Routine Mammograms
+Covered in full
+50% after deductible
+
+Women's Health
+Includes: Screening for gestational diabetes, HPV
+(Human Papillomavirus) DNA testing, counseling for
+sexually transmitted infections, counseling and
+screening for Human Immunodeficiency Virus,
+screening and counseling for interpersonal and
+domestic violence, breastfeeding support, supplies,
+and counseling. Contraceptive methods, sterilization
+procedures, patient education and counseling.
+Limitations may apply.
+
+Covered in full
+50% after deductible
+
+Prenatal Maternity
+Covered in full
+50% after deductible
+
+Routine Digital Rectal Exam /
+Prostate-Specific Antigen Test
+Recommended: For covered males age 40 and over.
+
+Covered in full
+50% after deductible
+
+Colorectal Cancer Screening
+Recommended: For all members age 45 and over.
+Covered in full
+50% after deductible
+
+Routine Eye and Hearing Screenings
+Paid as part of routine physical
+exam.
+Paid as part of routine physical
+exam.
+
+### HEARING SERVICES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Hearing Exam (by Specialist)
+Not covered
+Not covered
+
+Hearing Aid
+Not covered
+Not covered
+
+### VISION SERVICES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Adult Routine Eye Exams (Refraction)
+Coverage is limited to 1 exam every 12 months.
+Covered in full
+50% after deductible
+
+Pediatric Routine Eye Exams (Refraction)
+Coverage is limited to 1 exam every 12 months.
+Covered in full
+50% after deductible
+
+Adult Vision Hardware
+Not Covered
+Not Covered
+
+Pediatric Vision Hardware
+Not Covered
+Not Covered
+
+### DIAGNOSTIC PROCEDURES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Print Date: 06/19/2024
+TPID: 30018710
+Page 2
 
 
 
@@ -306,64 +710,195 @@ the claimant's covered expenses.
 
 ### Table (Page 3)
 
-| 1 | Visitwww.principal.com/dentist. |
-| --- | --- |
-| 2 | Beginyoursearchbypickingthestatewhereyouwouldliketofindaprovider. Next,specifyanetwork. Depending
-onthenetworkchosen,youmaybetransferredtoapartnersite. |
-| 3 | Enterthenameoftheprovideryouarelookingfor(ifknown). Ifyouarelookingforanearbydentist,enterthecity
-andstateand/orZIPcode. Besuretoindicatehowfaryouarewillingtotravel. |
-| 4 | SelectthedesiredspecialtyorusetheNoSpecialtyPreferencedefault. ClickContinue. |
-| 5 | SelectalanguageifyourpreferenceisotherthanEnglish. ClickContinue. |
+| Diagnostic Laboratory | Covered in full after deductible | 50% after deductible |
+| --- | --- | --- |
+| Diagnostic X-ray (except for Complex Imaging
+Services) | Covered in full after deductible | 50% after deductible |
+| Diagnostic X-ray for Complex Imaging Services
+(Including, but not limited to, MRI, MRA, PET and CT
+Scans) | Covered in full after deductible | 50% after deductible |
+| EMERGENCY MEDICAL CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Urgent Care Provider | $75 copay deductible waived | 50% after deductible |
+| Non-Urgent Use of Urgent Care Provider | Not covered | Not covered |
+| Emergency Room
+Copay waived if admitted. | $300 copayment after deductible | Paid as in-network |
+| Non-Emergency Care in an Emergency Room | Not covered | Not covered |
+| Emergency Use of Ambulance | Covered in full after deductible | Paid as in-network |
+| Non-Emergency Use of Ambulance | Covered in full after deductible | Paid as in-network |
+| HOSPITAL CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Inpatient Coverage
+Including maternity (delivery and postpartum care).
+The member cost sharing applies to all covered
+benefits incurred during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
+| Outpatient Surgery
+Provided in an outpatient hospital department or
+freestanding surgical facility. | Covered in full after deductible | 50% after deductible |
+| Colonoscopy
+(non-preventive) | Cost-sharing is based on type of
+service and where it is received. | Cost-sharing is based on type of
+service and where it is received. |
+| Transplants
+Coverage is limited to IOE facilities only. | Covered in full after deductible | Not covered |
+| BEHAVIORAL HEALTH SERVICES
+(MENTAL HEALTH and SUBSTANCE RELATED
+DISORDERS) | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Inpatient Services
+(including inpatient residential treatment facility)
+The member cost sharing applies to all covered
+benefits incurred during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
+| Outpatient Office Visits
+The member cost sharing applies to all covered
+benefits incurred during a member's outpatient visit. | Covered in full | 50% after deductible |
+| Physician or Behavioral Health Provider
+Telemedicine Consultations | Covered in full | 50% after deductible |
+| Telemedicine Provider Consultations | Covered in full | Not Covered |
+| Other Outpatient Services
+(Includes partial hospitalization treatment, intensive
+outpatient program.) | Covered in full after deductible | 50% after deductible |
+| THERAPY SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Outpatient Chiropractic/Spinal Manipulation
+Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
 
-### DENTAL
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-3 of 4
+### PLAN DESIGN & BENEFITS
 
-Understanding Your Dental Benefits
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-Am I Eligible For Coverage?
+Diagnostic Laboratory
+Covered in full after deductible
+50% after deductible
 
-To be eligible for coverage, you must qualify as an eligible member and be considered actively at work.
+Diagnostic X-ray (except for Complex Imaging
+Services)
+Covered in full after deductible
+50% after deductible
 
-You must be enrolled for dental coverage before it can be offered to your dependents.  Eligible dependents
+Diagnostic X-ray for Complex Imaging Services
+(Including, but not limited to, MRI, MRA, PET and CT
+Scans)
 
-include your spouse , state registered domestic partner, and children, including those of your state registered
+Covered in full after deductible
+50% after deductible
 
-domestic partner. Additional eligibility requirements may apply.
+### EMERGENCY MEDICAL CARE
+NETWORK CARE
+OUT-OF-NETWORK CARE
 
-Open enrollment applies. Any employee or dependent that didn't enroll within 31 days of being eligible can only
+Urgent Care Provider
+$75 copay deductible waived
+50% after deductible
 
-enroll during the open enrollment period.
+Non-Urgent Use of Urgent Care Provider
+Not covered
+Not covered
 
-How Do I Find A Participating Provider?
+Emergency Room
+Copay waived if admitted.
+$300 copayment after deductible
+Paid as in-network
 
-Use the Provider Directory on www.principal.com to locate nearby dentists or see if your dentist participates in
+Non-Emergency Care in an Emergency Room
+Not covered
+Not covered
 
-your network.
+Emergency Use of Ambulance
+Covered in full after deductible
+Paid as in-network
 
-1
-Visit www.principal.com/dentist.
+Non-Emergency Use of Ambulance
+Covered in full after deductible
+Paid as in-network
 
-2
-Begin your search by picking the state where you would like to find a provider. Next, specify a network. Depending
-on the network chosen, you may be transferred to a partner site.
+### HOSPITAL CARE
+NETWORK CARE
+OUT-OF-NETWORK CARE
 
-3
-Enter the name of the provider you are looking for (if known). If you are looking for a nearby dentist, enter the city
-and state and/or ZIP code. Be sure to indicate how far you are willing to travel.
+Inpatient Coverage
+Including maternity (delivery and postpartum care).
+The member cost sharing applies to all covered
+benefits incurred during a member's inpatient stay.
 
-4
-Select the desired specialty or use the No Specialty Preference default. Click Continue.
+Covered in full after deductible
+50% after deductible
 
-5
-Select a language if your preference is other than English. Click Continue.
+Outpatient Surgery
+Provided in an outpatient hospital department or
+freestanding surgical facility.
 
-You may nominate your dentist for inclusion in our network. Please submit the dentist's name, address, phone
-and specialty by calling 1-800-832-4450, or submit through www.principal.com/refer-dental-provider.
+Covered in full after deductible
+50% after deductible
 
-What Are The Restrictions Of My Coverage?
+Colonoscopy
+(non-preventive)
+Cost-sharing is based on type of
+service and where it is received.
+Cost-sharing is based on type of
+service and where it is received.
 
-This Benefit Summary is a summary only. For a complete list of benefit restrictions, please refer to your booklet.
+Transplants
+Coverage is limited to IOE facilities only.
+Covered in full after deductible
+Not covered
+
+### BEHAVIORAL HEALTH SERVICES
+
+(MENTAL HEALTH and SUBSTANCE RELATED
+
+### DISORDERS)
+
+### NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Inpatient Services
+(including inpatient residential treatment facility)
+The member cost sharing applies to all covered
+benefits incurred during a member's inpatient stay.
+
+Covered in full after deductible
+50% after deductible
+
+Outpatient Office Visits
+The member cost sharing applies to all covered
+benefits incurred during a member's outpatient visit.
+
+Covered in full
+50% after deductible
+
+Physician or Behavioral Health Provider
+Telemedicine Consultations
+Covered in full
+50% after deductible
+
+Telemedicine Provider Consultations
+Covered in full
+Not Covered
+
+Other Outpatient Services
+(Includes partial hospitalization treatment, intensive
+outpatient program.)
+
+Covered in full after deductible
+50% after deductible
+
+### THERAPY SERVICES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Outpatient Chiropractic/Spinal Manipulation
+Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined.
+
+$75 copayment after deductible
+50% after deductible
+
+Print Date: 06/19/2024
+TPID: 30018710
+Page 3
 
 
 
@@ -373,481 +908,515 @@ This Benefit Summary is a summary only. For a complete list of benefit restricti
 
 ### Table (Page 4)
 
-| Limitations&Exclusions |  |
-| --- | --- |
-| MissingTooth | Benefitsfortheinitialplacementofbridges,partialsanddenturesarenotcoveredifthoseteeth
-weremissingpriortobecominginsuredunderthePrincipalLifepolicy.Whenthepolicy
-replacescoverageunderapriorplan,continuouscoverageunderthepriorplanmaybe
-appliedtothemissingtoothprovisionrequirement. |
-| Orthodontia | Ifthereisorthodontia(ortho)treatmentinprogressonthecoverageeffectivedateandyouare
-coveredunderanypriorgroupcoverageforortho,therewillbeimmediatecoveragefor
-treatmentifproofissubmittedthatshows:
-1) Thelifetimemaximumunderanypriorgroupcoveragehasnotbeenexceeded,
-2) Orthotreatmentwasstartedandbandsorapplianceswereinsertedwhileinsuredunder
-anypriorgroupcoverage,and
-3) Orthotreatmenthasbeencontinuedwhileinsuredunderthispolicy.
-PrincipalLifewillcreditpaymentsmadebythepriorcarriertowardthePrincipalLifelifetime
-orthopaymentlimit.
-Youwillnotbecoverediforthotreatmentisinprogresspriortotheeffectivedatewith
-PrincipalLifeandyouarenotcoveredunderanypriorgroupcoverageforortho. |
-| OtherLimitations | Thereareadditionallimitationstoyourcoverage. Acompletelistisincludedinyourbooklet. |
+| Outpatient Short-Term Rehabilitation - Physical
+Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
+| --- | --- | --- |
+| Outpatient Short-Term Rehabilitation -
+Occupational Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
+| Outpatient Short-Term Rehabilitation - Speech
+Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
+| Habilitative Physical, Occupational and Speech
+Therapy | Covered in full after deductible | 50% after deductible |
+| Autism Physical, Occupational and Speech
+Therapy | Covered in full after deductible | 50% after deductible |
+| Autism Behavioral Therapy | Covered in full | 50% after deductible |
+| Autism Applied Behavior Analysis | Covered in full after deductible | 50% after deductible |
+| OTHER SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Skilled Nursing Facility
+Coverage is limited to 60 days per year.
+The member cost sharing applies to all covered
+benefits incurring during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
+| Home Health Care
+Coverage is limited to 60 visits per year. | Covered in full after deductible | 50% after deductible |
+| Infusion Therapy
+Provided in the home or physician's office. | Covered in full after deductible | 50% after deductible |
+| Infusion Therapy
+Provided in the outpatient hospital department of
+freestanding facility. | Covered in full after deductible | 50% after deductible |
+| Gene-Based, Cellular and Other Innovative
+Therapies (GCIT)
+Coverage is limited to GCIT-designated facilities only. | Cost-sharing is based on type of
+service and where it is received. | Not Covered |
+| Inpatient Hospice Care
+The member cost sharing applies to all covered
+benefits incurred during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
+| Outpatient Hospice Care
+The member cost sharing applies to all covered
+benefits incurred during a member's outpatient visit. | Covered in full after deductible | 50% after deductible |
+| Private Duty Nursing - Outpatient | Not covered | Not covered |
+| Acupuncture
+Coverage is limited to 10 visits per year. | $25 copay deductible waived | 50% after deductible |
+| Durable Medical Equipment | 50% after deductible | 50% after deductible |
+| Prosthetics | 50% after deductible | 50% after deductible |
+| Diabetic Supplies not obtainable at a pharmacy | Covered same as any other medical
+expense. | Covered same as any other medical
+expense. |
+| Mouth, Jaws and Teeth
+Coverage for medical in nature oral surgery only. No
+coverage for dental in nature oral surgery or for
+removal of impacted teeth. | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| Bariatric Surgery | Not Covered | Not Covered |
+| FAMILY PLANNING | NETWORK CARE | OUT-OF-NETWORK CARE |
 
-### DENTAL
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-4 of 4
+### PLAN DESIGN & BENEFITS
 
-Limitations & Exclusions
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-Missing Tooth
-Benefits for the initial placement of bridges, partials and dentures are not covered if those teeth
-were missing prior to becoming insured under the Principal Life policy. When the policy
-replaces coverage under a prior plan, continuous coverage under the prior plan may be
-applied to the missing tooth provision requirement.
+Outpatient Short-Term Rehabilitation - Physical
+Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined.
 
-Orthodontia
-If there is orthodontia (ortho) treatment in progress on the coverage effective date and you are
-covered under any prior group coverage for ortho, there will be immediate coverage for
-treatment if proof is submitted that shows:
-1) The lifetime maximum under any prior group coverage has not been exceeded,
-2) Ortho treatment was started and bands or appliances were inserted while insured under
-any prior group coverage, and
-3) Ortho treatment has been continued while insured under this policy.
+$75 copayment after deductible
+50% after deductible
 
-Principal Life will credit payments made by the prior carrier toward the Principal Life lifetime
-ortho payment limit.
+Outpatient Short-Term Rehabilitation -
+Occupational Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined.
 
-You will not be covered if ortho treatment is in progress prior to the effective date with
-Principal Life and you are not covered under any prior group coverage for ortho.
+$75 copayment after deductible
+50% after deductible
 
-Other Limitations
-There are additional limitations to your coverage. A complete list is included in your booklet.
+Outpatient Short-Term Rehabilitation - Speech
+Therapy
+Coverage is limited to 60 visits per year
+PT/OT/ST/Chiro combined.
 
-Principal Life Insurance Company, Des Moines, Iowa 50392-0002, www.principal.com
+$75 copayment after deductible
+50% after deductible
 
-This is a summary of dental coverage underwritten by or with administrative services provided by Principal Life Insurance Company.  This
+Habilitative Physical, Occupational and Speech
+Therapy
+Covered in full after deductible
+50% after deductible
 
-benefit summary is for administrative purposes and is not a complete statement of benefits and restrictions. You’ll receive a benefit booklet
+Autism Physical, Occupational and Speech
+Therapy
+Covered in full after deductible
+50% after deductible
 
-with details about your coverage. If there is a discrepancy between this summary and your benefit booklet, the benefit booklet prevails.
+Autism Behavioral Therapy
+Covered in full
+50% after deductible
 
-Principal, Principal and symbol design and Principal Financial Group are trademarks and service marks of Principal Financial Services, Inc., a
-member of the Principal Financial Group.
+Autism Applied Behavior Analysis
+Covered in full after deductible
+50% after deductible
 
-GP55773-26  |  09/2019  |  © 2019  Principal Financial Services, Inc.
------
-SAMPLE PLAN JSON #1:
-{
-  "Carrier Name": "Principal",
-  "Plan Name": "Plan 24",
-  "In-Network Single Deductible": "$50",
-  "In-Network Family Deductible": "3 times the per person deductible amount",
-  "Out-of-Network Single Deductible": "$50",
-  "Out-of-Network Family Deductible": "3 times the per person deductible amount",
-  "In-Network Annual Maximum": "$2,000 per person",
-  "Out-of-Network Annual Maximum": "$2,000 per person",
-  "Frequencies Cleaning": "two per calendar year",
-  "Frequencies Exam": "two per calendar year",
-  "In-Network Cleanings": "100%",
-  "Out-of-Network Cleanings": "100%",
-  "In-Network Exams": "100%",
-  "Out-of-Network Exams": "100%",
-  "In-Network X-Rays": "100%",
-  "Out-of-Network X-Rays": "100%",
-  "In-Network Sealants": "100%",
-  "Out-of-Network Sealants": "100%",
-  "In-Network Fillings": "90%",
-  "Out-of-Network Fillings": "80%",
-  "In-Network Simple Extractions": "",
-  "Out-of-Network Simple Extractions": "",
-  "In-Network Root Canal": "90%",
-  "Out-of-Network Root Canal": "80%",
-  "In-Network Periodontal Gum Disease": "90%",
-  "Out-of-Network Periodontal Gum Disease": "80%",
-  "In-Network Oral Surgery": "90%",
-  "Out-of-Network Oral Surgery": "80%",
-  "In-Network Crowns": "60%",
-  "Out-of-Network Crowns": "50%",
-  "In-Network Dentures": "60%",
-  "Out-of-Network Dentures": "50%",
-  "In-Network Bridges": "60%",
-  "Out-of-Network Bridges": "50%",
-  "In-Network Implants": "",
-  "Out-of-Network Implants": "",
-  "In-Network Orthodontia": "50%",
-  "Out-of-Network Orthodontia": "50%",
-  "Orthodontia Lifetime Maximum": "$1,500",
-  "Orthodontia Maximum Age": "19",
-  "Out of Network Explanation": "When using non-network providers, you pay any amount over the allowable charge.",
-  "Waiting Period for Major Services": "",
-  "Plan Year": "2019",
-  "Network Type": "PPO",
-  "Network Name": "Dental Preferred Provider Organization (PPO)",
-  "Member Website": "www.principal.com",
-  "Customer Service Phone Number": "1-800-832-4450"
-}
------
-TARGET PDF TEXT:
------
-## Page 1
+### OTHER SERVICES
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Skilled Nursing Facility
+Coverage is limited to 60 days per year.
+
+The member cost sharing applies to all covered
+benefits incurring during a member's inpatient stay.
+
+Covered in full after deductible
+50% after deductible
+
+Home Health Care
+Coverage is limited to 60 visits per year.
+Covered in full after deductible
+50% after deductible
+
+Infusion Therapy
+Provided in the home or physician's office.
+Covered in full after deductible
+50% after deductible
+
+Infusion Therapy
+Provided in the outpatient hospital department of
+freestanding facility.
+
+Covered in full after deductible
+50% after deductible
+
+Gene-Based, Cellular and Other Innovative
+Therapies (GCIT)
+Coverage is limited to GCIT-designated facilities only.
+
+Cost-sharing is based on type of
+service and where it is received.
+Not Covered
+
+Inpatient Hospice Care
+The member cost sharing applies to all covered
+benefits incurred during a member's inpatient stay.
+
+Covered in full after deductible
+50% after deductible
+
+Outpatient Hospice Care
+The member cost sharing applies to all covered
+benefits incurred during a member's outpatient visit.
+
+Covered in full after deductible
+50% after deductible
+
+Private Duty Nursing - Outpatient
+Not covered
+Not covered
+
+Acupuncture
+Coverage is limited to 10 visits per year.
+$25 copay deductible waived
+50% after deductible
+
+Durable Medical Equipment
+50% after deductible
+50% after deductible
+
+Prosthetics
+50% after deductible
+50% after deductible
+
+Diabetic Supplies not obtainable at a pharmacy
+Covered same as any other medical
+expense.
+Covered same as any other medical
+expense.
+
+Mouth, Jaws and Teeth
+Coverage for medical in nature oral surgery only. No
+coverage for dental in nature oral surgery or for
+removal of impacted teeth.
+
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
+
+Bariatric Surgery
+Not Covered
+Not Covered
+
+### FAMILY PLANNING
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Print Date: 06/19/2024
+TPID: 30018710
+Page 4
 
 
 
-### Table (Page 1)
+## Page 5
 
-| Eligibility |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| JobClass | Active Members |  |  |  |
-|  |  |  |  |  |
-| Benefits Payable |  |  |  |  |
-| Network | DentalPreferredProviderOrganization(PPO) |  |  |  |
-|  | CalendarYearDeductible |  | Coinsurance (Policy Pays) |  |
-|  | In-Network | Non-Network | In-Network | Non-Network |
-| Unit1–Preventive | $0 | $0 | 100% | 100% |
-| Unit 2 – Basic | $50 | $50 | 90% | 80% |
-| Unit 3 – Major | $50 | $50 | 60% | 50% |
-| FamilyDeductibleMaximum | 3timestheperpersondeductibleamount | $50 | 60% | 50% |
-| CombinedDeductible | In-networkdeductiblesforbasicandmajorproceduresarecombined.Non-networkdeductibles
-forbasicandmajorproceduresarecombined. | $50 | 60% | 50% |
-| CombinedMaximums | Maximums forpreventive, basic, and majorprocedures are combined. In-networkCalendar year
-maximums are $2,500 per person. Non-networkCalendar yearmaximums are $2,500 per
-person. | $50 | 60% | 50% |
-| PrevailingCharge | Whenusingnon-networkproviders,youpayanyamountovertheallowablecharge. | $50 | 60% | 50% |
-| MaximumAccumulation | Thisallowsforaportionofunusedmaximumbenefittocarryovertonextyear'smaximum
-benefitamount. Toqualify,youmusthavehadadentalserviceperformedwithintheCalendar
-yearandusedlessthanthemaximumthreshold. Thethresholdisequaltothelesserof50%of
-themaximumbenefitor$1000. Ifqualificationismet,50%ofthethresholdiscarriedoverto
-nextyear'smaximumbenefit. Individualswithfourthquartereffectiveswillstartqualifyingfor
-rolloveratthebeginningofthenextcalendaryear.Youcanaccumulatenomorethanfour
-timesthecarryoveramount.Theentireaccumulationamountwillbeforfeitedifnodental
-serviceissubmittedwithinacalendaryear. | $50 | 60% | 50% |
 
-1 of 4
 
-Dental PPO Benefit Summary
+### Table (Page 5)
 
-Plan 21
+| Basic Infertility
+Coverage is limited to the diagnosis and treatment of
+the underlying medical condition, including artificial
+insemination. | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| --- | --- | --- |
+| Advanced Reproductive Technology (ART)
+In-vitro fertilization (IVF), zygote intrafallopian transfer
+(ZIFT), gamete intrafallopian transfer (GIFT),
+cryopreserved embryo transfers, intracytoplasmic
+sperm injection (ICSI), or ovum microsurgery and
+ovulation induction | Not Covered | Not Covered |
+| Fertility preservation | Not Covered | Not Covered |
+| Vasectomy | Cost-sharing is based on type of
+service and where it is received. | 50% after deductible |
+| Tubal Ligation | Covered in full | 50% after deductible |
+| PHARMACY DEDUCTIBLE | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Prescription drug calendar year deductible | Not Applicable under both the
+network care and out-of-network
+columns. | Not Applicable under both the
+network care and out-of-network
+columns. |
+| PHARMACY - PRESCRIPTION
+DRUG BENEFITS | NETWORK CARE | OUT-OF-NETWORK CARE |
+| Generic Drugs |  |  |
+| Retail | Generic - T1A: $3 copayment
+Generic - T1: $10 copayment | 50% |
+| Mail Order | Generic - T1A: $6 copayment
+Generic - T1: $20 copayment | Not covered |
+| Preferred Brand Drugs | Generic - T1A: $6 copayment
+Generic - T1: $20 copayment |  |
+| Retail | $45 copayment | 50% |
+| Mail Order | $90 copayment | Not covered |
+| Non-Preferred Generic and Brand Drugs | $90 copayment |  |
+| Retail | $75 copayment | 50% |
+| Mail Order | $150 copayment | Not covered |
+| Specialty Drugs | $150 copayment |  |
+| Preferred Specialty | 20% up to $250 | Not covered |
+| Non-Preferred Specialty | 40% up to $500 | Not covered |
+| Pharmacy Day Supply and Requirements | 40% up to $500 |  |
+| Retail
+Up to 30 day supply from the Aetna National Pharmacy Network |  |  |
+| Mail Order
+31-90 day supply from a participating mail service pharmacy or at selected participating retail providers |  |  |
+| Maintenance Choice® with Opt Out - After two retail fills, members must choose to fill a 90-day supply of their maintenance
+drugs at a participating mail service pharmacy or at selected participating retail providers. If the member wants to continue to fill
+their 30-day supply at any other network pharmacy, they simply need to call us at the number on their member ID card. If they do
+not notify us that they want to opt out of the 90-day supply at a participating mail service pharmacy or at selected participating
+retail providers, they’ll be responsible for 100 percent of their medication cost. The member may call us any time, even from the
+pharmacy, to let us know that they intend to opt out of the benefit. |  |  |
+| Specialty- Up to a 30 day supply. All prescription fills must be through our preferred specialty pharmacy network, Aetna Specialty
+Network. |  |  |
+| True Accumulation - Some specialty prescription drugs may qualify for third-party copay assistance programs, like a
+manufacturer coupon or a rebate. These could lower out-of-pocket costs. Any amount received through one of these programs will
+not apply towards the Deductible or Out-of-Pocket Maximum. |  |  |
 
-Predetermination of Benefits: Before treatment begins for inlays, onlays, single crowns, prosthetics,
-periodontics and oral surgery, you may file a dental treatment plan with Principal Life Insurance Company.
-Principal Life will provide a written response indicating benefits that may be payable for the proposed treatment.
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-This chart provides you a brief summary of the key benefits of the dental coverage available from Principal Life
-Insurance Company. Following the chart, you will find additional information to answer questions you may have.
-For a complete list of all your dental coverage benefits and restrictions, please refer to your booklet or contact your
-employer.
+### PLAN DESIGN & BENEFITS
 
-Eligibility
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-Job Class
-Active Members
+Basic Infertility
+Coverage is limited to the diagnosis and treatment of
+the underlying medical condition, including artificial
+insemination.
 
-Benefits Payable
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
 
-Network
-Dental Preferred Provider Organization (PPO)
+Advanced Reproductive Technology (ART)
+In-vitro fertilization (IVF), zygote intrafallopian transfer
+(ZIFT), gamete intrafallopian transfer (GIFT),
+cryopreserved embryo transfers, intracytoplasmic
+sperm injection (ICSI), or ovum microsurgery and
+ovulation induction
 
-Calendar Year Deductible
-Coinsurance (Policy Pays)
-In-Network
-Non-Network
-In-Network
-Non-Network
-Unit 1 – Preventive
-$0
-$0
-100%
-100%
+Not Covered
+Not Covered
 
-Unit 2 – Basic
-$50
-$50
-90%
-80%
+Fertility preservation
+Not Covered
+Not Covered
 
-Unit 3 – Major
-$50
-$50
-60%
+Vasectomy
+Cost-sharing is based on type of
+service and where it is received.
+50% after deductible
+
+Tubal Ligation
+Covered in full
+50% after deductible
+
+### PHARMACY DEDUCTIBLE
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Prescription drug calendar year deductible
+Not Applicable under both the
+network care and out-of-network
+columns.
+
+Not Applicable under both the
+network care and out-of-network
+columns.
+
+### PHARMACY - PRESCRIPTION
+
+### DRUG BENEFITS
+NETWORK CARE
+OUT-OF-NETWORK CARE
+
+Generic Drugs
+
+Retail Generic - T1A: $3 copayment
+Generic - T1: $10 copayment
 50%
 
-Family Deductible Maximum
-3 times the per person deductible amount
-
-Combined Deductible
-In-network deductibles for basic and major procedures are combined. Non-network deductibles
-for basic and major procedures are combined.
-
-Combined Maximums
-Maximums for preventive, basic, and major procedures are combined. In-network Calendar year
-maximums are $2,500 per person. Non-network Calendar year maximums are $2,500 per
-person.
-
-Prevailing Charge
-When using non-network providers, you pay any amount over the allowable charge.
-
-Maximum Accumulation
-This allows for a portion of unused maximum benefit to carry over to next year's maximum
-benefit amount. To qualify, you must have had a dental service performed within the Calendar
-year and used less than the maximum threshold. The threshold is equal to the lesser of 50% of
-the maximum benefit or $1000. If qualification is met, 50% of the threshold is carried over to
-next year's maximum benefit. Individuals with fourth quarter effectives will start qualifying for
-rollover at the beginning of the next calendar year. You can accumulate no more than four
-times the carry over amount. The entire accumulation amount will be forfeited if no dental
-service is submitted within a calendar year.
-
-
-
-## Page 2
-
-
-
-### Table (Page 2)
-
-| Unit1–
-Preventive
-Procedures | •
-Routine exams - two per calendar year
-•
-Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-•
-Second Opinion Consultation
-•
-Fluoride –one treatment each calendar year (covered only for dependent children under
-age 14)
-•
-Space maintainers - covered only for dependent children under age 14; repairs not
-covered
-•
-Sealants – on first and second permanent molars for dependent children under age 14;
-one each tooth each36months
-•
-Harmful Habit Appliance - covered only for dependent children under age 14
-•
-X-rays - Bitewing (one set every calendar year), occlusal, periapical
-•
-X-rays – Full mouth survey (one every 60months), extraoral |
-| --- | --- |
-| Unit2–
-Basic
-Procedures | • Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
-treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-• Emergency exams – subject to Routine exam frequency limit
-• Fillings and stainless steel crowns
-• Simple Oral Surgery
-• Complex Oral Surgical Procedures
-• Non-surgical Periodontics, including scaling and root planing - once each quadrant each
-24 months (For expectant mothers, diabetics and those with heart disease, this procedure
-is provided with no deductible and 100% coinsurance.)
-• Periodontal Surgical Procedures – one each quadrant each 36 months
-• Simple Endodontics (root canal therapy for anterior teeth)
-• Complex Endodontics (root canal therapy for molar teeth) |
-| Unit3–
-Major
-Procedures | • General Anesthesia (covered only for specific procedures)/IV Sedation
-• Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
-Adjustment to Bridge/Denture, within policy limitations
-• Crowns – each120months per tooth if tooth cannot be restored by a filling.
-• Inlays, Onlays, Cast Post and Core, Core Buildup - each 120months per tooth
-• Bridges - Initial placement / Replacement of bridges 120months old.
-• Dentures - Initial placement of complete or partial dentures / Replacement of complete or
-partial dentures over 60 months old |
-
-### DENTAL
-
-2 of 4
-
-How Are Dental Procedures Covered?
-
-The list of common procedures shows what unit the procedure is included in and how often they are covered.
-
-Unit 1 –
-Preventive
-Procedures
-
-•
-Routine exams - two per calendar year
-•
-Routine cleaning (prophylaxis) - two per calendar year (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-•
-Second Opinion Consultation
-•
-Fluoride – one treatment each calendar year (covered only for dependent children under
-age 14)
-•
-Space maintainers - covered only for dependent children under age 14; repairs not
-covered
-•
-Sealants – on first and second permanent molars for  dependent children under age 14;
-one each tooth each 36 months
-•
-Harmful Habit Appliance - covered only for dependent children under age  14
-•
-X-rays - Bitewing (one set every calendar year), occlusal, periapical
-•
-X-rays – Full mouth survey (one every 60 months), extraoral
-
-•
-Periodontal prophylaxis - if three months have elapsed after active surgical periodontal
-treatment; subject to Routine cleaning frequency limit (Expectant mothers, diabetics and
-those with heart disease receive one additional routine or periodontal cleaning.)
-•
-Emergency exams – subject to Routine exam frequency limit
-•
-Fillings and stainless steel crowns
-•
-Simple Oral Surgery
-•
-Complex Oral Surgical Procedures
-•
-Non-surgical Periodontics, including scaling and root planing - once each quadrant each
-24 months (For expectant mothers, diabetics and those with heart disease, this procedure
-is provided with no deductible and 100% coinsurance.)
-•
-Periodontal Surgical Procedures – one each quadrant each 36 months
-•
-Simple Endodontics (root canal therapy for anterior teeth)
-•
-Complex Endodontics (root canal therapy for molar teeth)
+Mail Order Generic - T1A: $6 copayment
+Generic - T1: $20 copayment
+Not covered
 
-Unit 2 –
-Basic
-Procedures
+Preferred Brand Drugs
 
-•
-General Anesthesia (covered only for specific procedures)/IV Sedation
-•
-Repairs to Partial Denture, Bridge, Crown, Relines, Rebasing, Tissue Conditioning and
-Adjustment to Bridge/Denture, within policy limitations
-•
-Crowns – each 120 months per tooth if tooth cannot be restored by a filling.
-•
-Inlays, Onlays, Cast Post and Core, Core Buildup - each 120 months per tooth
-•
-Bridges - Initial placement / Replacement of bridges 120 months old.
-•
-Dentures - Initial placement of complete or partial dentures / Replacement of complete or
-partial dentures over 60 months old
+Retail $45 copayment
+50%
 
-Unit 3 –
-Major
-Procedures
+Mail Order $90 copayment
+Not covered
 
-There is Coordination of Benefits, which is a procedure for limiting benefits from two or more carriers to 100% of
+Non-Preferred Generic and Brand Drugs
 
-the claimant's covered expenses.
+Retail
+$75 copayment
+50%
 
+Mail Order
+$150 copayment
+Not covered
 
+Specialty Drugs
 
-## Page 3
+Preferred Specialty 20% up to $250
+Not covered
 
+Non-Preferred Specialty 40% up to $500
+Not covered
 
+Pharmacy Day Supply and Requirements
 
-### Table (Page 3)
+Retail
+Up to 30 day supply from the Aetna National Pharmacy Network
 
-| 1 | Visitwww.principal.com/dentist. |
-| --- | --- |
-| 2 | Beginyoursearchbypickingthestatewhereyouwouldliketofindaprovider. Next,specifyanetwork. Depending
-onthenetworkchosen,youmaybetransferredtoapartnersite. |
-| 3 | Enterthenameoftheprovideryouarelookingfor(ifknown). Ifyouarelookingforanearbydentist,enterthecity
-andstateand/orZIPcode. Besuretoindicatehowfaryouarewillingtotravel. |
-| 4 | SelectthedesiredspecialtyorusetheNoSpecialtyPreferencedefault. ClickContinue. |
-| 5 | SelectalanguageifyourpreferenceisotherthanEnglish. ClickContinue. |
+Mail Order
+31-90 day supply from a participating mail service pharmacy or at selected participating retail providers
 
+Maintenance Choice® with Opt Out -  After two retail fills, members must choose to fill a 90-day supply of their maintenance
+drugs at a participating mail service pharmacy or at selected participating retail providers. If the member wants to continue to fill
+their 30-day supply at any other network pharmacy, they simply need to call us at the number on their member ID card. If they do
+not notify us that they want to opt out of the 90-day supply at a participating mail service pharmacy or at selected participating
+retail providers, they’ll be responsible for 100 percent of their medication cost. The member may call us any time, even from the
+pharmacy, to let us know that they intend to opt out of the benefit.
 
+Specialty- Up to a 30 day supply. All prescription fills must be through our preferred specialty pharmacy network,  Aetna Specialty
+Network.
 
-### Table (Page 3)
+True Accumulation - Some specialty prescription drugs may qualify for third-party copay assistance programs, like a
+manufacturer coupon or a rebate. These could lower out-of-pocket costs. Any amount received through one of these programs will
+not apply towards the Deductible or Out-of-Pocket Maximum.
 
-| Limitations&Exclusions |  |
-| --- | --- |
-| MissingTooth | Benefitsfortheinitialplacementofbridges,partialsanddenturesarenotcoveredifthoseteeth
-weremissingpriortobecominginsuredunderthePrincipalLifepolicy.Whenthepolicy
-replacescoverageunderapriorplan,continuouscoverageunderthepriorplanmaybe
-appliedtothemissingtoothprovisionrequirement. |
-| OtherLimitations | Thereareadditionallimitationstoyourcoverage. Acompletelistisincludedinyourbooklet. |
+Choose Generics with Dispense as Written (DAW) override - The member pays the applicable cost-sharing only if the
+physician requires brand. If the member requests brand when a generic is available, the member pays the applicable cost-sharing
+plus the cost difference between the generic and brand. The cost difference between the generic and brand does not count toward
+the Deductible or Out-of-Pocket Maximum.
 
-### DENTAL
+Precertification -  Included. See formulary for details.
 
-3 of 4
+Step Therapy -    Included. See formulary for details.
 
-Understanding Your Dental Benefits
+Print Date: 06/19/2024
+TPID: 30018710
+Page 5
 
-Am I Eligible For Coverage?
 
-To be eligible for coverage, you must qualify as an eligible member and be considered actively at work.
 
-You must be enrolled for dental coverage before it can be offered to your dependents.  Eligible dependents
+## Page 6
 
-include your spouse , state registered domestic partner, and children, including those of your state registered
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-domestic partner. Additional eligibility requirements may apply.
+### PLAN DESIGN & BENEFITS
 
-Open enrollment applies. Any employee or dependent that didn't enroll within 31 days of being eligible can only
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-enroll during the open enrollment period.
+Pharmacy Plan includes:
 
-How Do I Find A Participating Provider?
+Contraceptive drugs and devices obtainable from a pharmacy, Oral fertility drugs, Diabetic supplies.
 
-Use the Provider Directory on www.principal.com to locate nearby dentists or see if your dentist participates in
+Affordable Care Act mandated female contraceptives and preventive medications covered 100% in-network.
 
-your network.
+Contraceptives may be dispensed for up to a 12 month supply at one time.
 
-1
-Visit www.principal.com/dentist.
+Preventive and seasonal vaccinations covered 100% in-network.
 
-2
-Begin your search by picking the state where you would like to find a provider. Next, specify a network. Depending
-on the network chosen, you may be transferred to a partner site.
+Cost-share is $0 copay, deductible waived, for preferred generic and brand diabetic supplies and preferred generic and brand
+insulin.
 
-3
-Enter the name of the provider you are looking for (if known). If you are looking for a nearby dentist, enter the city
-and state and/or ZIP code. Be sure to indicate how far you are willing to travel.
+Performance Enhancing Drugs - Coverage is excluded for lifestyle/performance drugs.
 
-4
-Select the desired specialty or use the No Specialty Preference default. Click Continue.
+Not all drugs are covered. It is important to look at the Drug List (Advanced Control Plan - Aetna Formulary) to understand which
+drugs are covered.
 
-5
-Select a language if your preference is other than English. Click Continue.
+*How out-of-network care is reimbursed:
 
-You may nominate your dentist for inclusion in our network. Please submit the dentist's name, address, phone
-and specialty by calling 1-800-832-4450, or submit through www.principal.com/refer-dental-provider.
+We cover the cost of services based on whether doctors are “in network” or “out of network.” We want to help members
+understand how much Aetna pays for their out-of-network care. At the same time, we want to make it clear how much more
+members will need to pay for this "out-of-network" care.
 
-What Are The Restrictions Of My Coverage?
+Members may choose a provider (doctor or hospital) in our network. Members may choose to visit an out-of-network provider. If a
+member chooses a doctor who is out of network, their Aetna health plan may pay some of that doctor's bill. Most of the time,
+members will pay a lot more money out of their own pocket if they choose to use an out-of-network doctor or hospital.
 
-This Benefit Summary is a summary only. For a complete list of benefit restrictions, please refer to your booklet.
+When members choose out-of-network care, Aetna limits the amount it will pay. This limit is called the "recognized" or "allowed"
+amount.
 
-Limitations & Exclusions
+The members' doctor sets his or her own rate to charge members. These rates may be higher -- sometimes much higher -- than
+what the members' Aetna plan "recognizes." Members' doctors may bill them for the dollar amount that their plan doesn't
+"recognize." Members must also pay any copayments, coinsurance and deductibles under their plan. No dollar amount above the
+"recognized charge" counts toward their deductible or out-of-pocket maximums. To learn more about how we pay out-of-network
+benefits visit Aetna.com. Type "how Aetna pays" in the search box.
 
-Missing Tooth
-Benefits for the initial placement of bridges, partials and dentures are not covered if those teeth
-were missing prior to becoming insured under the Principal Life policy. When the policy
-replaces coverage under a prior plan, continuous coverage under the prior plan may be
-applied to the missing tooth provision requirement.
+Members can avoid these extra costs by getting their care from Aetna's network of health care providers. Go to www.aetna.com
+and click on "Find a Doctor" on the left side of the page. Members can sign on to the Aetna member site.
 
-Other Limitations
-There are additional limitations to your coverage. A complete list is included in your booklet.
+This applies when members choose to get care out of network. When members have no choice (for example: emergency room
+visit after a car accident, or for other emergency services), we will pay the bill as if the member got care in network. Members pay
+cost sharing and deductibles for their in-network level of benefits. Members should contact Aetna if their health care provider asks
+them to pay more. Members are not responsible for any outstanding balance billed by their providers for emergency services
+beyond their cost sharing and deductibles.
 
+What's Not Covered
 
+This plan does not cover all health care expenses and includes exclusions and limitations.  Members should refer to their plan
+documents to determine which health care services are covered and to what extent.  The following is a partial list of services and
+supplies that are generally not covered.  However, your plan documents may contain exceptions to this list based on state
+mandates or the plan design or rider(s) purchased by your employer.
 
-## Page 4
+All medical or hospital services not specifically covered in, or which are limited or excluded in the plan documents; Charges related
+to any eye surgery mainly to correct refractive errors;Cosmetic surgery; Custodial care; Dental services; Donor egg retrieval;
+Experimental and investigational procedures; Hearing aids; Immunizations for travel or work; Infertility services, including, but not
+limited to, advanced reproductive technologies such as IVF, ZIFT, GIFT, ICSI and other related services, unless specifically listed
+as covered in your plan documents;
+Nonmedically necessary services or supplies; Orthotics, except diabetic orthotics; Over-the-counter medications and supplies;
+Reversal of sterilization; Services for the treatment of sexual dysfunction or inadequacies, including therapy, supplies, or
+counseling; and special duty nursing. Weight control services including surgical procedures, medical treatments, weight
+control/loss programs, dietary regimens and supplements, appetite suppressants and other medications; food or food
+supplements, exercise programs, exercise or other equipment; and other services and supplies that are primarily intended to
+control weight or treat obesity, including Morbid Obesity, or for the purpose of weight reduction, regardless of the existence of
+comorbid conditions.
 
-### DENTAL
+Print Date: 06/19/2024
+TPID: 30018710
+Page 6
 
-4 of 4
 
-Principal Life Insurance Company, Des Moines, Iowa 50392-0002, www.principal.com
 
-This is a summary of dental coverage underwritten by or with administrative services provided by Principal Life Insurance Company.  This
+## Page 7
 
-benefit summary is for administrative purposes and is not a complete statement of benefits and restrictions. You’ll receive a benefit booklet
+AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
+Aetna Choice® POS II (Open Access)
 
-with details about your coverage. If there is a discrepancy between this summary and your benefit booklet, the benefit booklet prevails.
+### PLAN DESIGN & BENEFITS
 
-Principal, Principal and symbol design and Principal Financial Group are trademarks and service marks of Principal Financial Services, Inc., a
-member of the Principal Financial Group.
+### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
 
-GP55773-26  |  09/2019  |  © 2019  Principal Financial Services, Inc.
------
-Output the target's JSON only:
+This material is for informational purposes only and is neither an offer of coverage nor medical advice. It contains only a partial,
+general description of plan benefits or programs and does not constitute a contract.
+
+Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage.
+Plan features and availability may vary by location and are subject to change. Providers are independent contractors and are not
+our agents. Provider participation may change without notice. We do not provide care or guarantee access to health services.
+
+Medications on the Aetna Drug Guide, precertification, step-therapy and quantity limits lists are subject to change.
+
+Aetna, CVS Pharmacy® and MinuteClinic, LLC (which either operates or provides certain management support services to
+MinuteClinic-branded walk-in clinics) are part of the CVS Health® family of companies.CVS Caremark® Mail Service Pharmacy
+and Aetna are part of the CVS Health® family of companies.
+
+In case of emergency, call 911 or your local emergency hotline, or go directly to an emergency care facility.
+
+While this information is believed to be accurate as of the print date, it is subject to change. For more information about Aetna
+plans, refer to Aetna.com.
+
+Aetna Funding AdvantageSM plans are self-funded, meaning the benefits coverage is provided by the employer. Plans are
+administered by Aetna Life Insurance Company.
+
+Print Date: 06/19/2024
+TPID: 30018710
+Page 7
+---

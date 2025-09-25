@@ -1,1082 +1,332 @@
 ## Page 1
 
-This Benefit Summary is to highlight your Benefits. Don’t use this document to understand your exact coverage. If this Benefit Summary conflicts
-with the Certificate of Coverage (COC), Schedule of Benefits, Riders, and/or Amendments, those documents govern. Review your COC for an exact
-description of the services and supplies that are and are not covered, those which are excluded or limited, and other terms and conditions of
-coverage.
 
-UnitedHealthcare
-|
-Alabama
-|
-Choice Plus
-|
-DZF4
-|
-E83
 
-Choice Plus plan details, 
-all in one place.
+### Table (Page 1)
 
-Use this benefit summary to learn more about this plan’s benefits, ways 
-you can get help managing costs and how you may get more out of this 
-health plan.
+| (cid:219)·•„•(cid:190)•·•‹§ |  |  |
+| --- | --- | --- |
+| (cid:214)–(cid:190)(cid:221)·¿›› | (cid:223)‰‹•“» |  |
+|  |  |  |
+| ˙–«fi(cid:221)–“»fi¿„»'•‹‚¿˚˝——fi»”»fifi»…—fi–“•…»fi |  |  |
+| (cid:220)–‰‹–fi(cid:210)»‹'–fi(cid:181) | ˚˝—(cid:221)‚–•‰»(cid:210)»‹'–fi(cid:181) |  |
+| (cid:221)–“»fi»…(cid:221)‚¿fi„»› | (cid:222)»†»”•‹ | (cid:218)fi»fl«»†‰§ |
+| (cid:219)¤¿‡› | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§ | (cid:209)†» »¤¿‡ »“»fi§ (cid:239)(cid:238) ‡–†‹‚› |
+| —fi»›‰fi•(cid:176)‹•–†(cid:217)·¿››»› | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§
+˝•†„·»“•›•–†(cid:244)·•†»…(cid:190)•”–‰¿·(cid:244)·•†»…
+‹fi•”–‰¿·¿†…·»†‹•‰«·¿fi·»†›»›(cid:229)
+(cid:176)–·§‰¿fi(cid:190)–†¿‹»·»†›»›”–fi
+…»(cid:176)»†…»†‹‰‚•·…fi»†«†…»fi¿„»
+(cid:239)Ł
+(cid:252)(cid:239)º(cid:240) ¿··–'¿†‰» ”–fi ¿ '•…»
+›»·»‰‹•–† –” ”fi¿‡»›(cid:229) (cid:238)(cid:240)ß –””
+¿‡–«†‹ –“»fi ¿··–'¿†‰»(cid:246)(cid:246)(cid:246) | (cid:204)'– ·»†›»› ł–†» (cid:176)¿•fi(cid:247) »“»fi§ (cid:239)(cid:238) ‡–†‹‚›
+(cid:209)†» ›»‹ »“»fi§ (cid:238)(cid:236) ‡–†‹‚› |
+| (cid:212)»†›»› |  |  |
+| (cid:218)fi¿‡»› |  |  |
+| (cid:219)·»‰‹•“»(cid:221)–†‹¿‰‹› | ¸(cid:176)‹–(cid:252)Œ(cid:240)‰–(cid:176)¿§”–fi§–«fi»·»‰‹•“»
+‰–†‹¿‰‹·»†›»¤¿‡ł”•‹‹•†„¿†…
+»“¿·«¿‹•–†(cid:247)
+(cid:252)(cid:239)º(cid:240)¿··–'¿†‰»”–fi»·»‰‹•“»
+‰–†‹¿‰‹› | (cid:209)†‰»»“»fi§(cid:239)(cid:238)‡–†‹‚›
+(cid:221)–†‹¿‰‹›¿fi»•†›‹»¿…–””fi¿‡»›¿†…·»†›»› |
+| (cid:210)»‰»››¿fi§(cid:221)–†‹¿‰‹›(cid:246)(cid:246) | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§
+(cid:221)–“»fi»… •† ”«·· ”–fi ‡»‡(cid:190)»fi› '‚–
+‚¿“» ›(cid:176)»‰•”•‰ ‰–†…•‹•–†› | (cid:209)†‰» »“»fi§ (cid:239)(cid:238) ‡–†‹‚›
+(cid:221)–†‹¿‰‹› ¿fi» •†›‹»¿… –” ”fi¿‡»› ¿†… ·»†›»› |
 
-Check out what’s included in the plan
-Choice Plus
 
-Network coverage only
-You can usually save money when you receive care for covered health care services from
-network providers.
 
-Network and out-of-network benefits
-You may receive care and services from network and out-of-network providers and
-facilities — but staying in the network can help lower your costs.
+### Table (Page 1)
 
-Primary care physician (PCP) required
-With this plan, you need to select a PCP — the doctor who plays a key role in helping
-manage your care. Each enrolled person on your plan will need to choose a PCP.
+| (cid:223)……•‹•–†¿·˝¿“•†„›(cid:246)(cid:246)(cid:246) |  |
+| --- | --- |
+| (cid:217)·¿››»›¿†…˝«†„·¿››»› | (cid:212)»†›»†‚¿†‰»‡»†‹›¿fi»‰–“»fi»…¿”‹»fi¿‰–(cid:176)¿§(cid:244)›¿“•†„‡»‡(cid:190)»fi›¿†¿“»fi¿„»–”(cid:238)(cid:240)(cid:243)(cid:238)ºß–””
+¿……•‹•–†¿·„·¿››»›¿†…›«†„·¿››»›(cid:244)•†‰·«…•†„·»†›–(cid:176)‹•–†›”fi–‡¿†§˚˝—…–‰‹–fi'•‹‚•†(cid:239)(cid:238)
+‡–†‹‚›–”§–«fi·¿›‹‰–“»fi»…“•›•–†»¤¿‡ |
+| (cid:221)–†‹¿‰‹› | (cid:239)ºß–””‰–›‹–”‰–†‹¿‰‹·»†›»¤¿‡ł”•‹‹•†„¿†…»“¿·«¿‹•–†(cid:247) |
+| (cid:212)¿›»fi˚•›•–†(cid:221)–fifi»‰‹•–† | (cid:223)“»fi¿„»(cid:239)ºß–””‹‚»fi»„«·¿fi(cid:176)fi•‰»–fiºß–””‹‚»(cid:176)fi–‡–‹•–†¿·(cid:176)fi•‰»(cid:229)…•›‰–«†‹›–†·§¿“¿•·¿(cid:190)·»
+”fi–‡‰–†‹fi¿‰‹»…”¿‰•·•‹•»› |
 
-Referrals required
-You’ll need referrals from your PCP before seeing a specialist or getting certain health
-care services.
+ï ±º ì
 
-Preventive care covered at 100%
-There is no additional cost to you for seeing a network provider for preventive care.
+Ê·-·±² Þ»²»º·¬ Í«³³¿®§
 
-Pharmacy benefits
-With this plan, you have coverage that helps pay for prescription drugs and medications.
+MCV Plan 1
 
-Tier 1 providers
-Using Tier 1 providers may bring you the greatest value from your health care benefits.
-These PCPs and medical specialists meet national standard benchmarks for quality care
-and cost savings.
+Ì¸·- ½¸¿®¬ °®±ª·¼»- §±« ¿ ¾®·»º -«³³¿®§ ±º ¬¸» µ»§ ¾»²»º·¬- ±º ¬¸» ª·-·±² ½±ª»®¿¹» ¿ª¿·´¿¾´» º®±³ Ð®·²½·°¿´
+Ô·º» ×²-«®¿²½» Ý±³°¿²§ò Ú±´´±©·²¹ ¬¸» ½¸¿®¬ô §±« ©·´´ º·²¼ ¿¼¼·¬·±²¿´ ·²º±®³¿¬·±² ¬± ¿²-©»® ¯«»-¬·±²-
+§±« ³¿§ ¸¿ª»ò Ú±® ¿ ½±³°´»¬» ´·-¬ ±º ¿´´ §±«® ª·-·±² ½±ª»®¿¹» ¾»²»º·¬- ¿²¼ ®»-¬®·½¬·±²-ô °´»¿-» ®»º»® ¬± §±«®
+¾±±µ´»¬ ±® ½±²¬¿½¬ §±«® »³°´±§»®ò
 
-Freestanding centers
-You may pay less when you use certain freestanding centers — health care facilities that
-do not bill for services as part of a hospital, such as MRI or surgery centers.
+### Û´·¹·¾·´·¬§
 
-Health savings account (HSA)
-With an HSA, you’ve got a personal bank account that lets you put money aside, tax-free.
-Use it to save and pay for qualified medical expenses.
+Ö±¾ Ý´¿--
+ß½¬·ª»
 
-1
+Ç±«® Ý±ª»®¿¹» ©·¬¸ ¿ ÊÍÐ Ð®»º»®®»¼ Ð®±ª·¼»®
+
+Ü±½¬±® Ò»¬©±®µ
+ÊÍÐ Ý¸±·½» Ò»¬©±®µ
+
+Ý±ª»®»¼ Ý¸¿®¹»-
+Þ»²»º·¬
+Ú®»¯«»²½§
+
+Û¨¿³-
+üïð ½±°¿§
+Ñ²» »¨¿³ »ª»®§ ïî ³±²¬¸-
+
+Ð®»-½®·°¬·±² Ù´¿--»-
+üïð ½±°¿§
+
+Ô»²-»-
+Í·²¹´» ª·-·±²ô ´·²»¼ ¾·º±½¿´ô ´·²»¼
+¬®·º±½¿´ ¿²¼ ´»²¬·½«´¿® ´»²-»-å
+°±´§½¿®¾±²¿¬» ´»²-»- º±®
+¼»°»²¼»²¬ ½¸·´¼®»² «²¼»® ¿¹»
+ïè
+
+Ì©± ´»²-»- ø±²» °¿·®÷ »ª»®§ ïî ³±²¬¸-
+
+Ú®¿³»-
+üïëð ¿´´±©¿²½» º±® ¿ ©·¼»
+-»´»½¬·±² ±º º®¿³»-å îðû ±ºº
+¿³±«²¬ ±ª»® ¿´´±©¿²½»ööö
+
+Ñ²» -»¬ »ª»®§ îì ³±²¬¸-
+
+Û´»½¬·ª» Ý±²¬¿½¬-
+Ë° ¬± üêð ½±°¿§ º±® §±«® »´»½¬·ª»
+½±²¬¿½¬ ´»²- »¨¿³ øº·¬¬·²¹ ¿²¼
+»ª¿´«¿¬·±²÷
+
+üïëð ¿´´±©¿²½» º±® »´»½¬·ª»
+½±²¬¿½¬-
+
+Ñ²½» »ª»®§ ïî ³±²¬¸-
+
+Ý±²¬¿½¬- ¿®» ·²-¬»¿¼ ±º º®¿³»- ¿²¼ ´»²-»-
+
+Ò»½»--¿®§ Ý±²¬¿½¬-öö
+üïð ½±°¿§
+
+Ý±ª»®»¼ ·² º«´´ º±® ³»³¾»®- ©¸±
+¸¿ª» -°»½·º·½ ½±²¼·¬·±²-
+
+Ñ²½» »ª»®§ ïî ³±²¬¸-
+
+Ý±²¬¿½¬- ¿®» ·²-¬»¿¼ ±º º®¿³»- ¿²¼ ´»²-»-
+
+ß¼¼·¬·±²¿´ Í¿ª·²¹- ööö
+
+Ù´¿--»- ¿²¼ Í«²¹´¿--»-
+Ô»²- »²¸¿²½»³»²¬- ¿®» ½±ª»®»¼ ¿º¬»® ¿ ½±°¿§ô -¿ª·²¹ ³»³¾»®- ¿² ¿ª»®¿¹» ±º îðóîëû ±ºº
+¿¼¼·¬·±²¿´ ¹´¿--»- ¿²¼ -«²¹´¿--»-ô ·²½´«¼·²¹ ´»²- ±°¬·±²- º®±³ ¿²§ ÊÍÐ ¼±½¬±® ©·¬¸·² ïî
+³±²¬¸- ±º §±«® ´¿-¬ ½±ª»®»¼ ª·-·±² »¨¿³
+
+Ý±²¬¿½¬-
+ïëû ±ºº ½±-¬ ±º ½±²¬¿½¬ ´»²- »¨¿³ øº·¬¬·²¹ ¿²¼ »ª¿´«¿¬·±²÷
+
+Ô¿-»® Ê·-·±² Ý±®®»½¬·±²
+ßª»®¿¹» ïëû ±ºº ¬¸» ®»¹«´¿® °®·½» ±® ëû ±ºº ¬¸» °®±³±¬·±²¿´ °®·½»å ¼·-½±«²¬- ±²´§ ¿ª¿·´¿¾´»
+º®±³ ½±²¬®¿½¬»¼ º¿½·´·¬·»-
 
 
 
 ## Page 2
 
-Here's a more in-depth look at how Choice Plus works.
 
-Medical Benefits
 
-In Network
-Out-of-Network
+### Table (Page 2)
 
-Annual Medical Deductible
+| ˙–«fi(cid:221)–“»fi¿„»'•‹‚(cid:209)‹‚»fi—fi–“•…»fi›ł(cid:210)–†(cid:243)(cid:210)»‹'–fi(cid:181)(cid:247) |  |  |
+| --- | --- | --- |
+| (cid:221)–“»fi»…(cid:221)‚¿fi„»› | ˝‰‚»…«·»…(cid:222)»†»”•‹(cid:223)‡–«†‹ | (cid:218)fi»fl«»†‰§ |
+| ˚•›•–†(cid:219)¤¿‡› | ¸(cid:176)‹–(cid:252)(cid:236)º | (cid:209)†»(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
+| ˝•†„·»˚•›•–†·»†›»› | ¸(cid:176)‹–(cid:252)(cid:237)(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
+| (cid:212)•†»…(cid:190)•”–‰¿··»†›»› | ¸(cid:176)‹–(cid:252)º(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
+| (cid:212)•†»…‹fi•”–‰¿··»†›»› | ¸(cid:176)‹–(cid:252)Œº | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
+| (cid:212)»†‹•‰«·¿fi·»†›»› | ¸(cid:176)‹–(cid:252)(cid:239)(cid:240)(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
+| (cid:218)fi¿‡»› | ¸(cid:176)‹–(cid:252)Ø(cid:240) | (cid:209)†» ›»‹ (cid:176)»fi (cid:238)(cid:236) ‡–†‹‚ (cid:176)»fi•–… |
+| (cid:219)·»‰‹•“»(cid:221)–†‹¿‰‹› | ¸(cid:176)‹–(cid:252)(cid:239)(cid:240)º | (cid:215)†·•»«–”·»†›»›¿†…”fi¿‡»(cid:190)»†»”•‹› |
+| (cid:210)»‰»››¿fi§(cid:221)–†‹¿‰‹›(cid:246)(cid:246) | ¸(cid:176)‹–(cid:252)(cid:238)(cid:239)(cid:240) | (cid:215)†·•»«–”·»†›»›¿†…”fi¿‡»(cid:190)»†»”•‹› |
 
-Individual
-$3,750
-$10,000
+### Ê×Í×ÑÒ
 
-Family
-$7,500
-$20,000
+î ±º ì
 
-Ped Dental Annual Deductible - Family
-Included in your medical deductible
-Included in your medical deductible
+Ç±«® Ý±ª»®¿¹» ©·¬¸ Ñ¬¸»® Ð®±ª·¼»®- øÒ±²óÒ»¬©±®µ÷
 
-Ped Dental Annual Deductible - Individual
-Included in your medical deductible
-Included in your medical deductible
+Ý±ª»®»¼ Ý¸¿®¹»-
+Í½¸»¼«´»¼ Þ»²»º·¬ ß³±«²¬
+Ú®»¯«»²½§
 
-All individual deductible amounts will count toward the family deductible, but an individual will not have to pay more than the individual deductible amount.
+Ê·-·±² Û¨¿³-
+Ë° ¬± üìë
+Ñ²» °»® ïî ³±²¬¸ °»®·±¼
 
-*After the Annual Medical Deductible has been met.
+Í·²¹´» Ê·-·±² ´»²-»-
+Ë° ¬± üíð
+Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
 
-You're responsible for paying 100% of your medical expenses until you reach your deductible. For certain covered services, you may be required to pay a fixed dollar 
-amount - your copay.
+Ô·²»¼ ¾·º±½¿´ ´»²-»-
+Ë° ¬± üëð
+Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
 
-Annual Out-of-Pocket Limit
+Ô·²»¼ ¬®·º±½¿´ ´»²-»-
+Ë° ¬± üêë
+Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
 
-Individual
-$3,750
-$15,000
+Ô»²¬·½«´¿® ´»²-»-
+Ë° ¬± üïðð
+Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
 
-Family
-$7,500
-$30,000
+Ú®¿³»-
+Ë° ¬± üéð
+Ñ²» -»¬ °»® îì ³±²¬¸ °»®·±¼
 
-All individual out-of-pocket maximum amounts will count toward the family out-of-pocket maximum, but an individual will not have to pay more than the individual 
-out-of-pocket maximum amount.
+Û´»½¬·ª» Ý±²¬¿½¬-
+Ë° ¬± üïðë
+×² ´·»« ±º ´»²-»- ¿²¼ º®¿³» ¾»²»º·¬-
 
-Once you’ve met your deductible, you start sharing costs with your plan - coinsurance. You continue paying a portion of the expense until you reach your out-of-
-pocket limit. From there, your plan pays 100% of allowed amounts for the rest of the plan year.
+Ò»½»--¿®§ Ý±²¬¿½¬-öö
+Ë° ¬± üîïð
+×² ´·»« ±º ´»²-»- ¿²¼ º®¿³» ¾»²»º·¬-
 
-What You Pay for Services
+öö Ò»½»--¿®§ ½±²¬¿½¬ ´»²-»- ¿®» °®»-½®·¾»¼ ¬± ½±®®»½¬ »¨¬®»³» ª·-«¿´ °®±¾´»³- ¬¸¿¬ ½¿²²±¬ ¾» ½±®®»½¬»¼
+©·¬¸ ®»¹«´¿® ´»²-»-ò
+ööö Þ¿-»¼ ±² ¿°°´·½¿¾´» ´¿©-å ¾»²»º·¬- ³¿§ ª¿®§ ¾§ ¼±½¬±® ´±½¿¬·±²ò
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Preventive Care Services
-
-Preventive Care Services
-No copay
-Not covered
-
-Certain preventive care services are provided as specified by 
-the Patient Protection and Affordable Care Act (ACA), with no 
-cost-sharing to you. These services are based on your age, 
-gender and other health factors. UnitedHealthcare also covers 
-other routine services that may require a copay, co-insurance 
-or deductible.
-
-Includes services such as Routine Wellness Checkups, 
-Immunizations, Breast Pumps, Mammography and Colorectal 
-Cancer Screenings.
-
-Office Services - Sickness & Injury
-
-Primary Care Physician
-No copay*
-40%*
-
-Additional copays, deductible, or co-insurance may apply 
-when you receive other services at your physician’s office. For 
-example, surgery and lab work.
-
-Telehealth is covered at the same cost share as in the office.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-2
+Ì¸»®» ·- Ý±±®¼·²¿¬·±² ±º Þ»²»º·¬-ô ©¸·½¸ ·- ¿ °®±½»¼«®» º±® ´·³·¬·²¹ ¾»²»º·¬- º®±³ ¬©± ±® ³±®» ½¿®®·»®- ¬±
+ïððû ±º ¬¸» ½´¿·³¿²¬ù- ½±ª»®»¼ »¨°»²-»-ò
 
 
 
 ## Page 3
 
-What You Pay for Services
+### Ê×Í×ÑÒ
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
+í ±º ì
 
-Designated Network
-Network
-Out-of-Network
+Ë²¼»®-¬¿²¼·²¹ Ç±«® Ê·-·±² Þ»²»º·¬-
 
-Specialist
-No copay*
-40%*
+ß³ × Û´·¹·¾´» Ú±® Ý±ª»®¿¹»á
 
-Additional copays, deductible, or co-insurance may apply 
-when you receive other services at your physician’s office. For 
-example, surgery and lab work.
+Ì± ¾» »´·¹·¾´» º±® ½±ª»®¿¹»ô §±« ³«-¬ ¯«¿´·º§ ¿- ¿² »´·¹·¾´» ³»³¾»® ¿²¼ ¾» ½±²-·¼»®»¼ ¿½¬·ª»´§ ¿¬ ©±®µò
 
-Telehealth is covered at the same cost share as in the office.
+Ç±« ³«-¬ ¾» »²®±´´»¼ º±® ª·-·±² ½±ª»®¿¹» ¾»º±®» ·¬ ½¿² ¾» ±ºº»®»¼ ¬± §±«® ¼»°»²¼»²¬-ò  Û´·¹·¾´» ¼»°»²¼»²¬-
 
-Urgent Care Center Services
-No copay*
-40%*
+·²½´«¼» §±«® -°±«-» ¿²¼ ½¸·´¼®»²ò  ß¼¼·¬·±²¿´ »´·¹·¾·´·¬§ ®»¯«·®»³»²¬- ³¿§ ¿°°´§ò
 
-Virtual Care Services
-No copay*
-Not covered
+Ø±© Ü± × Ú·²¼ ¿ ÊÍÐ Ð®±ª·¼»®á
 
-Benefits are available only when services are delivered through 
-a Designated Virtual Network Provider for 24/7 Virtual Visit 
-services only. You can find a 24/7 Virtual Visit Provider by 
-contacting us at myuhc.com® or the telephone number on 
-your ID card. Access to 24/7 Virtual Visits and prescription 
-services may not be available in all states or for all groups.
+Ë-» ¬¸» Ð®±ª·¼»® Ü·®»½¬±®§ ±² ©©©òª-°ò½±³ ¬± ´±½¿¬» ²»¿®¾§ ÊÍÐ °®±ª·¼»®- ±® ¬± -»» ·º §±«® ½«®®»²¬ »§»
+½¿®» °®±º»--·±²¿´ °¿®¬·½·°¿¬»- ·² ¬¸» ÊÍÐ ²»¬©±®µò Ì± -°»¿µ ¬± ¿ ®»°®»-»²¬¿¬·ª» ¾§ °¸±²»ô °´»¿-» ½¿´´
+èððóèééóéïçëò
 
-Emergency Care
+Ø±© Ü± × Í«¾³·¬ ß Ý´¿·³á
 
-Ambulance Services - Emergency Ambulance
+É¸»² ª·-·¬·²¹ ¿ ÊÍÐ °®±ª·¼»® º±® -»®ª·½»-ô ¬¸» °®±ª·¼»® -«¾³·¬- ¬¸» ½´¿·³ º±® °¿§³»²¬ò ×º ª·-·¬·²¹ ¿
 
-Air Ambulance
-No copay*
-No copay*
+²±²ó²»¬©±®µ °®±ª·¼»® º±® -»®ª·½»-ô §±« ¿®» ®»-°±²-·¾´» º±® -«¾³·¬¬·²¹ ¬¸» ½´¿·³ ¬± ÊÍÐò Ñ¾¬¿·² ¿ ½´¿·³
 
-Ground Ambulance
-No copay*
-No copay*
+º±®³ ¾§ ´±¹¹·²¹ ±² ¬± ª-°ò½±³ ±® ¾§ ½¿´´·²¹ èððóèééóéïçëò ×²½´«¼» ¿ ½±°§ ±º §±«® ·¬»³·¦»¼ ®»½»·°¬ ©·¬¸
 
-Ambulance Services - Non-Emergency Ambulance¹
+§±«® ½´¿·³ º±®³ ¿²¼ ³¿·´ ·¬ ¬± ¬¸» º±´´±©·²¹ ¿¼¼®»--ò
 
-Air Ambulance
-No copay*
-No copay*
+Ê·-·±² Í»®ª·½» Ð´¿²
 
-Ground Ambulance
-No copay*
-40%*
-
-Dental Services - Accident Only
-No copay*
-No copay*
-
-Emergency Health Care Services - Outpatient¹
-No copay*
-No copay*
-
-Notification is required if it results in confinement to an Out-of-
-Network Hospital.
-
-Inpatient Care
-
-Congenital Heart Disease (CHD) Surgeries¹
-No copay*
-40%*
-
-Habilitative Services - Inpatient¹
-The amount you pay is based on where the covered health care service is provided.
-
-Limited to 60 days per year.
-
-Hospital - Inpatient Stay¹
-No copay*
-40%*
-
-Skilled Nursing Facility/Inpatient Rehabilitation Facility 
-Services¹
-
-No copay*
-40%*
-
-Limited to 60 days per year.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-3
+ÐòÑò Þ±¨ ççéïðë
+Í¿½®¿³»²¬±ô Ýß çëèççóéïðë
 
 
 
 ## Page 4
 
-What You Pay for Services
 
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
 
-Designated Network
-Network
-Out-of-Network
+### Table (Page 4)
 
-Outpatient Care
-
-Habilitative Services - Outpatient
-No copay*
-40%*
-
-Limited to 20 visits of cognitive rehabilitation therapy per year.
-
-Limited to 20 visits of manipulative treatments per year.
-
-Limited to 30 visits of post-cochlear implant aural therapy per 
-year.
-
-Home Health Care¹
-No copay*
-40%*
-
-Lab, X-Ray and Diagnostic - Outpatient - Lab Testing
-No copay*
-No copay*
-Not covered
-
-For Designated Network Benefits, laboratory services must be 
-received from a Designated Diagnostic Provider. Network 
-Benefits include laboratory services received from a Network 
-provider that is not a Designated Diagnostic Provider.
-
-Lab, X-Ray and Diagnostic - Outpatient - X-Ray and other 
-Diagnostic Testing¹
-
-No copay*
-40%*
-
-Major Diagnostic and Imaging - Outpatient¹
-No copay*
-No copay*
-40%*
-
-For Designated Network Benefits, services must be received 
-from a Designated Diagnostic Provider. Network Benefits 
-include services received from a Network provider that is not a 
-Designated Diagnostic Provider.
-
-You may have to pay an extra copay, deductible or 
-coinsurance for physician fees or pharmaceutical products.
-
-Physician Fees for Surgical and Medical Services
-No copay*
-40%*
-
-Rehabilitation Services - Outpatient Therapy and Manipulative 
-Treatment
-
-No copay*
-40%*
-
-Limited to 20 visits of cognitive rehabilitation therapy per year.
-
-Limited to 20 visits of manipulative treatments per year.
-
-Limited to 20 visits of pulmonary rehabilitation therapy per 
-year.
-
-Limited to 30 visits of post-cochlear implant aural therapy per 
-year.
-
-Limited to 36 visits of cardiac rehabilitation therapy per year.
-
-Scopic Procedures - Outpatient Diagnostic and Therapeutic
-No copay*
-40%*
-
-Diagnostic/therapeutic scopic procedures include, but are not 
-limited to colonoscopy, sigmoidoscopy and endoscopy.
-
-Surgery - Outpatient¹
-No copay*
-40%*
-
-Therapeutic Treatments - Outpatient¹
-No copay*
-40%*
-
-For dialysis services, Out-of-Network Benefits are not available.
-
-Therapeutic treatments include, but are not limited to dialysis, 
-intravenous chemotherapy, intravenous infusion, medical 
-education services and radiation oncology.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-4
-
-
-
-## Page 5
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Supplies and Services
-
-Diabetes Self-Management Items¹
-The amount you pay is based on where the covered health care service is provided under 
-Durable Medical Equipment (DME), Orthotics and Supplies or in the Prescription Drug Benefits 
-Section.
-
-Diabetes Self-Management and Training/Diabetic Eye 
-Exams/Foot Care¹
-
-The amount you pay is based on where the covered health care service is provided.
-
-Durable Medical Equipment (DME), Orthotics and Supplies
-No copay*
-Not covered
-
-Enteral Nutrition
-No copay*
-40%*
-
-Hearing Aids
-No copay*
-40%*
-
-Limited to $2,500 per year.
-
-Limited to a single purchase per hearing impaired ear every 3 
-years.
-
-Repair and/or replacement of a hearing aid would apply to this 
-limit in the same manner as a purchase.
-
-Ostomy Supplies
-No copay*
-Not covered
-
-Pharmaceutical Products - Outpatient
-No copay*
-40%*
-
-This includes medications given at a doctor's office, or in a 
-covered person's home.
-
-Prosthetic Devices¹
-No copay*
-40%*
-
-Urinary Catheters
-No copay*
-Not covered
-
-Pregnancy
-
-Pregnancy - Maternity Services¹
-The amount you pay is based on where the covered health care service is provided except that 
-an Annual Deductible will not apply for a newborn child whose length of stay in the Hospital is 
-the same as the mother's length of stay.
-
-Mental Health Care & Substance Related and 
-Addictive Disorder Services
-
-Inpatient¹
-No copay*
-40%*
-
-Intensive Behavioral Therapy (e.g. ABA)¹
-No copay*
-40%*
-
-Other Outpatient Services such as Electro-Convulsive 
-Treatment, Psychological Testing, Transcranial Magnetic 
-Stimulation and Medication Assisted Treatment¹
-
-No copay*
-40%*
-
-Other Outpatient Services, including Partial 
-Hospitalization/Day Treatment/High Intensity 
-Outpatient/Intensive Outpatient Treatment¹
-
-No copay*
-40%*
-
-Outpatient Office Visits
-No copay*
-40%*
-
-Other Services
-
-Cellular and Gene Therapy
-The amount you pay is based on where the covered health 
-care service is provided.
-
-Not covered
-
-For Network Benefits, Cellular or Gene Therapy services must 
-be received from a Designated Provider.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-5
-
-
-
-## Page 6
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Clinical Trials¹
-The amount you pay is based on where the covered health care service is provided.
-
-Fertility Preservation for Iatrogenic Infertility¹
-No copay*
-40%*
-
-Limited to $20,000 per Covered Person per lifetime.
-
-Limited to $5,000 for Prescription Drug Products per Covered 
-Person.
-
-Limited to 1 cycle of fertility preservation for Iatrogenic Infertility 
-per lifetime.
-
-This Benefit limit will be the same as, and combined with, 
-those stated under Preimplantation Genetic Testing (PGT) and 
-Related Services.
-
-Gender Dysphoria¹
-The amount you pay is based on where the covered health care service is provided or in the 
-Prescription Drug Benefits Section.
-
-Limits for voice modification therapy and/or voice lessons will 
-be the same as, and combined with, outpatient speech 
-therapy limits as described under Habilitative Services and 
-Rehabilitation Services Outpatient Therapy and Manipulative 
-Treatment.
-
-Hospice Care¹
-No copay*
-40%*
-
-Preimplantation Genetic Testing (PGT) and Related Services¹
-No copay*
-40%*
-
-Benefit limits for related services will be the same as, and 
-combined with, those stated under Fertility Preservation for 
-Iatrogenic Infertility. This limit does not include Preimplantation 
-Genetic Testing (PGT) for the specific genetic disorder. This 
-limit includes Benefits for ovarian stimulation medications 
-provided under the Outpatient Prescription Drug Rider.
-
-Reconstructive Procedures¹
-The amount you pay is based on where the covered health care service is provided.
-
-Temporomandibular Joint (TMJ) Services¹
-The amount you pay is based on where the covered health care service is provided.
-
-Transplantation Services
-The amount you pay is based on where the covered health 
-care service is provided.
-
-Not covered
-
-For Network Benefits, transplantation services must be 
-received from a Designated Provider.
-
-Pediatric Services - Dental
-
-All Pediatric Dental - Benefits covered up to age 19
-
-Additional limits may apply. Refer to your plan documents for 
-more information.
-
-Basic Dental Services
-No copay*
-40%*
-
-Diagnostic Services
-No copay*
-20%*
-
-Limited to 1 time every 36 months for Panoramic x-rays.
-
-Limited to 2 evaluations (checkup exams) every 12 months.
-
-Limited to 2 series of films every 12 months of Bitewing x-rays.
-
-Major Restorative Services
-No copay*
-50%*
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-6
-
-
-
-## Page 7
-
-What You Pay for Services
-
-Copays ($) and Coinsurance (%) for 
-Covered Health Care Services
-
-Designated Network
-Network
-Out-of-Network
-
-Medically Necessary Orthodontics¹
-No copay*
-50%*
-
-All orthodontic treatment must be prior authorized.
-
-Preventive Services
-No copay*
-20%*
-
-Limited to 2 dental prophylaxis cleanings and fluoride 
-treatments every 12 months.
-
-Pediatric Services - Vision
-
-All Pediatric Vision - Benefits Covered up to age 19
-
-Contact Lenses/Necessary Contact Lenses
-No copay*
-40%*
-
-Limited to 1 fitting and evaluation every 12 months.
-
-Limited to a 12 month supply.
-
-We will pay benefits for only one vision care service. You may 
-choose either eyeglasses (eyeglass lenses and/or eyeglass 
-frames) or contact lenses.
-
-Eyeglass Frames
-
-Eyeglass frames with a retail cost below $130
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $130-$160
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $160-$200
-No copay*
-40%*
-
-Eyeglass frames with a retail cost between $200-$250
-No copay*
-40%*
-
-Eyeglass frames with a retail cost greater than $250
-No copay*
-40%*
-
-Limited to once every 12 months.
-
-Eyeglass Lenses
-No copay*
-40%*
-
-Limited to once every 12 months.
-
-Lens Extras
-No copay*
-No copay*
-
-Limited to once every 12 months.
-
-Coverage includes polycarbonate lenses and standard 
-scratch-resistant coating.
-
-Low Vision Testing
-No copay
-25%*
-
-Limited to once every 24 months.
-
-Low Vision Therapy
-25%
-25%*
-
-Limited to once every 24 months.
-
-Routine Vision Exam
-No copay
-40%*
-
-Limited to once every 12 months.
-
-*After the Annual Medical Deductible has been met.
-¹Prior Authorization Required. Refer to COC/SBN.
-
-7
-
-
-
-## Page 8
-
-Pharmacy Benefits
-
-** Only certain Prescription Drug Products are available through mail order; please visit myuhc.com® or call Customer Care at the telephone number on the back of your ID card for more information. You will be charged a
-retail Copayment and/or Coinsurance for 31 days or 2 times for 60 days based on the number of days supply dispensed for any Prescription Order or Refills sent to the mail order pharmacy. To maximize your Benefit, ask
-your Physician to write your Prescription Order or Refill for a 90-day supply, with refills when appropriate, rather than a 30-day supply with three refills.
-For Specialty Drugs from a Non-Preferred Pharmacy, you will be required to pay the same Co-payment/Co-insurance as the Preferred Specialty Network Pharmacy based on the applicable Tier.
-Your Copayment and/or Coinsurance is determined by the tier to which the Prescription Drug List (PDL) Management Committee has assigned the Prescription Drug Product. All Prescription Drug Products on the
-Prescription Drug List are assigned to Tier 1, Tier 2, Tier 3 or Tier 4.
-If you are a member, you can find individualized information on your benefit coverage, determine tier status, check the status of claims and search for network pharmacies by logging into your account on myuhc.com® or
-calling the Customer Care number on your ID card. If you are not a member, you can view prescription information at welcometouhc.com > Benefits > Pharmacy Benefits.
-
-Pharmacy Plan Details
-
-Pharmacy Network
-National
-
-Prescription Drug List
-Essential
-
-In Network
-
-Annual Pharmacy Deductible
-
-Individual
-See the Annual Medical Deductible section
-
-Family
-See the Annual Medical Deductible section
-
-Annual Deductible - Network and Out-of-Network
-
-The Pharmacy Deductible is the amount you pay for pharmacy 
-expenses per year before you begin to receive Pharmacy 
-Benefits.
-
-Up to a 31-day supply
-Up to a 90-day supply
-
-Prescription Drug Product Tier
-
-Level
-
-Retail and Specialty
-
-Pharmacy Network
-
-Retail 
-Non-preferred
-
-Specialty 
- Network Pharmacy
-
-Out-of-Network Retail
-
-Pharmacy
-
-In-Network Mail Order
-
-Pharmacy**
-
-Tier 1
-
-$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 2
-
-$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 3
-
-$$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-Tier 4
- $$$$
-No copay*
-No copay*
-No copay*
-No copay*
-
-8
-
-
-
-## Page 9
-
-Here’s an example of how the plan’s costs come into play.
-
-More ways to help manage your health plan and stay in the loop.
-
-Search the network to find doctors.
-You can go to providers in and out of our network — but when
-you stay in network, you’ll likely pay less for care. To get started:
-  . Go to welcometouhc.com > Benefits > Find a Doctor or Facility.
-  . Choose  Search for a health plan.
-  . Choose Choice Plus to view providers in the health plan’s network.
-
-Manage your meds.
-Look up your prescriptions using the Prescription Drug List (PDL).
-It places medications in tiers that represent what you’ll pay, which
-may make it easier for you and your doctor to find options to help
-you save money.
-  . Go to welcometouhc.com > Benefits > Pharmacy Benefits.
-  . Select Essential to view the medications that are
-
-covered under your plan.
-
-Access your plan online.
-With myuhc.com®, you’ve got a personalized health hub to help
-you find a doctor, manage your claims, estimate costs and more.
-
-Get on-the-go access.
-When you’re out and about, the UnitedHealthcare® app puts your
-health plan at your fingertips. Download to find nearby care, video
-chat with a doctor 24/7, access your health plan ID card and more.
-
-9
-
-
-
-## Page 10
-
-Other important information about your benefits.
-
-Medical Exclusions
-
-Services your plan generally does NOT cover. It is recommended that you review your COC, Amendments and Riders for an exact description  of
-the services and supplies that are covered, those which are excluded or limited, and other terms and conditions of coverage.
-• Acupuncture
-• Bariatric Surgery 
-• Cosmetic Surgery
-• Dental Care (Adult)
-• Infertility Treatment
-• Long-Term Care
-• Non-emergency care when traveling outside the U.S.
-• Private-Duty Nursing
-• Routine Eye Care (Adult)
-• Routine Foot Care
-• Weight Loss Programs
-
-Outpatient Prescription Drug Benefits
-
-For Prescription Drug Products dispensed at an In-Network Retail Pharmacy, you are responsible for paying the lowest of the following: 1) The
-applicable Copayment and/or Coinsurance; 2) The In- Network Retail Pharmacy Usual and Customary Charge for the Prescription Drug Product;
-and 3) The Prescription Drug Charge for that Prescription Drug Product. For Prescription Drug Products from an In-Network Mail Order Pharmacy,
-you are responsible for paying the lower of the following: 1) The applicable Copayment and/or Coinsurance; and 2) The Prescription Drug Charge
-for that Prescription Drug Product. For an out-of-Network Retail Pharmacy, your reimbursement is based on the Out-of-Network Reimbursement
-Rate, and you are responsible for the difference between the Out-of-Network Reimbursement Rate and the out-of-Network Pharmacy’s Usual and
-Customary Charge.
-
-See the Copayment and/or Coinsurance stated in the Benefit Information table for amounts. We will not reimburse you for any non-covered drug
-product.
-
-For a single Copayment and/or Coinsurance, you may receive a Prescription Drug Product up to the stated supply limit. Some products are subject
-to additional supply limits based on criteria that we have developed. Supply limits are subject, from time to time, to our review and change.
-
-Specialty Prescription Drug Products supply limits are as written by the provider, up to a consecutive 31-day supply of the Specialty Prescription
-Drug Product, unless adjusted based on the drug manufacturer’s packaging size, or based on supply limits, or as allowed under the Smart Fill
-Program. Supply limits apply to Specialty Prescription Drug Products obtained at a Preferred Specialty Network Pharmacy, a Non-Preferred
-Specialty Network Pharmacy, an out-of-Network Pharmacy, a mail order Network Pharmacy or a Designated Pharmacy.
-
-Certain Prescription Drug Products for which Benefits are described under the Prescription Drug Rider are subject to step therapy requirements. In
-order to receive Benefits for such Prescription Drug Products you must use a different Prescription Drug Product(s) or pharmaceutical product(s) for
-which Benefits are provided as described under the Certificate first. You may find out whether a Prescription Drug Product is subject to step therapy
-requirements by contacting us at myuhc.com or the telephone number on your ID card.
-
-Before certain Prescription Drug Products are dispensed to you, your Physician, your pharmacist or you are required to obtain prior authorization
-from us or our designee to determine whether the Prescription Drug Product is in accordance with our approved guidelines and it meets the
-definition of a Covered Health Care Service and is not an Experimental or Investigational or Unproven Service. We may also require you to obtain
-prior authorization from us or our designee so we can determine whether the Prescription Drug Product, in accordance with our approved
-guidelines, was prescribed by a Specialist.
-
-If you require certain Prescription Drug Products, we may direct you to a Designated Pharmacy with whom we have an arrangement to provide
-those Prescription Drug Products. If you are directed to a Designated Pharmacy and you choose not to obtain your Prescription Drug Product from
-the Designated Pharmacy, you will be subject to the Out-of-Network Benefit for that Prescription Drug Product.
-
-Certain Preventative Care Medications may be covered at zero costshare. You can get more information by contacting us at myuhc.com or the
-telephone number on your ID card.
-
-Benefits are provided for certain Prescription Drug Products dispensed by an In-Network Mail Order Pharmacy or Preferred 90 Day Retail Network
-Pharmacy. The Outpatient Prescription Drug Schedule of Benefits will tell you how In-Network Mail Order Pharmacy and Preferred 90 Day Retail
-Network Pharmacy supply limits apply. Please contact us at myuhc.com or the telephone number on your ID card to find out if Benefits are
-provided for your Prescription Drug Product and for information on how to obtain your Prescription Drug Product through an In-Network Mail Order
-Pharmacy or Preferred 90 Day Retail Network Pharmacy.
-
-10
-
-
-
-## Page 11
-
-Other important information about your benefits.
-
-Pharmacy Exclusions
-
-The following exclusions apply. In addition see your Pharmacy Rider and SBN for additional exclusions and limitations that may apply.
-
-• A Pharmaceutical Product for which Benefits are provided in your Certificate.
-• A Prescription Drug Product with either: an approved biosimilar, a biosimilar and Therapeutically Equivalent to another covered Prescription Drug
-Product or Pharmaceutical Product as described in your Certificate.
-• Any Prescription Drug Product to the extent payment or benefits are provided or available from the local, state or federal government (for
-example, Medicare).
-• Any product dispensed for the purpose of appetite suppression or weight loss.
-• Any product for which the primary use is a source of nutrition, nutritional supplements, or dietary management of disease, and prescription
-medical food products even when used for the treatment of Sickness or Injury, except as required by state mandate.
-• Certain New Prescription Drug Products and/or new dosage forms until the date they are reviewed and placed on a tier by our PDL Management
-Committee.
-• Certain Prescription Drug Products for tobacco cessation.
-• Certain Prescription Drug Products for which there are Therapeutically Equivalent alternatives to another Prescription Drug Product or
-Pharmaceutical Product as described in your Certificate available, unless otherwise required by law or approved by us. Such determinations may be
-made up to six times during a calendar year. We may decide at any time to reinstate Benefits for a Prescription Drug Product that was previously
-excluded under this provision.
-• Certain Prescription Drug Products that are FDA approved as a package with a device or application, including smart package sensors and/or
-embedded drug sensors.
-• Certain compounded drugs.
-• Diagnostic kits and products, including associated services.
-• Drugs available over-the-counter.
-• Drugs which are prescribed, dispensed or intended for use during an Inpatient Stay.
-• Durable Medical Equipment, including certain insulin pumps and related supplies for the management and treatment of diabetes, for which
-Benefits are provided in your Certificate. Prescribed and non-prescribed outpatient supplies. This does not apply to diabetic supplies and inhaler
-spacers specifically stated as covered.
-• Experimental or Investigational or Unproven Services and medications.
-• General vitamins, except Prenatal vitamins, vitamins with fluoride, and single entity vitamins when accompanied by a Prescription Order or Refill.
-• Growth hormone for children with familial short stature (short stature based upon heredity and not caused by a diagnosed medical condition).
-• Medications used for cosmetic or convenience purposes.
-• Prescription Drug Products dispensed outside the United States, except as required for Emergency treatment.
-• Prescription Drug Products when prescribed to treat infertility. This exclusion does not apply to Prescription Drug Products prescribed to treat
-Iatrogenic Infertility and Preimplantation Genetic Testing (PGT) as described in the Certificate.
-• Prescription Drug Products, including New Prescription Drug Products or new dosage forms, that we determine do not meet the definition of a
-Covered Health Care Service.
-• Publicly available software applications and/or monitors that may be available with or without a Prescription Order or Refill.
-
-11
-
-
-
-## Page 12
-
-
-
-### Table (Page 12)
-
-|  |  |
+| (cid:212)¿‹»(cid:219)†‹fi¿†‹(cid:201)¿•‹•†„—»fi•–… | (cid:204)‚–›»‡»‡(cid:190)»fi›»†fi–··•†„‡–fi»‹‚¿†(cid:237)(cid:239)…¿§›¿”‹»fi(cid:190)»‰–‡•†„»·•„•(cid:190)·»'•··(cid:190)»›«(cid:190)¶»‰‹
+‹–¿†•†…•“•…«¿·(cid:190)»†»”•‹'¿•‹•†„(cid:176)»fi•–…(cid:244)›«(cid:190)¶»‰‹‹–‰–“»fi¿„»„«•…»·•†»›(cid:242) |
 | --- | --- |
+| (cid:210)–†(cid:243)(cid:211)»…•‰¿··§(cid:210)»‰»››¿fi§
+˝»fi“•‰»› | (cid:204)‚»‰–“»fi¿„»…–»›†–‹(cid:176)¿§”–fi“•›«¿·¿†¿·§›•›–fi“•›•–†¿•…›‹‚¿‹¿fi»†–‹‡»…•‰¿··§
+†»‰»››¿fi§(cid:242) |
+| (cid:222)»†»”•‹(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»”–··–'•†„•‹»‡›¿fi»»¤‰·«…»…«†…»fi‹‚•›‰–“»fi¿„»(cid:230)
+i (cid:204)'–(cid:176)¿•fi›–”„·¿››»›•†›‹»¿…–”(cid:190)•”–‰¿·›
+i ˛»(cid:176)·¿‰»‡»†‹–”·»†›»›(cid:244)”fi¿‡»›–fi‰–†‹¿‰‹›
+i (cid:211)»…•‰¿·–fi›«fi„•‰¿·‹fi»¿‹‡»†‹
+i (cid:209)fi‹‚–(cid:176)‹•‰›(cid:244)“•›•–†‹fi¿•†•†„–fi›«(cid:176)(cid:176)·»‡»†‹¿·‹»›‹•†„
+i —·¿†–·»†›»›ł·»†›»›'•‹‚fi»”fi¿‰‹•“»‰–fifi»‰‹•–†–”·»››‹‚¿†o(cid:242)º(cid:240)…•–(cid:176)‹»fi(cid:247) |
+| (cid:221)–†‹¿‰‹(cid:212)»†›(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»”–··–'•†„•‹»‡›¿fi»†–‹‰–“»fi»…«†…»fi‹‚»‰–†‹¿‰‹·»†›‰–“»fi¿„»(cid:230)
+i (cid:215)†›«fi¿†‰»(cid:176)–·•‰•»›–fi›»fi“•‰»¿„fi»»‡»†‹›
+i (cid:223)fi‹•›‹•‰¿··§(cid:176)¿•†‹»…–fi†–†(cid:243)(cid:176)fi»›‰fi•(cid:176)‹•–†·»†›»›
+i (cid:223)……•‹•–†¿·–””•‰»“•›•‹›”–fi‰–†‹¿‰‹·»†›(cid:176)¿‹‚–·–„§
+i (cid:221)–†‹¿‰‹·»†›‡–…•”•‰¿‹•–†(cid:244)(cid:176)–·•›‚•†„–fi‰·»¿†•†„
+i ˛»”•‹‹•†„–”‰–†‹¿‰‹·»†›»›¿”‹»fi‹‚»•†•‹•¿·ł(cid:231)(cid:240)…¿§(cid:247)”•‹‹•†„(cid:176)»fi•–… |
+| (cid:209)‹‚»fi(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»fi»¿fi»¿……•‹•–†¿··•‡•‹¿‹•–†›‹–§–«fi‰–“»fi¿„»(cid:242)(cid:223)‰–‡(cid:176)·»‹»·•›‹•›•†‰·«…»…•†§–«fi
+(cid:190)––(cid:181)·»‹(cid:242) |
 
-UnitedHealthcare does not treat members differently because  
-of sex, age, race, color, disability or national origin. 
-If you think you weren’t treated fairly because of your sex, age, race, 
-color, disability or national origin, you can send a complaint to the Civil 
-Rights Coordinator:
-Online: UHC_Civil_Rights@uhc.com
-Mail: Civil Rights Coordinator 
-UnitedHealthcare Civil Rights Grievance 
-P.O. Box 30608, Salt Lake City, UT 84130
-You must send the complaint within 60 days of when you found out 
-about it. A decision will be sent to you within 30 days. If you disagree 
-with the decision, you have 15 days to ask us to look at it again. 
-If you need help with your complaint, please call the toll-free phone 
-number listed on your ID card, TTY 711, Monday through Friday, 8 a.m. 
-to 8 p.m. You can also file a complaint with the U.S. Dept. of Health and 
-Human Services. 
-Online: https://ocrportal.hhs.gov/ocr/portal/lobby.jsf
-Complaint forms are available at:  
-http://www.hhs.gov/ocr/office/file/index.html.
-Phone: Toll-free 1-800-368-1019, 1-800-537-7697 (TDD)
-Mail: U.S. Dept. of Health and Human Services,  
-200 Independence Avenue, SW Room 509F, HHH Building 
-Washington, D.C. 20201 
-We provide free services to help you communicate with us such as 
-letters in others languages or large print. You can also ask for an 
-interpreter. To ask for help, please call the toll-free member phone 
-number listed on your health plan ID card.
+### Ê×Í×ÑÒ
 
-ATTENTION: If you speak English, language assistance services, free 
-of charge, are available to you. Please call the toll-free phone number 
-listed on your identification card.
+ì ±º ì
 
-ATENCIÓN: Si habla español (Spanish), hay servicios de asistencia 
-de idiomas, sin cargo, a su disposición. Llame al número de 
-teléfono gratuito que aparece en su tarjeta de identificación.
+É¸¿¬ ß®» Ì¸» Î»-¬®·½¬·±²- Ñº Ó§ Ý±ª»®¿¹»á
 
-請注意：如果您說中文 (Chinese)，我們免費為您提供語言協助
-服務。請撥打會員卡所列的免付費會員電話號碼。
+Ì¸·- Þ»²»º·¬ Í«³³¿®§ ·- ¿ -«³³¿®§ ±²´§ò Ú±® ¿ ½±³°´»¬» ´·-¬ ±º ¾»²»º·¬ ®»-¬®·½¬·±²-ô °´»¿-» ®»º»® ¬± §±«®
+¾±±µ´»¬ò
 
-XIN LƯU Ý: Nếu quý vị nói tiếng Việt (Vietnamese), quý vị sẽ được 
-cung cấp dịch vụ trợ giúp về ngôn ngữ miễn phí. Vui lòng gọi số điện 
-thoại miễn phí ở mặt sau thẻ hội viên của quý vị.
+Ô¿¬» Û²¬®¿²¬ É¿·¬·²¹ Ð»®·±¼
+Ì¸±-» ³»³¾»®- »²®±´´·²¹ ³±®» ¬¸¿² íï ¼¿§- ¿º¬»® ¾»½±³·²¹ »´·¹·¾´» ©·´´ ¾» -«¾¶»½¬
+¬± ¿² ·²¼·ª·¼«¿´ ¾»²»º·¬ ©¿·¬·²¹ °»®·±¼ô -«¾¶»½¬ ¬± ½±ª»®¿¹» ¹«·¼»´·²»-ò
 
-알림: 한국어(Korean)를 사용하시는 경우 언어 지원 서비스를
-무료로 이용하실 수 있습니다. 귀하의 신분증 카드에 기재된 
-무료 회원 전화번호로 문의하십시오.
+Ò±²óÓ»¼·½¿´´§ Ò»½»--¿®§
+Í»®ª·½»-
+Ì¸» ½±ª»®¿¹» ¼±»- ²±¬ °¿§ º±® ª·-«¿´ ¿²¿´§-·- ±® ª·-·±² ¿·¼- ¬¸¿¬ ¿®» ²±¬ ³»¼·½¿´´§
+²»½»--¿®§ò
 
-PAALALA: Kung nagsasalita ka ng Tagalog (Tagalog), may 
-makukuha kang mga libreng serbisyo ng tulong sa wika. 
-Pakitawagan ang toll-free na numero ng telepono na nasa iyong 
-identification card.
+Þ»²»º·¬ Ô·³·¬¿¬·±²-
+Ì¸» º±´´±©·²¹ ·¬»³- ¿®» »¨½´«¼»¼ «²¼»® ¬¸·- ½±ª»®¿¹»æ
+i
+Ì©± °¿·®- ±º ¹´¿--»- ·²-¬»¿¼ ±º ¾·º±½¿´-
+i
+Î»°´¿½»³»²¬ ±º ´»²-»-ô º®¿³»- ±® ½±²¬¿½¬-
+i
+Ó»¼·½¿´ ±® -«®¹·½¿´ ¬®»¿¬³»²¬
+i
+Ñ®¬¸±°¬·½-ô ª·-·±² ¬®¿·²·²¹ ±® -«°°´»³»²¬¿´ ¬»-¬·²¹
+i
+Ð´¿²± ´»²-»- ø´»²-»- ©·¬¸ ®»º®¿½¬·ª» ½±®®»½¬·±² ±º ´»-- ¬¸¿² o òëð ¼·±°¬»®÷
 
-ВНИМАНИЕ: бесплатные услуги перевода доступны для 
-людей, чей родной язык является русский (Russian). Позвоните 
-по бесплатному номеру телефона, указанному на вашей 
-идентификационной карте.
+Ý±²¬¿½¬ Ô»²- Ô·³·¬¿¬·±²-
+Ì¸» º±´´±©·²¹ ·¬»³- ¿®» ²±¬ ½±ª»®»¼ «²¼»® ¬¸» ½±²¬¿½¬ ´»²- ½±ª»®¿¹»æ
+i
+×²-«®¿²½» °±´·½·»- ±® -»®ª·½» ¿¹®»»³»²¬-
+i
+ß®¬·-¬·½¿´´§ °¿·²¬»¼ ±® ²±²ó°®»-½®·°¬·±² ´»²-»-
+i
+ß¼¼·¬·±²¿´ ±ºº·½» ª·-·¬- º±® ½±²¬¿½¬ ´»²- °¿¬¸±´±¹§
+i
+Ý±²¬¿½¬ ´»²- ³±¼·º·½¿¬·±²ô °±´·-¸·²¹ ±® ½´»¿²·²¹
+i
+Î»º·¬¬·²¹ ±º ½±²¬¿½¬ ´»²-»- ¿º¬»® ¬¸» ·²·¬·¿´ øçð ¼¿§÷ º·¬¬·²¹ °»®·±¼
 
-( ةيبرعلا ثدحتت تنك اذإ :هيبنتArabic)،  ةيوغللا ةدعاسملا تامدخ نإف
- ىلع جردملا يناجملا فتاهلا مقرب لاصتالا ىجرُي .كل ةحاتم ةيناجملا
-.كب ةصاخلا فيرعتلا ةقاطب
+Ñ¬¸»® Ô·³·¬¿¬·±²-
+Ì¸»®» ¿®» ¿¼¼·¬·±²¿´ ´·³·¬¿¬·±²- ¬± §±«® ½±ª»®¿¹»ò ß ½±³°´»¬» ´·-¬ ·- ·²½´«¼»¼ ·² §±«®
+¾±±µ´»¬ò
 
-ATANSYON: Si w pale Kreyòl ayisyen (Haitian Creole), ou kapab 
-benefisye sèvis ki gratis pou ede w nan lang pa w. Tanpri rele 
-nimewo gratis ki sou kat idantifikasyon w.
+ÉÛŽÔÔ Ù×ÊÛ ÇÑË ßÒ ÛÜÙÛ r
 
-ATTENTION : Si vous parlez français (French), des services d’aide 
-linguistique vous sont proposés gratuitement. Veuillez appeler le 
-numéro de téléphone gratuit figurant sur votre carte d’identification.
+Ð®·²½·°¿´ Ô·º» ×²-«®¿²½» Ý±³°¿²§ô Ü»- Ó±·²»-ô ×±©¿ ëðíçîóðððîô ©©©ò°®·²½·°¿´ò½±³
 
-UWAGA: Jeżeli mówisz po polsku (Polish), udostępniliśmy darmowe 
-usługi tłumacza. Prosimy zadzwonić pod bezpłatny numer telefonu 
-podany na karcie identyfikacyjnej.
+Ì¸·- ·- ¿ -«³³¿®§ ±º ª·-·±² ½±ª»®¿¹» «²¼»®©®·¬¬»² ¾§ ±® ©·¬¸ ¿¼³·²·-¬®¿¬·ª» -»®ª·½»- °®±ª·¼»¼ ¾§ Ð®·²½·°¿´ Ô·º» ×²-«®¿²½» Ý±³°¿²§ò  Ì¸·-
 
-ATENÇÃO: Se você fala português (Portuguese), contate o serviço 
-de assistência de idiomas gratuito. Ligue gratuitamente para o 
-número encontrado no seu cartão de identificação.
+¾»²»º·¬ -«³³¿®§ ·- º±® ¿¼³·²·-¬®¿¬·ª» °«®°±-»- ¿²¼ ·- ²±¬ ¿ ½±³°´»¬» -¬¿¬»³»²¬ ±º ¬¸» ®·¹¸¬-ô ¾»²»º·¬-ô ´·³·¬¿¬·±²- ±® »¨½´«-·±²- ±º ¬¸»
 
-ATTENZIONE: in caso la lingua parlata sia l’italiano (Italian), 
-sono disponibili servizi di assistenza linguistica gratuiti. Per favore 
-chiamate il numero di telefono verde indicato sulla vostra tessera 
-identificativa.
+½±ª»®¿¹»ò Ç±«Ž´´ ®»½»·ª» ¿ ¾»²»º·¬ ¾±±µ´»¬ ©·¬¸ ¼»¬¿·´- ¿¾±«¬ §±«® ½±ª»®¿¹»ò ×º ¬¸»®» ·- ¿ ¼·-½®»°¿²½§ ¾»¬©»»² ¬¸·- -«³³¿®§ ¿²¼ §±«®
 
-ACHTUNG: Falls Sie Deutsch (German) sprechen, stehen Ihnen 
-kostenlos sprachliche Hilfsdienstleistungen zur Verfügung. Bitte 
-rufen Sie die gebührenfreie Rufnummer auf der Rückseite Ihres 
-Mitgliedsausweises an.
+¾»²»º·¬ ¾±±µ´»¬ô ¬¸» ¾»²»º·¬ ¾±±µ´»¬ °®»ª¿·´-ò
 
-注意事項：日本語 (Japanese) を話される場合、無料の言語支援
-サービスをご利用いただけます。健康保険証に記載されている
-フリーダイヤルにお電話ください。
-
-است، خدمات امداد زبانی به طور رایگان در اختیار)Farsi( توجه: اگر زبان شما فارسی
-شما می باشد. لطفا با شماره تلفن رایگانی که روی کارت شناسايی شما قید شده تماس 
-بگيريد.
-
-ध्यान दें: यदि आप हिंदी (Hindi) बोलते है, आपको भाषा सहायता 
-सेबाएं, नि:शुल्क उपलब्ध हैं। कृपया अपने पहचान पत्र पर सूचीबद्ध 
-टोल-फ्री फोन नंबर पर कॉल करें।
-
-CEEB TOOM: Yog koj hais Lus Hmoob (Hmong), muaj kev pab 
-txhais lus pub dawb rau koj. Thov hu rau tus xov tooj hu deb dawb 
-uas teev muaj nyob rau ntawm koj daim yuaj cim qhia tus kheej.
-
-ΠΡΟΣΟΧΗ : Αν μιλάτε Ελληνικά (Greek), υπάρχει δωρεάν βοήθεια 
-στη γλώσσα σας. Παρακαλείστε να καλέσετε το δωρεάν αριθμό που 
-θα βρείτε στην κάρτα ταυτότητας μέλους.
-
-PAKDAAR: Nu saritaem ti Ilocano (Ilocano), ti serbisyo para ti 
-baddang ti lengguahe nga awanan bayadna, ket sidadaan para 
-kenyam. Maidawat nga awagan iti toll-free a numero ti telepono nga 
-nakalista ayan iti identification card mo.
-
-DÍÍ BAA’ÁKONÍNÍZIN: Diné (Navajo) bizaad bee yániłti’go, saad 
-bee áka’anída’awo’ígíí, t’áá jíík’eh, bee ná’ahóót’i’. T’áá shǫǫdí 
-ninaaltsoos nitł’izí bee nééhozinígíí bine’dę́ę́’ t’áá jíík’ehgo béésh bee 
-hane’í biká’ígíí bee hodíilnih.
-
-OGOW: Haddii aad ku hadasho Soomaali (Somali), adeegyada 
-taageerada luqadda, oo bilaash ah, ayaad heli kartaa. Fadlan 
-wac lambarka telefonka khadka bilaashka ee ku yaalla kaarkaaga 
-aqoonsiga.
-
-ગુજરાતી (Gujarati): ધ્યાન આપો: જો તમે ગુજરાતી બોલતા હો તો આપને 
-ભાષાકીય મદદરૂપ સેવા વવના મૂલ્યે પ્રાપ્ય છે. મહેરબાની કરી તમારા 
-આઈડી કાડડની સૂચિ પર આપેલા સભ્ય માટેના ટોલ-ફ્રી નંબર ઉપર કોલ 
-કરો.
-
-Instagram.com/UnitedHealthcare 
-  YouTube.com/UnitedHealthcare
-
-Administrative services provided by United HealthCare Services, Inc. and their affiliates.
-
-Twitter.com/UHC
-
-B2C   9183517.0   11/19   ©2020 United HealthCare Services, Inc. DBID :   19-12550
+ÙÐêïïðïóî   ¤ ðìñîðïë  ¤  w îðïë Ð®·²½·°¿´ Ú·²¿²½·¿´ Í»®ª·½»-ô ×²½ò
