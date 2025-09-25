@@ -76,7 +76,7 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:
         f.write(f"{sample_id}\n")
     return sample_id
 
-def search_similar_pdf(category: str, text: str, top_k=3):
+def search_similar_pdf(category: str, text: str, top_k=1):
     if not os.path.exists(VECTOR_DB_FILE):
         return []
     index = faiss.read_index(VECTOR_DB_FILE)

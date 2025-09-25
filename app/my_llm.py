@@ -11,10 +11,11 @@ class RemoteLLM:
     def set_category(self, category):
         if category == "health":
             self.endpoint = "http://143.110.210.212/chat_health"
+            self.endpoint = "http://143.110.210.212/chat"
         else:
             self.endpoint = "http://143.110.210.212/chat"
 
-    def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 800):
+    def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 1024):
         """
         Sends system and user prompts to the remote LLM server and returns its response.
         """
@@ -37,9 +38,6 @@ class RemoteLLM:
             print(text)
             print("-----text end-----")
 
-            # remove special tags like <|assistant|>, <|endoftext|>, or repeated <|
-            text = re.sub(r"<\|.*?\|>", "", text)  # remove tokens like <|assistant|>
-            text = text.replace("<|<|endoftext|>", "")  # extra safety
             return text.strip()
 
         except Exception as e:
