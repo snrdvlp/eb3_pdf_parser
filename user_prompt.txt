@@ -1,995 +1,713 @@
 SAMPLE PDF #1:
 ## Page 1
 
+VI-STAND Vision Benefit Summary
 
+200 Park Ave., New York, NY 10166 
+© 2024 MetLife Services and Solutions, LLC
 
-### Table (Page 1)
+L0423030985[exp0426][All States]
 
-|  | Financial Features |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Medical Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | $3,250 per person |  |  | $4,000 per person |  |
-|  | (DED is the amount the member is responsible for before FHCP pays) |  |  | $6,500 per family1 |  |  | $8,000 per family1 |  |
-|  | Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | Integrated with Medical |  |  | Not Covered |  |
-|  | (DED is the amount the member is responsible for before FHCP pays) |  |  |  |  |  |  |  |
-|  | Coinsurance (Coinsurance is the percentage the member pays for services) |  |  | 20% of Allowed Amount |  |  | 30% of Allowed Amount |  |
-|  | Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2) |  |  | $7,500 per person |  |  | $10,000 per person |  |
-|  | (OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
-|  | Office Services |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
-|  | Physician Office Services (per visit) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
-|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Maternity (Office Cost Share for initial visit only. Delivery charges are separate) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Allergy Injections (per visit) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Medical Pharmacy: Medications administered by a health care provider in an office or |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | other medications ordered and administered by a provider. Prior authorization is required. |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Preferred Medications |  |  | Deductible + 40% |  |  | Deductible + 30% |  |
-|  | Non-Preferred Medications |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Important: The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Share. Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program. Please refer to your Certificate o |  |  | Deductible + 50% |  |  | Deductible + 30% | f |
-|  | Coverage for a description of Medical Pharmacy. |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Preventive Care |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Routine Adult & Child Preventive Services, Wellness Services, Blood Work and |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  |  |  |  | $0 |  |  | Deductible + 30% |  |
-|  | Immunizations |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Mammogram Screening |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Bone Density / Osteoporosis Screening |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Colonoscopy (Routine for age 45+) |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Emergency Medical Care |  |  |  |  |  |  |  |
-|  | Urgent Care Centers (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Ambulance Services |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
-|  |  |  |  |  |  |  |  |  |
+Benefit Summaries Dental – VSP Choice Network Plan Summary
 
-Gym Access SMAG Silver POS HSA 2566 
-Health Benefit Plan P23
+Metropolitan Life Insurance Company
 
-P23 – 1/25                56503FL2130001-00 
-               Page 1 of 5 
-SMAGPOSSOB1.25
-
-Amount Member Pays 
-Schedule of Benefits for Covered Services 
-In-Network 
-Out-of-Network
-
-Financial Features
-
-Medical Essential Health Benefits Deductible (NEM DED1) (PBP2)  
-$3,250 per person 
-$4,000 per person 
-(DED is the amount the member is responsible for before FHCP pays) 
-$6,500 per family1 
-$8,000 per family1 
-Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) 
-Integrated with Medical 
-Not Covered 
-(DED is the amount the member is responsible for before FHCP pays)
-
-Coinsurance (Coinsurance is the percentage the member pays for services) 
-20% of Allowed Amount 
-30% of Allowed Amount
-
-Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2)  
-$7,500 per person 
-$10,000 per person 
-(OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) 
-$15,000 per family3 
-$20,000 per family3
-
-Office Services 
+With your Vision Preferred 
+Provider Organization Plan, 
+you can: 
  
+ Go to any licensed vision specialist
+
+and receive coverage. Just 
+remember your benefit dollars go 
+further when you stay in network. 
  
-Physician Office Services (per visit) 
+Choose from a large network of
+
+ophthalmologists, optometrists and 
+opticians, from private practices to 
+retailers like Costco® Optical, 
+Walmart, Sam’s Club and 
+Visionworks.  
  
+In-network  
+value added features:  
  
-Primary Care   
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30%
-
-Maternity (Office Cost Share for initial visit only. Delivery charges are separate) 
+Additional lens enhancements: In 
+addition to standard lens 
+enhancements, enjoy an average 
+20-25% savings on all other lens 
+enhancements.1 
  
+Savings on glasses and sunglasses: 
+Get up to 20% savings on additional 
+pairs of prescription glasses and 
+non-prescription sunglasses, 
+including lens enhancements. At 
+times, other promotional offers may 
+also be available.1 
  
-Primary Care  
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30% 
-Allergy Injections (per visit) 
+Laser vision correction: 2 
+Potential savings averaging 15% off 
+the regular price or 5% off a 
+promotional offer for laser surgery 
+including PRK, LASIK and Custom 
+LASIK. This offer is only available at 
+MetLife participating locations.
+
+In-network benefits 
+There are no claims for you to file when you go to a participating vision provider. 
+Simply pay your copay and, if applicable, any amount over your allowance at the time of 
+service.
+
+Frequency
+
+Eye exam
+
+Once every 12 months
+Eye health exam, dilation, prescription and refraction for glasses: At no additional cost after
+
+a $10 copay. 
+Retinal imaging: At no additional cost Up to a $39 copay on routine retinal screening when
+
+performed by a private practice provider.
+
+Frame
+
+Once every 24 months
+Allowance: $100 after $25 eyewear copay.
+Costco, Walmart and Sam’s Club: $55 allowance after $25 eyewear copay.
+
+You will receive an additional 20% savings on the amount that you pay over your allowance. 
+This offer is available from all participating locations except Costco, Walmart and Sam’s Club.
+
+Standard corrective lenses
+
+Once every 12 months
+
+Single vision, lined bifocal, lined trifocal, lenticular: At no additional cost after
+
+$25 eyewear copay.
+
+Standard lens enhancements1
+
+Once every 12 months 
+Polycarbonate (child up to age 18) and Ultraviolet (UV) coating: At no additional cost after
+
+$25   . eyewear copay. 
+Progressive Standard, Progressive Premium/Custom, Polycarbonate (adult), Photochromic,
+
+Anti-reflective, Scratch-resistant coatings and Tints: Your cost will be limited to a copay that 
+MetLife has negotiated for you. These copays can be viewed after enrollment at 
+www.metlife.com/mybenefits.
+
+Contact lenses instead of eye glasses
+
+Once every 12 months 
+Contact fitting and evaluation: At no additional cost with a maximum copay of $60. 
+Elective lenses: $100 allowance. 
+Necessary lenses: At no additional cost after eyewear copay.
+
+We’re here to help
+
+Find a Vision provider at 
+www.metlife.com/vision  
  
+Download a claim form at 
+www.metlife.com/mybenefits 
  
-Primary Care  
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30% 
-Medical Pharmacy: Medications administered by a health care provider in an office or 
-outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and 
-other medications ordered and administered by a provider. Prior authorization is required.
-
-Preferred Medications 
-Deductible + 40% 
-Deductible + 30% 
-      Non-Preferred Medications 
-Deductible + 50% 
-Deductible + 30% 
-Important:  The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost 
-Share.  Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program.  Please refer to your Certificate of 
-Coverage for a description of Medical Pharmacy. 
-Preventive Care 
- 
- 
-Routine Adult & Child Preventive Services, Wellness Services, Blood Work and 
-Immunizations 
-$0  
-Deductible + 30%
-
-Mammogram Screening
-
-$0  
-Deductible + 30%
-
-Bone Density / Osteoporosis Screening  
-$0 
-Deductible + 30%
-
-Colonoscopy (Routine for age 45+)
-
-$0  
-Deductible + 30%
-
-Emergency Medical Care
-
-Urgent Care Centers (per visit) 
-Deductible + 20% 
-In-Network Deductible + 20% 
- 
-Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) 
-Deductible + 20%
-
-In-Network Deductible + 20%
-
-Ambulance Services 
-Deductible + 20%
-
-In-Network Deductible + 20%
-
-1 NEM DED = Deductible is Non-Embedded: If you have other family members on the policy, the overall family deductible must be met before the plan begins to pay. 
-2 PBP = Per Benefit Period 
-3 EM OOPM = Out-of-Pocket Maximum is Embedded:  A covered family member’s out-of-pocket costs are capped at the individual out-of-pocket maximum amount on the 
-family plan. 
-Note: Out-of-Network services may be subject to balance billing. 
- 
-Florida Health Care Plans is an Independent Licensee of the Blue Cross and Blue Shield Association.
+For general questions go to 
+www.metlife.com/mybenefits  
+or call 1-855-MET-EYE1  
+(1-855-638-3931)
 
 
 
 ## Page 2
 
+VI-STAND Vision Benefit Summary
 
+200 Park Ave., New York, NY 10166 
+© 2024 MetLife Services and Solutions, LLC
 
-### Table (Page 2)
+L0423030985[exp0426][All States]
 
-|  | Outpatient Diagnostic and Therapeutic Services - services with an asterisk * require prior authorization. Charges are per visit/test. |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Independent Diagnostic Facility/Provider’s Office |  |  |  |  |  |  |  |  |  |
-|  | Allergy Testing |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  | Independent Clinical Lab (diagnostic testing of blood and specimens) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Lab Services |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  |  | Important: Diagnostic or therapeutic services rendered in physician offices, testing centers or other outpatient locations that are owned and operated by a hospital system are considered |  |  |  |  |  |  |  |  |
-|  |  | by the hospital system to be departments of the hospital. As a result, FHCP will be billed by the hospital for such services, and the member’s outpatient hospital benefit will be applied to |  |  |  |  |  |  |  |  |
-|  |  | these claims. Therapeutic services will incur separate charges for the facility service, physician fee and medical pharmacy. FHCP’s Provider Directories and online Provider Search |  |  |  |  |  |  |  |  |
-|  |  | application provides information regarding which provider offices are actually hospital outpatient departments. Members should contact FHCP’s cost estimation center to determine if having |  |  |  |  |  |  |  |  |
-|  |  | the diagnostic test or service performed in a hospital or hospital owned facility will result in higher cost sharing. |  |  |  |  |  |  |  |  |
-|  | Delivery / Hospital / Surgical - *all services require prior authorization |  |  |  |  |  |  |  |  |  |
-|  | *Ambulatory Surgical Center Facility (ASC) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Birthing Center |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Mental Health / Substance Dependency - services with an asterisk * require prior authorization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Outpatient Office Visit |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Primary Care |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Specialist |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Group Therapy |  |  |  | Deductible |  |  | Deductible + 30% |  |  |
-|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Partial Hospitalization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | 
-SAMPLE JSON #1:
-{"Carrier Name":"Florida Health Care Plans (FHCP)","Plan Name":"SG Silver POS HSA 2566 P23XH","In-Network Single Deductible":"3,250","In-Network Family Deductible":"6,500","Out-of-Network Single Deductible":"4,000","Out-of-Network Family Deductible":"8,000","In-Network Single OOP Max":"7,500","In-Network Family OOP Max":"15,000","Out-of-Network Single OOP Max":"10,000","Out-of-Network Family OOP Max":"20,000","In-Network Coinsurance":"20","Out-of-Network Coinsurance":"30","In-Network PCP Visit":"20% after deductible","Out-of-Network PCP Visit":"30% after deductible","In-Network Specialist Visit":"20% after deductible","Out-of-Network Specialist Visit":"30% after deductible","In-Network Urgent Care Visit":"20% after deductible","Out-of-Network Urgent Care Visit":"20% after deductible","In-Network ER Visit":"20% after deductible","Out-of-Network ER Visit":"20% after deductible","In-Network Preventive Visit":"No charge","Out-of-Network Preventive Visit":"30% after deductible","In-Network Outpatient Surgery":"20% after deductible","Out-of-Network Outpatient Surgery":"30% after deductible","In-Network Inpatient Surgery":"20% after deductible","Out-of-Network Inpatient Surgery":"30% after deductible","In-Network Newborn Delivery":"20% after deductible","Out-of-Network Newborn Delivery":"30% after deductible","In-Network Major Diagnostics":"20% after deductible","Out-of-Network Major Diagnostics":"30% after deductible","In-Network RX Deductible":"","Out-of-Network RX Deductible":"","In-Network Generic RX":"Preferred \u2013 $3 after deductible / Non-Preferred - $15 after deductible","Out-of-Network Generic RX":"Preferred \u2013 $3 after deductible / Non-Preferred - $15 after deductible","In-Network Brand RX":"Preferred \u2013 $30 after deductible / Non-Preferred - $40 after deductible","Out-of-Network Brand RX":"Preferred \u2013 $30 after deductible / Non-Preferred - $40 after deductible","In-Network Tier 3 RX":"Preferred \u2013 $55 after deductible / Non-Preferred - $65 after deductible","Out-of-Network Tier 3 RX":"Preferred \u2013 $55 after deductible / Non-Preferred - $65 after deductible","In-Network Tier 4 RX":"Preferred \u2013 40% after deductible / Non-Preferred \u2013 Not covered","Out-of-Network Tier 4 RX":"Preferred \u2013 40% after deductible / Non-Preferred \u2013 Not covered","In-Network Tier 5 RX":"Preferred \u2013 50% after deductible / Non-Preferred \u2013 Not covered","Out-of-Network Tier 5 RX":"Preferred \u2013 50% after deductible / Non-Preferred \u2013 Not covered","In-Network Mail Order RX":"$6 after deductible / $87 after deductible / $162 after deductible / Not covered / Not covered","Out-of-Network Mail Order RX":"Not covered","Plan Year":"2025","Deductible Period":"","Deductible Explanation":"Embedded","Network Type":"POS","Network Name":"","Member Website":"www.fhcp.com","Customer Service Phone Number":"1-855-462-3424"}
----
+Out-of-network reimbursement* 
+You pay for services and then submit a claim for reimbursement. The same benefit frequencies for In-network benefits apply.  
+Once you enroll, visit www.metlife.com/mybenefits for detailed out-of-network benefits information.
 
-TARGET PDF:
-## Page 1
+
+Eye exam: up to $45 
+
+Single vision lenses: up to $30 
+
+Progressive lenses: up to $50 
+
+Frames: up to $55 
+
+Lined bifocal lenses: up to $50
 
-
-
-### Table (Page 1)
-
-|  | Financial Features |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Medical Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | $3,250 per person |  |  | $4,000 per person |  |
-|  | (DED is the amount the member is responsible for before FHCP pays) |  |  | $6,500 per family1 |  |  | $8,000 per family1 |  |
-|  | Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | Integrated with Medical |  |  | Not Covered |  |
-|  | (DED is the amount the member is responsible for before FHCP pays) |  |  |  |  |  |  |  |
-|  | Coinsurance (Coinsurance is the percentage the member pays for services) |  |  | 20% of Allowed Amount |  |  | 30% of Allowed Amount |  |
-|  | Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2) |  |  | $7,500 per person |  |  | $10,000 per person |  |
-|  | (OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
-|  | Office Services |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
-|  | Physician Office Services (per visit) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
-|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Maternity (Office Cost Share for initial visit only. Delivery charges are separate) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Allergy Injections (per visit) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Medical Pharmacy: Medications administered by a health care provider in an office or |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | other medications ordered and administered by a provider. Prior authorization is required. |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
-|  | Preferred Medications |  |  | Deductible + 40% |  |  | Deductible + 30% |  |
-|  | Non-Preferred Medications |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Important: The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Share. Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program. Please refer to your Certificate o |  |  | Deductible + 50% |  |  | Deductible + 30% | f |
-|  | Coverage for a description of Medical Pharmacy. |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Preventive Care |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  | Routine Adult & Child Preventive Services, Wellness Services, Blood Work and |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
-|  |  |  |  | $0 |  |  | Deductible + 30% |  |
-|  | Immunizations |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Mammogram Screening |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Bone Density / Osteoporosis Screening |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Colonoscopy (Routine for age 45+) |  |  | $0 |  |  | Deductible + 30% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Emergency Medical Care |  |  |  |  |  |  |  |
-|  | Urgent Care Centers (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
-|  |  |  |  |  |  |  |  |  |
-|  | Ambulance Services |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
-|  |  |  |  |  |  |  |  |  |
-
-Gym Access SMAG Silver POS HSA 2566 
-Health Benefit Plan P23
-
-P23 – 1/25                56503FL2130001-00 
-               Page 1 of 5 
-SMAGPOSSOB1.25
-
-Amount Member Pays 
-Schedule of Benefits for Covered Services 
-In-Network 
-Out-of-Network
-
-Financial Features
-
-Medical Essential Health Benefits Deductible (NEM DED1) (PBP2)  
-$3,250 per person 
-$4,000 per person 
-(DED is the amount the member is responsible for before FHCP pays) 
-$6,500 per family1 
-$8,000 per family1 
-Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) 
-Integrated with Medical 
-Not Covered 
-(DED is the amount the member is responsible for before FHCP pays)
-
-Coinsurance (Coinsurance is the percentage the member pays for services) 
-20% of Allowed Amount 
-30% of Allowed Amount
-
-Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2)  
-$7,500 per person 
-$10,000 per person 
-(OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) 
-$15,000 per family3 
-$20,000 per family3
-
-Office Services 
+
+Contact lenses: 
+
+Lined trifocal lenses: up to $65 
+ 
+
+Elective up to $80 
+
+Lenticular lenses: up to $100 
+ 
+
+Necessary up to $210 
  
  
-Physician Office Services (per visit) 
- 
- 
-Primary Care   
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30%
+
+*If you choose an out-of-network provider, you will have increased out-of-pocket expenses, pay in full at time of service, and file 
+a claim for reimbursement.
 
-Maternity (Office Cost Share for initial visit only. Delivery charges are separate) 
- 
- 
-Primary Care  
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30% 
-Allergy Injections (per visit) 
- 
- 
-Primary Care  
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30% 
-Medical Pharmacy: Medications administered by a health care provider in an office or 
-outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and 
-other medications ordered and administered by a provider. Prior authorization is required.
+1.
+All lens enhancements are available at participating private practices. Maximum copays and pricing are subject to change 
+without notice. Please check with your provider for details and copays applicable to your lens choice. Please contact your local 
+Costco, Walmart or Sam’s Club to confirm availability of lens enhancements and pricing prior to receiving services. Additional 
+discounts may not be available in certain states.
 
-Preferred Medications 
-Deductible + 40% 
-Deductible + 30% 
-      Non-Preferred Medications 
-Deductible + 50% 
-Deductible + 30% 
-Important:  The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost 
-Share.  Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program.  Please refer to your Certificate of 
-Coverage for a description of Medical Pharmacy. 
-Preventive Care 
- 
- 
-Routine Adult & Child Preventive Services, Wellness Services, Blood Work and 
-Immunizations 
-$0  
-Deductible + 30%
+2. 
+Custom LASIK coverage only available using wavefront technology with the microkeratome surgical device. Other LASIK 
+procedures may be performed at an additional cost to the member. Additional savings on laser vision care is only available at 
+participating locations.
 
-Mammogram Screening
+Important: If you or your family members are covered by more than one health care plan, you may not be able to collect benefits from 
+both plans. Each plan may require you to follow its rules or use specific doctors and hospitals, and it may be impossible to comply 
+with both plans at the same time. Before you enroll in this plan, read all of the rules very carefully and compare them with the rules of 
+any other plan that covers you or your family.
 
-$0  
-Deductible + 30%
+Savings from enrolling in a MetLife Vision Plan will depend on various factors, including plan premiums, number of visits to an eye 
+care professional by your family per year and the cost of services and materials received.  Be sure to review the Schedule of Benefits 
+for your plan’s specific benefits and other important details.
 
-Bone Density / Osteoporosis Screening  
-$0 
-Deductible + 30%
+Vision insurance is provided by Metropolitan Life Insurance Company, New York, NY (MetLife). Certain claims and network 
+administration services are provided through Vision Service Plan (VSP), Rancho Cordova, CA. VSP is not affiliated with MetLife or its 
+affiliates.
 
-Colonoscopy (Routine for age 45+)
-
-$0  
-Deductible + 30%
-
-Emergency Medical Care
-
-Urgent Care Centers (per visit) 
-Deductible + 20% 
-In-Network Deductible + 20% 
- 
-Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) 
-Deductible + 20%
-
-In-Network Deductible + 20%
-
-Ambulance Services 
-Deductible + 20%
-
-In-Network Deductible + 20%
-
-1 NEM DED = Deductible is Non-Embedded: If you have other family members on the policy, the overall family deductible must be met before the plan begins to pay. 
-2 PBP = Per Benefit Period 
-3 EM OOPM = Out-of-Pocket Maximum is Embedded:  A covered family member’s out-of-pocket costs are capped at the individual out-of-pocket maximum amount on the 
-family plan. 
-Note: Out-of-Network services may be subject to balance billing. 
- 
-Florida Health Care Plans is an Independent Licensee of the Blue Cross and Blue Shield Association.
-
-
-
-## Page 2
-
-
-
-### Table (Page 2)
-
-|  | Outpatient Diagnostic and Therapeutic Services - services with an asterisk * require prior authorization. Charges are per visit/test. |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Independent Diagnostic Facility/Provider’s Office |  |  |  |  |  |  |  |  |  |
-|  | Allergy Testing |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  | Independent Clinical Lab (diagnostic testing of blood and specimens) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Lab Services |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
-|  |  | Important: Diagnostic or therapeutic services rendered in physician offices, testing centers or other outpatient locations that are owned and operated by a hospital system are considered |  |  |  |  |  |  |  |  |
-|  |  | by the hospital system to be departments of the hospital. As a result, FHCP will be billed by the hospital for such services, and the member’s outpatient hospital benefit will be applied to |  |  |  |  |  |  |  |  |
-|  |  | these claims. Therapeutic services will incur separate charges for the facility service, physician fee and medical pharmacy. FHCP’s Provider Directories and online Provider Search |  |  |  |  |  |  |  |  |
-|  |  | application provides information regarding which provider offices are actually hospital outpatient departments. Members should contact FHCP’s cost estimation center to determine if having |  |  |  |  |  |  |  |  |
-|  |  | the diagnostic test or service performed in a hospital or hospital owned facility will result in higher cost sharing. |  |  |  |  |  |  |  |  |
-|  | Delivery / Hospital / Surgical - *all services require prior authorization |  |  |  |  |  |  |  |  |  |
-|  | *Ambulatory Surgical Center Facility (ASC) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Birthing Center |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Mental Health / Substance Dependency - services with an asterisk * require prior authorization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Outpatient Office Visit |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Primary Care |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Specialist |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Group Therapy |  |  |  | Deductible |  |  | Deductible + 30% |  |  |
-|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Partial Hospitalization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Outpatient Facility Service (per day) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | *Residential/Rehabilitation Facility (per day) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Other Provider Services |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Provider Services at ER |  |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |  |
-|  | Provider Services at Hospital/Birthing Center |  |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |  |
-|  | Inpatient |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Outpatient |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Provider Services at an Ambulatory Surgical Center (ASC) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Provider Services at Locations other than Office, Hospital and ER |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Primary Care |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  | Specialist |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-
-Gym Access SMAG Silver POS HSA 2566 
-Health Benefit Plan P23
-
-P23 – 1/25                56503FL2130001-00 
-               Page 2 of 5 
-SMAGPOSSOB1.25
-
-Amount Member Pays 
-Schedule of Benefits for Covered Services 
-In-Network 
-Out-of-Network 
-Outpatient Diagnostic and Therapeutic Services - services with an asterisk * require prior authorization. Charges are per visit/test. 
-Independent Diagnostic Facility/Provider’s Office 
- 
- 
-Allergy Testing 
-Deductible + 20% 
-Deductible + 30% 
-X-rays and Ultrasounds 
-Deductible + 20% 
-Deductible + 30% 
-Diagnostic Services (except AIS) 
-Deductible + 20% 
-Deductible + 30% 
-*Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) 
-Deductible + 20% 
-Deductible + 30% 
- 
- 
- 
-*Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, 
-intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology.
-
-Deductible + 50% 
-Deductible + 30%
-
-Independent Clinical Lab (diagnostic testing of blood and specimens) 
-Deductible + 20% 
-Deductible + 30%
-
-Outpatient Hospital Facility Services (per visit)  
- 
- 
-Lab Services 
-Deductible + 20% 
-Deductible + 30% 
-X-rays and Ultrasounds 
-Deductible + 20% 
-Deductible + 30% 
-Diagnostic Services (except AIS) 
-Deductible + 20% 
-Deductible + 30% 
-*Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) 
-Deductible + 20% 
-Deductible + 30% 
- 
- 
- 
-*Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, 
-intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology.
-
-Deductible + 50% 
-Deductible + 30%
-
-Important: Diagnostic or therapeutic services rendered in physician offices, testing centers or other outpatient locations that are owned and operated by a hospital system are considered 
-by the hospital system to be departments of the hospital. As a result, FHCP will be billed by the hospital for such services, and the member’s outpatient hospital benefit will be applied to 
-these claims. Therapeutic services will incur separate charges for the facility service, physician fee and medical pharmacy. FHCP’s Provider Directories and online Provider Search 
-application provides information regarding which provider offices are actually hospital outpatient departments. Members should contact FHCP’s cost estimation center to determine if having 
-the diagnostic test or service performed in a hospital or hospital owned facility will result in higher cost sharing.
-
-Delivery / Hospital / Surgical - *all services require prior authorization
-
-*Ambulatory Surgical Center Facility (ASC) 
-Deductible + 20% 
-Deductible + 30%
-
-*Birthing Center 
-Deductible + 20% 
-Deductible + 30%
-
-*Outpatient Hospital Facility Services (per visit)   
-Deductible + 20% 
-Deductible + 30%
-
-*Inpatient Hospital Facility (per admit)  
-Deductible + 20% 
-Deductible + 30%
-
-Mental Health / Substance Dependency - services with an asterisk * require prior authorization 
-Outpatient Office Visit  
- 
- 
-Primary Care  
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30% 
-Group Therapy 
-Deductible 
-Deductible + 30%
-
-*Inpatient Hospital Facility (per admit)  
-Deductible + 20% 
-Deductible + 30%
-
-*Partial Hospitalization 
-Deductible + 20% 
-Deductible + 30%
-
-*Outpatient Facility Service (per day) 
-Deductible + 20% 
-Deductible + 30%
-
-*Residential/Rehabilitation Facility (per day) 
-Deductible + 20% 
-Deductible + 30% 
-Other Provider Services 
- 
- 
-Provider Services at ER 
-Deductible + 20% 
-In-Network Deductible + 20% 
-Provider Services at Hospital/Birthing Center 
- 
- 
-Inpatient 
-Deductible + 20% 
-Deductible + 30% 
-Outpatient 
-Deductible + 20% 
-Deductible + 30%
-
-Provider Services at an Ambulatory Surgical Center (ASC) 
-Deductible + 20% 
-Deductible + 30%
-
-Provider Services at Locations other than Office, Hospital and ER 
- 
- 
-Primary Care  
-Deductible + 20% 
-Deductible + 30% 
-Specialist 
-Deductible + 20% 
-Deductible + 30%
+Like most group benefit programs, benefit programs offered by MetLife and its affiliates contain certain exclusions, exceptions, 
+reductions, limitations, waiting periods, and terms for keeping them in force. Please contact MetLife or your plan administrator for 
+costs and complete details.
 
 
 
 ## Page 3
 
+VI-STAND Vision Benefit Summary
+
+200 Park Ave., New York, NY 10166 
+© 2024 MetLife Services and Solutions, LLC
+
+L0423030985[exp0426][All States]
+
+Exclusions and Limitations of Benefits
+
+This plan does not cover the following services, materials and treatments:
+
+Services and Eyewear 
+ Services and/or materials not specifically included
+
+in the Vision Plan Benefits Overview (Schedule of 
+Benefits). 
+ 
+ Any portion of a charge above the Maximum
+
+Benefit Allowance or reimbursement indicated in 
+the Schedule of Benefits.
+
+ Any eye examination or corrective eyewear
+
+required as a condition of employment.
+
+ Services and supplies received by you or your
+
+Dependent before the Vision Insurance starts. 
+ 
+ Missed appointments.
+
+ Services or materials resulting from or in the
+
+course of a Covered Person’s regular occupation 
+for pay or profit for which the Covered Person is 
+entitled to benefits under any Workers’ 
+Compensation Law, Employer’s Liability Law or 
+similar law. You must promptly claim and notify 
+the Company of all such benefits.
+
+ Local, state and/or federal taxes, except where
+
+MetLife is required by law to pay.
+
+ Services or materials received as a result of
+
+disease, defect, or injury due to war or an act of 
+war (declared or undeclared), taking part in a riot 
+or insurrection, or committing or attempting to 
+commit a felony.
+
+
+Services and materials obtained while outside the 
+United States, except for emergency vision care.
+
+ Services, procedures, or materials for which a
+
+charge would not have been made in the absence 
+of insurance.
+
+ Services: (a) for which the employer of the person
+
+receiving such services is not required to pay; or 
+(b) received at a facility maintained by the 
+Employer, labor union, mutual benefit association, 
+or VA hospital.
+
+ Services, to the extent such services, or benefits
+
+for such services, are available under a 
+Government Plan. This exclusion will apply 
+whether or not the person receiving the services is 
+enrolled for the Government Plan. We will not 
+exclude payment of benefits for such services if 
+the Government Plan requires that Vision 
+Insurance under the Group Policy be paid first. 
+Government Plan means any plan, program, or 
+coverage which is established under the laws or 
+regulations of any government. The term does not 
+include any plan, program, or coverage provided 
+by a government as an employer or Medicare.
+
+ Plano lenses (lenses with refractive correction of
+
+less than ± .50 diopter).
+
+ Two pairs of glasses instead of bifocals.
+
+ Replacement of lenses, frames and/or contact
+
+lenses, furnished under this Plan which are lost, 
+stolen, or damaged, except at the normal intervals 
+when Plan Benefits are otherwise available.
+
+
+Contact lens insurance policies and 
+service agreements.
+
+ Refitting of contact lenses after the
+
+initial (90 day) fitting period.
+
+ Contact lens modification, polishing,
+
+and cleaning. 
+ 
+Treatments 
+ Orthoptics or vision training and any
+
+associated supplemental testing.
+
+ Medical and surgical treatment of
+
+the eye(s). 
+ 
+Medications 
+ Prescription and non-prescription
+
+medication
+
+1 All lens enhancements are available at 
+participating private practices. Maximum copays 
+and pricing are subject to change without notice. 
+Please check with your provider for details and 
+copays applicable to your lens choice. Please 
+contact your local Costco, Walmart and Sam’s 
+Club to confirm availability of lens enhancements 
+and pricing prior to receiving services. Additional 
+discounts may not be available in certain states. 
+ 
+2 Custom LASIK coverage only available using 
+wavefront technology with the microkeratome 
+surgical device. Other LASIK procedures may be 
+performed at an additional cost to the member. 
+Additional savings on laser vision care is only 
+available at participating locations.
+
+Important: If you or your family members are covered by more than one health 
+care plan, you may not be able to collect benefits from both plans. Each plan 
+may require you to follow its rules or use specific doctors and hospitals, and it 
+may be impossible to comply with both plans at the same time. Before you enroll 
+in this plan, read all of the rules very carefully and compare them with the rules 
+of any other plan that covers you or your family. 
+ 
+M100D-10/25 
+MetLife Vision benefits are underwritten by Metropolitan Life Insurance 
+Company, New York, NY. Certain claims and network administration services 
+are provided through Vision Service Plan (VSP), Rancho Cordova, CA. VSP is 
+not affiliated with Metropolitan Life Insurance Company or its affiliates. 
+ 
+Like most group benefit programs, benefit programs offered by MetLife and its 
+affiliates contain certain exclusions, exceptions, reductions, limitations, waiting 
+periods, and terms for keeping them in force. Please contact MetLife or your plan 
+administrator for costs and complete details.
+SAMPLE JSON #1:
+{"Carrier Name":"MetLife","Plan Name":"VI-STAND","In-Network Eye Exam":"$10","Out-of-Network Eye Exam":"Up to $45","In-Network Single Vision Lens":"$25","Out-of-Network Single Vision Lens":"Up to $30","In-Network Lined Bi-Focal Lens":"$25","Out-of-Network Lined Bi-Focal Lens":"Up to $50","In-Network Lined Tri-Focal Lens":"$25","Out-of-Network Lined Tri-Focal Lens":"Up to $65","In-Network Lenticular Lens":"$25","Out-of-Network Lenticular Lens":"Up to $100","In-Network Contact Lens Allowance":"$100","Out-of-Network Contact Lens Allowance":"Elective up to $80","In-Network Frame Allowance":"$100 after $25 eyewear copay","Out-of-Network Frame Allowance":"up to $55","Exam Frequency":"Once every 12 months","Lens Frequency":"Once every 12 months","Frame Frequency":"Once every 24 months","Out of Network Explanation":"If you choose an out-of-network provider, you will have increased out-of-pocket expenses, pay in full at time of service, and file a claim for reimbursement.","Plan Year":"","Network Name":"VSP Choice Network","Member Website":"www.metlife.com/mybenefits","Customer Service Phone Number":"1-855-638-3931"}
+---
+
+TARGET PDF:
+## Page 1
+
+VI-STAND Vision Benefit Summary
+
+200 Park Ave., New York, NY 10166 
+© 2024 MetLife Services and Solutions, LLC
+
+L0423030985[exp0426][All States]
+
+Benefit Summaries Dental – VSP Choice Network Plan Summary
+
+Metropolitan Life Insurance Company
+
+With your Vision Preferred 
+Provider Organization Plan, 
+you can: 
+ 
+ Go to any licensed vision specialist
+
+and receive coverage. Just 
+remember your benefit dollars go 
+further when you stay in network. 
+ 
+Choose from a large network of
+
+ophthalmologists, optometrists and 
+opticians, from private practices to 
+retailers like Costco® Optical, 
+Walmart, Sam’s Club and 
+Visionworks.  
+ 
+In-network  
+value added features:  
+ 
+Additional lens enhancements: In 
+addition to standard lens 
+enhancements, enjoy an average 
+20-25% savings on all other lens 
+enhancements.1 
+ 
+Savings on glasses and sunglasses: 
+Get up to 20% savings on additional 
+pairs of prescription glasses and 
+non-prescription sunglasses, 
+including lens enhancements. At 
+times, other promotional offers may 
+also be available.1 
+ 
+Laser vision correction: 2 
+Potential savings averaging 15% off 
+the regular price or 5% off a 
+promotional offer for laser surgery 
+including PRK, LASIK and Custom 
+LASIK. This offer is only available at 
+MetLife participating locations.
+
+In-network benefits 
+There are no claims for you to file when you go to a participating vision provider. 
+Simply pay your copay and, if applicable, any amount over your allowance at the time of 
+service.
+
+Frequency
+
+Eye exam
+
+Once every 12 months
+Eye health exam, dilation, prescription and refraction for glasses: At no additional cost after
+
+a $10 copay. 
+Retinal imaging: At no additional cost Up to a $39 copay on routine retinal screening when
+
+performed by a private practice provider.
+
+Frame
+
+Once every 12 months
+Allowance: $130 after $25 eyewear copay.
+Costco, Walmart and Sam’s Club: $70 allowance after $25 eyewear copay.
+
+You will receive an additional 20% savings on the amount that you pay over your allowance. 
+This offer is available from all participating locations except Costco, Walmart and Sam’s Club.
+
+Standard corrective lenses
+
+Once every 12 months
+
+Single vision, lined bifocal, lined trifocal, lenticular: At no additional cost after
+
+$25 eyewear copay.
+
+Standard lens enhancements1
+
+Once every 12 months 
+Polycarbonate (child up to age 18) and Ultraviolet (UV) coating: At no additional cost after
+
+$25   . eyewear copay. 
+Progressive Standard, Progressive Premium/Custom, Polycarbonate (adult), Photochromic,
+
+Anti-reflective, Scratch-resistant coatings and Tints: Your cost will be limited to a copay that 
+MetLife has negotiated for you. These copays can be viewed after enrollment at 
+www.metlife.com/mybenefits.
+
+Contact lenses instead of eye glasses
+
+Once every 12 months 
+Contact fitting and evaluation: At no additional cost with a maximum copay of $60. 
+Elective lenses: $130 allowance. 
+Necessary lenses: At no additional cost after eyewear copay.
+
+We’re here to help
+
+Find a Vision provider at 
+www.metlife.com/vision  
+ 
+Download a claim form at 
+www.metlife.com/mybenefits 
+ 
+For general questions go to 
+www.metlife.com/mybenefits  
+or call 1-855-MET-EYE1  
+(1-855-638-3931)
 
 
-### Table (Page 3)
 
-|  | Other Special Services - services with an asterisk * require prior authorization |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Combined Limit for Outpatient Occupational, Physical and Speech Therapy (per visit) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | *Combined Limit for Outpatient Cardiac and Pulmonary Rehabilitation Therapy (per visit) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | Chiropractic Care (per visit) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | *Durable Medical Equipment |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | Motorized Wheelchair |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | All Other |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | *Prosthetics and Medical Brace Device |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | *Home Health Care (per day) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | *Skilled Nursing Facility (per day) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | Hospice (per day) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | *Enteral Formulas |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | Telehealth Services |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
-|  | General Medicine visit rendered by a designated Telehealth Services Provider |  |  |  |  |  |  | Deductible |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
-|  | Mental Health/Behavioral Health visit rendered by a designated Telehealth Services Provider |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
-|  |  | Diabetes Care Management |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Diabetes Outpatient Self-Management Education |  |  |  |  |  |  | $0 |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
-|  | Glucometer (2 per year) |  |  |  |  |  |  | $0 |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
-|  | 50 Test Strips (per box) |  |  |  |  |  |  | $10 Copay |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
-|  | Lancets (per box) |  |  |  |  |  |  | $4 Copay |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
+## Page 2
 
+VI-STAND Vision Benefit Summary
 
+200 Park Ave., New York, NY 10166 
+© 2024 MetLife Services and Solutions, LLC
 
-### Table (Page 3)
+L0423030985[exp0426][All States]
 
-|  | Benefit Maximums – Combined Limit In-Network and Out-of-Network |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Home Health Care |  |  | 20 Days PBP |  |
-|  |  |  |  |  |  |
-|  | OT, PT, ST Outpatient Rehabilitation Therapy |  |  | 35 Visits PBP |  |
-|  |  |  |  |  |  |
-|  | OT, PT, ST Outpatient Habilitation Therapy |  |  | 35 Visits PBP |  |
-|  |  |  |  |  |  |
-|  | Cardiac and Pulmonary Therapy |  |  | 35 Visits PBP |  |
-|  |  |  |  |  |  |
-|  | Chiropractic Care |  |  | 26 Visits PBP |  |
-|  |  |  |  |  |  |
-|  | Skilled Nursing/Rehabilitation Facility |  |  | 60 Days PBP |  |
-|  |  |  |  |  |  |
-|  | Behavioral Health Residential Facility |  |  | 60 Days PBP |  |
+Out-of-network reimbursement* 
+You pay for services and then submit a claim for reimbursement. The same benefit frequencies for In-network benefits apply.  
+Once you enroll, visit www.metlife.com/mybenefits for detailed out-of-network benefits information.
 
-Gym Access SMAG Silver POS HSA 2566 
-Health Benefit Plan P23
+
+Eye exam: up to $45 
+
+Single vision lenses: up to $30 
+
+Progressive lenses: up to $50 
+
+Frames: up to $70 
+
+Lined bifocal lenses: up to $50
 
-P23 – 1/25                56503FL2130001-00 
-               Page 3 of 5 
-SMAGPOSSOB1.25
-
-Amount Member Pays 
-Schedule of Benefits for Covered Services 
-In-Network 
-Out-of-Network
-
-Other Special Services - services with an asterisk * require prior authorization
-
-Combined Limit for Outpatient Occupational, Physical and Speech Therapy (per visit) 
-Deductible + 20% 
-Deductible + 30%
-
-*Combined Limit for Outpatient Cardiac and Pulmonary Rehabilitation Therapy (per visit) 
-Deductible + 20% 
-Deductible + 30% 
-Chiropractic Care (per visit) 
-Deductible + 20% 
-Deductible + 30%
-
-*Durable Medical Equipment  
+
+Contact lenses: 
+
+Lined trifocal lenses: up to $65 
+ 
+
+Elective up to $105 
+
+Lenticular lenses: up to $100 
+ 
+
+Necessary up to $210 
  
  
-Motorized Wheelchair 
-Deductible + 20% 
-Deductible + 30% 
-All Other 
-Deductible + 20% 
-Deductible + 30%
+
+*If you choose an out-of-network provider, you will have increased out-of-pocket expenses, pay in full at time of service, and file 
+a claim for reimbursement.
 
-*Prosthetics and Medical Brace Device 
-Deductible + 20% 
-Deductible + 30% 
-*Home Health Care (per day) 
-Deductible + 20% 
-Deductible + 30%
+1.
+All lens enhancements are available at participating private practices. Maximum copays and pricing are subject to change 
+without notice. Please check with your provider for details and copays applicable to your lens choice. Please contact your local 
+Costco, Walmart or Sam’s Club to confirm availability of lens enhancements and pricing prior to receiving services. Additional 
+discounts may not be available in certain states.
 
-*Skilled Nursing Facility (per day) 
-Deductible + 20% 
-Deductible + 30% 
-Hospice (per day) 
-Deductible + 20% 
-Deductible + 30%
+2. 
+Custom LASIK coverage only available using wavefront technology with the microkeratome surgical device. Other LASIK 
+procedures may be performed at an additional cost to the member. Additional savings on laser vision care is only available at 
+participating locations.
 
-*Enteral Formulas 
-Deductible + 20% 
-Deductible + 30% 
-Telehealth Services  
+Important: If you or your family members are covered by more than one health care plan, you may not be able to collect benefits from 
+both plans. Each plan may require you to follow its rules or use specific doctors and hospitals, and it may be impossible to comply 
+with both plans at the same time. Before you enroll in this plan, read all of the rules very carefully and compare them with the rules of 
+any other plan that covers you or your family.
+
+Savings from enrolling in a MetLife Vision Plan will depend on various factors, including plan premiums, number of visits to an eye 
+care professional by your family per year and the cost of services and materials received.  Be sure to review the Schedule of Benefits 
+for your plan’s specific benefits and other important details.
+
+Vision insurance is provided by Metropolitan Life Insurance Company, New York, NY (MetLife). Certain claims and network 
+administration services are provided through Vision Service Plan (VSP), Rancho Cordova, CA. VSP is not affiliated with MetLife or its 
+affiliates.
+
+Like most group benefit programs, benefit programs offered by MetLife and its affiliates contain certain exclusions, exceptions, 
+reductions, limitations, waiting periods, and terms for keeping them in force. Please contact MetLife or your plan administrator for 
+costs and complete details.
+
+
+
+## Page 3
+
+VI-STAND Vision Benefit Summary
+
+200 Park Ave., New York, NY 10166 
+© 2024 MetLife Services and Solutions, LLC
+
+L0423030985[exp0426][All States]
+
+Exclusions and Limitations of Benefits
+
+This plan does not cover the following services, materials and treatments:
+
+Services and Eyewear 
+ Services and/or materials not specifically included
+
+in the Vision Plan Benefits Overview (Schedule of 
+Benefits). 
  
+ Any portion of a charge above the Maximum
+
+Benefit Allowance or reimbursement indicated in 
+the Schedule of Benefits.
+
+ Any eye examination or corrective eyewear
+
+required as a condition of employment.
+
+ Services and supplies received by you or your
+
+Dependent before the Vision Insurance starts. 
  
-General Medicine visit rendered by a designated Telehealth Services Provider 
-Deductible 
-Not Covered 
-Mental Health/Behavioral Health visit rendered by a designated Telehealth Services Provider 
-Deductible + 20% 
-Not Covered
+ Missed appointments.
 
-Diabetes Care Management
+ Services or materials resulting from or in the
 
-Diabetes Outpatient Self-Management Education  
-$0 
-Not Covered 
-Glucometer (2 per year) 
-$0 
-Not Covered 
-50 Test Strips (per box) 
-$10 Copay 
-Not Covered 
-Lancets (per box) 
-$4 Copay 
-Not Covered
+course of a Covered Person’s regular occupation 
+for pay or profit for which the Covered Person is 
+entitled to benefits under any Workers’ 
+Compensation Law, Employer’s Liability Law or 
+similar law. You must promptly claim and notify 
+the Company of all such benefits.
 
-*Prior Authorization is Required: There are certain medical services, supplies and medications for which members are required to obtain 
-Prior Authorization before receiving. If you don’t obtain prior authorization from FHCP, you will have to pay the entire cost of the service, 
-supply or medication. Before receiving a service, supply or medication you should visit www.fhcp.com or call toll-free 1-877-615-4022 to see if 
-prior authorization is required.
+ Local, state and/or federal taxes, except where
 
-Benefit Maximums – Combined Limit In-Network and Out-of-Network
+MetLife is required by law to pay.
 
-Home Health Care 
-20 Days PBP
+ Services or materials received as a result of
 
-OT, PT, ST Outpatient Rehabilitation Therapy 
-35 Visits PBP
+disease, defect, or injury due to war or an act of 
+war (declared or undeclared), taking part in a riot 
+or insurrection, or committing or attempting to 
+commit a felony.
 
-OT, PT, ST Outpatient Habilitation Therapy 
-35 Visits PBP
+
+Services and materials obtained while outside the 
+United States, except for emergency vision care.
 
-Cardiac and Pulmonary Therapy  
-35 Visits PBP
+ Services, procedures, or materials for which a
 
-Chiropractic Care  
-26 Visits PBP
+charge would not have been made in the absence 
+of insurance.
 
-Skilled Nursing/Rehabilitation Facility  
-60 Days PBP
+ Services: (a) for which the employer of the person
 
-Behavioral Health Residential Facility  
-60 Days PBP
+receiving such services is not required to pay; or 
+(b) received at a facility maintained by the 
+Employer, labor union, mutual benefit association, 
+or VA hospital.
 
+ Services, to the extent such services, or benefits
 
+for such services, are available under a 
+Government Plan. This exclusion will apply 
+whether or not the person receiving the services is 
+enrolled for the Government Plan. We will not 
+exclude payment of benefits for such services if 
+the Government Plan requires that Vision 
+Insurance under the Group Policy be paid first. 
+Government Plan means any plan, program, or 
+coverage which is established under the laws or 
+regulations of any government. The term does not 
+include any plan, program, or coverage provided 
+by a government as an employer or Medicare.
 
-## Page 4
+ Plano lenses (lenses with refractive correction of
 
+less than ± .50 diopter).
 
+ Two pairs of glasses instead of bifocals.
 
-### Table (Page 4)
+ Replacement of lenses, frames and/or contact
 
-|  | Prescription Drug Program |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Pharmacy Network: A Preferred Retail pharmacy is an FHCP owned and operated pharmacy. A Non-Preferred Retail Pharmacy is a participating |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | network pharmacy that is listed in FHCP’s Pharmacy Directory and is not owned and operated by FHCP. Members must use a Preferred FHCP |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | pharmacy or a Non-Preferred Retail pharmacy to have a prescription filled or the member will have to pay the full cost of the drug (except in certain |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | situations such as emergencies). Mail Order is only available through FHCP Mail Order Pharmacy. Members should log into their member account at |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | www.fhcp.com and click Find a Pharmacy to locate a Network Provider pharmacy. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | Retail Network Pharmacies
-(1 month supply) |  |  |  |  |  |  |  |  |  |  | Mail Order
-(3 month supply) |  |  |
-|  |  | Preferred - FHCP |  |  |  |  | Non-Preferred |  |  |  |  |  | FHCP Only |  |  |
-| Generic Drugs
-Preventive (e.g., oral contraceptives)
-Preferred Generic
-Non-Preferred Generic |  | $0
-Deductible + $3 Copay
-Deductible + $10 Copay |  |  |  |  | Not Covered
-Deductible + $15 Copay
-Deductible + $20 Copay |  |  |  |  |  | $0
-Deductible + $6 Copay
-Deductible + $27 Copay |  |  |
-|  | Preferred Brand Drugs | Deductible + $30 Copay |  |  |  |  | Not Covered
-Deductible + $15 Copay
-Deductible + $20 Copay | Deductible + $40 Copay |  |  |  |  | $0
-Deductible + $6 Copay
-Deductible + $27 Copay | Deductible + $87 Copay |  |
-|  | Non-Preferred Brand Drugs | Deductible + $55 Copay |  |  |  |  | Not Covered
-Deductible + $15 Copay
-Deductible + $20 Copay | Deductible + $65 Copay |  |  |  |  | $0
-Deductible + $6 Copay
-Deductible + $27 Copay | Deductible + $162 Copay |  |
-|  | Specialty Drugs (Prior authorization is required) | Deductible + $55 Copay |  |  |  |  | Not Covered
-Deductible + $15 Copay
-Deductible + $20 Copay | Deductible + $65 Copay |  |  |  |  | $0
-Deductible + $6 Copay
-Deductible + $27 Copay | Deductible + $162 Copay |  |
-|  | Preferred Specialty | Deductible + 40% |  |  |  |  | Not Covered
-Deductible + $15 Copay
-Deductible + $20 Copay | Not Covered |  |  |  |  | $0
-Deductible + $6 Copay
-Deductible + $27 Copay | Not Covered |  |
-|  | Non-Preferred Specialty | Deductible + 50% |  |  |  |  | Not Covered
-Deductible + $15 Copay
-Deductible + $20 Copay | Not Covered |  |  |  |  | $0
-Deductible + $6 Copay
-Deductible + $27 Copay | Not Covered |  |
-| If a Brand Name Prescription Drug is requested when there is a Generic Prescription Drug available, the member will be responsible for paying the Usual
-and Customary cash price for that prescription.
-FHCP Pharmacy benefit provides coverage for Generic contraceptive medications or supplies (e.g., oral contraceptives, emergency contraceptive, and
-diaphragms) at no cost when obtained from a pharmacy owned and operated by FHCP. FHCP’s Pharmacy Benefit also covers certain preventive
-medications at no cost in accordance with the United States Preventative Task Force (USPSTF) Affordable Care Act A and B recommendations as long
-as all criteria are met and the medication is obtained from a FHCP owned and operated pharmacy. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+lenses, furnished under this Plan which are lost, 
+stolen, or damaged, except at the normal intervals 
+when Plan Benefits are otherwise available.
 
+
+Contact lens insurance policies and 
+service agreements.
 
+ Refitting of contact lenses after the
 
-### Table (Page 4)
+initial (90 day) fitting period.
 
-|  | Pediatric Vision |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Network Provider Services: The services listed below must be received from a Network Provider or the member will have to pay the full cost of the |  |  |  |  |  |  |  |  |
-|  | service (except in certain situations such as emergencies). Members should log onto www.fhcp.com and click Find a Provider/Facility to locate a |  |  |  |  |  |  |  |  |
-|  | Network Provider near them. |  |  |  |  |  |  |  |  |
-| Eyeglass Exam (1x per year) |  |  | $10 Copay |  |  |  | Not Covered |  |  |
-| Eyeglasses (includes frames & lenses - single vision, bifocal, trifocal or lenticular) |  |  | $25 Copay |  |  |  | Not Covered |  |  |
-| Contact Lenses Exam (1x per year) (Instead of eyeglass exam) |  |  | $50 Copay |  |  |  | Not Covered |  |  |
-| Contact Lenses (2 boxes, 1x per year) (Instead of eyeglasses) |  |  | $25 Copay |  |  |  | Not Covered |  |  |
-| Note: Anything over the allowance will not count toward your out-of-pocket maximum limitation. |  |  |  |  |  |  |  |  |  |
-|  | Pediatric Dental |  |  |  |  |  |  |  |  |
-|  | Preventive, Basic and Major Services |  |  | $0 |  |  |  |  |  |
+ Contact lens modification, polishing,
 
-
-
-### Table (Page 4)
-
-|  | Wellness Certificate |  |  |
-| --- | --- | --- | --- |
-|  | Fitness Center Access | Covered |  |
-
-Gym Access SMAG Silver POS HSA 2566 
-Health Benefit Plan P23
-
-P23 – 1/25                56503FL2130001-00 
-               Page 4 of 5 
-SMAGPOSSOB1.25
-
-Schedule of Benefits for Covered Services 
-Amount Member Pays
-
-Prescription Drug Program
-
-Pharmacy Network: A Preferred Retail pharmacy is an FHCP owned and operated pharmacy.  A Non-Preferred Retail Pharmacy is a participating 
-network pharmacy that is listed in FHCP’s Pharmacy Directory and is not owned and operated by FHCP.  Members must use a Preferred FHCP 
-pharmacy or a Non-Preferred Retail pharmacy to have a prescription filled or the member will have to pay the full cost of the drug (except in certain 
-situations such as emergencies).  Mail Order is only available through FHCP Mail Order Pharmacy. Members should log into their member account at 
-www.fhcp.com and click Find a Pharmacy to locate a Network Provider pharmacy.
-
-Retail Network Pharmacies
-
-(1 month supply)
-
-Mail Order 
-(3 month supply)
-
-Preferred - FHCP 
-Non-Preferred  
-FHCP Only 
-Generic Drugs
-
-Preventive (e.g., oral contraceptives) 
-Preferred Generic 
-Non-Preferred Generic
-
-$0 
-Deductible + $3 Copay 
-Deductible + $10 Copay
-
-Not Covered 
-Deductible + $15 Copay 
-Deductible + $20 Copay
-
-$0 
-Deductible + $6 Copay 
-Deductible + $27 Copay 
-Preferred Brand Drugs 
-Deductible + $30 Copay 
-Deductible + $40 Copay 
-Deductible + $87 Copay
-
-Non-Preferred Brand Drugs 
-Deductible + $55 Copay 
-Deductible + $65 Copay 
-Deductible + $162 Copay 
-Specialty Drugs (Prior authorization is required)
-
-Preferred Specialty 
-Deductible + 40% 
-Not Covered 
-Not Covered 
-Non-Preferred Specialty 
-Deductible + 50% 
-Not Covered 
-Not Covered 
-If a Brand Name Prescription Drug is requested when there is a Generic Prescription Drug available, the member will be responsible for paying the Usual 
-and Customary cash price for that prescription.
-
-FHCP Pharmacy benefit provides coverage for Generic contraceptive medications or supplies (e.g., oral contraceptives, emergency contraceptive, and 
-diaphragms) at no cost when obtained from a pharmacy owned and operated by FHCP.  FHCP’s Pharmacy Benefit also covers certain preventive 
-medications at no cost in accordance with the United States Preventative Task Force (USPSTF) Affordable Care Act A and B recommendations as long 
-as all criteria are met and the medication is obtained from a FHCP owned and operated pharmacy.
-
-Schedule of Benefits for Covered Services
-
-Amount Member Pays   
-Network Provider 
-Out-of-Network Provider
-
-Pediatric Vision
-
-Network Provider Services:  The services listed below must be received from a Network Provider or the member will have to pay the full cost of the 
-service (except in certain situations such as emergencies). Members should log onto www.fhcp.com and click Find a Provider/Facility to locate a 
-Network Provider near them.  
-Eyeglass Exam (1x per year) 
-$10 Copay 
-Not Covered 
-Eyeglasses (includes frames & lenses - single vision, bifocal, trifocal or lenticular) 
-$25 Copay 
-Not Covered
-
-Contact Lenses Exam (1x per year) (Instead of eyeglass exam)  
-$50 Copay 
-Not Covered 
-Contact Lenses (2 boxes, 1x per year) (Instead of eyeglasses) 
-$25 Copay 
-Not Covered
-
-Note: Anything over the allowance will not count toward your out-of-pocket maximum limitation.
-
-Pediatric Dental
-
-Preventive, Basic and Major Services 
-$0
-
-Wellness Certificate
-
-Fitness Center Access 
-Covered
-
-
-
-## Page 5
-
-Gym Access SMAG Silver POS HSA 2566 
-Health Benefit Plan P23
-
-P23 – 1/25                56503FL2130001-00 
-               Page 5 of 5 
-SMAGPOSSOB1.25
-
-Additional Benefits and Features 
-• To find out more about their benefits and/or treatment options, members are encouraged to call the Member Services Department at
-
-1-877-615-4022. This can help them save time and money. 
-• For a list of network providers, please visit  https://www.fhcp.com/our-provider-network or call 1 (877) 615-4022 to request a printed
-
-provider directory. 
-• Members have online access to view their health benefit plan information as well as self-service tools through the Member Portal at 
-www.fhcp.com. 
+and cleaning. 
  
+Treatments 
+ Orthoptics or vision training and any
+
+associated supplemental testing.
+
+ Medical and surgical treatment of
+
+the eye(s). 
  
+Medications 
+ Prescription and non-prescription
+
+medication
+
+1 All lens enhancements are available at 
+participating private practices. Maximum copays 
+and pricing are subject to change without notice. 
+Please check with your provider for details and 
+copays applicable to your lens choice. Please 
+contact your local Costco, Walmart and Sam’s 
+Club to confirm availability of lens enhancements 
+and pricing prior to receiving services. Additional 
+discounts may not be available in certain states. 
  
+2 Custom LASIK coverage only available using 
+wavefront technology with the microkeratome 
+surgical device. Other LASIK procedures may be 
+performed at an additional cost to the member. 
+Additional savings on laser vision care is only 
+available at participating locations.
+
+Important: If you or your family members are covered by more than one health 
+care plan, you may not be able to collect benefits from both plans. Each plan 
+may require you to follow its rules or use specific doctors and hospitals, and it 
+may be impossible to comply with both plans at the same time. Before you enroll 
+in this plan, read all of the rules very carefully and compare them with the rules 
+of any other plan that covers you or your family. 
  
+M130A-10/25 
+MetLife Vision benefits are underwritten by Metropolitan Life Insurance 
+Company, New York, NY. Certain claims and network administration services 
+are provided through Vision Service Plan (VSP), Rancho Cordova, CA. VSP is 
+not affiliated with Metropolitan Life Insurance Company or its affiliates. 
  
- 
- 
- 
-This is not an insurance contract or Benefit Booklet. This Benefit Schedule is only a partial description of the many benefits and services 
-provided or authorized by Florida Health Care Plans. This does not constitute a contract. For a complete description of benefits and exclusions, 
-please see the Florida Health Care Plans Certificate of Coverage; its terms prevail.
+Like most group benefit programs, benefit programs offered by MetLife and its 
+affiliates contain certain exclusions, exceptions, reductions, limitations, waiting 
+periods, and terms for keeping them in force. Please contact MetLife or your plan 
+administrator for costs and complete details.
 ---
