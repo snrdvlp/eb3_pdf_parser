@@ -5,192 +5,178 @@ SAMPLE PDF #1:
 
 ### Table (Page 1)
 
-| PLAN FEATURES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| --- | --- | --- |
-| Primary Care Physician Selection | Not required | Not required |
-| Deductible (per calendar year) | $1,000 Individual
-$2,000 Family | $2,000 Individual
-$6,000 Family |
-|  |  |  |
-| Unless otherwise indicated, the deductible must be met before benefits can be paid. |  |  |
-| All covered expenses accumulate separately toward the network and out-of-network Deductible. |  |  |
-| As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible. |  |  |
-| No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
-deductible is met, all family members will be considered as having met their deductible for the remainder of the year. |  |  |
-| Member Coinsurance
-(applies to all expenses unless otherwise stated) | 0% | 50% |
-| Out-of-Pocket (OOP) Maximum
-(per calendar year, includes deductible) | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit. | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| Pharmacy expenses apply towards the Out-of-Pocket Maximum.
-Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
-penalty amounts) may be used to satisfy the out-of-pocket maximum. | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
-maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
-maximum for the remainder of the year. | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| Payment for Out-of-Network Care* | Not applicable | Professional: 105% of Medicare
-Facility: 140% of Medicare |
-| Precertification Requirements |  | Professional: 105% of Medicare
-Facility: 140% of Medicare |
-| Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
-per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
-this approval. |  |  |
-| Referral Requirement | Not Required | Not applicable |
-| PHYSICIAN SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Office Visits to Non-Specialist | $25 copay deductible waived | 50% after deductible |
-| Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
-injury. | $25 copay deductible waived | 50% after deductible |
-| Telemedicine Consultations with Non-Specialist | $25 copay deductible waived | 50% after deductible |
-| Virtual Primary Care Telemedicine Provider
-Consultations
-Includes basic medical and preventive health care
-services for persons 18 years of age or older.
-Telemedicine preventive screening and counseling
-services are subject to the preventive care benefit. | Covered in full | Not Covered |
-| Non-Specialist Telemedicine Provider
-Consultations | Covered in full | Not Covered |
-| Specialist Office Visits | $75 copay deductible waived | 50% after deductible |
-| Telemedicine Consultations with Specialist | $75 copay deductible waived | 50% after deductible |
-| Specialist Telemedicine Provider Consultations | Covered in full | Not Covered |
-| Non-Specialist and Specialist Surgical Services | Covered in full after deductible | 50% after deductible |
-| Walk-in Clinics | Designated Walk-in Clinics:
-Covered in full
-All Other Network Providers:
-$25 copay deductible waived | 50% after deductible |
+|  | Financial Features |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Medical Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | $3,250 per person |  |  | $4,000 per person |  |
+|  | (DED is the amount the member is responsible for before FHCP pays) |  |  | $6,500 per family1 |  |  | $8,000 per family1 |  |
+|  | Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | Integrated with Medical |  |  | Not Covered |  |
+|  | (DED is the amount the member is responsible for before FHCP pays) |  |  |  |  |  |  |  |
+|  | Coinsurance (Coinsurance is the percentage the member pays for services) |  |  | 20% of Allowed Amount |  |  | 30% of Allowed Amount |  |
+|  | Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2) |  |  | $7,500 per person |  |  | $10,000 per person |  |
+|  | (OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
+|  | Office Services |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
+|  | Physician Office Services (per visit) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
+|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Maternity (Office Cost Share for initial visit only. Delivery charges are separate) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Allergy Injections (per visit) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Medical Pharmacy: Medications administered by a health care provider in an office or |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | other medications ordered and administered by a provider. Prior authorization is required. |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Preferred Medications |  |  | Deductible + 40% |  |  | Deductible + 30% |  |
+|  | Non-Preferred Medications |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Important: The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Share. Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program. Please refer to your Certificate o |  |  | Deductible + 50% |  |  | Deductible + 30% | f |
+|  | Coverage for a description of Medical Pharmacy. |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Preventive Care |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Routine Adult & Child Preventive Services, Wellness Services, Blood Work and |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  |  |  |  | $0 |  |  | Deductible + 30% |  |
+|  | Immunizations |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Mammogram Screening |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Bone Density / Osteoporosis Screening |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Colonoscopy (Routine for age 45+) |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Emergency Medical Care |  |  |  |  |  |  |  |
+|  | Urgent Care Centers (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Ambulance Services |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
+|  |  |  |  |  |  |  |  |  |
 
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
+Gym Access SMAG Silver POS HSA 2566 
+Health Benefit Plan P23
 
-### PLAN DESIGN & BENEFITS
+P23 – 1/25                56503FL2130001-00 
+               Page 1 of 5 
+SMAGPOSSOB1.25
 
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+Amount Member Pays 
+Schedule of Benefits for Covered Services 
+In-Network 
+Out-of-Network
 
-### PLAN FEATURES
-NETWORK CARE
-OUT-OF-NETWORK CARE
+Financial Features
 
-Primary Care Physician Selection
-Not required
-Not required
+Medical Essential Health Benefits Deductible (NEM DED1) (PBP2)  
+$3,250 per person 
+$4,000 per person 
+(DED is the amount the member is responsible for before FHCP pays) 
+$6,500 per family1 
+$8,000 per family1 
+Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) 
+Integrated with Medical 
+Not Covered 
+(DED is the amount the member is responsible for before FHCP pays)
 
-Deductible (per calendar year)
-$1,000 Individual
-$2,000 Family
-$2,000 Individual
-$6,000 Family
+Coinsurance (Coinsurance is the percentage the member pays for services) 
+20% of Allowed Amount 
+30% of Allowed Amount
 
-Unless otherwise indicated, the deductible must be met before benefits can be paid.
+Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2)  
+$7,500 per person 
+$10,000 per person 
+(OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) 
+$15,000 per family3 
+$20,000 per family3
 
-All covered expenses accumulate separately toward the network and out-of-network Deductible.
+Office Services 
+ 
+ 
+Physician Office Services (per visit) 
+ 
+ 
+Primary Care   
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30%
 
-As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible.
+Maternity (Office Cost Share for initial visit only. Delivery charges are separate) 
+ 
+ 
+Primary Care  
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30% 
+Allergy Injections (per visit) 
+ 
+ 
+Primary Care  
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30% 
+Medical Pharmacy: Medications administered by a health care provider in an office or 
+outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and 
+other medications ordered and administered by a provider. Prior authorization is required.
 
-No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
-deductible is met, all family members will be considered as having met their deductible for the remainder of the year.
+Preferred Medications 
+Deductible + 40% 
+Deductible + 30% 
+      Non-Preferred Medications 
+Deductible + 50% 
+Deductible + 30% 
+Important:  The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost 
+Share.  Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program.  Please refer to your Certificate of 
+Coverage for a description of Medical Pharmacy. 
+Preventive Care 
+ 
+ 
+Routine Adult & Child Preventive Services, Wellness Services, Blood Work and 
+Immunizations 
+$0  
+Deductible + 30%
 
-Member Coinsurance
-(applies to all expenses unless otherwise stated)
-0%
-50%
+Mammogram Screening
 
-Out-of-Pocket (OOP) Maximum
-(per calendar year, includes deductible)
-$4,500 Individual
-$9,000 Family
-$12,000 Individual
-$36,000 Family
+$0  
+Deductible + 30%
 
-All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit.
+Bone Density / Osteoporosis Screening  
+$0 
+Deductible + 30%
 
-Pharmacy expenses apply towards the Out-of-Pocket Maximum.
-Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
-penalty amounts) may be used to satisfy the out-of-pocket maximum.
+Colonoscopy (Routine for age 45+)
 
-No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
-maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
-maximum for the remainder of the year.
+$0  
+Deductible + 30%
 
-Payment for Out-of-Network Care*
-Not applicable
-Professional: 105% of Medicare
-Facility:  140% of Medicare
+Emergency Medical Care
 
-Precertification Requirements
+Urgent Care Centers (per visit) 
+Deductible + 20% 
+In-Network Deductible + 20% 
+ 
+Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) 
+Deductible + 20%
 
-Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
-per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
-this approval.
+In-Network Deductible + 20%
 
-Referral Requirement
-Not Required
-Not applicable
+Ambulance Services 
+Deductible + 20%
 
-### PHYSICIAN SERVICES
-NETWORK CARE
-OUT-OF-NETWORK CARE
+In-Network Deductible + 20%
 
-Office Visits to Non-Specialist
-$25 copay deductible waived
-50% after deductible
-
-Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
-injury.
-
-Telemedicine Consultations with Non-Specialist
-$25 copay deductible waived
-50% after deductible
-
-Virtual Primary Care Telemedicine Provider
-Consultations
-Includes basic medical and preventive health care
-services for persons 18 years of age or older.
-Telemedicine preventive screening and counseling
-services are subject to the preventive care benefit.
-
-Covered in full
-Not Covered
-
-Non-Specialist Telemedicine Provider
-Consultations
-Covered in full
-Not Covered
-
-Specialist Office Visits
-$75 copay deductible waived
-50% after deductible
-
-Telemedicine Consultations with Specialist
-$75 copay deductible waived
-50% after deductible
-
-Specialist Telemedicine Provider Consultations
-Covered in full
-Not Covered
-
-Non-Specialist and Specialist Surgical Services
-Covered in full after deductible
-50% after deductible
-
-Walk-in Clinics
-Designated Walk-in Clinics:
-Covered in full
-
-All Other Network Providers:
-$25 copay deductible waived
-
-50% after deductible
-
-Print Date: 06/19/2024
-TPID: 30018710
-Page 1
+1 NEM DED = Deductible is Non-Embedded: If you have other family members on the policy, the overall family deductible must be met before the plan begins to pay. 
+2 PBP = Per Benefit Period 
+3 EM OOPM = Out-of-Pocket Maximum is Embedded:  A covered family member’s out-of-pocket costs are capped at the individual out-of-pocket maximum amount on the 
+family plan. 
+Note: Out-of-Network services may be subject to balance billing. 
+ 
+Florida Health Care Plans is an Independent Licensee of the Blue Cross and Blue Shield Association.
 
 
 
@@ -200,103 +186,45 @@ Page 1
 
 ### Table (Page 2)
 
-| Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
-other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
-emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
-to be walk-in clinics. |  |  |
-| --- | --- | --- |
-| Telemedicine Consultations for Non-Emergency
-Services through a Walk-in Clinic
-If telemedicine preventive screening and counseling
-services are provided through a walk-in clinic, these
-services are paid under the preventive care benefit. | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| Maternity - Delivery and Post-Partum Care | Covered in full after deductible | 50% after deductible |
-| Allergy Testing | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| Allergy Injections | Covered in full after deductible | 50% after deductible |
-| PREVENTIVE CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Preventive care services are covered in accordance with Health Care Reform. |  |  |
-| Routine Adult Physical Exams and Immunizations
-Limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
-| Well Child Exams and Immunizations
-Provides coverage for 7 exams in the first year of life; 3
-exams in the second year; 3 exams in the third year;
-and 1 exam per 12 months from age 3 to age 22. | Covered in full | 50% after deductible |
-| Routine Gynecological Exams
-Includes routine tests and related lab fees. Limited to 1
-exam every 12 months. | Covered in full | 50% after deductible |
-| Routine Mammograms | Covered in full | 50% after deductible |
-| Women's Health
-Includes: Screening for gestational diabetes, HPV
-(Human Papillomavirus) DNA testing, counseling for
-sexually transmitted infections, counseling and
-screening for Human Immunodeficiency Virus,
-screening and counseling for interpersonal and
-domestic violence, breastfeeding support, supplies,
-and counseling. Contraceptive methods, sterilization
-procedures, patient education and counseling.
-Limitations may apply. | Covered in full | 50% after deductible |
-| Prenatal Maternity | Covered in full | 50% after deductible |
-| Routine Digital Rectal Exam /
-Prostate-Specific Antigen Test
-Recommended: For covered males age 40 and over. | Covered in full | 50% after deductible |
-| Colorectal Cancer Screening
-Recommended: For all members age 45 and over. | Covered in full | 50% after deductible |
-| Routine Eye and Hearing Screenings | Paid as part of routine physical
-exam. | Paid as part of routine physical
-exam. |
-| HEARING SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Hearing Exam (by Specialist) | Not covered | Not covered |
-| Hearing Aid | Not covered | Not covered |
-| VISION SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Adult Routine Eye Exams (Refraction)
-Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
-| Pediatric Routine Eye Exams (Refraction)
-Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
-| Adult Vision Hardware | Not Covered | Not Covered |
-| Pediatric Vision Hardware | Not Covered | Not Covered |
-| DIAGNOSTIC PROCEDURES | NETWORK CARE | OUT-OF-NETWORK CARE |
-
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
-
-### PLAN DESIGN & BENEFITS
-
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
-
-Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
-other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
-emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
-to be walk-in clinics.
-
-Telemedicine Consultations for Non-Emergency
-Services through a Walk-in Clinic
-If telemedicine preventive screening and counseling
-services are provided through a walk-in clinic, these
-services are paid under the preventive care benefit.
-
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
-
-Maternity - Delivery  and Post-Partum Care
-Covered in full after deductible
-50% after deductible
-
-Allergy Testing
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
-
-Allergy Injections
-Covered in full after deductible
-50% after deductible
-
-### PREVENTIVE CARE
-NETWORK CA
+|  | Outpatient Diagnostic and Therapeutic Services - services with an asterisk * require prior authorization. Charges are per visit/test. |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Independent Diagnostic Facility/Provider’s Office |  |  |  |  |  |  |  |  |  |
+|  | Allergy Testing |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  | Independent Clinical Lab (diagnostic testing of blood and specimens) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Lab Services |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  |  | Important: Diagnostic or therapeutic services rendered in physician offices, testing centers or other outpatient locations that are owned and operated by a hospital system are considered |  |  |  |  |  |  |  |  |
+|  |  | by the hospital system to be departments of the hospital. As a result, FHCP will be billed by the hospital for such services, and the member’s outpatient hospital benefit will be applied to |  |  |  |  |  |  |  |  |
+|  |  | these claims. Therapeutic services will incur separate charges for the facility service, physician fee and medical pharmacy. FHCP’s Provider Directories and online Provider Search |  |  |  |  |  |  |  |  |
+|  |  | application provides information regarding which provider offices are actually hospital outpatient departments. Members should contact FHCP’s cost estimation center to determine if having |  |  |  |  |  |  |  |  |
+|  |  | the diagnostic test or service performed in a hospital or hospital owned facility will result in higher cost sharing. |  |  |  |  |  |  |  |  |
+|  | Delivery / Hospital / Surgical - *all services require prior authorization |  |  |  |  |  |  |  |  |  |
+|  | *Ambulatory Surgical Center Facility (ASC) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Birthing Center |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Mental Health / Substance Dependency - services with an asterisk * require prior authorization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Outpatient Office Visit |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Primary Care |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Specialist |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Group Therapy |  |  |  | Deductible |  |  | Deductible + 30% |  |  |
+|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Partial Hospitalization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | 
 SAMPLE JSON #1:
-{"Carrier Name":"Aetna AFA","Plan Name":"1000 100-50","In-Network Single Deductible":"1000","In-Network Family Deductible":"2000","Out-of-Network Single Deductible":"2000","Out-of-Network Family Deductible":"6000","In-Network Single OOP Max":"4500","In-Network Family OOP Max":"9000","Out-of-Network Single OOP Max":"12000","Out-of-Network Family OOP Max":"36000","In-Network Coinsurance":"0","Out-of-Network Coinsurance":"50","In-Network PCP Visit":"$25 deductible waived","Out-of-Network PCP Visit":"50% after deductible","In-Network Specialist Visit":"$75 deductible waived","Out-of-Network Specialist Visit":"50% after deductible","In-Network Urgent Care Visit":"$75 deductible waived","Out-of-Network Urgent Care Visit":"50% after deductible","In-Network ER Visit":"$300 after deductible","Out-of-Network ER Visit":"$300 after deductible","In-Network Preventive Visit":"Covered in full","Out-of-Network Preventive Visit":"50% after deductible","In-Network Outpatient Surgery":"Covered in full after deductible","Out-of-Network Outpatient Surgery":"50% after deductible","In-Network Inpatient Surgery":"Covered in full after deductible","Out-of-Network Inpatient Surgery":"50% after deductible","In-Network Newborn Delivery":"Covered in full after deductible","Out-of-Network Newborn Delivery":"50% after deductible","In-Network Major Diagnostics":"Covered in full after deductible","Out-of-Network Major Diagnostics":"50% after deductible","In-Network RX deductible":"Not Applicable","Out-of-Network RX Deductible":"Not Applicable","In-Network Generic RX":"T1A: $3 / T1: $10","Out-of-Network Generic RX":"50% after deductible","In-Network Brand RX":"45","Out-of-Network Brand RX":"50% after deductible","In-Network Tier 3 RX":"75","Out-of-Network Tier 3 RX":"50% after deductible","In-Network Tier 4 RX":"20% up to $250","Out-of-Network Tier 4 RX":"Not covered","In-Network Tier 5 RX":"40% up to $500","Out-of-Network Tier 5 RX":"Not covered","In-Network Mail Order RX":"T1A: $6 / T1: $20 / $90 / $150","Out-of-Network Mail Order RX":"Not covered","Plan Year":"","Deductible Period":"","Deductible Explanation":"Embedded","Network Type":"POS","Network Name":"CPOSII","Member Website":"www.aetna.com","Customer Service Phone Number":"Please check the back of your ID card"}
+{"Carrier Name":"Florida Health Care Plans (FHCP)","Plan Name":"SG Silver POS HSA 2566 P23XH","In-Network Single Deductible":"3,250","In-Network Family Deductible":"6,500","Out-of-Network Single Deductible":"4,000","Out-of-Network Family Deductible":"8,000","In-Network Single OOP Max":"7,500","In-Network Family OOP Max":"15,000","Out-of-Network Single OOP Max":"10,000","Out-of-Network Family OOP Max":"20,000","In-Network Coinsurance":"20","Out-of-Network Coinsurance":"30","In-Network PCP Visit":"20% after deductible","Out-of-Network PCP Visit":"30% after deductible","In-Network Specialist Visit":"20% after deductible","Out-of-Network Specialist Visit":"30% after deductible","In-Network Urgent Care Visit":"20% after deductible","Out-of-Network Urgent Care Visit":"20% after deductible","In-Network ER Visit":"20% after deductible","Out-of-Network ER Visit":"20% after deductible","In-Network Preventive Visit":"No charge","Out-of-Network Preventive Visit":"30% after deductible","In-Network Outpatient Surgery":"20% after deductible","Out-of-Network Outpatient Surgery":"30% after deductible","In-Network Inpatient Surgery":"20% after deductible","Out-of-Network Inpatient Surgery":"30% after deductible","In-Network Newborn Delivery":"20% after deductible","Out-of-Network Newborn Delivery":"30% after deductible","In-Network Major Diagnostics":"20% after deductible","Out-of-Network Major Diagnostics":"30% after deductible","In-Network RX Deductible":"","Out-of-Network RX Deductible":"","In-Network Generic RX":"Preferred \u2013 $3 after deductible / Non-Preferred - $15 after deductible","Out-of-Network Generic RX":"Preferred \u2013 $3 after deductible / Non-Preferred - $15 after deductible","In-Network Brand RX":"Preferred \u2013 $30 after deductible / Non-Preferred - $40 after deductible","Out-of-Network Brand RX":"Preferred \u2013 $30 after deductible / Non-Preferred - $40 after deductible","In-Network Tier 3 RX":"Preferred \u2013 $55 after deductible / Non-Preferred - $65 after deductible","Out-of-Network Tier 3 RX":"Preferred \u2013 $55 after deductible / Non-Preferred - $65 after deductible","In-Network Tier 4 RX":"Preferred \u2013 40% after deductible / Non-Preferred \u2013 Not covered","Out-of-Network Tier 4 RX":"Preferred \u2013 40% after deductible / Non-Preferred \u2013 Not covered","In-Network Tier 5 RX":"Preferred \u2013 50% after deductible / Non-Preferred \u2013 Not covered","Out-of-Network Tier 5 RX":"Preferred \u2013 50% after deductible / Non-Preferred \u2013 Not covered","In-Network Mail Order RX":"$6 after deductible / $87 after deductible / $162 after deductible / Not covered / Not covered","Out-of-Network Mail Order RX":"Not covered","Plan Year":"2025","Deductible Period":"","Deductible Explanation":"Embedded","Network Type":"POS","Network Name":"","Member Website":"www.fhcp.com","Customer Service Phone Number":"1-855-462-3424"}
 ---
 
 TARGET PDF:
@@ -306,192 +234,178 @@ TARGET PDF:
 
 ### Table (Page 1)
 
-| PLAN FEATURES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| --- | --- | --- |
-| Primary Care Physician Selection | Not required | Not required |
-| Deductible (per calendar year) | $1,000 Individual
-$2,000 Family | $2,000 Individual
-$6,000 Family |
-|  |  |  |
-| Unless otherwise indicated, the deductible must be met before benefits can be paid. |  |  |
-| All covered expenses accumulate separately toward the network and out-of-network Deductible. |  |  |
-| As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible. |  |  |
-| No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
-deductible is met, all family members will be considered as having met their deductible for the remainder of the year. |  |  |
-| Member Coinsurance
-(applies to all expenses unless otherwise stated) | 0% | 50% |
-| Out-of-Pocket (OOP) Maximum
-(per calendar year, includes deductible) | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit. | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| Pharmacy expenses apply towards the Out-of-Pocket Maximum.
-Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
-penalty amounts) may be used to satisfy the out-of-pocket maximum. | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
-maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
-maximum for the remainder of the year. | $4,500 Individual
-$9,000 Family | $12,000 Individual
-$36,000 Family |
-| Payment for Out-of-Network Care* | Not applicable | Professional: 105% of Medicare
-Facility: 140% of Medicare |
-| Precertification Requirements |  | Professional: 105% of Medicare
-Facility: 140% of Medicare |
-| Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
-per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
-this approval. |  |  |
-| Referral Requirement | Not Required | Not applicable |
-| PHYSICIAN SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Office Visits to Non-Specialist | $25 copay deductible waived | 50% after deductible |
-| Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
-injury. | $25 copay deductible waived | 50% after deductible |
-| Telemedicine Consultations with Non-Specialist | $25 copay deductible waived | 50% after deductible |
-| Virtual Primary Care Telemedicine Provider
-Consultations
-Includes basic medical and preventive health care
-services for persons 18 years of age or older.
-Telemedicine preventive screening and counseling
-services are subject to the preventive care benefit. | Covered in full | Not Covered |
-| Non-Specialist Telemedicine Provider
-Consultations | Covered in full | Not Covered |
-| Specialist Office Visits | $75 copay deductible waived | 50% after deductible |
-| Telemedicine Consultations with Specialist | $75 copay deductible waived | 50% after deductible |
-| Specialist Telemedicine Provider Consultations | Covered in full | Not Covered |
-| Non-Specialist and Specialist Surgical Services | Covered in full after deductible | 50% after deductible |
-| Walk-in Clinics | Designated Walk-in Clinics:
-Covered in full
-All Other Network Providers:
-$25 copay deductible waived | 50% after deductible |
+|  | Financial Features |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Medical Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | $3,250 per person |  |  | $4,000 per person |  |
+|  | (DED is the amount the member is responsible for before FHCP pays) |  |  | $6,500 per family1 |  |  | $8,000 per family1 |  |
+|  | Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) |  |  | Integrated with Medical |  |  | Not Covered |  |
+|  | (DED is the amount the member is responsible for before FHCP pays) |  |  |  |  |  |  |  |
+|  | Coinsurance (Coinsurance is the percentage the member pays for services) |  |  | 20% of Allowed Amount |  |  | 30% of Allowed Amount |  |
+|  | Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2) |  |  | $7,500 per person |  |  | $10,000 per person |  |
+|  | (OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
+|  | Office Services |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
+|  | Physician Office Services (per visit) |  |  | $15,000 per family3 |  |  | $20,000 per family3 |  |
+|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Maternity (Office Cost Share for initial visit only. Delivery charges are separate) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Allergy Injections (per visit) |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Primary Care |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Specialist |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Medical Pharmacy: Medications administered by a health care provider in an office or |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | other medications ordered and administered by a provider. Prior authorization is required. |  |  | Deductible + 20% |  |  | Deductible + 30% |  |
+|  | Preferred Medications |  |  | Deductible + 40% |  |  | Deductible + 30% |  |
+|  | Non-Preferred Medications |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Important: The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Share. Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program. Please refer to your Certificate o |  |  | Deductible + 50% |  |  | Deductible + 30% | f |
+|  | Coverage for a description of Medical Pharmacy. |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Preventive Care |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  | Routine Adult & Child Preventive Services, Wellness Services, Blood Work and |  |  | Deductible + 50% |  |  | Deductible + 30% |  |
+|  |  |  |  | $0 |  |  | Deductible + 30% |  |
+|  | Immunizations |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Mammogram Screening |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Bone Density / Osteoporosis Screening |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Colonoscopy (Routine for age 45+) |  |  | $0 |  |  | Deductible + 30% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Emergency Medical Care |  |  |  |  |  |  |  |
+|  | Urgent Care Centers (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Ambulance Services |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |
+|  |  |  |  |  |  |  |  |  |
 
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
+Gym Access SMAG Silver POS HSA 2566 
+Health Benefit Plan P23
 
-### PLAN DESIGN & BENEFITS
+P23 – 1/25                56503FL2130001-00 
+               Page 1 of 5 
+SMAGPOSSOB1.25
 
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+Amount Member Pays 
+Schedule of Benefits for Covered Services 
+In-Network 
+Out-of-Network
 
-### PLAN FEATURES
-NETWORK CARE
-OUT-OF-NETWORK CARE
+Financial Features
 
-Primary Care Physician Selection
-Not required
-Not required
+Medical Essential Health Benefits Deductible (NEM DED1) (PBP2)  
+$3,250 per person 
+$4,000 per person 
+(DED is the amount the member is responsible for before FHCP pays) 
+$6,500 per family1 
+$8,000 per family1 
+Prescription Drug Essential Health Benefits Deductible (NEM DED1) (PBP2) 
+Integrated with Medical 
+Not Covered 
+(DED is the amount the member is responsible for before FHCP pays)
 
-Deductible (per calendar year)
-$1,000 Individual
-$2,000 Family
-$2,000 Individual
-$6,000 Family
+Coinsurance (Coinsurance is the percentage the member pays for services) 
+20% of Allowed Amount 
+30% of Allowed Amount
 
-Unless otherwise indicated, the deductible must be met before benefits can be paid.
+Essential Health Benefits Out-of-Pocket Maximum (EM OOPM3) (PBP2)  
+$7,500 per person 
+$10,000 per person 
+(OOPM includes DED, Coinsurance, Copayments and Prescription Drugs) 
+$15,000 per family3 
+$20,000 per family3
 
-All covered expenses accumulate separately toward the network and out-of-network Deductible.
+Office Services 
+ 
+ 
+Physician Office Services (per visit) 
+ 
+ 
+Primary Care   
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30%
 
-As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible.
+Maternity (Office Cost Share for initial visit only. Delivery charges are separate) 
+ 
+ 
+Primary Care  
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30% 
+Allergy Injections (per visit) 
+ 
+ 
+Primary Care  
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30% 
+Medical Pharmacy: Medications administered by a health care provider in an office or 
+outpatient setting. Includes chemotherapy, infusions, dialysis, therapeutic injections and 
+other medications ordered and administered by a provider. Prior authorization is required.
 
-No one family member may contribute more than the individual deductible amount to the family deductible. Once the family
-deductible is met, all family members will be considered as having met their deductible for the remainder of the year.
+Preferred Medications 
+Deductible + 40% 
+Deductible + 30% 
+      Non-Preferred Medications 
+Deductible + 50% 
+Deductible + 30% 
+Important:  The Cost Share for Medical Pharmacy Services applies to the Prescription Drug only and is in addition to the Office Services and/or Outpatient Facility Cost 
+Share.  Medical Pharmacy does not include immunizations, allergy injections or Services covered through the prescription drug program.  Please refer to your Certificate of 
+Coverage for a description of Medical Pharmacy. 
+Preventive Care 
+ 
+ 
+Routine Adult & Child Preventive Services, Wellness Services, Blood Work and 
+Immunizations 
+$0  
+Deductible + 30%
 
-Member Coinsurance
-(applies to all expenses unless otherwise stated)
-0%
-50%
+Mammogram Screening
 
-Out-of-Pocket (OOP) Maximum
-(per calendar year, includes deductible)
-$4,500 Individual
-$9,000 Family
-$12,000 Individual
-$36,000 Family
+$0  
+Deductible + 30%
 
-All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit.
+Bone Density / Osteoporosis Screening  
+$0 
+Deductible + 30%
 
-Pharmacy expenses apply towards the Out-of-Pocket Maximum.
-Only those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any
-penalty amounts) may be used to satisfy the out-of-pocket maximum.
+Colonoscopy (Routine for age 45+)
 
-No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket
-maximum. Once the family out-of-pocket maximum is met, all family members will be considered as having met their out-of-pocket
-maximum for the remainder of the year.
+$0  
+Deductible + 30%
 
-Payment for Out-of-Network Care*
-Not applicable
-Professional: 105% of Medicare
-Facility:  140% of Medicare
+Emergency Medical Care
 
-Precertification Requirements
+Urgent Care Centers (per visit) 
+Deductible + 20% 
+In-Network Deductible + 20% 
+ 
+Hospital Emergency Room or Stand-Alone Emergency Facility Services (per visit) 
+Deductible + 20%
 
-Some out-of-network services need approval by us in advance (precertification). Without this approval, a benefit reduction of $400
-per occurrence applies separately to each type of covered service. Refer to your plan documents for a full list of services that need
-this approval.
+In-Network Deductible + 20%
 
-Referral Requirement
-Not Required
-Not applicable
+Ambulance Services 
+Deductible + 20%
 
-### PHYSICIAN SERVICES
-NETWORK CARE
-OUT-OF-NETWORK CARE
+In-Network Deductible + 20%
 
-Office Visits to Non-Specialist
-$25 copay deductible waived
-50% after deductible
-
-Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or
-injury.
-
-Telemedicine Consultations with Non-Specialist
-$25 copay deductible waived
-50% after deductible
-
-Virtual Primary Care Telemedicine Provider
-Consultations
-Includes basic medical and preventive health care
-services for persons 18 years of age or older.
-Telemedicine preventive screening and counseling
-services are subject to the preventive care benefit.
-
-Covered in full
-Not Covered
-
-Non-Specialist Telemedicine Provider
-Consultations
-Covered in full
-Not Covered
-
-Specialist Office Visits
-$75 copay deductible waived
-50% after deductible
-
-Telemedicine Consultations with Specialist
-$75 copay deductible waived
-50% after deductible
-
-Specialist Telemedicine Provider Consultations
-Covered in full
-Not Covered
-
-Non-Specialist and Specialist Surgical Services
-Covered in full after deductible
-50% after deductible
-
-Walk-in Clinics
-Designated Walk-in Clinics:
-Covered in full
-
-All Other Network Providers:
-$25 copay deductible waived
-
-50% after deductible
-
-Print Date: 06/19/2024
-TPID: 30018710
-Page 1
+1 NEM DED = Deductible is Non-Embedded: If you have other family members on the policy, the overall family deductible must be met before the plan begins to pay. 
+2 PBP = Per Benefit Period 
+3 EM OOPM = Out-of-Pocket Maximum is Embedded:  A covered family member’s out-of-pocket costs are capped at the individual out-of-pocket maximum amount on the 
+family plan. 
+Note: Out-of-Network services may be subject to balance billing. 
+ 
+Florida Health Care Plans is an Independent Licensee of the Blue Cross and Blue Shield Association.
 
 
 
@@ -501,206 +415,201 @@ Page 1
 
 ### Table (Page 2)
 
-| Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
-other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
-emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
-to be walk-in clinics. |  |  |
-| --- | --- | --- |
-| Telemedicine Consultations for Non-Emergency
-Services through a Walk-in Clinic
-If telemedicine preventive screening and counseling
-services are provided through a walk-in clinic, these
-services are paid under the preventive care benefit. | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| Maternity - Delivery and Post-Partum Care | Covered in full after deductible | 50% after deductible |
-| Allergy Testing | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| Allergy Injections | Covered in full after deductible | 50% after deductible |
-| PREVENTIVE CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Preventive care services are covered in accordance with Health Care Reform. |  |  |
-| Routine Adult Physical Exams and Immunizations
-Limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
-| Well Child Exams and Immunizations
-Provides coverage for 7 exams in the first year of life; 3
-exams in the second year; 3 exams in the third year;
-and 1 exam per 12 months from age 3 to age 22. | Covered in full | 50% after deductible |
-| Routine Gynecological Exams
-Includes routine tests and related lab fees. Limited to 1
-exam every 12 months. | Covered in full | 50% after deductible |
-| Routine Mammograms | Covered in full | 50% after deductible |
-| Women's Health
-Includes: Screening for gestational diabetes, HPV
-(Human Papillomavirus) DNA testing, counseling for
-sexually transmitted infections, counseling and
-screening for Human Immunodeficiency Virus,
-screening and counseling for interpersonal and
-domestic violence, breastfeeding support, supplies,
-and counseling. Contraceptive methods, sterilization
-procedures, patient education and counseling.
-Limitations may apply. | Covered in full | 50% after deductible |
-| Prenatal Maternity | Covered in full | 50% after deductible |
-| Routine Digital Rectal Exam /
-Prostate-Specific Antigen Test
-Recommended: For covered males age 40 and over. | Covered in full | 50% after deductible |
-| Colorectal Cancer Screening
-Recommended: For all members age 45 and over. | Covered in full | 50% after deductible |
-| Routine Eye and Hearing Screenings | Paid as part of routine physical
-exam. | Paid as part of routine physical
-exam. |
-| HEARING SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Hearing Exam (by Specialist) | Not covered | Not covered |
-| Hearing Aid | Not covered | Not covered |
-| VISION SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Adult Routine Eye Exams (Refraction)
-Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
-| Pediatric Routine Eye Exams (Refraction)
-Coverage is limited to 1 exam every 12 months. | Covered in full | 50% after deductible |
-| Adult Vision Hardware | Not Covered | Not Covered |
-| Pediatric Vision Hardware | Not Covered | Not Covered |
-| DIAGNOSTIC PROCEDURES | NETWORK CARE | OUT-OF-NETWORK CARE |
+|  | Outpatient Diagnostic and Therapeutic Services - services with an asterisk * require prior authorization. Charges are per visit/test. |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Independent Diagnostic Facility/Provider’s Office |  |  |  |  |  |  |  |  |  |
+|  | Allergy Testing |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  | Independent Clinical Lab (diagnostic testing of blood and specimens) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Lab Services |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | X-rays and Ultrasounds |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Diagnostic Services (except AIS) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  | *Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  | intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology. |  |  |  | Deductible + 50% |  |  | Deductible + 30% |  |  |
+|  |  | Important: Diagnostic or therapeutic services rendered in physician offices, testing centers or other outpatient locations that are owned and operated by a hospital system are considered |  |  |  |  |  |  |  |  |
+|  |  | by the hospital system to be departments of the hospital. As a result, FHCP will be billed by the hospital for such services, and the member’s outpatient hospital benefit will be applied to |  |  |  |  |  |  |  |  |
+|  |  | these claims. Therapeutic services will incur separate charges for the facility service, physician fee and medical pharmacy. FHCP’s Provider Directories and online Provider Search |  |  |  |  |  |  |  |  |
+|  |  | application provides information regarding which provider offices are actually hospital outpatient departments. Members should contact FHCP’s cost estimation center to determine if having |  |  |  |  |  |  |  |  |
+|  |  | the diagnostic test or service performed in a hospital or hospital owned facility will result in higher cost sharing. |  |  |  |  |  |  |  |  |
+|  | Delivery / Hospital / Surgical - *all services require prior authorization |  |  |  |  |  |  |  |  |  |
+|  | *Ambulatory Surgical Center Facility (ASC) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Birthing Center |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Outpatient Hospital Facility Services (per visit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Mental Health / Substance Dependency - services with an asterisk * require prior authorization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Outpatient Office Visit |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Primary Care |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Specialist |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Group Therapy |  |  |  | Deductible |  |  | Deductible + 30% |  |  |
+|  | *Inpatient Hospital Facility (per admit) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Partial Hospitalization |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Outpatient Facility Service (per day) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | *Residential/Rehabilitation Facility (per day) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Other Provider Services |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Provider Services at ER |  |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |  |
+|  | Provider Services at Hospital/Birthing Center |  |  |  | Deductible + 20% |  |  | In-Network Deductible + 20% |  |  |
+|  | Inpatient |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Outpatient |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Provider Services at an Ambulatory Surgical Center (ASC) |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Provider Services at Locations other than Office, Hospital and ER |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Primary Care |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  | Specialist |  |  |  | Deductible + 20% |  |  | Deductible + 30% |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
 
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
+Gym Access SMAG Silver POS HSA 2566 
+Health Benefit Plan P23
 
-### PLAN DESIGN & BENEFITS
+P23 – 1/25                56503FL2130001-00 
+               Page 2 of 5 
+SMAGPOSSOB1.25
 
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+Amount Member Pays 
+Schedule of Benefits for Covered Services 
+In-Network 
+Out-of-Network 
+Outpatient Diagnostic and Therapeutic Services - services with an asterisk * require prior authorization. Charges are per visit/test. 
+Independent Diagnostic Facility/Provider’s Office 
+ 
+ 
+Allergy Testing 
+Deductible + 20% 
+Deductible + 30% 
+X-rays and Ultrasounds 
+Deductible + 20% 
+Deductible + 30% 
+Diagnostic Services (except AIS) 
+Deductible + 20% 
+Deductible + 30% 
+*Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) 
+Deductible + 20% 
+Deductible + 30% 
+ 
+ 
+ 
+*Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, 
+intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology.
 
-Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or
-other retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,
-emergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered
-to be walk-in clinics.
+Deductible + 50% 
+Deductible + 30%
 
-Telemedicine Consultations for Non-Emergency
-Services through a Walk-in Clinic
-If telemedicine preventive screening and counseling
-services are provided through a walk-in clinic, these
-services are paid under the preventive care benefit.
+Independent Clinical Lab (diagnostic testing of blood and specimens) 
+Deductible + 20% 
+Deductible + 30%
 
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
+Outpatient Hospital Facility Services (per visit)  
+ 
+ 
+Lab Services 
+Deductible + 20% 
+Deductible + 30% 
+X-rays and Ultrasounds 
+Deductible + 20% 
+Deductible + 30% 
+Diagnostic Services (except AIS) 
+Deductible + 20% 
+Deductible + 30% 
+*Advanced Imaging Services (AIS) (MRI, MRA, PET, CT, Nuclear Med.) 
+Deductible + 20% 
+Deductible + 30% 
+ 
+ 
+ 
+*Therapeutic Services - Therapeutic treatments include, but are not limited to dialysis, 
+intravenous chemotherapy, intravenous infusion, hyperbaric oxygen therapy and radiation oncology.
 
-Maternity - Delivery  and Post-Partum Care
-Covered in full after deductible
-50% after deductible
+Deductible + 50% 
+Deductible + 30%
 
-Allergy Testing
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
+Important: Diagnostic or therapeutic services rendered in physician offices, testing centers or other outpatient locations that are owned and operated by a hospital system are considered 
+by the hospital system to be departments of the hospital. As a result, FHCP will be billed by the hospital for such services, and the member’s outpatient hospital benefit will be applied to 
+these claims. Therapeutic services will incur separate charges for the facility service, physician fee and medical pharmacy. FHCP’s Provider Directories and online Provider Search 
+application provides information regarding which provider offices are actually hospital outpatient departments. Members should contact FHCP’s cost estimation center to determine if having 
+the diagnostic test or service performed in a hospital or hospital owned facility will result in higher cost sharing.
 
-Allergy Injections
-Covered in full after deductible
-50% after deductible
+Delivery / Hospital / Surgical - *all services require prior authorization
 
-### PREVENTIVE CARE
-NETWORK CARE
-OUT-OF-NETWORK CARE
+*Ambulatory Surgical Center Facility (ASC) 
+Deductible + 20% 
+Deductible + 30%
 
-Preventive care services are covered in accordance with Health Care Reform.
+*Birthing Center 
+Deductible + 20% 
+Deductible + 30%
 
-Routine Adult Physical Exams and Immunizations
-Limited to 1 exam every 12 months.
-Covered in full
-50% after deductible
+*Outpatient Hospital Facility Services (per visit)   
+Deductible + 20% 
+Deductible + 30%
 
-Well Child Exams and Immunizations
-Provides coverage for 7 exams in the first year of life; 3
-exams in the second year; 3 exams in the third year;
-and 1 exam per 12 months from age 3 to age 22.
+*Inpatient Hospital Facility (per admit)  
+Deductible + 20% 
+Deductible + 30%
 
-Covered in full
-50% after deductible
+Mental Health / Substance Dependency - services with an asterisk * require prior authorization 
+Outpatient Office Visit  
+ 
+ 
+Primary Care  
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30% 
+Group Therapy 
+Deductible 
+Deductible + 30%
 
-Routine Gynecological Exams
-Includes routine tests and related lab fees. Limited to 1
-exam every 12 months.
+*Inpatient Hospital Facility (per admit)  
+Deductible + 20% 
+Deductible + 30%
 
-Covered in full
-50% after deductible
+*Partial Hospitalization 
+Deductible + 20% 
+Deductible + 30%
 
-Routine Mammograms
-Covered in full
-50% after deductible
+*Outpatient Facility Service (per day) 
+Deductible + 20% 
+Deductible + 30%
 
-Women's Health
-Includes: Screening for gestational diabetes, HPV
-(Human Papillomavirus) DNA testing, counseling for
-sexually transmitted infections, counseling and
-screening for Human Immunodeficiency Virus,
-screening and counseling for interpersonal and
-domestic violence, breastfeeding support, supplies,
-and counseling. Contraceptive methods, sterilization
-procedures, patient education and counseling.
-Limitations may apply.
+*Residential/Rehabilitation Facility (per day) 
+Deductible + 20% 
+Deductible + 30% 
+Other Provider Services 
+ 
+ 
+Provider Services at ER 
+Deductible + 20% 
+In-Network Deductible + 20% 
+Provider Services at Hospital/Birthing Center 
+ 
+ 
+Inpatient 
+Deductible + 20% 
+Deductible + 30% 
+Outpatient 
+Deductible + 20% 
+Deductible + 30%
 
-Covered in full
-50% after deductible
+Provider Services at an Ambulatory Surgical Center (ASC) 
+Deductible + 20% 
+Deductible + 30%
 
-Prenatal Maternity
-Covered in full
-50% after deductible
-
-Routine Digital Rectal Exam /
-Prostate-Specific Antigen Test
-Recommended: For covered males age 40 and over.
-
-Covered in full
-50% after deductible
-
-Colorectal Cancer Screening
-Recommended: For all members age 45 and over.
-Covered in full
-50% after deductible
-
-Routine Eye and Hearing Screenings
-Paid as part of routine physical
-exam.
-Paid as part of routine physical
-exam.
-
-### HEARING SERVICES
-NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Hearing Exam (by Specialist)
-Not covered
-Not covered
-
-Hearing Aid
-Not covered
-Not covered
-
-### VISION SERVICES
-NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Adult Routine Eye Exams (Refraction)
-Coverage is limited to 1 exam every 12 months.
-Covered in full
-50% after deductible
-
-Pediatric Routine Eye Exams (Refraction)
-Coverage is limited to 1 exam every 12 months.
-Covered in full
-50% after deductible
-
-Adult Vision Hardware
-Not Covered
-Not Covered
-
-Pediatric Vision Hardware
-Not Covered
-Not Covered
-
-### DIAGNOSTIC PROCEDURES
-NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Print Date: 06/19/2024
-TPID: 30018710
-Page 2
+Provider Services at Locations other than Office, Hospital and ER 
+ 
+ 
+Primary Care  
+Deductible + 20% 
+Deductible + 30% 
+Specialist 
+Deductible + 20% 
+Deductible + 30%
 
 
 
@@ -710,195 +619,152 @@ Page 2
 
 ### Table (Page 3)
 
-| Diagnostic Laboratory | Covered in full after deductible | 50% after deductible |
-| --- | --- | --- |
-| Diagnostic X-ray (except for Complex Imaging
-Services) | Covered in full after deductible | 50% after deductible |
-| Diagnostic X-ray for Complex Imaging Services
-(Including, but not limited to, MRI, MRA, PET and CT
-Scans) | Covered in full after deductible | 50% after deductible |
-| EMERGENCY MEDICAL CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Urgent Care Provider | $75 copay deductible waived | 50% after deductible |
-| Non-Urgent Use of Urgent Care Provider | Not covered | Not covered |
-| Emergency Room
-Copay waived if admitted. | $300 copayment after deductible | Paid as in-network |
-| Non-Emergency Care in an Emergency Room | Not covered | Not covered |
-| Emergency Use of Ambulance | Covered in full after deductible | Paid as in-network |
-| Non-Emergency Use of Ambulance | Covered in full after deductible | Paid as in-network |
-| HOSPITAL CARE | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Inpatient Coverage
-Including maternity (delivery and postpartum care).
-The member cost sharing applies to all covered
-benefits incurred during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
-| Outpatient Surgery
-Provided in an outpatient hospital department or
-freestanding surgical facility. | Covered in full after deductible | 50% after deductible |
-| Colonoscopy
-(non-preventive) | Cost-sharing is based on type of
-service and where it is received. | Cost-sharing is based on type of
-service and where it is received. |
-| Transplants
-Coverage is limited to IOE facilities only. | Covered in full after deductible | Not covered |
-| BEHAVIORAL HEALTH SERVICES
-(MENTAL HEALTH and SUBSTANCE RELATED
-DISORDERS) | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Inpatient Services
-(including inpatient residential treatment facility)
-The member cost sharing applies to all covered
-benefits incurred during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
-| Outpatient Office Visits
-The member cost sharing applies to all covered
-benefits incurred during a member's outpatient visit. | Covered in full | 50% after deductible |
-| Physician or Behavioral Health Provider
-Telemedicine Consultations | Covered in full | 50% after deductible |
-| Telemedicine Provider Consultations | Covered in full | Not Covered |
-| Other Outpatient Services
-(Includes partial hospitalization treatment, intensive
-outpatient program.) | Covered in full after deductible | 50% after deductible |
-| THERAPY SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Outpatient Chiropractic/Spinal Manipulation
-Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
+|  | Other Special Services - services with an asterisk * require prior authorization |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Combined Limit for Outpatient Occupational, Physical and Speech Therapy (per visit) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | *Combined Limit for Outpatient Cardiac and Pulmonary Rehabilitation Therapy (per visit) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | Chiropractic Care (per visit) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | *Durable Medical Equipment |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | Motorized Wheelchair |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | All Other |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | *Prosthetics and Medical Brace Device |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | *Home Health Care (per day) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | *Skilled Nursing Facility (per day) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | Hospice (per day) |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | *Enteral Formulas |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | Telehealth Services |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Deductible + 30% |  |  |  |  |  |
+|  | General Medicine visit rendered by a designated Telehealth Services Provider |  |  |  |  |  |  | Deductible |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
+|  | Mental Health/Behavioral Health visit rendered by a designated Telehealth Services Provider |  |  |  |  |  |  | Deductible + 20% |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
+|  |  | Diabetes Care Management |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Diabetes Outpatient Self-Management Education |  |  |  |  |  |  | $0 |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
+|  | Glucometer (2 per year) |  |  |  |  |  |  | $0 |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
+|  | 50 Test Strips (per box) |  |  |  |  |  |  | $10 Copay |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
+|  | Lancets (per box) |  |  |  |  |  |  | $4 Copay |  |  |  |  |  |  | Not Covered |  |  |  |  |  |
 
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
 
-### PLAN DESIGN & BENEFITS
 
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+### Table (Page 3)
 
-Diagnostic Laboratory
-Covered in full after deductible
-50% after deductible
+|  | Benefit Maximums – Combined Limit In-Network and Out-of-Network |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Home Health Care |  |  | 20 Days PBP |  |
+|  |  |  |  |  |  |
+|  | OT, PT, ST Outpatient Rehabilitation Therapy |  |  | 35 Visits PBP |  |
+|  |  |  |  |  |  |
+|  | OT, PT, ST Outpatient Habilitation Therapy |  |  | 35 Visits PBP |  |
+|  |  |  |  |  |  |
+|  | Cardiac and Pulmonary Therapy |  |  | 35 Visits PBP |  |
+|  |  |  |  |  |  |
+|  | Chiropractic Care |  |  | 26 Visits PBP |  |
+|  |  |  |  |  |  |
+|  | Skilled Nursing/Rehabilitation Facility |  |  | 60 Days PBP |  |
+|  |  |  |  |  |  |
+|  | Behavioral Health Residential Facility |  |  | 60 Days PBP |  |
 
-Diagnostic X-ray (except for Complex Imaging
-Services)
-Covered in full after deductible
-50% after deductible
+Gym Access SMAG Silver POS HSA 2566 
+Health Benefit Plan P23
 
-Diagnostic X-ray for Complex Imaging Services
-(Including, but not limited to, MRI, MRA, PET and CT
-Scans)
+P23 – 1/25                56503FL2130001-00 
+               Page 3 of 5 
+SMAGPOSSOB1.25
 
-Covered in full after deductible
-50% after deductible
+Amount Member Pays 
+Schedule of Benefits for Covered Services 
+In-Network 
+Out-of-Network
 
-### EMERGENCY MEDICAL CARE
-NETWORK CARE
-OUT-OF-NETWORK CARE
+Other Special Services - services with an asterisk * require prior authorization
 
-Urgent Care Provider
-$75 copay deductible waived
-50% after deductible
+Combined Limit for Outpatient Occupational, Physical and Speech Therapy (per visit) 
+Deductible + 20% 
+Deductible + 30%
 
-Non-Urgent Use of Urgent Care Provider
-Not covered
-Not covered
+*Combined Limit for Outpatient Cardiac and Pulmonary Rehabilitation Therapy (per visit) 
+Deductible + 20% 
+Deductible + 30% 
+Chiropractic Care (per visit) 
+Deductible + 20% 
+Deductible + 30%
 
-Emergency Room
-Copay waived if admitted.
-$300 copayment after deductible
-Paid as in-network
+*Durable Medical Equipment  
+ 
+ 
+Motorized Wheelchair 
+Deductible + 20% 
+Deductible + 30% 
+All Other 
+Deductible + 20% 
+Deductible + 30%
 
-Non-Emergency Care in an Emergency Room
-Not covered
-Not covered
+*Prosthetics and Medical Brace Device 
+Deductible + 20% 
+Deductible + 30% 
+*Home Health Care (per day) 
+Deductible + 20% 
+Deductible + 30%
 
-Emergency Use of Ambulance
-Covered in full after deductible
-Paid as in-network
+*Skilled Nursing Facility (per day) 
+Deductible + 20% 
+Deductible + 30% 
+Hospice (per day) 
+Deductible + 20% 
+Deductible + 30%
 
-Non-Emergency Use of Ambulance
-Covered in full after deductible
-Paid as in-network
-
-### HOSPITAL CARE
-NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Inpatient Coverage
-Including maternity (delivery and postpartum care).
-The member cost sharing applies to all covered
-benefits incurred during a member's inpatient stay.
-
-Covered in full after deductible
-50% after deductible
-
-Outpatient Surgery
-Provided in an outpatient hospital department or
-freestanding surgical facility.
-
-Covered in full after deductible
-50% after deductible
-
-Colonoscopy
-(non-preventive)
-Cost-sharing is based on type of
-service and where it is received.
-Cost-sharing is based on type of
-service and where it is received.
-
-Transplants
-Coverage is limited to IOE facilities only.
-Covered in full after deductible
-Not covered
-
-### BEHAVIORAL HEALTH SERVICES
-
-(MENTAL HEALTH and SUBSTANCE RELATED
-
-### DISORDERS)
-
-### NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Inpatient Services
-(including inpatient residential treatment facility)
-The member cost sharing applies to all covered
-benefits incurred during a member's inpatient stay.
-
-Covered in full after deductible
-50% after deductible
-
-Outpatient Office Visits
-The member cost sharing applies to all covered
-benefits incurred during a member's outpatient visit.
-
-Covered in full
-50% after deductible
-
-Physician or Behavioral Health Provider
-Telemedicine Consultations
-Covered in full
-50% after deductible
-
-Telemedicine Provider Consultations
-Covered in full
+*Enteral Formulas 
+Deductible + 20% 
+Deductible + 30% 
+Telehealth Services  
+ 
+ 
+General Medicine visit rendered by a designated Telehealth Services Provider 
+Deductible 
+Not Covered 
+Mental Health/Behavioral Health visit rendered by a designated Telehealth Services Provider 
+Deductible + 20% 
 Not Covered
 
-Other Outpatient Services
-(Includes partial hospitalization treatment, intensive
-outpatient program.)
+Diabetes Care Management
 
-Covered in full after deductible
-50% after deductible
+Diabetes Outpatient Self-Management Education  
+$0 
+Not Covered 
+Glucometer (2 per year) 
+$0 
+Not Covered 
+50 Test Strips (per box) 
+$10 Copay 
+Not Covered 
+Lancets (per box) 
+$4 Copay 
+Not Covered
 
-### THERAPY SERVICES
-NETWORK CARE
-OUT-OF-NETWORK CARE
+*Prior Authorization is Required: There are certain medical services, supplies and medications for which members are required to obtain 
+Prior Authorization before receiving. If you don’t obtain prior authorization from FHCP, you will have to pay the entire cost of the service, 
+supply or medication. Before receiving a service, supply or medication you should visit www.fhcp.com or call toll-free 1-877-615-4022 to see if 
+prior authorization is required.
 
-Outpatient Chiropractic/Spinal Manipulation
-Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined.
+Benefit Maximums – Combined Limit In-Network and Out-of-Network
 
-$75 copayment after deductible
-50% after deductible
+Home Health Care 
+20 Days PBP
 
-Print Date: 06/19/2024
-TPID: 30018710
-Page 3
+OT, PT, ST Outpatient Rehabilitation Therapy 
+35 Visits PBP
+
+OT, PT, ST Outpatient Habilitation Therapy 
+35 Visits PBP
+
+Cardiac and Pulmonary Therapy  
+35 Visits PBP
+
+Chiropractic Care  
+26 Visits PBP
+
+Skilled Nursing/Rehabilitation Facility  
+60 Days PBP
+
+Behavioral Health Residential Facility  
+60 Days PBP
 
 
 
@@ -908,515 +774,222 @@ Page 3
 
 ### Table (Page 4)
 
-| Outpatient Short-Term Rehabilitation - Physical
-Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
-| --- | --- | --- |
-| Outpatient Short-Term Rehabilitation -
-Occupational Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
-| Outpatient Short-Term Rehabilitation - Speech
-Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined. | $75 copayment after deductible | 50% after deductible |
-| Habilitative Physical, Occupational and Speech
-Therapy | Covered in full after deductible | 50% after deductible |
-| Autism Physical, Occupational and Speech
-Therapy | Covered in full after deductible | 50% after deductible |
-| Autism Behavioral Therapy | Covered in full | 50% after deductible |
-| Autism Applied Behavior Analysis | Covered in full after deductible | 50% after deductible |
-| OTHER SERVICES | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Skilled Nursing Facility
-Coverage is limited to 60 days per year.
-The member cost sharing applies to all covered
-benefits incurring during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
-| Home Health Care
-Coverage is limited to 60 visits per year. | Covered in full after deductible | 50% after deductible |
-| Infusion Therapy
-Provided in the home or physician's office. | Covered in full after deductible | 50% after deductible |
-| Infusion Therapy
-Provided in the outpatient hospital department of
-freestanding facility. | Covered in full after deductible | 50% after deductible |
-| Gene-Based, Cellular and Other Innovative
-Therapies (GCIT)
-Coverage is limited to GCIT-designated facilities only. | Cost-sharing is based on type of
-service and where it is received. | Not Covered |
-| Inpatient Hospice Care
-The member cost sharing applies to all covered
-benefits incurred during a member's inpatient stay. | Covered in full after deductible | 50% after deductible |
-| Outpatient Hospice Care
-The member cost sharing applies to all covered
-benefits incurred during a member's outpatient visit. | Covered in full after deductible | 50% after deductible |
-| Private Duty Nursing - Outpatient | Not covered | Not covered |
-| Acupuncture
-Coverage is limited to 10 visits per year. | $25 copay deductible waived | 50% after deductible |
-| Durable Medical Equipment | 50% after deductible | 50% after deductible |
-| Prosthetics | 50% after deductible | 50% after deductible |
-| Diabetic Supplies not obtainable at a pharmacy | Covered same as any other medical
-expense. | Covered same as any other medical
-expense. |
-| Mouth, Jaws and Teeth
-Coverage for medical in nature oral surgery only. No
-coverage for dental in nature oral surgery or for
-removal of impacted teeth. | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| Bariatric Surgery | Not Covered | Not Covered |
-| FAMILY PLANNING | NETWORK CARE | OUT-OF-NETWORK CARE |
+|  | Prescription Drug Program |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Pharmacy Network: A Preferred Retail pharmacy is an FHCP owned and operated pharmacy. A Non-Preferred Retail Pharmacy is a participating |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | network pharmacy that is listed in FHCP’s Pharmacy Directory and is not owned and operated by FHCP. Members must use a Preferred FHCP |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | pharmacy or a Non-Preferred Retail pharmacy to have a prescription filled or the member will have to pay the full cost of the drug (except in certain |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | situations such as emergencies). Mail Order is only available through FHCP Mail Order Pharmacy. Members should log into their member account at |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | www.fhcp.com and click Find a Pharmacy to locate a Network Provider pharmacy. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Retail Network Pharmacies
+(1 month supply) |  |  |  |  |  |  |  |  |  |  | Mail Order
+(3 month supply) |  |  |
+|  |  | Preferred - FHCP |  |  |  |  | Non-Preferred |  |  |  |  |  | FHCP Only |  |  |
+| Generic Drugs
+Preventive (e.g., oral contraceptives)
+Preferred Generic
+Non-Preferred Generic |  | $0
+Deductible + $3 Copay
+Deductible + $10 Copay |  |  |  |  | Not Covered
+Deductible + $15 Copay
+Deductible + $20 Copay |  |  |  |  |  | $0
+Deductible + $6 Copay
+Deductible + $27 Copay |  |  |
+|  | Preferred Brand Drugs | Deductible + $30 Copay |  |  |  |  | Not Covered
+Deductible + $15 Copay
+Deductible + $20 Copay | Deductible + $40 Copay |  |  |  |  | $0
+Deductible + $6 Copay
+Deductible + $27 Copay | Deductible + $87 Copay |  |
+|  | Non-Preferred Brand Drugs | Deductible + $55 Copay |  |  |  |  | Not Covered
+Deductible + $15 Copay
+Deductible + $20 Copay | Deductible + $65 Copay |  |  |  |  | $0
+Deductible + $6 Copay
+Deductible + $27 Copay | Deductible + $162 Copay |  |
+|  | Specialty Drugs (Prior authorization is required) | Deductible + $55 Copay |  |  |  |  | Not Covered
+Deductible + $15 Copay
+Deductible + $20 Copay | Deductible + $65 Copay |  |  |  |  | $0
+Deductible + $6 Copay
+Deductible + $27 Copay | Deductible + $162 Copay |  |
+|  | Preferred Specialty | Deductible + 40% |  |  |  |  | Not Covered
+Deductible + $15 Copay
+Deductible + $20 Copay | Not Covered |  |  |  |  | $0
+Deductible + $6 Copay
+Deductible + $27 Copay | Not Covered |  |
+|  | Non-Preferred Specialty | Deductible + 50% |  |  |  |  | Not Covered
+Deductible + $15 Copay
+Deductible + $20 Copay | Not Covered |  |  |  |  | $0
+Deductible + $6 Copay
+Deductible + $27 Copay | Not Covered |  |
+| If a Brand Name Prescription Drug is requested when there is a Generic Prescription Drug available, the member will be responsible for paying the Usual
+and Customary cash price for that prescription.
+FHCP Pharmacy benefit provides coverage for Generic contraceptive medications or supplies (e.g., oral contraceptives, emergency contraceptive, and
+diaphragms) at no cost when obtained from a pharmacy owned and operated by FHCP. FHCP’s Pharmacy Benefit also covers certain preventive
+medications at no cost in accordance with the United States Preventative Task Force (USPSTF) Affordable Care Act A and B recommendations as long
+as all criteria are met and the medication is obtained from a FHCP owned and operated pharmacy. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
 
-### PLAN DESIGN & BENEFITS
 
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
+### Table (Page 4)
 
-Outpatient Short-Term Rehabilitation - Physical
-Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined.
+|  | Pediatric Vision |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Network Provider Services: The services listed below must be received from a Network Provider or the member will have to pay the full cost of the |  |  |  |  |  |  |  |  |
+|  | service (except in certain situations such as emergencies). Members should log onto www.fhcp.com and click Find a Provider/Facility to locate a |  |  |  |  |  |  |  |  |
+|  | Network Provider near them. |  |  |  |  |  |  |  |  |
+| Eyeglass Exam (1x per year) |  |  | $10 Copay |  |  |  | Not Covered |  |  |
+| Eyeglasses (includes frames & lenses - single vision, bifocal, trifocal or lenticular) |  |  | $25 Copay |  |  |  | Not Covered |  |  |
+| Contact Lenses Exam (1x per year) (Instead of eyeglass exam) |  |  | $50 Copay |  |  |  | Not Covered |  |  |
+| Contact Lenses (2 boxes, 1x per year) (Instead of eyeglasses) |  |  | $25 Copay |  |  |  | Not Covered |  |  |
+| Note: Anything over the allowance will not count toward your out-of-pocket maximum limitation. |  |  |  |  |  |  |  |  |  |
+|  | Pediatric Dental |  |  |  |  |  |  |  |  |
+|  | Preventive, Basic and Major Services |  |  | $0 |  |  |  |  |  |
 
-$75 copayment after deductible
-50% after deductible
 
-Outpatient Short-Term Rehabilitation -
-Occupational Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined.
 
-$75 copayment after deductible
-50% after deductible
+### Table (Page 4)
 
-Outpatient Short-Term Rehabilitation - Speech
-Therapy
-Coverage is limited to 60 visits per year
-PT/OT/ST/Chiro combined.
+|  | Wellness Certificate |  |  |
+| --- | --- | --- | --- |
+|  | Fitness Center Access | Covered |  |
 
-$75 copayment after deductible
-50% after deductible
+Gym Access SMAG Silver POS HSA 2566 
+Health Benefit Plan P23
 
-Habilitative Physical, Occupational and Speech
-Therapy
-Covered in full after deductible
-50% after deductible
+P23 – 1/25                56503FL2130001-00 
+               Page 4 of 5 
+SMAGPOSSOB1.25
 
-Autism Physical, Occupational and Speech
-Therapy
-Covered in full after deductible
-50% after deductible
+Schedule of Benefits for Covered Services 
+Amount Member Pays
 
-Autism Behavioral Therapy
-Covered in full
-50% after deductible
+Prescription Drug Program
 
-Autism Applied Behavior Analysis
-Covered in full after deductible
-50% after deductible
+Pharmacy Network: A Preferred Retail pharmacy is an FHCP owned and operated pharmacy.  A Non-Preferred Retail Pharmacy is a participating 
+network pharmacy that is listed in FHCP’s Pharmacy Directory and is not owned and operated by FHCP.  Members must use a Preferred FHCP 
+pharmacy or a Non-Preferred Retail pharmacy to have a prescription filled or the member will have to pay the full cost of the drug (except in certain 
+situations such as emergencies).  Mail Order is only available through FHCP Mail Order Pharmacy. Members should log into their member account at 
+www.fhcp.com and click Find a Pharmacy to locate a Network Provider pharmacy.
 
-### OTHER SERVICES
-NETWORK CARE
-OUT-OF-NETWORK CARE
+Retail Network Pharmacies
 
-Skilled Nursing Facility
-Coverage is limited to 60 days per year.
+(1 month supply)
 
-The member cost sharing applies to all covered
-benefits incurring during a member's inpatient stay.
+Mail Order 
+(3 month supply)
 
-Covered in full after deductible
-50% after deductible
+Preferred - FHCP 
+Non-Preferred  
+FHCP Only 
+Generic Drugs
 
-Home Health Care
-Coverage is limited to 60 visits per year.
-Covered in full after deductible
-50% after deductible
+Preventive (e.g., oral contraceptives) 
+Preferred Generic 
+Non-Preferred Generic
 
-Infusion Therapy
-Provided in the home or physician's office.
-Covered in full after deductible
-50% after deductible
+$0 
+Deductible + $3 Copay 
+Deductible + $10 Copay
 
-Infusion Therapy
-Provided in the outpatient hospital department of
-freestanding facility.
+Not Covered 
+Deductible + $15 Copay 
+Deductible + $20 Copay
 
-Covered in full after deductible
-50% after deductible
+$0 
+Deductible + $6 Copay 
+Deductible + $27 Copay 
+Preferred Brand Drugs 
+Deductible + $30 Copay 
+Deductible + $40 Copay 
+Deductible + $87 Copay
 
-Gene-Based, Cellular and Other Innovative
-Therapies (GCIT)
-Coverage is limited to GCIT-designated facilities only.
+Non-Preferred Brand Drugs 
+Deductible + $55 Copay 
+Deductible + $65 Copay 
+Deductible + $162 Copay 
+Specialty Drugs (Prior authorization is required)
 
-Cost-sharing is based on type of
-service and where it is received.
+Preferred Specialty 
+Deductible + 40% 
+Not Covered 
+Not Covered 
+Non-Preferred Specialty 
+Deductible + 50% 
+Not Covered 
+Not Covered 
+If a Brand Name Prescription Drug is requested when there is a Generic Prescription Drug available, the member will be responsible for paying the Usual 
+and Customary cash price for that prescription.
+
+FHCP Pharmacy benefit provides coverage for Generic contraceptive medications or supplies (e.g., oral contraceptives, emergency contraceptive, and 
+diaphragms) at no cost when obtained from a pharmacy owned and operated by FHCP.  FHCP’s Pharmacy Benefit also covers certain preventive 
+medications at no cost in accordance with the United States Preventative Task Force (USPSTF) Affordable Care Act A and B recommendations as long 
+as all criteria are met and the medication is obtained from a FHCP owned and operated pharmacy.
+
+Schedule of Benefits for Covered Services
+
+Amount Member Pays   
+Network Provider 
+Out-of-Network Provider
+
+Pediatric Vision
+
+Network Provider Services:  The services listed below must be received from a Network Provider or the member will have to pay the full cost of the 
+service (except in certain situations such as emergencies). Members should log onto www.fhcp.com and click Find a Provider/Facility to locate a 
+Network Provider near them.  
+Eyeglass Exam (1x per year) 
+$10 Copay 
+Not Covered 
+Eyeglasses (includes frames & lenses - single vision, bifocal, trifocal or lenticular) 
+$25 Copay 
 Not Covered
 
-Inpatient Hospice Care
-The member cost sharing applies to all covered
-benefits incurred during a member's inpatient stay.
-
-Covered in full after deductible
-50% after deductible
-
-Outpatient Hospice Care
-The member cost sharing applies to all covered
-benefits incurred during a member's outpatient visit.
-
-Covered in full after deductible
-50% after deductible
-
-Private Duty Nursing - Outpatient
-Not covered
-Not covered
-
-Acupuncture
-Coverage is limited to 10 visits per year.
-$25 copay deductible waived
-50% after deductible
-
-Durable Medical Equipment
-50% after deductible
-50% after deductible
-
-Prosthetics
-50% after deductible
-50% after deductible
-
-Diabetic Supplies not obtainable at a pharmacy
-Covered same as any other medical
-expense.
-Covered same as any other medical
-expense.
-
-Mouth, Jaws and Teeth
-Coverage for medical in nature oral surgery only. No
-coverage for dental in nature oral surgery or for
-removal of impacted teeth.
-
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
-
-Bariatric Surgery
-Not Covered
+Contact Lenses Exam (1x per year) (Instead of eyeglass exam)  
+$50 Copay 
+Not Covered 
+Contact Lenses (2 boxes, 1x per year) (Instead of eyeglasses) 
+$25 Copay 
 Not Covered
 
-### FAMILY PLANNING
-NETWORK CARE
-OUT-OF-NETWORK CARE
+Note: Anything over the allowance will not count toward your out-of-pocket maximum limitation.
 
-Print Date: 06/19/2024
-TPID: 30018710
-Page 4
+Pediatric Dental
+
+Preventive, Basic and Major Services 
+$0
+
+Wellness Certificate
+
+Fitness Center Access 
+Covered
 
 
 
 ## Page 5
 
-
-
-### Table (Page 5)
-
-| Basic Infertility
-Coverage is limited to the diagnosis and treatment of
-the underlying medical condition, including artificial
-insemination. | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| --- | --- | --- |
-| Advanced Reproductive Technology (ART)
-In-vitro fertilization (IVF), zygote intrafallopian transfer
-(ZIFT), gamete intrafallopian transfer (GIFT),
-cryopreserved embryo transfers, intracytoplasmic
-sperm injection (ICSI), or ovum microsurgery and
-ovulation induction | Not Covered | Not Covered |
-| Fertility preservation | Not Covered | Not Covered |
-| Vasectomy | Cost-sharing is based on type of
-service and where it is received. | 50% after deductible |
-| Tubal Ligation | Covered in full | 50% after deductible |
-| PHARMACY DEDUCTIBLE | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Prescription drug calendar year deductible | Not Applicable under both the
-network care and out-of-network
-columns. | Not Applicable under both the
-network care and out-of-network
-columns. |
-| PHARMACY - PRESCRIPTION
-DRUG BENEFITS | NETWORK CARE | OUT-OF-NETWORK CARE |
-| Generic Drugs |  |  |
-| Retail | Generic - T1A: $3 copayment
-Generic - T1: $10 copayment | 50% |
-| Mail Order | Generic - T1A: $6 copayment
-Generic - T1: $20 copayment | Not covered |
-| Preferred Brand Drugs | Generic - T1A: $6 copayment
-Generic - T1: $20 copayment |  |
-| Retail | $45 copayment | 50% |
-| Mail Order | $90 copayment | Not covered |
-| Non-Preferred Generic and Brand Drugs | $90 copayment |  |
-| Retail | $75 copayment | 50% |
-| Mail Order | $150 copayment | Not covered |
-| Specialty Drugs | $150 copayment |  |
-| Preferred Specialty | 20% up to $250 | Not covered |
-| Non-Preferred Specialty | 40% up to $500 | Not covered |
-| Pharmacy Day Supply and Requirements | 40% up to $500 |  |
-| Retail
-Up to 30 day supply from the Aetna National Pharmacy Network |  |  |
-| Mail Order
-31-90 day supply from a participating mail service pharmacy or at selected participating retail providers |  |  |
-| Maintenance Choice® with Opt Out - After two retail fills, members must choose to fill a 90-day supply of their maintenance
-drugs at a participating mail service pharmacy or at selected participating retail providers. If the member wants to continue to fill
-their 30-day supply at any other network pharmacy, they simply need to call us at the number on their member ID card. If they do
-not notify us that they want to opt out of the 90-day supply at a participating mail service pharmacy or at selected participating
-retail providers, they’ll be responsible for 100 percent of their medication cost. The member may call us any time, even from the
-pharmacy, to let us know that they intend to opt out of the benefit. |  |  |
-| Specialty- Up to a 30 day supply. All prescription fills must be through our preferred specialty pharmacy network, Aetna Specialty
-Network. |  |  |
-| True Accumulation - Some specialty prescription drugs may qualify for third-party copay assistance programs, like a
-manufacturer coupon or a rebate. These could lower out-of-pocket costs. Any amount received through one of these programs will
-not apply towards the Deductible or Out-of-Pocket Maximum. |  |  |
-
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
-
-### PLAN DESIGN & BENEFITS
-
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
-
-Basic Infertility
-Coverage is limited to the diagnosis and treatment of
-the underlying medical condition, including artificial
-insemination.
-
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
-
-Advanced Reproductive Technology (ART)
-In-vitro fertilization (IVF), zygote intrafallopian transfer
-(ZIFT), gamete intrafallopian transfer (GIFT),
-cryopreserved embryo transfers, intracytoplasmic
-sperm injection (ICSI), or ovum microsurgery and
-ovulation induction
-
-Not Covered
-Not Covered
-
-Fertility preservation
-Not Covered
-Not Covered
-
-Vasectomy
-Cost-sharing is based on type of
-service and where it is received.
-50% after deductible
-
-Tubal Ligation
-Covered in full
-50% after deductible
-
-### PHARMACY DEDUCTIBLE
-NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Prescription drug calendar year deductible
-Not Applicable under both the
-network care and out-of-network
-columns.
-
-Not Applicable under both the
-network care and out-of-network
-columns.
-
-### PHARMACY - PRESCRIPTION
-
-### DRUG BENEFITS
-NETWORK CARE
-OUT-OF-NETWORK CARE
-
-Generic Drugs
-
-Retail Generic - T1A: $3 copayment
-Generic - T1: $10 copayment
-50%
-
-Mail Order Generic - T1A: $6 copayment
-Generic - T1: $20 copayment
-Not covered
-
-Preferred Brand Drugs
-
-Retail $45 copayment
-50%
-
-Mail Order $90 copayment
-Not covered
-
-Non-Preferred Generic and Brand Drugs
-
-Retail
-$75 copayment
-50%
-
-Mail Order
-$150 copayment
-Not covered
-
-Specialty Drugs
-
-Preferred Specialty 20% up to $250
-Not covered
-
-Non-Preferred Specialty 40% up to $500
-Not covered
-
-Pharmacy Day Supply and Requirements
-
-Retail
-Up to 30 day supply from the Aetna National Pharmacy Network
-
-Mail Order
-31-90 day supply from a participating mail service pharmacy or at selected participating retail providers
-
-Maintenance Choice® with Opt Out -  After two retail fills, members must choose to fill a 90-day supply of their maintenance
-drugs at a participating mail service pharmacy or at selected participating retail providers. If the member wants to continue to fill
-their 30-day supply at any other network pharmacy, they simply need to call us at the number on their member ID card. If they do
-not notify us that they want to opt out of the 90-day supply at a participating mail service pharmacy or at selected participating
-retail providers, they’ll be responsible for 100 percent of their medication cost. The member may call us any time, even from the
-pharmacy, to let us know that they intend to opt out of the benefit.
-
-Specialty- Up to a 30 day supply. All prescription fills must be through our preferred specialty pharmacy network,  Aetna Specialty
-Network.
-
-True Accumulation - Some specialty prescription drugs may qualify for third-party copay assistance programs, like a
-manufacturer coupon or a rebate. These could lower out-of-pocket costs. Any amount received through one of these programs will
-not apply towards the Deductible or Out-of-Pocket Maximum.
-
-Choose Generics with Dispense as Written (DAW) override - The member pays the applicable cost-sharing only if the
-physician requires brand. If the member requests brand when a generic is available, the member pays the applicable cost-sharing
-plus the cost difference between the generic and brand. The cost difference between the generic and brand does not count toward
-the Deductible or Out-of-Pocket Maximum.
-
-Precertification -  Included. See formulary for details.
-
-Step Therapy -    Included. See formulary for details.
-
-Print Date: 06/19/2024
-TPID: 30018710
-Page 5
-
-
-
-## Page 6
-
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
-
-### PLAN DESIGN & BENEFITS
-
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
-
-Pharmacy Plan includes:
-
-Contraceptive drugs and devices obtainable from a pharmacy, Oral fertility drugs, Diabetic supplies.
-
-Affordable Care Act mandated female contraceptives and preventive medications covered 100% in-network.
-
-Contraceptives may be dispensed for up to a 12 month supply at one time.
-
-Preventive and seasonal vaccinations covered 100% in-network.
-
-Cost-share is $0 copay, deductible waived, for preferred generic and brand diabetic supplies and preferred generic and brand
-insulin.
-
-Performance Enhancing Drugs - Coverage is excluded for lifestyle/performance drugs.
-
-Not all drugs are covered. It is important to look at the Drug List (Advanced Control Plan - Aetna Formulary) to understand which
-drugs are covered.
-
-*How out-of-network care is reimbursed:
-
-We cover the cost of services based on whether doctors are “in network” or “out of network.” We want to help members
-understand how much Aetna pays for their out-of-network care. At the same time, we want to make it clear how much more
-members will need to pay for this "out-of-network" care.
-
-Members may choose a provider (doctor or hospital) in our network. Members may choose to visit an out-of-network provider. If a
-member chooses a doctor who is out of network, their Aetna health plan may pay some of that doctor's bill. Most of the time,
-members will pay a lot more money out of their own pocket if they choose to use an out-of-network doctor or hospital.
-
-When members choose out-of-network care, Aetna limits the amount it will pay. This limit is called the "recognized" or "allowed"
-amount.
-
-The members' doctor sets his or her own rate to charge members. These rates may be higher -- sometimes much higher -- than
-what the members' Aetna plan "recognizes." Members' doctors may bill them for the dollar amount that their plan doesn't
-"recognize." Members must also pay any copayments, coinsurance and deductibles under their plan. No dollar amount above the
-"recognized charge" counts toward their deductible or out-of-pocket maximums. To learn more about how we pay out-of-network
-benefits visit Aetna.com. Type "how Aetna pays" in the search box.
-
-Members can avoid these extra costs by getting their care from Aetna's network of health care providers. Go to www.aetna.com
-and click on "Find a Doctor" on the left side of the page. Members can sign on to the Aetna member site.
-
-This applies when members choose to get care out of network. When members have no choice (for example: emergency room
-visit after a car accident, or for other emergency services), we will pay the bill as if the member got care in network. Members pay
-cost sharing and deductibles for their in-network level of benefits. Members should contact Aetna if their health care provider asks
-them to pay more. Members are not responsible for any outstanding balance billed by their providers for emergency services
-beyond their cost sharing and deductibles.
-
-What's Not Covered
-
-This plan does not cover all health care expenses and includes exclusions and limitations.  Members should refer to their plan
-documents to determine which health care services are covered and to what extent.  The following is a partial list of services and
-supplies that are generally not covered.  However, your plan documents may contain exceptions to this list based on state
-mandates or the plan design or rider(s) purchased by your employer.
-
-All medical or hospital services not specifically covered in, or which are limited or excluded in the plan documents; Charges related
-to any eye surgery mainly to correct refractive errors;Cosmetic surgery; Custodial care; Dental services; Donor egg retrieval;
-Experimental and investigational procedures; Hearing aids; Immunizations for travel or work; Infertility services, including, but not
-limited to, advanced reproductive technologies such as IVF, ZIFT, GIFT, ICSI and other related services, unless specifically listed
-as covered in your plan documents;
-Nonmedically necessary services or supplies; Orthotics, except diabetic orthotics; Over-the-counter medications and supplies;
-Reversal of sterilization; Services for the treatment of sexual dysfunction or inadequacies, including therapy, supplies, or
-counseling; and special duty nursing. Weight control services including surgical procedures, medical treatments, weight
-control/loss programs, dietary regimens and supplements, appetite suppressants and other medications; food or food
-supplements, exercise programs, exercise or other equipment; and other services and supplies that are primarily intended to
-control weight or treat obesity, including Morbid Obesity, or for the purpose of weight reduction, regardless of the existence of
-comorbid conditions.
-
-Print Date: 06/19/2024
-TPID: 30018710
-Page 6
-
-
-
-## Page 7
-
-AFA CPOSII 1000 100-50 CY V24 (1-1-2025)
-Aetna Choice® POS II (Open Access)
-
-### PLAN DESIGN & BENEFITS
-
-### ADMINISTERED BY AETNA LIFE INSURANCE COMPANY
-
-This material is for informational purposes only and is neither an offer of coverage nor medical advice. It contains only a partial,
-general description of plan benefits or programs and does not constitute a contract.
-
-Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage.
-Plan features and availability may vary by location and are subject to change. Providers are independent contractors and are not
-our agents. Provider participation may change without notice. We do not provide care or guarantee access to health services.
-
-Medications on the Aetna Drug Guide, precertification, step-therapy and quantity limits lists are subject to change.
-
-Aetna, CVS Pharmacy® and MinuteClinic, LLC (which either operates or provides certain management support services to
-MinuteClinic-branded walk-in clinics) are part of the CVS Health® family of companies.CVS Caremark® Mail Service Pharmacy
-and Aetna are part of the CVS Health® family of companies.
-
-In case of emergency, call 911 or your local emergency hotline, or go directly to an emergency care facility.
-
-While this information is believed to be accurate as of the print date, it is subject to change. For more information about Aetna
-plans, refer to Aetna.com.
-
-Aetna Funding AdvantageSM plans are self-funded, meaning the benefits coverage is provided by the employer. Plans are
-administered by Aetna Life Insurance Company.
-
-Print Date: 06/19/2024
-TPID: 30018710
-Page 7
+Gym Access SMAG Silver POS HSA 2566 
+Health Benefit Plan P23
+
+P23 – 1/25                56503FL2130001-00 
+               Page 5 of 5 
+SMAGPOSSOB1.25
+
+Additional Benefits and Features 
+• To find out more about their benefits and/or treatment options, members are encouraged to call the Member Services Department at
+
+1-877-615-4022. This can help them save time and money. 
+• For a list of network providers, please visit  https://www.fhcp.com/our-provider-network or call 1 (877) 615-4022 to request a printed
+
+provider directory. 
+• Members have online access to view their health benefit plan information as well as self-service tools through the Member Portal at 
+www.fhcp.com. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This is not an insurance contract or Benefit Booklet. This Benefit Schedule is only a partial description of the many benefits and services 
+provided or authorized by Florida Health Care Plans. This does not constitute a contract. For a complete description of benefits and exclusions, 
+please see the Florida Health Care Plans Certificate of Coverage; its terms prevail.
 ---
