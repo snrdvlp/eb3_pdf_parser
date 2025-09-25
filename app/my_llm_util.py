@@ -1,6 +1,7 @@
 import json
 import re
 import time
+import math
 from .category_key_registry import get_required_keys
 
 CARRIER_DEFAULT_LIKE_KEYS = [
@@ -58,7 +59,7 @@ def filter_to_required_keys(predicted: dict, required_keys: list):
 
 
 def get_system_prompt(category, required_keys):
-    keys_str = "\n".join([f'- "{k}"' for k in required_keys])
+    # keys_str = "\n".join([f'- "{k}"' for k in required_keys])
     category = category.lower()
     special_instructions = SPECIAL_PROMPT_INSTRUCTIONS.get(category, "")
 
@@ -93,7 +94,7 @@ You are a highly accurate insurance PDF-to-JSON converter.
 ---
 **For all fields:**  
 Extract and output ONLY these fields (no extras and case-insensitive):
-{keys_str}
+{required_keys}
 ---
 **Output:** Output only the completed JSON object with all fields above, and nothing else.
 """
@@ -132,8 +133,7 @@ def ask_llm_mapping_logic(
     sample_pairs, 
     dest_pdf_text: str,
     category: str,
-    top_k_samples: int = 1,
-    max_new_tokens: int = 1024
+    top_k_samples: int = 1
 ) -> dict:
     t0 = time.perf_counter()
 
@@ -146,6 +146,11 @@ def ask_llm_mapping_logic(
     user_prompt_parts = []
     for i, (s_pdf, s_json) in enumerate(selected_samples):
         compact_json = json.dumps(s_json, separators=(",", ":"))
+
+        # Calculates estimated max_new_tokens
+        total_chars = len(compact_json)
+        max_new_tokens = math.ceil(total_chars * 0.5)
+
         user_prompt_parts.append(
             f"SAMPLE PDF #{i+1}:\n{s_pdf[:12000]}\nSAMPLE JSON #{i+1}:\n{compact_json}\n---\n"
         )
@@ -158,8 +163,10 @@ def ask_llm_mapping_logic(
         f.write(system_prompt)  # your PDF->text output
     with open("user_prompt.txt", "w", encoding="utf-8") as f:
         f.write(user_prompt)  # your PDF->text output
+
+    print(f"max_new_token: {max_new_tokens}")
         
-    raw = llm.chat(system_prompt, user_prompt, max_new_tokens=max_new_tokens)
+    raw = llm.chat(system_prompt, user_prompt, max_new_tokens)
 
     if isinstance(raw, dict):
         parsed = raw
