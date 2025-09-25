@@ -12,7 +12,7 @@ from .extract import pdf_to_text
 from .extract import pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
-from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, fill_from_matched_sample, replace_nulls
+from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
 
 
 db.init_sqlite()
@@ -90,20 +90,17 @@ async def extract_json_endpoint(
     # Record the open ai time
     elapsed = time.perf_counter() - temp
     temp = time.perf_counter()
-    print(f"Elapsed time for openai api call: {elapsed:.2f} seconds")
+    print(f"Elapsed time for llm api call: {elapsed:.2f} seconds")
     
 
     # Strictly filter to expected keys
     required_keys = get_required_keys(category)
     cleaned_result_json = filter_to_required_keys(result_json, required_keys)
-
-    # Fill from best sample for likely-shared fields
-    best_sample = sims[0]['json_data']
-    cleaned_result_json = fill_from_matched_sample(cleaned_result_json, best_sample)
-
+    
     # Replace None/null with ""
     cleaned_result_json = replace_nulls(cleaned_result_json)
 
+    best_sample = sims[0]['json_data']
     matched_plan = best_sample.get('Plan Name', '')
 
     # Record the total elapsed time
@@ -111,7 +108,7 @@ async def extract_json_endpoint(
     start = time.perf_counter()
     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-    return cleaned_result_json
+    # return cleaned_result_json
     return {
         "result_json": cleaned_result_json,
         "matched_sample_plan": matched_plan,
@@ -252,8 +249,3 @@ async def add_batch_endpoint(folder_path: str = Body(...), category: str = Body(
         "failures": [r for r in results if r["status"] != "ok"],
         "results": results
     }
-
-
-@app.get("/")
-def root():
-    return {"msg": "OK"}
