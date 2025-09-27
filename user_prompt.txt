@@ -5,139 +5,152 @@ SAMPLE PDF #1:
 
 ### Table (Page 1)
 
-|  |  |  |  |
+|  | TheSummaryofBenefitsandCoverage(SBC)documentwillhelpyouchooseahealthplan.TheSBCshowsyouhowyouandtheplanwouldsharethecost
+forcoveredhealthcareservices.NOTE:Informationaboutthecostofthisplan(calledthepremium)willbeprovidedseparately. |  |  |
 | --- | --- | --- | --- |
-|  | The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the
-cost for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately. |  |  |
-| This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, ProvidenceHealthPlan.com. For definitions of
-common terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined terms see the Glossary. You can view the
-Glossary at healthcare.gov/sbc-glossary or call 1-800-878-4445 to request a copy. |  |  |  |
-| Important Questions |  | Answers | Why This Matters: |
-| What is the overall
-deductible? |  | In-Network: $5,000 person / $10,000 family (2
-or more). | Generally, you must pay all of the costs from providers up to the deductible amount before this
-plan begins to pay. If you have other family members on the plan, each family member must
-meet their own individual deductible until the total amount of deductible expenses paid by all
-family members meets the overall family deductible. |
-| Are there services
-covered before you
-meet your deductible? |  | Yes. Most preventive care in-network. | This plan covers some items and services even if you haven’t yet met the deductible amount. But
-a copayment or coinsurance may apply. For example, this plan covers certain preventive services
-without cost-sharing and before you meet your deductible. See a list of covered preventive
-services at healthcare.gov/coverage/preventive-care-benefits/. |
-| Are there other
-deductibles for specific
-services? |  | No. | You don’t have to meet deductibles for specific services. |
-| What is the out-of-
-pocket limit for this
-plan? |  | In-Network: $8,900 person / $17,800 family (2
-or more). | The out-of-pocket limit is the most you could pay in a year for covered services. If you have other
-family members in this plan, they have to meet their own out-of-pocket limits until the overall
-family out-of-pocket limit has been met. |
-| What is not included in
-the out-of-pocket limit? |  | Premiums, balance billing, penalties, massage
-therapy, services not covered, fees above
-Usual, Customary and Reasonable (UCR). | Even though you pay these expenses, they don’t count toward the out-of-pocket limit. |
-| Will you pay less if
-you use a network
-provider? |  | Yes. See ProvidenceHealthPlan.com/
-findaprovider or call 1-800-878-4445 for a list
-of network providers. | This plan uses a provider network. You will pay less if you use a provider in the plan's network.
-You will pay the most if you use an out-of-network provider, and you might receive a bill from a
-provider for the difference between the provider's charge and what your plan pays (balance
-billing). Be aware, your network provider might use an out-of-network provider for some services
-(such as lab work). Check with your provider before you get services. |
-| Do you need a referral
-to see a specialist? |  | No. | You can see the specialist you choose without a referral. |
+| Thisisonlyasummary.Formoreinformationaboutyourcoverage,ortogetacopyofthecompletetermsofcoverage,call1-800-962-2242.Forgeneraldefinitionsofcommon
+terms,suchasallowedamount,balancebilling,coinsurance,copayment,deductible,provider,orotherunderlinedtermsseetheGlossary.YoucanviewtheGlossaryat
+www.healthcare.gov/sbc-glossaryorcall1-888-428-2566torequestacopy. |  |  |  |
+| ImportantQuestions |  | Answers | WhyThisMatters: |
+| Whatistheoverall
+deductible? |  | $2,000/Individual,$4,000/Familyin-networkproviders;
+$5,000/Individual,$10,000/Familyout-of-network
+providers.
+Deductibleappliestoallservices,including
+prescriptiondrug,beforeanycopaymentor
+coinsuranceareapplied. | Generally,youmustpayallofthecostsfromprovidersuptothedeductible.amount
+beforethisplanbeginstopay.Ifyouhaveotherfamilymembersontheplan,theoverall
+familydeductiblemustbemetbeforetheplanbeginstopay. |
+| Arethereservices
+coveredbeforeyoumeet
+yourdeductible? |  | Yes.in-networkpreventiveservices. | Thisplancoverssomeitemsandservicesevenifyouhaven’tyetmettheannual
+deductibleamount.Butacopaymentorcoinsurancemayapply.Forexample,thisplan
+coverscertainpreventiveserviceswithoutcost-sharingandbeforeyoumeetyour
+deductible.Seealistofcoveredpreventiveservicesat
+https://www.healthcare.gov/coverage/preventive-care-benefits/. |
+| Arethereother
+deductiblesforspecific
+services? |  | Yes.$50forpediatricdental.Therearenoother
+specificdeductibles. | Youmustpayallofthecostsfortheseservicesuptothespecificdeductibleamount
+beforethisplanbeginstopayfortheseservices. |
+| Whatistheout-of-pocket
+limitforthisplan? |  | Forin-networkproviders$6,900/Individual,
+$13,800/Family;
+forout-of-networkproviders$10,000/Individual,
+$20,000/Family.
+Combinedout-of-pocketlimitfornetworkmedicaland
+prescriptiondrug. | Theout-of-pocketlimitisthemostyoucouldpayinayearforcoveredservices.Ifyou
+haveotherfamilymembersinthisplan,theyhavetomeettheirownout-of-pocketlimits
+untiltheoverallfamilyout-of-pocketlimithasbeenmet. |
+| Whatisnotincludedin
+theout-of-pocketlimit? |  | Premiums,balancebillingcharges,andhealthcare
+thisplandoesn'tcover. | Eventhoughyoupaytheseexpensestheydon’tcounttowardtheout-of-pocketlimit. |
+| Willyoupaylessifyou
+useanetworkprovider? |  | Yes.Foralistofin-networkproviders,see
+capitalbluecross.comorcall1-800-962-2242. | Thisplanusesaprovidernetwork.Youwillpaylessifyouuseaproviderintheplan’s
+network.Youwillpaythemostifyouuseanout-of-networkprovider,andyoumight
+receiveabillfromaproviderforthedifferencebetweentheprovider’schargeandwhat
+yourplanpays(balancebilling).Beaware,yournetworkprovidermightuseanout-of-
+networkproviderforsomeservices(suchaslabwork).Checkwithyourproviderbefore
+yougetservices. |
+| Doyouneedareferralto
+seeaspecialist? |  | No. | Youcanseethespecialistyouchoosewithoutareferral. |
 
-### V: 20.8.0.0
+Summary of Benefits and Coverage: What this Plan Covers & What You Pay For Covered Services
+Coverage Period: Beginning on or after 01/01/2025
 
-(DT - OMB control number: 1545-0047/Expiration Date: 12/31/2019)(DOL - OMB control number: 1210-0147/Expiration date: 5/31/2022) 
-(HHS - OMB control number: 0938-1146/Expiration date: 10/31/2022)
+Capital Blue Cross1
+Gold QHDHP PPO 2000/0/10
+Coverage For: Individual and Family | Plan Type: QHDHP PPO
 
-Columbia 5000 Silver 45834WA0490002-00 2748470111
+01/01/2025 - Small Group PPACA
+SG Generic-PPQCJ650/RXQCJ650
+1 of 7
 
-Summary of Benefits and Coverage: What this Plan Covers & What You Pay for Covered Services
-Coverage Period: 01/01/2025 - 12/31/2025
-Providence Health Plan: Columbia 5000 Silver
-Coverage for: Individual and Family | Plan Type: EPO
+The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the cost
+for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately.
 
-The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the 
-cost for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately.
-
-This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, ProvidenceHealthPlan.com. For definitions of 
-common terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined  terms see the Glossary. You can view the 
-Glossary at healthcare.gov/sbc-glossary or call 1-800-878-4445 to request a copy.
+This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, call 1-800-962-2242. For general definitions of common
+terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined terms see the Glossary. You can view the Glossary at
+www.healthcare.gov/sbc-glossary or call 1-888-428-2566 to request a copy.
 
 Important Questions
 Answers
 Why This Matters:
 
-What is the overall 
+What is the overall
 deductible?
 
-In-Network: $5,000 person / $10,000 family (2 
-or more).
+$2,000/Individual, $4,000/Family in-network providers;
+$5,000/Individual, $10,000/Family out-of-network
+providers.
+Deductible applies to all services, including
+prescription drug, before any copayment or
+coinsurance are applied.
 
-Generally, you must pay all of the costs from providers up to the deductible amount before this 
-plan begins to pay. If you have other family members on the plan, each family member must 
-meet their own individual deductible until the total amount of deductible expenses paid by all 
-family members meets the overall family deductible.
+Generally, you must pay all of the costs from providers up to the deductible. amount
+before this plan begins to pay. If you have other family members on the plan, the overall
+family deductible must be met before the plan begins to pay.
 
-Are there services 
-covered before you 
-meet your deductible?
+Are there services
+covered before you meet
+your deductible?
 
-Yes. Most preventive care in-network.
-
-This plan covers some items and services even if you haven’t yet met the deductible amount. But 
-a copayment or coinsurance may apply. For example, this plan covers certain preventive services
- without cost-sharing and before you meet your deductible. See a list of covered preventive 
-services at healthcare.gov/coverage/preventive-care-benefits/.
-Are there other 
-deductibles for specific 
+Yes. in-network preventive services.
+This plan covers some items and services even if you haven’t yet met the annual
+deductible amount. But a copayment or coinsurance may apply. For example, this plan
+covers certain preventive services without cost-sharing and before you meet your
+deductible. See a list of covered preventive services at
+https://www.healthcare.gov/coverage/preventive-care-benefits/.
+Are there other
+deductibles for specific
 services?
-No.
-You don’t have to meet deductibles for specific services.
 
-What is the out-of-
-pocket limit for this 
-plan?
+Yes. $50 for pediatric dental. There are no other
+specific deductibles.
 
-In-Network: $8,900 person / $17,800 family (2 
-or more).
+You must pay all of the costs for these services up to the specific deductible amount
+before this plan begins to pay for these services.
 
-The out-of-pocket limit is the most you could pay in a year for covered services. If you have other 
-family members in this plan, they have to meet their own out-of-pocket limits until the overall 
-family out-of-pocket limit has been met.
+What is the out-of-pocket
+limit for this plan?
 
-What is not included in 
+For in-network providers $6,900/Individual,
+$13,800/Family;
+for out-of-network providers $10,000/Individual,
+$20,000/Family.
+Combined out-of-pocket limit for network medical and
+prescription drug.
+
+The out-of-pocket limit is the most you could pay in a year for covered services. If you
+have other family members in this plan, they have to meet their own out-of-pocket limits
+until the overall family out-of-pocket limit has been met.
+
+What is not included in
 the out-of-pocket limit?
 
-Premiums, balance billing, penalties, massage 
-therapy, services not covered, fees above 
-Usual, Customary and Reasonable (UCR).
-Even though you pay these expenses, they don’t count toward the out-of-pocket limit.
+Premiums, balance billing charges, and health care
+this plan doesn't cover.
 
-Will you pay less if 
-you use a network 
-provider?
+Even though you pay these expenses they don’t count toward the out-of-pocket limit.
 
-Yes. See ProvidenceHealthPlan.com/
-findaprovider or call 1-800-878-4445 for a list 
-of network providers.
+Will you pay less if you
+use a network provider?
 
-This plan uses a provider network. You will pay less if you use a provider in the plan's network. 
-You will pay the most if you use an out-of-network provider, and you might receive a bill from a 
-provider for the difference between the provider's charge and what your plan pays (balance 
-billing). Be aware, your network provider might use an out-of-network provider for some services 
-(such as lab work). Check with your provider before you get services.
-Do you need a referral 
-to see a specialist?
+Yes. For a list of in-network providers, see
+capitalbluecross.com or call 1-800-962-2242.
+
+This plan uses a provider network. You will pay less if you use a provider in the plan’s
+network. You will pay the most if you use an out-of-network provider, and you might
+receive a bill from a provider for the difference between the provider’s charge and what
+your plan pays (balance billing). Be aware, your network provider might use an out-of-
+network provider for some services (such as lab work). Check with your provider before
+you get services.
+Do you need a referral to
+see a specialist?
+
 No.
 You can see the specialist you choose without a referral.
-
-Page 1 of 8
 
 
 
@@ -147,118 +160,177 @@ Page 1 of 8
 
 ### Table (Page 2)
 
-| All copayment and coinsurance costs shown in this chart are after your deductible has been met, if a deductible applies. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| Common Medical Event | Services You May Need |  |  | Limitations, Exceptions, & Other Important
-Information |
-|  |  | What You Will Pay |  |  |
-|  |  | Network Provider (You will
-pay the least) | Out-of-Network Provider
-(You will pay the most) |  |
-| If you visit a health
-care provider's office
-or clinic | Primary care visit to treat an
-injury or illness | $45 copay/per visit;
-deductible does not apply | Not covered | Some services such as lab and x-ray will
-include additional member costs. Providence
-ExpressCare phone and video visits are
-covered in full in-network. |
-|  | Specialist visit | $65 copay/per visit;
-deductible does not apply | Not covered | Some services such as lab and x-ray will
-include additional member costs. |
-|  | Preventive care/screening/
-immunization | No charge; deductible does
-not apply | Not covered | Not all preventive services are required to be
-covered in full by the ACA. For more
-information on preventive services that are
-covered in full see: ProvidenceHealthPlan.com/
-PreventiveCare. You may have to pay for
-services that aren’t preventive. Ask your
-provider if the services needed are preventive.
-Then check what your plan will pay for. |
-| If you have a test | Diagnostic test (x-ray, blood
-work) | 35% coinsurance; deductible
-does not apply | Not covered | None |
-|  | Imaging (CT/PET scans, MRIs) | 35% coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services. |
+|  | Allcopaymentandcoinsurancecostsshowninthischartareafteryourdeductiblehasbeenmet,ifadeductibleapplies. |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Common
+MedicalEvent |  | ServicesYouMayNeed | WhatYouWillPay |  | Limitations,Exceptions,&Other
+ImportantInformation |
+|  |  |  | In-networkProvider
+(Youwillpaytheleast) | Out-of-networkProvider
+(Youwillpaythemost) |  |
+| Ifyouvisitahealthcare
+provider’sofficeorclinic |  | Primarycarevisittotreatan
+injuryorillness | $10copayment/Visit | 50%coinsurance | None |
+|  |  | Specialistvisit | $20copayment/Visit | 50%coinsurance | None |
+|  |  | Preventive
+care/screening/immunization | NoCharge | 50%coinsurance | Deductibledoesnotapplytoservicesat
+in-networkproviders.Youmayhavetopay
+forservicesthataren’tpreventive.Ask
+yourprovideriftheservicesyouneedare
+preventive.Thencheckwhatyourplanwill
+payfor. |
+| Ifyouhaveatest |  | Diagnostictest(x-ray,blood
+work) | $20copayment/Visitfor
+FacilityOwnedlabs,$10
+copayment/Visitfor
+IndependentLabsandNo
+Chargefortests.NoCharge
+foroutpatientradiology. | 50%coinsurance | Copaymentwaivedformentalhealthand
+substanceusedisorderlabservices. |
+|  |  | Imaging(CT/PETscans,
+MRIs) | NoCharge | 50%coinsurance | *Seepreauthorizationscheduleattached
+toyourplandocument. |
+| Ifyouneeddrugstotreatyour
+illnessorcondition
+Moreinformationabout
+prescriptiondrugcoverageis
+availablebycalling
+1-800-962-2242 |  | Genericdrugs | $7copayment/prescriptionpreferredand
+$25copayment/prescriptionnon-preferred(retail)
+$14copayment/prescriptionpreferredand
+$50copayment/prescriptionnon-preferred(homedelivery) |  | Coversuptoa30-daysupply(retail)90-
+daysupply(homedelivery). |
+|  |  | Preferredbranddrugs | $55copayment/prescription(retail)
+$110copayment/prescription(homedelivery) |  | Coversuptoa30-daysupply(retail)90-
+daysupply(homedelivery). |
+|  |  | NonPreferredbranddrugs | $80copayment/prescription(retail)
+$160copayment/prescription(homedelivery) |  | Coversuptoa30-daysupply(retail)90-
+daysupply(homedelivery). |
+|  |  | Specialtydrugs | 20%coinsurance/prescriptionpreferredand
+20%coinsurance/prescriptionnon-preferred(generic)
+20%coinsurance/prescriptionpreferredand
+20%coinsurance/prescriptionnon-preferred(brand) |  | Prescriptionwrittenforupto30days
+supply./$250maximum
+copayment/prescriptionpreferredand
+$350maximumcopayment/prescription
+non-preferred(generic)/$250maximum
+copayment/prescriptionpreferredand
+$350maximumcopayment/prescription |
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
+*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
+2 of 7
 
 All copayment and coinsurance costs shown in this chart are after your deductible has been met, if a deductible applies.
 
-Common Medical Event
+Common
+Medical Event
+
 Services You May Need
-Limitations, Exceptions, & Other Important 
-Information
 
 What You Will Pay
+Limitations, Exceptions, & Other
+Important Information
+In-network Provider
+(You will pay the least)
 
-Network Provider (You will 
-pay the least)
-
-Out-of-Network Provider 
+Out-of-network Provider
 (You will pay the most)
 
-If you visit a health 
-care provider's office 
-or clinic
+If you visit a health care
+provider’s office or clinic
 
-Primary care visit to treat an 
+Primary care visit to treat an
 injury or illness
-
-$45 copay/per visit; 
-deductible does not apply
-Not covered
-
-Some services such as lab and x-ray will 
-include additional member costs. Providence 
-ExpressCare phone and video visits are 
-covered in full in-network.
+$10 copayment/Visit
+50% coinsurance
+None
 
 Specialist visit
-$65 copay/per visit; 
-deductible does not apply
-Not covered
-Some services such as lab and x-ray will 
-include additional member costs.
+$20 copayment/Visit
+50% coinsurance
+None
 
-Preventive care/screening/
-immunization
+Preventive
+care/screening/immunization
+No Charge
+50% coinsurance
 
-No charge; deductible does 
-not apply
-Not covered
-
-Not all preventive services are required to be 
-covered in full by the ACA. For more 
-information on preventive services that are 
-covered in full see: ProvidenceHealthPlan.com/
-PreventiveCare. You may have to pay for 
-services that aren’t preventive. Ask your 
-provider if the services needed are preventive. 
-Then check what your plan will pay for.
+Deductible does not apply to services at
+in-network providers. You may have to pay
+for services that aren’t preventive. Ask
+your provider if the services you need are
+preventive. Then check what your plan will
+pay for.
 
 If you have a test
 
-Diagnostic test (x-ray, blood 
+Diagnostic test (x-ray, blood
 work)
-35% coinsurance; deductible 
-does not apply
-Not covered
-None
 
-Imaging (CT/PET scans, MRIs) 35% coinsurance 
-Not covered
+$20 copayment/Visit for
+Facility Owned labs, $10
+copayment/Visit for
+Independent Labs and No
+Charge for tests. No Charge
+for outpatient radiology.
 
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services.
+50% coinsurance
+Copayment waived for mental health and
+substance use disorder lab services.
 
-Page 2 of 8
+Imaging (CT/PET scans,
+MRIs)
+No Charge
+50% coinsurance
+*See preauthorization schedule attached
+to your plan document.
+
+If you need drugs to treat your
+illness or condition
+More information about
+prescription drug coverage is
+available by calling
+1-800-962-2242
+
+Generic drugs
+
+$7 copayment/prescription preferred and
+$25 copayment/prescription non-preferred (retail)
+$14 copayment/prescription preferred and
+$50 copayment/prescription non-preferred (home delivery)
+
+Covers up to a 30-day supply (retail) 90-
+day supply (home delivery).
+
+Preferred brand drugs
+$55 copayment/prescription (retail)
+$110 copayment/prescription (home delivery)
+
+Covers up to a 30-day supply (retail) 90-
+day supply (home delivery).
+
+Non Preferred brand drugs
+$80 copayment/prescription (retail)
+$160 copayment/prescription (home delivery)
+
+Covers up to a 30-day supply (retail) 90-
+day supply (home delivery).
+
+Specialty drugs
+
+20% coinsurance/prescription preferred and
+20% coinsurance/prescription non-preferred (generic)
+20% coinsurance/prescription preferred and
+20% coinsurance/prescription non-preferred (brand)
+
+Prescription written for up to 30 days
+supply. / $250 maximum
+copayment/prescription preferred and
+$350 maximum copayment/prescription
+non-preferred (generic) / $250 maximum
+copayment/prescription preferred and
+$350 maximum copayment/prescription
 
 
 
@@ -268,51 +340,11 @@ Page 2 of 8
 
 ### Table (Page 3)
 
-| Common Medical Event | Services You May Need |  |  | Limitations, Exceptions, & Other Important
-Information |
-| --- | --- | --- | --- | --- |
-|  |  | What You Will Pay |  |  |
-|  |  | Network Provider (You will
-pay the least) | Out-of-Network Provider
-(You will pay the most) |  |
-| If you need drugs to
-treat your illness or
-condition
-More information about
-prescription drug
-coverage is available at
-ProvidenceHealthPlan
-.com | Tier 1 drugs | No charge retail; deductible
-does not apply | Not covered | ACA Preventive drugs are covered in full in-
-network. Covers up to a 30-day supply (retail);
-90-day mail-order supply covered at 2 times
-the retail copay or 5% less than the retail
-coinsurance. Prior authorization may apply. If
-you do not obtain Prior authorization claims for
-those services will be denied and you will be
-responsible for payment of those services. If a
-brand-name drug is requested when a generic
-is available, you will pay the difference in cost,
-plus your Tier 4 or Tier 6 cost-share. Specialty
-drugs (listed in Tier 5 and Tier 6 on your
-formulary) can only be purchased at a
-participating specialty pharmacy (limited to 30
-days). |
-|  | Tier 2 drugs | $25 copay/per 30 day supply
-retail; deductible does not
-apply | Not covered |  |
-|  | Tier 3 drugs | $70 copay/per 30 day supply
-retail; deductible does not
-apply | Not covered |  |
-|  | Tier 4 drugs | 50% coinsurance retail | Not covered |  |
-|  | Tier 5 drugs | 50% coinsurance up to $200
-retail | Not covered |  |
-|  | Tier 6 drugs | 50% coinsurance retail | Not covered |  |
-| If you have outpatient
-surgery | Facility fee (e.g., ambulatory
-surgery center) | Ambulatory sur
+| Common
+MedicalEvent | ServicesYouMayNeed | WhatYouWillPay |  | Limitations,Exceptions,&Other
+ImportantInformati
 SAMPLE JSON #1:
-{"Carrier Name":"Providence Health","Plan Name":"Columbia 5000 Silver","In-Network Single Deductible":"5,000","In-Network Family Deductible":"10,000","Out-of-Network Single Deductible":"","Out-of-Network Family Deductible":"","In-Network Single OOP Max":"8,900","In-Network Family OOP Max":"17,800","Out-of-Network Single OOP Max":"","Out-of-Network Family OOP Max":"","In-Network Coinsurance":"35","Out-of-Network Coinsurance":"","In-Network PCP Visit":"45","Out-of-Network PCP Visit":"","In-Network Specialist Visit":"65","Out-of-Network Specialist Visit":"","In-Network Urgent Care Visit":"65","Out-of-Network Urgent Care Visit":"","In-Network ER Visit":"$250; 35% after deductible","Out-of-Network ER Visit":"$250; 35% after deductible","In-Network Preventive Visit":"No Charge","Out-of-Network Preventive Visit":"","In-Network Outpatient Surgery":"Ambulatory: 25% after deductible / Hospital: 35% after deductible","Out-of-Network Outpatient Surgery":"","In-Network Inpatient Surgery":"35% after deductible","Out-of-Network Inpatient Surgery":"","In-Network Newborn Delivery":"35% after deductible","Out-of-Network Newborn Delivery":"","In-Network Major Diagnostics":"35% after deductible","Out-of-Network Major Diagnostics":"","In-Network RX Deductible":"","Out-of-Network RX Deductible":"","In-Network Generic RX":"No charge","Out-of-Network Generic RX":"","In-Network Brand RX":"25","Out-of-Network Brand RX":"","In-Network Tier 3 RX":"70","Out-of-Network Tier 3 RX":"","In-Network Tier 4 RX":"50%","Out-of-Network Tier 4 RX":"","In-Network Tier 5 RX":"50% up to $200","Out-of-Network Tier 5 RX":"","In-Network Mail Order RX":"","Out-of-Network Mail Order RX":"","Plan Year":"","Deductible Period":"","Deductible Explanation":"","Network Type":"EPO","Network Name":"","Member Website":"providencehealthplan.com","Customer Service Phone Number":"1-800-878-4445"}
+{"Carrier Name":"Capital Blue Cross","Plan Name":"Gold QHDHP PPO 2000/0/10","In-Network Single Deductible":"2,000","In-Network Family Deductible":"4,000","Out-of-Network Single Deductible":"5,000","Out-of-Network Family Deductible":"10,000","In-Network Single OOP Max":"6,900","In-Network Family OOP Max":"13,800","Out-of-Network Single OOP Max":"6,900","Out-of-Network Family OOP Max":"13,800","In-Network Coinsurance":"0","Out-of-Network Coinsurance":"50","In-Network PCP Visit":"10","Out-of-Network PCP Visit":"50% after deductible","In-Network Specialist Visit":"20","Out-of-Network Specialist Visit":"50% after deductible","In-Network Urgent Care Visit":"75","Out-of-Network Urgent Care Visit":"75","In-Network ER Visit":"175","Out-of-Network ER Visit":"175","In-Network Preventive Visit":"No charge","Out-of-Network Preventive Visit":"50% after deductible","In-Network Outpatient Surgery":"$175","Out-of-Network Outpatient Surgery":"50% after deductible","In-Network Inpatient Surgery":"No charge","Out-of-Network Inpatient Surgery":"50% after deductible","In-Network Newborn Delivery":"No charge","Out-of-Network Newborn Delivery":"50% after deductible","In-Network Major Diagnostics":"No charge","Out-of-Network Major Diagnostics":"50% after deductible","In-Network RX Deductible":"","Out-of-Network RX Deductible":"","In-Network Generic RX":"preferred : $7 / Non-preferred : $25","Out-of-Network Generic RX":"preferred : $7 / Non-preferred : $25","In-Network Brand RX":"55","Out-of-Network Brand RX":"55","In-Network Tier 3 RX":"80","Out-of-Network Tier 3 RX":"80","In-Network Tier 4 RX":"20%","Out-of-Network Tier 4 RX":"20%","In-Network Tier 5 RX":"","Out-of-Network Tier 5 RX":"","In-Network Mail Order RX":"Generic preferred : $14 / Generic Non-preferred : $50 / $55 / $80","Out-of-Network Mail Order RX":"Generic preferred : $14 / Generic Non-preferred : $50 / $55 / $80","Plan Year":"2025","Deductible Period":"","Deductible Explanation":"Embedded","Network Type":"PPO","Network Name":"","Member Website":"www.capbluecross.com","Customer Service Phone Number":"1-800-962-2242"}
 ---
 
 TARGET PDF:
@@ -322,139 +354,160 @@ TARGET PDF:
 
 ### Table (Page 1)
 
-|  |  |  |  |
+|  | TheSummaryofBenefitsandCoverage(SBC)documentwillhelpyouchooseahealthplan.TheSBCshowsyouhowyouandtheplanwouldsharethecost
+forcoveredhealthcareservices.NOTE:Informationaboutthecostofthisplan(calledthepremium)willbeprovidedseparately. |  |  |
 | --- | --- | --- | --- |
-|  | The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the
-cost for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately. |  |  |
-| This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, ProvidenceHealthPlan.com. For definitions of
-common terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined terms see the Glossary. You can view the
-Glossary at healthcare.gov/sbc-glossary or call 1-800-878-4445 to request a copy. |  |  |  |
-| Important Questions |  | Answers | Why This Matters: |
-| What is the overall
-deductible? |  | In-Network: $5,000 person / $10,000 family (2
-or more). | Generally, you must pay all of the costs from providers up to the deductible amount before this
-plan begins to pay. If you have other family members on the plan, each family member must
-meet their own individual deductible until the total amount of deductible expenses paid by all
-family members meets the overall family deductible. |
-| Are there services
-covered before you
-meet your deductible? |  | Yes. Most preventive care in-network. | This plan covers some items and services even if you haven’t yet met the deductible amount. But
-a copayment or coinsurance may apply. For example, this plan covers certain preventive services
-without cost-sharing and before you meet your deductible. See a list of covered preventive
-services at healthcare.gov/coverage/preventive-care-benefits/. |
-| Are there other
-deductibles for specific
-services? |  | No. | You don’t have to meet deductibles for specific services. |
-| What is the out-of-
-pocket limit for this
-plan? |  | In-Network: $8,900 person / $17,800 family (2
-or more). | The out-of-pocket limit is the most you could pay in a year for covered services. If you have other
-family members in this plan, they have to meet their own out-of-pocket limits until the overall
-family out-of-pocket limit has been met. |
-| What is not included in
-the out-of-pocket limit? |  | Premiums, balance billing, penalties, massage
-therapy, services not covered, fees above
-Usual, Customary and Reasonable (UCR). | Even though you pay these expenses, they don’t count toward the out-of-pocket limit. |
-| Will you pay less if
-you use a network
-provider? |  | Yes. See ProvidenceHealthPlan.com/
-findaprovider or call 1-800-878-4445 for a list
-of network providers. | This plan uses a provider network. You will pay less if you use a provider in the plan's network.
-You will pay the most if you use an out-of-network provider, and you might receive a bill from a
-provider for the difference between the provider's charge and what your plan pays (balance
-billing). Be aware, your network provider might use an out-of-network provider for some services
-(such as lab work). Check with your provider before you get services. |
-| Do you need a referral
-to see a specialist? |  | No. | You can see the specialist you choose without a referral. |
+| Thisisonlyasummary.Formoreinformationaboutyourcoverage,ortogetacopyofthecompletetermsofcoverage,call1-800-962-2242.Forgeneraldefinitionsofcommon
+terms,suchasallowedamount,balancebilling,coinsurance,copayment,deductible,provider,orotherunderlinedtermsseetheGlossary.YoucanviewtheGlossaryat
+www.healthcare.gov/sbc-glossaryorcall1-888-428-2566torequestacopy. |  |  |  |
+| ImportantQuestions |  | Answers | WhyThisMatters: |
+| Whatistheoverall
+deductible? |  | $4,500/Individual,$9,000/Familypreferredin-network
+providers;
+$9,000/Individual,$18,000/Familynon-preferredin-
+networkproviders;
+$9,000/Individual,$18,000/Familyout-of-network
+providers. | Generally,youmustpayallofthecostsfromprovidersuptothedeductibleamount
+beforethisplanbeginstopay.Ifyouhaveotherfamilymembersontheplan,eachfamily
+membermustmeettheirownindividualdeductibleuntilthetotalamountofdeductible
+expensespaidbyallfamilymembersmeetstheoverallfamilydeductible. |
+| Arethereservices
+coveredbeforeyoumeet
+yourdeductible? |  | Yes.Professionalserviceswithcopays,in-network
+preventiveservices.emergencymedical
+transportation. | Thisplancoverssomeitemsandservicesevenifyouhaven’tyetmettheannual
+deductibleamount.Butacopaymentorcoinsurancemayapply.Forexample,thisplan
+coverscertainpreventiveserviceswithoutcost-sharingandbeforeyoumeetyour
+deductible.Seealistofcoveredpreventiveservicesat
+https://www.healthcare.gov/coverage/preventive-care-benefits/. |
+| Arethereother
+deductiblesforspecific
+services? |  | Yes.$50forpediatricdental.Therearenoother
+specificdeductibles. | Youmustpayallofthecostsfortheseservicesuptothespecificdeductibleamount
+beforethisplanbeginstopayfortheseservices. |
+| Whatistheout-of-pocket
+limitforthisplan? |  | Forin-networkproviders$9,200Individual/$18,400
+Family;
+forout-of-networkproviders$10,000Individual/
+$20,000/Family.
+Combinedout-of-pocketlimitfornetworkmedicaland
+prescriptiondrug. | Theout-of-pocketlimitisthemostyoucouldpayinayearforcoveredservices.Ifyou
+haveotherfamilymembersinthisplan,theyhavetomeettheirownout-of-pocketlimits
+untiltheoverallfamilyout-of-pocketlimithasbeenmet. |
+| Whatisnotincludedin
+theout-of-pocketlimit? |  | Premiums,balancebillingcharges,andhealthcare
+thisplandoesn'tcover. | Eventhoughyoupaytheseexpensestheydon’tcounttowardtheout-of-pocketlimit. |
+| Willyoupaylessifyou
+useanetworkprovider? |  | Yes.Foralistofin-networkproviders,see
+capitalbluecross.comorcall1-800-962-2242. | Thisplanusesaprovidernetwork.Youwillpaylessifyouuseaproviderintheplan’s
+network.Youwillpaythemostifyouuseanout-of-networkprovider,andyoumight
+receiveabillfromaproviderforthedifferencebetweentheprovider’schargeandwhat
+yourplanpays(balancebilling).Beaware,yournetworkprovidermightuseanout-of-
+networkproviderforsomeservices(suchaslabwork).Checkwithyourproviderbefore
+yougetservices. |
+| Doyouneedareferralto
+seeaspecialist? |  | No. | Youcanseethespecialistyouchoosewithoutareferral. |
 
-### V: 20.8.0.0
+Summary of Benefits and Coverage: What this Plan Covers & What You Pay For Covered Services
+Coverage Period: Beginning on or after 01/01/2025
 
-(DT - OMB control number: 1545-0047/Expiration Date: 12/31/2019)(DOL - OMB control number: 1210-0147/Expiration date: 5/31/2022) 
-(HHS - OMB control number: 0938-1146/Expiration date: 10/31/2022)
+Capital Blue Cross1
+Silver Performance PPO 4500/0/30
+Coverage For: Individual and Family | Plan Type: Performance
+PPO
 
-Columbia 5000 Silver 45834WA0490002-00 2748470111
+01/01/2025 - Small Group PPACA
+SG Generic-PPOCJ664/RXRCJ519
+1 of 8
 
-Summary of Benefits and Coverage: What this Plan Covers & What You Pay for Covered Services
-Coverage Period: 01/01/2025 - 12/31/2025
-Providence Health Plan: Columbia 5000 Silver
-Coverage for: Individual and Family | Plan Type: EPO
+The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the cost
+for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately.
 
-The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the 
-cost for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately.
-
-This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, ProvidenceHealthPlan.com. For definitions of 
-common terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined  terms see the Glossary. You can view the 
-Glossary at healthcare.gov/sbc-glossary or call 1-800-878-4445 to request a copy.
+This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, call 1-800-962-2242. For general definitions of common
+terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined terms see the Glossary. You can view the Glossary at
+www.healthcare.gov/sbc-glossary or call 1-888-428-2566 to request a copy.
 
 Important Questions
 Answers
 Why This Matters:
 
-What is the overall 
+What is the overall
 deductible?
 
-In-Network: $5,000 person / $10,000 family (2 
-or more).
+$4,500/Individual, $9,000/Family preferred in-network
+providers;
+$9,000/Individual, $18,000/Family non-preferred in-
+network providers;
+$9,000/Individual, $18,000/Family out-of-network
+providers.
 
-Generally, you must pay all of the costs from providers up to the deductible amount before this 
-plan begins to pay. If you have other family members on the plan, each family member must 
-meet their own individual deductible until the total amount of deductible expenses paid by all 
-family members meets the overall family deductible.
+Generally, you must pay all of the costs from providers up to the deductible amount
+before this plan begins to pay. If you have other family members on the plan, each family
+member must meet their own individual deductible until the total amount of deductible
+expenses paid by all family members meets the overall family deductible.
 
-Are there services 
-covered before you 
-meet your deductible?
+Are there services
+covered before you meet
+your deductible?
 
-Yes. Most preventive care in-network.
+Yes. Professional services with copays, in-network
+preventive services. emergency medical
+transportation.
 
-This plan covers some items and services even if you haven’t yet met the deductible amount. But 
-a copayment or coinsurance may apply. For example, this plan covers certain preventive services
- without cost-sharing and before you meet your deductible. See a list of covered preventive 
-services at healthcare.gov/coverage/preventive-care-benefits/.
-Are there other 
-deductibles for specific 
+This plan covers some items and services even if you haven’t yet met the annual
+deductible amount. But a copayment or coinsurance may apply. For example, this plan
+covers certain preventive services without cost-sharing and before you meet your
+deductible. See a list of covered preventive services at
+https://www.healthcare.gov/coverage/preventive-care-benefits/.
+Are there other
+deductibles for specific
 services?
-No.
-You don’t have to meet deductibles for specific services.
 
-What is the out-of-
-pocket limit for this 
-plan?
+Yes. $50 for pediatric dental. There are no other
+specific deductibles.
 
-In-Network: $8,900 person / $17,800 family (2 
-or more).
+You must pay all of the costs for these services up to the specific deductible amount
+before this plan begins to pay for these services.
 
-The out-of-pocket limit is the most you could pay in a year for covered services. If you have other 
-family members in this plan, they have to meet their own out-of-pocket limits until the overall 
-family out-of-pocket limit has been met.
+What is the out-of-pocket
+limit for this plan?
 
-What is not included in 
+For in-network providers $9,200 Individual / $18,400
+Family;
+for out-of-network providers $10,000 Individual /
+$20,000/Family.
+Combined out-of-pocket limit for network medical and
+prescription drug.
+
+The out-of-pocket limit is the most you could pay in a year for covered services. If you
+have other family members in this plan, they have to meet their own out-of-pocket limits
+until the overall family out-of-pocket limit has been met.
+
+What is not included in
 the out-of-pocket limit?
 
-Premiums, balance billing, penalties, massage 
-therapy, services not covered, fees above 
-Usual, Customary and Reasonable (UCR).
-Even though you pay these expenses, they don’t count toward the out-of-pocket limit.
+Premiums, balance billing charges, and health care
+this plan doesn't cover.
 
-Will you pay less if 
-you use a network 
-provider?
+Even though you pay these expenses they don’t count toward the out-of-pocket limit.
 
-Yes. See ProvidenceHealthPlan.com/
-findaprovider or call 1-800-878-4445 for a list 
-of network providers.
+Will you pay less if you
+use a network provider?
 
-This plan uses a provider network. You will pay less if you use a provider in the plan's network. 
-You will pay the most if you use an out-of-network provider, and you might receive a bill from a 
-provider for the difference between the provider's charge and what your plan pays (balance 
-billing). Be aware, your network provider might use an out-of-network provider for some services 
-(such as lab work). Check with your provider before you get services.
-Do you need a referral 
-to see a specialist?
+Yes. For a list of in-network providers, see
+capitalbluecross.com or call 1-800-962-2242.
+
+This plan uses a provider network. You will pay less if you use a provider in the plan’s
+network. You will pay the most if you use an out-of-network provider, and you might
+receive a bill from a provider for the difference between the provider’s charge and what
+your plan pays (balance billing). Be aware, your network provider might use an out-of-
+network provider for some services (such as lab work). Check with your provider before
+you get services.
+Do you need a referral to
+see a specialist?
+
 No.
 You can see the specialist you choose without a referral.
-
-Page 1 of 8
 
 
 
@@ -464,118 +517,222 @@ Page 1 of 8
 
 ### Table (Page 2)
 
-| All copayment and coinsurance costs shown in this chart are after your deductible has been met, if a deductible applies. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| Common Medical Event | Services You May Need |  |  | Limitations, Exceptions, & Other Important
-Information |
-|  |  | What You Will Pay |  |  |
-|  |  | Network Provider (You will
-pay the least) | Out-of-Network Provider
-(You will pay the most) |  |
-| If you visit a health
-care provider's office
-or clinic | Primary care visit to treat an
-injury or illness | $45 copay/per visit;
-deductible does not apply | Not covered | Some services such as lab and x-ray will
-include additional member costs. Providence
-ExpressCare phone and video visits are
-covered in full in-network. |
-|  | Specialist visit | $65 copay/per visit;
-deductible does not apply | Not covered | Some services such as lab and x-ray will
-include additional member costs. |
-|  | Preventive care/screening/
-immunization | No charge; deductible does
-not apply | Not covered | Not all preventive services are required to be
-covered in full by the ACA. For more
-information on preventive services that are
-covered in full see: ProvidenceHealthPlan.com/
-PreventiveCare. You may have to pay for
-services that aren’t preventive. Ask your
-provider if the services needed are preventive.
-Then check what your plan will pay for. |
-| If you have a test | Diagnostic test (x-ray, blood
-work) | 35% coinsurance; deductible
-does not apply | Not covered | None |
-|  | Imaging (CT/PET scans, MRIs) | 35% coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services. |
+|  | Allcopaymentandcoinsurancecostsshowninthischartareafteryourdeductiblehasbeenmet,ifadeductibleapplies. |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+| Common
+MedicalEvent |  | ServicesYouMay
+Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
+ImportantInformation |
+|  |  |  | PreferredIn-network
+Provider
+(Youwillpaytheleast) | Non-PreferredIn-
+networkProvider
+(Youwillpaytheleast) | Out-of-network
+Provider
+(Youwillpaythemost) |  |
+| Ifyouvisitahealth
+careprovider’soffice
+orclinic |  | Primarycarevisitto
+treataninjuryorillness | $30copayment/Visit,
+Deductibledoesnot
+apply | $60copayment/Visit,
+Deductibledoesnot
+apply | 50%coinsurance | None |
+|  |  | Specialistvisit | $60copayment/Visit,
+Deductibledoesnot
+apply | $80copayment/Visit,
+Deductibledoesnot
+apply | 50%coinsurance | None |
+|  |  | Preventive
+care/screening/immuni
+zation | NoCharge | NoCharge | 50%coinsurance | Deductibledoesnotapplytoservicesat
+in-networkproviders.Youmayhaveto
+payforservicesthataren’tpreventive.
+Askyourprovideriftheservicesyou
+needarepreventive.Thencheckwhat
+yourplanwillpayfor. |
+| Ifyouhaveatest |  | Diagnostictest(x-ray,
+bloodwork) | NoChargeforFacility
+Ownedlabs,NoCharge
+forIndependentLabs
+andNoChargefortests.
+NoChargeforoutpatient
+radiology. | 20%coinsurancefor
+FacilityOwnedlabs,
+20%coinsurancefor
+IndependentLabsand
+20%coinsurancefor
+tests.20%coinsurance
+foroutpatientradiology. | 50%coinsurance | None |
+|  |  | Imaging(CT/PET
+scans,MRIs) | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
+attachedtoyourplandocument. |
+| Ifyouneeddrugsto
+treatyourillnessor
+condition
+Moreinformationabout
+prescriptiondrug
+coverageisavailable
+bycalling
+1-800-962-2242 |  | Genericdrugs | $4copayment/prescription,Deductibledoesnotapplypreferredand
+$15copayment/prescription,Deductibledoesnotapplynon-preferred(retail)
+$8copayment/prescription,Deductibledoesnotapplypreferredand
+$30copayment/prescription,Deductibledoesnotapplynon-preferred(home
+delivery) |  |  | Coversuptoa30-daysupply(retail)
+90-daysupply(homedelivery). |
+|  |  | Preferredbranddrugs | $45copayment/prescription,Deductibledoesnotapply(retail)
+$90copayment/prescription,Deductibledoesnotapply(homedelivery) |  |  | Coversuptoa30-daysupply(retail)
+90-daysupply(homedelivery). |
+|  |  | NonPreferredbrand
+drugs | $70copayment/prescription,Deductibledoesnotapply(retail)
+$140copayment/prescription,Deductibledoesnotapply(homedelivery) |  |  | Coversuptoa30-daysupply(retail)
+90-daysupply(homedelivery). |
+|  |  | Specialtydrugs | 20%coinsurance/prescription,Deductibledoesnotapplypreferredand |  |  | Prescriptionwrittenforupto30days |
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
+*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
+2 of 8
 
 All copayment and coinsurance costs shown in this chart are after your deductible has been met, if a deductible applies.
 
-Common Medical Event
-Services You May Need
-Limitations, Exceptions, & Other Important 
-Information
+Common
+Medical Event
+
+Services You May
+Need
 
 What You Will Pay
 
-Network Provider (You will 
-pay the least)
+Limitations, Exceptions, & Other
+Important Information
+Preferred In-network
+Provider
+(You will pay the least)
 
-Out-of-Network Provider 
+Non-Preferred In-
+network Provider
+(You will pay the least)
+
+Out-of-network
+Provider
 (You will pay the most)
 
-If you visit a health 
-care provider's office 
+If you visit a health
+care provider’s office
 or clinic
 
-Primary care visit to treat an 
-injury or illness
+Primary care visit to
+treat an injury or illness
 
-$45 copay/per visit; 
-deductible does not apply
-Not covered
+$30 copayment/Visit,
+Deductible does not
+apply
 
-Some services such as lab and x-ray will 
-include additional member costs. Providence 
-ExpressCare phone and video visits are 
-covered in full in-network.
+$60 copayment/Visit,
+Deductible does not
+apply
+
+50% coinsurance
+None
 
 Specialist visit
-$65 copay/per visit; 
-deductible does not apply
-Not covered
-Some services such as lab and x-ray will 
-include additional member costs.
 
-Preventive care/screening/
-immunization
+$60 copayment/Visit,
+Deductible does not
+apply
 
-No charge; deductible does 
-not apply
-Not covered
+$80 copayment/Visit,
+Deductible does not
+apply
 
-Not all preventive services are required to be 
-covered in full by the ACA. For more 
-information on preventive services that are 
-covered in full see: ProvidenceHealthPlan.com/
-PreventiveCare. You may have to pay for 
-services that aren’t preventive. Ask your 
-provider if the services needed are preventive. 
-Then check what your plan will pay for.
+50% coinsurance
+None
+
+Preventive
+care/screening/immuni
+zation
+
+No Charge
+No Charge
+50% coinsurance
+
+Deductible does not apply to services at
+in-network providers. You may have to
+pay for services that aren’t preventive.
+Ask your provider if the services you
+need are preventive. Then check what
+your plan will pay for.
 
 If you have a test
 
-Diagnostic test (x-ray, blood 
-work)
-35% coinsurance; deductible 
-does not apply
-Not covered
+Diagnostic test (x-ray,
+blood work)
+
+No Charge for Facility
+Owned labs, No Charge
+for Independent Labs
+and No Charge for tests.
+No Charge for outpatient
+radiology.
+
+20% coinsurance for
+Facility Owned labs,
+20% coinsurance for
+Independent Labs and
+20% coinsurance for
+tests. 20% coinsurance
+for outpatient radiology.
+
+50% coinsurance
 None
 
-Imaging (CT/PET scans, MRIs) 35% coinsurance 
-Not covered
+Imaging (CT/PET
+scans, MRIs)
+No Charge
+20% coinsurance
+50% coinsurance
+*See preauthorization schedule
+attached to your plan document.
 
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services.
+If you need drugs to
+treat your illness or
+condition
+More information about
+prescription drug
+coverage is available
+by calling
+1-800-962-2242
 
-Page 2 of 8
+Generic drugs
+
+$4 copayment/prescription, Deductible does not apply preferred and
+$15 copayment/prescription, Deductible does not apply non-preferred (retail)
+$8 copayment/prescription, Deductible does not apply preferred and
+$30 copayment/prescription, Deductible does not apply non-preferred (home
+delivery)
+
+Covers up to a 30-day supply (retail)
+90-day supply (home delivery).
+
+Preferred brand drugs
+$45 copayment/prescription, Deductible does not apply (retail)
+$90 copayment/prescription, Deductible does not apply (home delivery)
+
+Covers up to a 30-day supply (retail)
+90-day supply (home delivery).
+
+Non Preferred brand
+drugs
+
+$70 copayment/prescription, Deductible does not apply (retail)
+$140 copayment/prescription, Deductible does not apply (home delivery)
+
+Covers up to a 30-day supply (retail)
+90-day supply (home delivery).
+
+Specialty drugs
+20% coinsurance/prescription, Deductible does not apply preferred and
+Prescription written for up to 30 days
 
 
 
@@ -585,208 +742,249 @@ Page 2 of 8
 
 ### Table (Page 3)
 
-| Common Medical Event | Services You May Need |  |  | Limitations, Exceptions, & Other Important
-Information |
-| --- | --- | --- | --- | --- |
-|  |  | What You Will Pay |  |  |
-|  |  | Network Provider (You will
-pay the least) | Out-of-Network Provider
-(You will pay the most) |  |
-| If you need drugs to
-treat your illness or
-condition
-More information about
-prescription drug
-coverage is available at
-ProvidenceHealthPlan
-.com | Tier 1 drugs | No charge retail; deductible
-does not apply | Not covered | ACA Preventive drugs are covered in full in-
-network. Covers up to a 30-day supply (retail);
-90-day mail-order supply covered at 2 times
-the retail copay or 5% less than the retail
-coinsurance. Prior authorization may apply. If
-you do not obtain Prior authorization claims for
-those services will be denied and you will be
-responsible for payment of those services. If a
-brand-name drug is requested when a generic
-is available, you will pay the difference in cost,
-plus your Tier 4 or Tier 6 cost-share. Specialty
-drugs (listed in Tier 5 and Tier 6 on your
-formulary) can only be purchased at a
-participating specialty pharmacy (limited to 30
-days). |
-|  | Tier 2 drugs | $25 copay/per 30 day supply
-retail; deductible does not
-apply | Not covered |  |
-|  | Tier 3 drugs | $70 copay/per 30 day supply
-retail; deductible does not
-apply | Not covered |  |
-|  | Tier 4 drugs | 50% coinsurance retail | Not covered |  |
-|  | Tier 5 drugs | 50% coinsurance up to $200
-retail | Not covered |  |
-|  | Tier 6 drugs | 50% coinsurance retail | Not covered |  |
-| If you have outpatient
-surgery | Facility fee (e.g., ambulatory
-surgery center) | Ambulatory surgery center:
-25% coinsurance
-Hospital-based facility: 35%
-coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services. |
-|  | Physician/surgeon fees | 35% coinsurance | Not covered |  |
-| If you need immediate
-medical attention | Emergency room care | $250 copay/per visit then
-35% coinsurance | $250 copay/per visit then
-35% coinsurance | For emergency medical conditions only. If
-admitted to hospital, all services subject to
-inpatient benefits. |
-|  | Emergency medical
-transportation | 35% coinsurance | 35% coinsurance | None |
-|  | Urgent care | $65 copay/per visit;
-deductible does not apply in-
-network | $65 copay/per visit | Some services will include additional member
-costs. |
-| If you have a hospital
-stay | Facility fee (e.g., hospital room) | 35% coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services. |
-|  | Physician/surgeon fees | 35% coinsurance | Not covered |  |
+| Common
+MedicalEvent | ServicesYouMay
+Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
+ImportantInformation |
+| --- | --- | --- | --- | --- | --- |
+|  |  | PreferredIn-network
+Provider
+(Youwillpaytheleast) | Non-PreferredIn-
+networkProvider
+(Youwillpaytheleast) | Out-of-network
+Provider
+(Youwillpaythemost) |  |
+|  |  | 20%coinsurance/prescription,Deductibledoesnotapplynon-preferred
+(generic)
+20%coinsurance/prescription,Deductibledoesnotapplypreferredand
+20%coinsurance/prescription,Deductibledoesnotapplynon-preferred(brand) |  |  | supply./$250maximum
+copayment/prescriptionpreferredand
+$350maximumcopayment/prescription
+non-preferred(generic)/$250
+maximumcopayment/prescription
+preferredand$350maximum
+copayment/prescriptionnon-preferred
+(brand) |
+| Ifyouhaveoutpatient
+surgery | Facilityfee(e.g.,
+ambulatorysurgery
+center) | $200copaymentAcute
+CareHospitaland$200
+copaymentAmbulatory
+SurgicalCenter | $200copaymentAcute
+CareHospitaland$200
+copaymentAmbulatory
+SurgicalCenter | 50%coinsurance | Nocoverageforservicesatout-of-
+networkambulatorysurgicalfacilities |
+|  | Physician/surgeonfees | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
+attachedtoyourplandocument. |
+| Ifyouneedimmediate
+medicalattention | Emergencyroomcare | $450copayment/Visit | $450copayment/Visit | $450copayment/Visit | Copaymentwaivedifadmitted
+inpatient. |
+|  | Emergencymedical
+transportation | NoCharge,Deductible
+doesnotapply | NoCharge,Deductible
+doesnotapply | NoCharge,Deductible
+doesnotapply | None |
+|  | Urgentcare | $75copayment/Visit,
+Deductibledoesnot
+apply | $75copayment/Visit,
+Deductibledoesnot
+apply | $75copayment/Visit,
+Deductibledoesnot
+apply | None |
+| Ifyouhaveahospital
+stay | Facilityfee(e.g.,
+hospitalroom) | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
+attachedtoyourplandocument. |
+|  | Physician/surgeonfees | NoCharge | 20%coinsurance | 50%coinsurance | None |
+| Ifyouneedmental
+health,behavioral
+health,orsubstance
+abuseservices | Outpatientservices | $60copayment/Visit,
+Deductibledoesnot
+apply | $60copayment/Visit,
+Deductibledoesnot
+apply | 50%coinsurance | None |
+|  | Inpatientservices | NoCharge | NoCharge | 50%coinsurance | None |
+| Ifyouarepregnant | Officevisits | $60copayment/Visit,
+Deductibledoesnot
+apply | $80copayment/Visit,
+Deductibledoesnot
+apply | 50%coinsurance | Dependingonthetypeofservices,a
+copayment,coinsuranceordeductible
+mayapply. |
+|  | Childbirth/delivery | NoCharge | 20%coinsurance | 50%coinsurance | Dependingonthetypeofservices,a |
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
+*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
+3 of 8
 
-Common Medical Event
-Services You May Need
-Limitations, Exceptions, & Other Important 
-Information
+Common
+Medical Event
+
+Services You May
+Need
 
 What You Will Pay
 
-Network Provider (You will 
-pay the least)
+Limitations, Exceptions, & Other
+Important Information
+Preferred In-network
+Provider
+(You will pay the least)
 
-Out-of-Network Provider 
+Non-Preferred In-
+network Provider
+(You will pay the least)
+
+Out-of-network
+Provider
 (You will pay the most)
+20% coinsurance/prescription, Deductible does not apply non-preferred
+(generic)
+20% coinsurance/prescription, Deductible does not apply preferred and
+20% coinsurance/prescription, Deductible does not apply non-preferred (brand)
 
-If you need drugs to 
-treat your illness or 
-condition
-More information about 
-prescription drug 
-coverage is available at 
-ProvidenceHealthPlan
-.com
+supply. / $250 maximum
+copayment/prescription preferred and
+$350 maximum copayment/prescription
+non-preferred (generic) / $250
+maximum copayment/prescription
+preferred and $350 maximum
+copayment/prescription non-preferred
+(brand)
 
-Tier 1 drugs
-No charge retail; deductible 
-does not apply
-Not covered
-ACA Preventive drugs are covered in full in-
-network. Covers up to a 30-day supply (retail); 
-90-day mail-order supply covered at 2 times
-the retail copay or 5% less than the retail
-coinsurance. Prior authorization may apply. If
-you do not obtain Prior authorization claims for
-those services will be denied and you will be
-responsible for payment of those services. If a
-brand-name drug is requested when a generic
-is available, you will pay the difference in cost,
-plus your Tier 4 or Tier 6 cost-share. Specialty
-drugs (listed in Tier 5 and Tier 6 on your
-formulary) can only be purchased at a
-participating specialty pharmacy (limited to 30
-days).
-
-Tier 2 drugs
-
-$25 copay/per 30 day supply 
-retail; deductible does not 
-apply
-
-Not covered
-
-Tier 3 drugs
-$70 copay/per 30 day supply 
-retail; deductible does not 
-apply
-Not covered
-
-Tier 4 drugs
-50% coinsurance retail
-Not covered
-
-Tier 5 drugs
-50% coinsurance up to $200 
-retail
-Not covered
-
-Tier 6 drugs
-50% coinsurance retail
-Not covered
-
-If you have outpatient 
+If you have outpatient
 surgery
-Facility fee (e.g., ambulatory 
-surgery center)
 
-Ambulatory surgery center: 
-25% coinsurance
-Hospital-based facility: 35% 
-coinsurance
+Facility fee (e.g.,
+ambulatory surgery
+center)
 
-Not covered
+$200 copayment Acute
+Care Hospital and $200
+copayment Ambulatory
+Surgical Center
 
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services.
+$200 copayment Acute
+Care Hospital and $200
+copayment Ambulatory
+Surgical Center
+
+50% coinsurance
+No coverage for services at out-of-
+network ambulatory surgical facilities
+
 Physician/surgeon fees
-35% coinsurance 
-Not covered
+No Charge
+20% coinsurance
+50% coinsurance
+*See preauthorization schedule
+attached to your plan document.
 
-If you need immediate 
+If you need immediate
 medical attention
 
 Emergency room care
-$250 copay/per visit then 
-35% coinsurance 
-$250 copay/per visit then 
-35% coinsurance
+$450 copayment/Visit
+$450 copayment/Visit
+$450 copayment/Visit
+Copayment waived if admitted
+inpatient.
 
-For emergency medical conditions only. If 
-admitted to hospital, all services subject to 
-inpatient benefits.
-Emergency medical 
+Emergency medical
 transportation
-35% coinsurance 
-35% coinsurance 
+
+No Charge, Deductible
+does not apply
+
+No Charge, Deductible
+does not apply
+
+No Charge, Deductible
+does not apply
 None
 
 Urgent care
 
-$65 copay/per visit; 
-deductible does not apply in-
-network
+$75 copayment/Visit,
+Deductible does not
+apply
 
-$65 copay/per visit
-Some services will include additional member 
-costs.
+$75 copayment/Visit,
+Deductible does not
+apply
 
-If you have a hospital 
+$75 copayment/Visit,
+Deductible does not
+apply
+
+None
+
+If you have a hospital
 stay
 
-Facility fee (e.g., hospital room) 35% coinsurance 
-Not covered
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services.
-Physician/surgeon fees
-35% coinsurance 
-Not covered
+Facility fee (e.g.,
+hospital room)
+No Charge
+20% coinsurance
+50% coinsurance
+*See preauthorization schedule
+attached to your plan document.
 
-Page 3 of 8
+Physician/surgeon fees
+No Charge
+20% coinsurance
+50% coinsurance
+None
+
+If you need mental
+health, behavioral
+health, or substance
+abuse services
+
+Outpatient services
+
+$60 copayment/Visit,
+Deductible does not
+apply
+
+$60 copayment/Visit,
+Deductible does not
+apply
+
+50% coinsurance
+None
+
+Inpatient services
+No Charge
+No Charge
+50% coinsurance
+None
+
+If you are pregnant
+
+Office visits
+
+$60 copayment/Visit,
+Deductible does not
+apply
+
+$80 copayment/Visit,
+Deductible does not
+apply
+
+50% coinsurance
+
+Depending on the type of services, a
+copayment, coinsurance or deductible
+may apply.
+
+Childbirth/delivery
+No Charge
+20% coinsurance
+50% coinsurance
+Depending on the type of services, a
 
 
 
@@ -796,148 +994,178 @@ Page 3 of 8
 
 ### Table (Page 4)
 
-| Common Medical Event | Services You May Need |  |  | Limitations, Exceptions, & Other Important
-Information |
-| --- | --- | --- | --- | --- |
-|  |  | What You Will Pay |  |  |
-|  |  | Network Provider (You will
-pay the least) | Out-of-Network Provider
-(You will pay the most) |  |
-| If you need mental
-health, behavioral
-health, or substance
-abuse services | Outpatient services | Office visit: $45 copay/per
-visit; deductible does not
-apply
-All other services: 35%
-coinsurance | Not covered | All services except provider office visits must
-be prior authorized. If you do not obtain Prior
-authorization claims for those services will be
-denied and you will be responsible for
-payment of those services. See your benefit
-summary for Applied Behavioral Analysis
-(ABA) services. |
-|  | Inpatient services | 35% coinsurance | Not covered |  |
-| If you are pregnant | Office visits | No charge; deductible does
-not apply | Not covered | None |
-|  | Childbirth/delivery professional
-services | 35% coinsurance | Not covered | Coinsurance applies to provider delivery
-charges. |
-|  | Childbirth/delivery facility
-services | 35% coinsurance | Not covered | None |
-| If you need help
-recovering or have
-other special health
-needs | Home health care | 35% coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services.
-Limited to 130 days for in-network providers
-per calendar year. |
-|  | Rehabilitation services | 35% coinsurance | Not covered | Inpatient services: Limited to 30 days for in-
-network providers per calendar year. Prior
-authorization required. If you do not obtain
-Prior authorization claims for those services
-will be denied and you will be responsible for
-payment of those services. Outpatient
-services: Limited to 30 visits for in-network
-providers per calendar year. Limits do not
-apply to Mental Health and Substance Use
-Disorder Services. |
+| Common
+MedicalEvent | ServicesYouMay
+Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
+ImportantInformation |
+| --- | --- | --- | --- | --- | --- |
+|  |  | PreferredIn-network
+Provider
+(Youwillpaytheleast) | Non-PreferredIn-
+networkProvider
+(Youwillpaytheleast) | Out-of-network
+Provider
+(Youwillpaythemost) |  |
+|  | professionalservices |  |  |  | copayment,coinsuranceordeductible
+mayapply. |
+|  | Childbirth/delivery
+facilityservices | NoCharge | 20%coinsurance | 50%coinsurance | Dependingonthetypeofservices,a
+copayment,coinsuranceordeductible
+mayapply. |
+| Ifyouneedhelp
+recoveringorhave
+otherspecialhealth
+needs | Homehealthcare | NoCharge | 20%coinsurance | 50%coinsurance | 60visitslimitperbenefitperiod.
+(Visitlimitsnotapplicabletomental
+healthcareandsubstanceusedisorder
+services.)*Seepreauthorization
+scheduleattachedtoyourplan
+document. |
+|  | Rehabilitationservices | $60copayment/Visit,
+Deductibledoesnot
+apply | $80copayment/Visit,
+Deductibledoesnot
+apply | 50%coinsurance | Visitlimitsperbenefitperiod:30visits
+combinedforphysicalandoccupational
+therapy;30visitsforspeechtherapy.
+(Visitlimitsnotapplicabletomental
+healthcareandsubstanceusedisorder
+services.) |
+|  | Habilitationservices | $60copayment/Visit,
+Deductibledoesnot
+apply | $80copayment/Visit,
+Deductibledoesnot
+apply | 50%coinsurance | Visitlimitsperbenefitperiod:30visits
+combinedforphysicalandoccupational
+therapy;30visitsforspeechtherapy.
+(Visitlimitsnotapplicabletomental
+healthcareandsubstanceusedisorder
+services.) |
+|  | Skillednursingcare | NoCharge | 20%coinsurance | 50%coinsurance | 120daylimitperbenefitperiod.
+(Limitnotapplicabletomentalhealth
+careandsubstanceusedisorder
+services.) |
+|  | Durablemedical
+equipment | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
+attachedtoyourplandocument. |
+|  | Hospiceservices | NoCharge | 20%coinsurance | 50%coinsurance | None |
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
+*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
+4 of 8
 
-Common Medical Event
-Services You May Need
-Limitations, Exceptions, & Other Important 
-Information
+Common
+Medical Event
+
+Services You May
+Need
 
 What You Will Pay
 
-Network Provider (You will 
-pay the least)
+Limitations, Exceptions, & Other
+Important Information
+Preferred In-network
+Provider
+(You will pay the least)
 
-Out-of-Network Provider 
+Non-Preferred In-
+network Provider
+(You will pay the least)
+
+Out-of-network
+Provider
 (You will pay the most)
+professional services
+copayment, coinsurance or deductible
+may apply.
 
-If you need mental 
-health, behavioral 
-health, or substance 
-abuse services
+Childbirth/delivery
+facility services
+No Charge
+20% coinsurance
+50% coinsurance
 
-Outpatient services
+Depending on the type of services, a
+copayment, coinsurance or deductible
+may apply.
 
-Office visit: $45 copay/per 
-visit; deductible does not 
-apply
-All other services: 35% 
-coinsurance
-
-Not covered
-
-All services except provider office visits must 
-be prior authorized. If you do not obtain Prior 
-authorization claims for those services will be 
-denied and you will be responsible for 
-payment of those services. See your benefit 
-summary for Applied Behavioral Analysis 
-(ABA) services.
-Inpatient services
-35% coinsurance 
-Not covered
-
-If you are pregnant
-
-Office visits
-No charge; deductible does 
-not apply
-Not covered
-None
-
-Childbirth/delivery professional 
-services
-35% coinsurance 
-Not covered
-Coinsurance applies to provider delivery 
-charges.
-Childbirth/delivery facility 
-services
-35% coinsurance 
-Not covered
-None
-
-If you need help 
-recovering or have 
-other special health 
+If you need help
+recovering or have
+other special health
 needs
 
 Home health care
-35% coinsurance 
-Not covered
+No Charge
+20% coinsurance
+50% coinsurance
 
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services. 
-Limited to 130 days for in-network providers 
-per calendar year.
+60 visits limit per benefit period.
+(Visit limits not applicable to mental
+health care and substance use disorder
+services.) *See preauthorization
+schedule attached to your plan
+document.
 
 Rehabilitation services
-35% coinsurance
-Not covered
 
-Inpatient services: Limited to 30 days for in-
-network providers per calendar year. Prior 
-authorization required. If you do not obtain 
-Prior authorization claims for those services 
-will be denied and you will be responsible for 
-payment of those services. Outpatient 
-services: Limited to 30 visits for in-network 
-providers per calendar year. Limits do not 
-apply to Mental Health and Substance Use 
-Disorder Services.
+$60 copayment/Visit,
+Deductible does not
+apply
 
-Page 4 of 8
+$80 copayment/Visit,
+Deductible does not
+apply
+
+50% coinsurance
+
+Visit limits per benefit period: 30 visits
+combined for physical and occupational
+therapy; 30 visits for speech therapy.
+(Visit limits not applicable to mental
+health care and substance use disorder
+services.)
+
+Habilitation services
+
+$60 copayment/Visit,
+Deductible does not
+apply
+
+$80 copayment/Visit,
+Deductible does not
+apply
+
+50% coinsurance
+
+Visit limits per benefit period: 30 visits
+combined for physical and occupational
+therapy; 30 visits for speech therapy.
+(Visit limits not applicable to mental
+health care and substance use disorder
+services.)
+
+Skilled nursing care
+No Charge
+20% coinsurance
+50% coinsurance
+
+120 day limit per benefit period.
+(Limit not applicable to mental health
+care and substance use disorder
+services.)
+
+Durable medical
+equipment
+No Charge
+20% coinsurance
+50% coinsurance
+*See preauthorization schedule
+attached to your plan document.
+
+Hospice services
+No Charge
+20% coinsurance
+50% coinsurance
+None
 
 
 
@@ -947,139 +1175,88 @@ Page 4 of 8
 
 ### Table (Page 5)
 
-| Common Medical Event | Services You May Need |  |  | Limitations, Exceptions, & Other Important
-Information |
-| --- | --- | --- | --- | --- |
-|  |  | What You Will Pay |  |  |
-|  |  | Network Provider (You will
-pay the least) | Out-of-Network Provider
-(You will pay the most) |  |
-|  | Habilitation services | 35% coinsurance | Not covered | Inpatient services: Limited to 30 days for in-
-network providers per calendar year. Prior
-authorization required. If you do not obtain
-Prior authorization claims for those services
-will be denied and you will be responsible for
-payment of those services. Outpatient
-services: Limited to 30 visits for in-network
-providers per calendar year. Limits do not
-apply to Mental Health and Substance Use
-Disorder Services. |
-|  | Skilled nursing care | 35% coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services.
-Limited to 60 days for in-network providers per
-calendar year. |
-|  | Durable medical equipment | Diabetic Supplies: 35%
-coinsurance; deductible does
-not apply
-All other equipment: 35%
-coinsurance | Not covered | Diabetic Supplies: deductible does not apply |
-|  | Hospice services | Hospice: No charge;
-deductible does not apply
-Respite care: 35%
-coinsurance | Not covered | Prior authorization required. If you do not
-obtain Prior authorization claims for those
-services will be denied and you will be
-responsible for payment of those services.
-Respite care: Limited to 14 days per lifetime
-for in-network providers. |
-| If your child needs
-dental or eye care | Children's eye exam | No charge; deductible does
-not apply | Not covered | Limited to 1 exam per calendar year. |
-|  | Children's glasses | No charge; deductible does
-not apply | Not covered | Limited to 1 pair per calendar year. |
-|  | Children's dental check-up | Not covered | Not covered | None |
+| Common
+MedicalEvent | ServicesYouMay
+Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
+ImportantInformation |
+| --- | --- | --- | --- | --- | --- |
+|  |  | PreferredIn-network
+Provider
+(Youwillpaytheleast) | Non-PreferredIn-
+networkProvider
+(Youwillpaytheleast) | Out-of-network
+Provider
+(Youwillpaythemost) |  |
+| Ifyourchildneeds
+dentaloreyecare | Children’seyeexam | NoCharge |  | Balanceofretailcharge
+after$32allowance | Oneexamandonepairofglassesonce
+every12monthsbasedonlastdateof
+service. |
+|  | Children’sglasses | NoChargeforstandardframesandlenses.See
+plandocumentfornon-standardframebenefits. |  | Balanceofretailcharge
+afterframesandlens
+allowance.Seeplan
+document. | Oneexamandonepairofglassesonce
+every12monthsbasedonlastdateof
+service. |
+|  | Children’sdental
+check-up | NoCharge |  | NoCharge | Deductibledoesnotapply |
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
+*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
+5 of 8
 
-Common Medical Event
-Services You May Need
-Limitations, Exceptions, & Other Important 
-Information
+Common
+Medical Event
+
+Services You May
+Need
 
 What You Will Pay
 
-Network Provider (You will 
-pay the least)
+Limitations, Exceptions, & Other
+Important Information
+Preferred In-network
+Provider
+(You will pay the least)
 
-Out-of-Network Provider 
+Non-Preferred In-
+network Provider
+(You will pay the least)
+
+Out-of-network
+Provider
 (You will pay the most)
 
-Habilitation services
-35% coinsurance
-Not covered
-
-Inpatient services: Limited to 30 days for in-
-network providers per calendar year. Prior 
-authorization required. If you do not obtain 
-Prior authorization claims for those services 
-will be denied and you will be responsible for 
-payment of those services. Outpatient 
-services: Limited to 30 visits for in-network 
-providers per calendar year. Limits do not 
-apply to Mental Health and Substance Use 
-Disorder Services.
-
-Skilled nursing care
-35% coinsurance 
-Not covered
-
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services. 
-Limited to 60 days for in-network providers per 
-calendar year.
-
-Durable medical equipment
-
-Diabetic Supplies: 35% 
-coinsurance; deductible does 
-not apply
-All other equipment: 35% 
-coinsurance
-
-Not covered
-Diabetic Supplies: deductible does not apply
-
-Hospice services
-
-Hospice: No charge; 
-deductible does not apply
-Respite care: 35% 
-coinsurance
-
-Not covered
-
-Prior authorization required. If you do not 
-obtain Prior authorization claims for those 
-services will be denied and you will be 
-responsible for payment of those services. 
-Respite care: Limited to 14 days per lifetime 
-for in-network providers.
-
-If your child needs 
+If your child needs
 dental or eye care
 
-Children's eye exam
-No charge; deductible does 
-not apply
-Not covered
-Limited to 1 exam per calendar year.
+Children’s eye exam
+No Charge
+Balance of retail charge
+after $32 allowance
 
-Children's glasses
-No charge; deductible does 
-not apply
-Not covered
-Limited to 1 pair per calendar year.
+One exam and one pair of glasses once
+every 12 months based on last date of
+service.
 
-Children's dental check-up
-Not covered
-Not covered
-None
+Children’s glasses
+No Charge for standard frames and lenses. See
+plan document for non-standard frame benefits.
 
-Page 5 of 8
+Balance of retail charge
+after frames and lens
+allowance. See plan
+document.
+
+One exam and one pair of glasses once
+every 12 months based on last date of
+service.
+
+Children’s dental
+check-up
+No Charge
+No Charge
+Deductible does not apply
 
 
 
@@ -1089,354 +1266,219 @@ Page 5 of 8
 
 ### Table (Page 6)
 
-| Services Your Plan Generally Does NOT Cover (Check your policy or plan document for more information and a list of any other excluded services.) |
+| ServicesYourPlanGenerallyDoesNOTCover(Checkyourpolicyorplandocumentformoreinformationandalistofanyotherexcludedservices.) |
 | --- |
-| l Abortion l Dental care (Child) l Private-duty nursing
-l Bariatric surgery l Hearing aids (except Cochlear Implants) l Routine eye care (Adult)
-l Cosmetic surgery (with certain exceptions) l Infertility treatment l Routine foot care (covered for diabetics)
-l Dental care (Adult) l Long-term care l Weight loss programs |
+|  Bariatricsurgery  Hearingaids  Routineeyecare(Adult)
+ CosmeticSurgery  Long-termcare  Routinefootcare(unlessmedicallynecessary)
+ Dentalcare(Adult)  Private-dutynursing  Weightlossprograms |
 |  |
-| Other Covered Services (Limitations may apply to these services. This isn't a complete list. Please see your plan document.) |
-| l Acupuncture (12 visits) l Chiropractic care (10 visits) l Non-emergency care when traveling outside
-the U.S. See ProvidenceHealthPlan.com |
+| OtherCoveredServices(Limitationsmayapplytotheseservices.Thisisn’tacompletelist.Pleaseseeyourplandocument.) |
+|  Acupuncture  Infertilitytreatment 
+ Chiropracticcare  Non-emergencycarewhentravelingoutsidetheU.S.  |
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
+6 of 8
 
 Excluded Services & Other Covered Services:
 
 Services Your Plan Generally Does NOT Cover (Check your policy or plan document for more information and a list of any other excluded services.)
+Bariatric surgery
+Hearing aids
+Routine eye care (Adult)
+Cosmetic Surgery
+Long-term care
+Routine foot care (unless medically necessary)
+Dental care (Adult)
+Private-duty nursing
+Weight loss programs
 
-l
-Abortion
+Other Covered Services (Limitations may apply to these services. This isn’t a complete list. Please see your plan document.)
+Acupuncture
+Infertility treatment
+
+Chiropractic care
+Non-emergency care when traveling outside the U.S.
+
 
-l
-Bariatric surgery
+Your Rights to Continue Coverage: There are agencies that can help if you want to continue your coverage after it ends. The contact information for those agencies is:
+1-866-444-EBSA (3272) or www.dol.gov/ebsa/healthreform or the Pennsylvania Insurance Department at 1-877-881-6388. Other coverage options may be available to you too,
+including buying individual insurance coverage through the Health Insurance Marketplace. For more information about the Marketplace, visit pennie.com or call 1-844-844-8040.
 
-l
-Cosmetic surgery (with certain exceptions)
+Your Grievance and Appeals Rights: There are agencies that can help if you have a complaint against your plan for a denial of a claim. This complaint is called a grievance or
+appeal. For more information about your rights, look at the explanation of benefits you will receive for that medical claim. Your plan documents also provide complete information to
+submit a claim, appeal, or a grievance for any reason to your plan. For more information about your rights, this notice, or assistance, Contact: Capital Blue Cross at 1-800-962-2242
+or the Department of Labor’s Employee Benefits Security Administration at 1-866-444-EBSA (3272) or www.dol.gov/ebsa/healthreform or the Pennsylvania Insurance Department at
+1-877-881-6388.
 
-l
-Dental care (Adult)
+Does this plan provide Minimum Essential Coverage?
+Yes
+Minimum Essential Coverage generally includes plans, health insurance available through the Marketplace or other individual market policies, Medicare, Medicaid, CHIP, TRICARE,
+and certain other coverage. If you are eligible for certain types of Minimum Essential Coverage, you may not be eligible for the premium tax credit.
 
-l
-Dental care (Child)
-
-l
-Hearing aids (except Cochlear Implants)
-
-l
-Infertility treatment
-
-l
-Long-term care
-
-l
-Private-duty nursing
-
-l
-Routine eye care (Adult)
-
-l
-Routine foot care (covered for diabetics)
-
-l
-Weight loss programs
-
-Other Covered Services (Limitations may apply to these services. This isn't a complete list. Please see your plan document.)
-
-l
-Acupuncture (12 visits)
-l
-Chiropractic care (10 visits)
-l
-Non-emergency care when traveling outside
-the U.S. See ProvidenceHealthPlan.com
-
-Your Rights to Continue Coverage: There are agencies that can help if you want to continue your coverage after it ends. The contact information for those 
-agencies is:
-•Providence Health Plan at 503-574-8757/1-800-878-4445 (toll-free) or ProvidenceHealthPlan.com.
-•Washington Office of Insurance Commissioner at 360-725-7000/800-562-6900 (toll-free) or insurance.wa.gov.
-Other coverage options may be available to you too, including buying individual insurance coverage through the Health Insurance Marketplace. For more 
-information about the Marketplace, visit HealthCare.gov or call 1-800-318-2596.
-Your Grievance and Appeals Rights: There are agencies that can help if you have a complaint against your plan for a denial of a claim. This complaint is called a grievance
- or appeal. For more information about your rights, look at the explanation of benefits you will receive for that medical claim. Your plan documents also provide complete 
-information on how to submit a claim, appeal, or a grievance for any reason to your plan. For more information about your rights, this notice, or assistance, contact:
-• Providence Health Plan at 503-574-8757/1-800-878-4445 (toll-free) or ProvidenceHealthPlan.com.
-• Washington Office of Insurance Commissioner at 360-725-7000/800-562-6900 (toll-free) or insurance.wa.gov.
-Does this plan provide Minimum Essential Coverage? Yes
-Minimum Essential Coverage generally includes plans, health insurance available through the Marketplace or other individual market policies, Medicare, Medicaid, CHIP, 
-TRICARE, and certain other coverage. If you are eligible for certain types of Minimum Essential Coverage, you may not be eligible for the premium tax credit.
-Does this plan meet Minimum Value Standards? Yes
+Does this plan meet Minimum Value Standards?
+Yes
 If your plan doesn’t meet the Minimum Value Standards, you may be eligible for a premium tax credit to help you pay for a plan through the Marketplace.
 
-Language Access Services:
-Navajo (Dine): Dinek'ehgo shika at'ohwol ninisingo, kwiijigo holne' 1-800-878-4445 (TTY: 711).
-
-Chinese (中文): 如果需要中文的帮助，请拨打这个号码1-800-878-4445 (TTY: 711).
-Tagalog (Tagalog): Kung kailangan ninyo ang tulong sa Tagalog tumawag sa 1-800-878-4445 (TTY: 711).
-Spanish (Español): Para obtener asistencia en Español, llame al 1-800-878-4445 (TTY: 711).
-
-To see examples of how this plan might cover costs for a sample medical situation, see the next section.
-
-Page 6 of 8
+––––––––––––––––––––––To see examples of how this plan might cover costs for a sample medical situation, see the next section.––––––––––––––––––––––
 
 
 
 ## Page 7
 
-For more information about limitations and exceptions, see plan or policy document at ProvidenceHealthPlan.com
-
-PRA Disclosure Statement: According to the Paperwork Reduction Act of 1995 (Pub. L. 104-13) (PRA), no persons are required to respond to a collection of information unless such collection displays a valid Office of Management and Budget 
-(OMB) control number. The department notes that a Federal agency cannot conduct or sponsor a collection of information unless it is approved by OMB under the PRA, and displays a currently valid OMB control number, and the public is not 
-required to respond to a collection of information unless it displays a currently valid OMB control number. See 44 U.S.C. 3507. Also, notwithstanding any other provisions of law, no person shall be subject to penalty for failing to comply with a 
-collection of information if the collection of information does not display a currently valid OMB control number. See 44 U.S.C. 3512.
-
-The public reporting burden for this collection of information is estimated to average approximately one minute per respondent. Interested parties are encouraged to send comments regarding the burden estimate or any other aspect of this 
-collection of information, including suggestions for reducing this burden, to the U.S. Department of Labor, Office of Policy and Research, Attention: PRA Clearance Officer, 200 Constitution Avenue, N.W., Room N-5718, Washington, DC 20210 
-or email ebsa.opr@dol.gov and reference the OMB Control Number 12100123.
-
-Page 7 of 8
 
 
+### Table (Page 7)
 
-## Page 8
-
-
-
-### Table (Page 8)
-
-| Managing Joe's Type 2 Diabetes
-(a year of routine in-network care of a well-
-controlled condition) |  | Mia's Simple Fracture
-(in-network emergency room visit and follow up
-care) |
-| --- | --- | --- |
+|  | Thisisnotacostestimator.Treatmentsshownarejustexamplesofhowthisplanmightcovermedicalcare.Youractualcostswillbedifferent
+dependingontheactualcareyoureceive,thepricesyourproviderscharge,andmanyotherfactors.Focusonthecostsharingamounts(deductibles,
+copaymentsandcoinsurance)andexcludedservicesundertheplan.Usethisinformationtocomparetheportionofcostsyoumightpayunder
+differenthealthplans.Pleasenotethesecoverageexamplesarebasedonself-onlycoverage. |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| PegisHaving aBaby
+(9monthsofin-networkpre-natalcareandahospital
+delivery) |  |  | Managing Joe’stype2Diabetes
+(ayearofroutinein-networkcareofawell-controlled
+condition) |  | Mia’sSimpleFracture
+(in-networkemergencyroomvisitandfollowupcare) |
 
 
 
-### Table (Page 8)
+### Table (Page 7)
 
-| Total Example Cost | $12,700 |
-| --- | --- |
-|  |  |
-| In this example, Peg would pay: |  |
-| Cost-Sharing |  |
-| Deductibles | $5,000 |
-| Copayments | $10 |
-| Coinsurance | $2,600 |
-| What isn't covered | $2,600 |
-| Limits or exclusions | $20 |
-| The total Peg would pay is | $7,630 |
+| TotalExampleCost | $12,700 |  | TotalExampleCost | $5,600 |  | TotalExampleCost | $2,800 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 
-### Table (Page 8)
+### Table (Page 7)
 
-| Total Example Cost | $5,600 |  | Total Example Cost | $2,800 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| In this example, Joe would pay: |  |  | In this example, Mia would pay: |  |
-| Cost-Sharing |  |  | Cost-Sharing |  |
-| Deductibles* | $10 |  | Deductibles* | $2,000 |
-| Copayments | $1,400 |  | Copayments | $100 |
-| Coinsurance | $300 |  | Coinsurance | $40 |
-| What isn't covered | $300 |  | What isn't covered | $40 |
-| Limits or exclusions | $0 |  | Limits or exclusions | $400 |
-| The total Joe would pay is | $1,710 |  | The total Mia would pay is | $2,540 |
+| CostSharing |  |  | CostSharing |  |  | CostSharing |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Deductibles | $4,500 |  | Deductibles | $300 |  | Deductibles | $1,100 |
+| Copayments | $60 |  | Copayments | $1,500 |  | Copayments | $400 |
+| Coinsurance | $0 |  | Coinsurance | $0 |  | Coinsurance | $0 |
+| Whatisn’tcovered | $0 |  | Whatisn’tcovered | $0 |  | Whatisn’tcovered | $0 |
+| Limitsorexclusions | $0 |  | Limitsorexclusions | $0 |  | Limitsorexclusions | $0 |
+| ThetotalPegwouldpayis | $4,560 |  | ThetotalJoewouldpayis | $1,800 |  | ThetotalMiawouldpayis | $1,500 |
 
 The plan would be responsible for the other costs of these EXAMPLE covered services.
+7 of 8
 
 About these Coverage Examples:
 
-This is not a cost estimator. Treatments shown are just examples of how this plan might cover medical care. Your actual costs will be different 
-depending on the actual care you receive, the prices your providers charge, and many other factors. Focus on the cost-sharing amounts 
-(deductibles, copayments, and coinsurance) and excluded services under the plan. Use this information to compare the portion of costs you might 
-pay under different health plans. Please note these coverage examples are based on self-only coverage.
+This is not a cost estimator. Treatments shown are just examples of how this plan might cover medical care. Your actual costs will be different
+depending on the actual care you receive, the prices your providers charge, and many other factors. Focus on the cost sharing amounts (deductibles,
+copayments and coinsurance) and excluded services under the plan. Use this information to compare the portion of costs you might pay under
+different health plans. Please note these coverage examples are based on self-only coverage.
 
 Peg is Having a Baby
-(9 months of in-network pre-natal care and a 
-hospital delivery)
+(9 months of in-network pre-natal care and a hospital
+delivery)
 
-The plan's overall deductible
-$5,000
-Specialist copayment
-$65
-Hospital (facility) coinsurance
-35%
-Other coinsurance
-35%
+Managing Joe’s type 2 Diabetes
+(a year of routine in-network care of a well-controlled
+condition)
 
-Managing Joe's Type 2 Diabetes
-(a year of routine in-network care of a well-
-controlled condition)
+Mia’s Simple Fracture
+(in-network emergency room visit and follow up care)
 
-The plan's overall deductible
-$5,000
-Specialist copayment
-$65
-Hospital (facility) coinsurance
-35%
-Other coinsurance
-35%
-
-Mia's Simple Fracture
-(in-network emergency room visit and follow up 
-care)
-
-The plan's overall deductible
-$5,000
-Specialist copayment
-$65
-Hospital (facility) coinsurance
-35%
-Other coinsurance
-35%
+The plan’s overall deductible
+$4,500
+The plan’s overall deductible
+$4,500
+The plan’s overall deductible
+$4,500
+Specialist copayment
+$60
+Specialist copayment
+$60
+Specialist copayment
+$60
+Hospital (facility) coinsurance
+0%
+Hospital (facility) coinsurance
+0%
+Hospital (facility) coinsurance
+0%
+Other coinsurance
+0%
+Other coinsurance
+0%
+Other coinsurance
+0%
 
 This EXAMPLE event includes services like:
-Specialist office visits (pre-natal care)
+Specialist office visits (prenatal care)
 Childbirth/Delivery Professional Services
 Childbirth/Delivery Facility Services
 Diagnostic tests (ultrasounds and blood work)
 Specialist visit (anesthesia)
 
 This EXAMPLE event includes services like:
-Primary care physician office visits (including 
-disease education)
+Primary care physician office visits (including disease
+education)
 Diagnostic tests (blood work)
 Prescription drugs
 Durable medical equipment (glucose meter)
 
 This EXAMPLE event includes services like:
-Emergency room care (including medical 
-supplies)
-
+Emergency room care (including medical supplies)
 Diagnostic test (x-ray)
 Durable medical equipment (crutches)
 Rehabilitation services (physical therapy)
 
 Total Example Cost
 $12,700
-
-In this example, Peg would pay:
-
-Cost-Sharing
-Deductibles
-$5,000
-Copayments
-$10
-Coinsurance
-$2,600
-What isn't covered
-Limits or exclusions
-$20
-The total Peg would pay is
-$7,630
-
 Total Example Cost
 $5,600
-
-In this example, Joe would pay:
-
-Cost-Sharing
-Deductibles*
-$10
-Copayments
-$1,400
-Coinsurance
-$300
-What isn't covered
-Limits or exclusions
-$0
-The total Joe would pay is
-$1,710
-
 Total Example Cost
 $2,800
 
+In this example, Peg would pay:
+In this example, Joe would pay:
 In this example, Mia would pay:
-
-Cost-Sharing
-Deductibles*
-$2,000
+Cost Sharing
+Cost Sharing
+Cost Sharing
+Deductibles
+$4,500
+Deductibles
+$300
+Deductibles
+$1,100
 Copayments
-$100
-Coinsurance
-$40
-What isn't covered
-Limits or exclusions
+$60
+Copayments
+$1,500
+Copayments
 $400
+Coinsurance
+$0
+Coinsurance
+$0
+Coinsurance
+$0
+What isn’t covered
+What isn’t covered
+What isn’t covered
+Limits or exclusions
+$0
+Limits or exclusions
+$0
+Limits or exclusions
+$0
+The total Peg would pay is
+$4,560
+The total Joe would pay is
+$1,800
 The total Mia would pay is
-$2,540
+$1,500
 
-*Note: This plan has other deductibles for specific services included in this coverage example. See “Are there other deductibles for specific services?” row above.
-
-Page 8 of 8
-
-
-
-## Page 9
-
-Washington State Notice of Non-Discrimination
-
-Providence Health Plan ("PHP") complies with applicable Federal and Washington state civil rights laws and does not discriminate on the basis of
-race, color, national origin, age, disability, sex, gender identity or sexual identity. PHP does not exclude people or treat them differently because of
-race, color, national origin, age, disability, sex, gender identity or sexual orientation.
-
-Providence Health Plan:
-
-Provides free aids and services to people with disabilities to communicate effectively with us, such as:
-
-◦Qualified sign language interpreters
-◦Written information in other formats (large print, audio, accessible electronic formats, other formats)
-
-Provides free language services to people whose primary language is not English, such as:
-
-◦Qualified interpreters
-◦Information written in other languages
-
-If you need these services, contact Ronni Nichuals, Manager, Appeals and Grievances.
-
-If you believe that PHP has failed to provide these services or discriminated in another way on the basis of race, color, national origin, age,
-disability, sex, gender identity or sexual orientation, you can file a grievance with:
-
-Ronni Nichuals, Manager, Appeals and Grievances
-PO Box 4158 Portland, OR 97208-4158
-Phone: 1-800-878-4445 [TTY 711], Fax: 503-574-8757
-Email: PHPAppealsandGrievances@providence.org
-
-You can file a grievance in person or by mail, fax, or email. If you need help filing a grievance, Ronni Nichuals, Manager, Appeals and Grievances is
-available to help you.
-
-You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights, electronically through the
-Office for Civil Rights Complaint Portal, available at:
-
-https://ocrportal.hhs.gov/ocr/portal/lobby.jsf,
-
-or by mail or phone at:
+1Healthcare benefit programs issued or administered by Capital Blue Cross and/or its subsidiaries, Capital Advantage Insurance Company®, Capital Advantage Assurance
+Company® and Keystone Health Plan® Central. Independent licensees of the Blue Cross BlueShield Association. Communications issued by Capital Blue Cross in its capacity as
+administrator of programs and provider relations for all companies.
 
 
 
-## Page 10
-
-U.S. Department of Health and Human Services
-200 Independence Avenue SW - Room 509F HHH Building
-Washington, D.C. 20201
-1-800-368-1019, 800-537-7697 (TDD).
-
-Complaint forms are available at:
-
-http://www.hhs.gov/ocr/office/file/index.html
-
-The Washington State Office of the Insurance Commissioner, electronically through the Office of the Insurance Commissioner Complaint portal
-available at
-
-https://www.insurance.wa.gov/file-complaint-or-check-your-complaint-status,
-
-or by phone at:
-
-### 1-800-562-6900, 360-586-0241 (TDD).
-
-Complaint forms are available at:
-
-https://fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx
+## Page 8
 ---
