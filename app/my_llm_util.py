@@ -47,6 +47,13 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 """,
     "health":"""
 **CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
+- ER means Emergency Medical, some pdf would represent Emergency Medical as ER.
+- Also, PCP stands for Primary Care Provider or Primary Care Visit
+- Break down coverage by drug category (Generic RX, Brand RX, Tier 3 RX, Tier 4 RX, Tier 5 RX).
+    Tier 3 RX means Non-preferred brand Drugs.
+    Tier 5 RX means Non-preferred Specialty Drugs. The values are displayed after "Tier 4 RX" values.
+    Tier 4 RX means Preferred Specialty Drugs. The values are displayed after "Tier 3 RX" values.
+    Also infer tier ranking logic: higher tier number = higher cost to the patient (Generic RX < Brand RX < Tier 3 < Tier 4 < Tier 5).
 - For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance", "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics", "RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX"(both In-Network and Out-of-Network), generally the In-Network and Out-of-Network values are placed next to each other, you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
 - These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields, so that no one field is missing it's value, especially "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "specialist", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX" fields.
 """
@@ -68,7 +75,7 @@ You are a highly accurate insurance PDF-to-JSON converter.
 **Your task:** Extract specific insurance benefits and details, using ONLY the target PDF text provided, into the JSON fields listed below.
 ---
 **CRITICAL EXTRACTION RULES:**
-- For every field, extract values *only and exactly from the target PDF text*. NEVER use, infer, or copy values from sample pairs for these fields.
+- For every field, extract values *only and exactly from the target PDF text*. NEVER use, infer, or copy values from sample pairs for these fields, especially about price and percent values.
 - If a field is not present in the target PDF, return an empty string ("").
 - If multiple prices or values are listed for a benefit field, ALWAYS select the highest price or percentage value.**
 - "Customer Service Phone Number" should be a phone number, not other types like email.

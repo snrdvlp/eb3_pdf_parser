@@ -33,53 +33,43 @@ FIELDS = [
 # Create lowercase mapping for quick lookup
 field_map = {f.lower(): f for f in FIELDS}
 
-def normalize_json_fields(input_path: str, output_path: str = None):
+def normalize_json_fields(input_path: str):
     """
     Normalize JSON fields to match canonical case-sensitive names.
-    
-    Args:
-        input_path (str): Path to a folder containing .json files
-        output_path (str): Folder to save fixed JSON files (default = overwrite)
+    Walks through input_path recursively and overwrites files in place.
     """
-    if output_path is None:
-        output_path = input_path
+    for root, _, files in os.walk(input_path):
+        for file in files:
+            if not file.endswith(".json"):
+                continue
 
-    os.makedirs(output_path, exist_ok=True)
+            file_path = os.path.join(root, file)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+            except Exception as e:
+                print(f"❌ Error reading {file_path}: {e}")
+                continue
 
-    for file in os.listdir(input_path):
-        if not file.endswith(".json"):
-            continue
+            fixed_data = {}
+            for k, v in data.items():
+                key_lower = k.lower()
+                fixed_key = field_map.get(key_lower, k)  # map if exists, else keep original
+                fixed_data[fixed_key] = v
 
-        file_path = os.path.join(input_path, file)
-        with open(file_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
+            # Ensure all expected fields exist
+            for f in FIELDS:
+                if f not in fixed_data:
+                    fixed_data[f] = ""
 
-        fixed_data = {}
+            # Overwrite JSON in place
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump(fixed_data, f, indent=2, ensure_ascii=False)
 
-        for k, v in data.items():
-            key_lower = k.lower()
-            if key_lower in field_map:
-                fixed_key = field_map[key_lower]
-            else:
-                fixed_key = k  # keep as-is if unknown
-            fixed_data[fixed_key] = v
-
-        # Ensure all expected fields exist
-        for f in FIELDS:
-            if f not in fixed_data:
-                fixed_data[f] = ""
-
-        # Save fixed JSON
-        out_file = os.path.join(output_path, file)
-        with open(out_file, "w", encoding="utf-8") as f:
-            json.dump(fixed_data, f, indent=2, ensure_ascii=False)
-
-        print(f"✅ Fixed: {file} → {out_file}")
+            print(f"✅ Fixed: {file_path}")
 
 
-# Source folder with DOCX files (may contain subfolders)
-input_folder = "sample_data/9. Health_all/"
-# Destination folder for JSON files
-output_folder = "sample_data/9. Health_all/"
+# Source folder (recursive)
+input_folder = "sample_data/9. Health/"
 
-normalize_json_fields(input_folder, output_folder)
+normalize_json_fields(input_folder)

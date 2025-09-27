@@ -4,9 +4,9 @@ from docx import Document
 from pathlib import Path
 
 # Source folder with DOCX files (may contain subfolders)
-DOCX_FOLDER = "sample_data/9. Health"
+DOCX_FOLDER = "sample_data/9. Health/HEALTH PDF-WORD PAIRS"
 # Destination folder for JSON files
-JSON_FOLDER = "sample_data/9. Health"
+JSON_FOLDER = "sample_data/9. Health/HEALTH PDF-WORD PAIRS"
 
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
