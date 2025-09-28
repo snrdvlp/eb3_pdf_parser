@@ -14,9 +14,6 @@ from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
 
-
-db.init_sqlite()
-
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
@@ -119,6 +116,7 @@ async def extract_json_endpoint(
 import os
 import json
 import hashlib
+import sqlite3
 from fastapi import UploadFile, File, Form
 
 @app.post("/sample/add_one")
@@ -131,11 +129,14 @@ async def add_sample_endpoint(
     json_bytes = await json_file.read()
     json_data = json.loads(json_bytes.decode())
 
+    # Initialize db by category
+    db.init_sqlite(category)
+
     # Exact deduplication: check for identical PDF by hash
     pdf_hash = hashlib.sha256(pdf_bytes).hexdigest()
     
-    import sqlite3
-    conn = sqlite3.connect(db.SQLITE_METADATA)
+    paths = db._get_category_paths(category)
+    conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
     
     # Check if sample exists
@@ -183,11 +184,13 @@ async def add_batch_endpoint(folder_path: str = Body(...), category: str = Body(
     pdf_files = [f for f in files if f.lower().endswith(".pdf")]
     results = []
 
-    import hashlib
-    import sqlite3
+    # Initialize db by category
+    db.init_sqlite(category)
 
     # Preload all existing PDF hashes for efficiency
-    conn = sqlite3.connect(db.SQLITE_METADATA)
+    paths = db._get_category_paths(category)
+    conn = sqlite3.connect(paths["sqlite"])
+    
     c = conn.cursor()
     c.execute('SELECT pdf_hash FROM samples')
     existing_hashes = {row[0] for row in c.fetchall()}

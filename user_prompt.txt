@@ -5,152 +5,132 @@ SAMPLE PDF #1:
 
 ### Table (Page 1)
 
-|  | TheSummaryofBenefitsandCoverage(SBC)documentwillhelpyouchooseahealthplan.TheSBCshowsyouhowyouandtheplanwouldsharethecost
-forcoveredhealthcareservices.NOTE:Informationaboutthecostofthisplan(calledthepremium)willbeprovidedseparately. |  |  |
-| --- | --- | --- | --- |
-| Thisisonlyasummary.Formoreinformationaboutyourcoverage,ortogetacopyofthecompletetermsofcoverage,call1-800-962-2242.Forgeneraldefinitionsofcommon
-terms,suchasallowedamount,balancebilling,coinsurance,copayment,deductible,provider,orotherunderlinedtermsseetheGlossary.YoucanviewtheGlossaryat
-www.healthcare.gov/sbc-glossaryorcall1-888-428-2566torequestacopy. |  |  |  |
-| ImportantQuestions |  | Answers | WhyThisMatters: |
-| Whatistheoverall
-deductible? |  | $2,000/Individual,$4,000/Familyin-networkproviders;
-$5,000/Individual,$10,000/Familyout-of-network
-providers.
-Deductibleappliestoallservices,including
-prescriptiondrug,beforeanycopaymentor
-coinsuranceareapplied. | Generally,youmustpayallofthecostsfromprovidersuptothedeductible.amount
-beforethisplanbeginstopay.Ifyouhaveotherfamilymembersontheplan,theoverall
-familydeductiblemustbemetbeforetheplanbeginstopay. |
-| Arethereservices
-coveredbeforeyoumeet
-yourdeductible? |  | Yes.in-networkpreventiveservices. | Thisplancoverssomeitemsandservicesevenifyouhaven’tyetmettheannual
-deductibleamount.Butacopaymentorcoinsurancemayapply.Forexample,thisplan
-coverscertainpreventiveserviceswithoutcost-sharingandbeforeyoumeetyour
-deductible.Seealistofcoveredpreventiveservicesat
-https://www.healthcare.gov/coverage/preventive-care-benefits/. |
-| Arethereother
-deductiblesforspecific
-services? |  | Yes.$50forpediatricdental.Therearenoother
-specificdeductibles. | Youmustpayallofthecostsfortheseservicesuptothespecificdeductibleamount
-beforethisplanbeginstopayfortheseservices. |
-| Whatistheout-of-pocket
-limitforthisplan? |  | Forin-networkproviders$6,900/Individual,
-$13,800/Family;
-forout-of-networkproviders$10,000/Individual,
-$20,000/Family.
-Combinedout-of-pocketlimitfornetworkmedicaland
-prescriptiondrug. | Theout-of-pocketlimitisthemostyoucouldpayinayearforcoveredservices.Ifyou
-haveotherfamilymembersinthisplan,theyhavetomeettheirownout-of-pocketlimits
-untiltheoverallfamilyout-of-pocketlimithasbeenmet. |
-| Whatisnotincludedin
-theout-of-pocketlimit? |  | Premiums,balancebillingcharges,andhealthcare
-thisplandoesn'tcover. | Eventhoughyoupaytheseexpensestheydon’tcounttowardtheout-of-pocketlimit. |
-| Willyoupaylessifyou
-useanetworkprovider? |  | Yes.Foralistofin-networkproviders,see
-capitalbluecross.comorcall1-800-962-2242. | Thisplanusesaprovidernetwork.Youwillpaylessifyouuseaproviderintheplan’s
-network.Youwillpaythemostifyouuseanout-of-networkprovider,andyoumight
-receiveabillfromaproviderforthedifferencebetweentheprovider’schargeandwhat
-yourplanpays(balancebilling).Beaware,yournetworkprovidermightuseanout-of-
-networkproviderforsomeservices(suchaslabwork).Checkwithyourproviderbefore
-yougetservices. |
-| Doyouneedareferralto
-seeaspecialist? |  | No. | Youcanseethespecialistyouchoosewithoutareferral. |
+| Passive PPO
+With PPOII and ExtendSM Networks |
+| --- |
+| Annual Deductible*
+Individual $50
+Family $150
+Preventive Services 100%
+Basic Services 70%
+Major Services 50%
+Annual Benefit Maximum $1000
+Office Visit Copay N/A
+Orthodontic Services (Adult and Child) 50%
+Orthodontic Deductible None
+Orthodontic Lifetime Maximum $1000
+*The deductible applies to: Basic & Major services only |
+| Partial List of Services Passive PPO
+With PPOII and ExtendSM Networks |
+| Preventive |
+| Oral examinations (a) 100%
+Cleanings (a) Adult/Child 100%
+Fluoride (a) 100%
+Sealants (permanent molars only) (a) 100%
+Bitewing Images (a) 100%
+Full mouth series Images (a) 100%
+Space Maintainers 100% |
+| Basic |
+| Root canal therapy
+Anterior teeth / Bicuspid teeth 70%
+Root canal therapy, molar teeth 70%
+Scaling and root planing (a) 70%
+Gingivectomy (a)* 70%
+Amalgam (silver) fillings 70%
+Composite fillings 70% |
 
-Summary of Benefits and Coverage: What this Plan Covers & What You Pay For Covered Services
-Coverage Period: Beginning on or after 01/01/2025
+Page1
 
-Capital Blue Cross1
-Gold QHDHP PPO 2000/0/10
-Coverage For: Individual and Family | Plan Type: QHDHP PPO
+NT P30 Ortho 
+PPO 1000 90th
 
-01/01/2025 - Small Group PPACA
-SG Generic-PPQCJ650/RXQCJ650
-1 of 7
+Dental Benefits Summary
 
-The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the cost
-for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately.
+Passive PPO 
+With PPOII and ExtendSM Networks
 
-This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, call 1-800-962-2242. For general definitions of common
-terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined terms see the Glossary. You can view the Glossary at
-www.healthcare.gov/sbc-glossary or call 1-888-428-2566 to request a copy.
+Annual Deductible*
 
-Important Questions
-Answers
-Why This Matters:
+Individual 
+$50
 
-What is the overall
-deductible?
+Family 
+$150
 
-$2,000/Individual, $4,000/Family in-network providers;
-$5,000/Individual, $10,000/Family out-of-network
-providers.
-Deductible applies to all services, including
-prescription drug, before any copayment or
-coinsurance are applied.
+Preventive Services 
+100%
 
-Generally, you must pay all of the costs from providers up to the deductible. amount
-before this plan begins to pay. If you have other family members on the plan, the overall
-family deductible must be met before the plan begins to pay.
+Basic Services 
+70%
 
-Are there services
-covered before you meet
-your deductible?
+Major Services 
+50%
 
-Yes. in-network preventive services.
-This plan covers some items and services even if you haven’t yet met the annual
-deductible amount. But a copayment or coinsurance may apply. For example, this plan
-covers certain preventive services without cost-sharing and before you meet your
-deductible. See a list of covered preventive services at
-https://www.healthcare.gov/coverage/preventive-care-benefits/.
-Are there other
-deductibles for specific
-services?
+Annual Benefit Maximum 
+$1000
 
-Yes. $50 for pediatric dental. There are no other
-specific deductibles.
+Office Visit Copay 
+N/A
 
-You must pay all of the costs for these services up to the specific deductible amount
-before this plan begins to pay for these services.
+Orthodontic Services (Adult and Child) 
+50%
 
-What is the out-of-pocket
-limit for this plan?
+Orthodontic Deductible 
+None
 
-For in-network providers $6,900/Individual,
-$13,800/Family;
-for out-of-network providers $10,000/Individual,
-$20,000/Family.
-Combined out-of-pocket limit for network medical and
-prescription drug.
+Orthodontic Lifetime Maximum 
+$1000
 
-The out-of-pocket limit is the most you could pay in a year for covered services. If you
-have other family members in this plan, they have to meet their own out-of-pocket limits
-until the overall family out-of-pocket limit has been met.
+*The deductible applies to:  Basic & Major services only
 
-What is not included in
-the out-of-pocket limit?
+Partial List of Services 
+Passive PPO 
+With PPOII and ExtendSM Networks
 
-Premiums, balance billing charges, and health care
-this plan doesn't cover.
+Preventive
 
-Even though you pay these expenses they don’t count toward the out-of-pocket limit.
+Oral examinations (a)  
+100%
 
-Will you pay less if you
-use a network provider?
+Cleanings (a) Adult/Child 
+100%
 
-Yes. For a list of in-network providers, see
-capitalbluecross.com or call 1-800-962-2242.
+Fluoride (a) 
+100%
 
-This plan uses a provider network. You will pay less if you use a provider in the plan’s
-network. You will pay the most if you use an out-of-network provider, and you might
-receive a bill from a provider for the difference between the provider’s charge and what
-your plan pays (balance billing). Be aware, your network provider might use an out-of-
-network provider for some services (such as lab work). Check with your provider before
-you get services.
-Do you need a referral to
-see a specialist?
+Sealants (permanent molars only) (a) 
+100%
 
-No.
-You can see the specialist you choose without a referral.
+Bitewing Images (a) 
+100%
+
+Full mouth series Images (a) 
+100%
+
+Space Maintainers 
+100%
+
+Basic
+
+Root canal therapy
+
+Anterior teeth / Bicuspid teeth 
+70%
+
+Root canal therapy, molar teeth 
+70%
+
+Scaling and root planing (a) 
+70%
+
+Gingivectomy (a)* 
+70%
+
+Amalgam (silver) fillings  
+70%
+
+Composite fillings 
+70%
 
 
 
@@ -160,191 +140,260 @@ You can see the specialist you choose without a referral.
 
 ### Table (Page 2)
 
-|  | Allcopaymentandcoinsurancecostsshowninthischartareafteryourdeductiblehasbeenmet,ifadeductibleapplies. |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| Common
-MedicalEvent |  | ServicesYouMayNeed | WhatYouWillPay |  | Limitations,Exceptions,&Other
-ImportantInformation |
-|  |  |  | In-networkProvider
-(Youwillpaytheleast) | Out-of-networkProvider
-(Youwillpaythemost) |  |
-| Ifyouvisitahealthcare
-provider’sofficeorclinic |  | Primarycarevisittotreatan
-injuryorillness | $10copayment/Visit | 50%coinsurance | None |
-|  |  | Specialistvisit | $20copayment/Visit | 50%coinsurance | None |
-|  |  | Preventive
-care/screening/immunization | NoCharge | 50%coinsurance | Deductibledoesnotapplytoservicesat
-in-networkproviders.Youmayhavetopay
-forservicesthataren’tpreventive.Ask
-yourprovideriftheservicesyouneedare
-preventive.Thencheckwhatyourplanwill
-payfor. |
-| Ifyouhaveatest |  | Diagnostictest(x-ray,blood
-work) | $20copayment/Visitfor
-FacilityOwnedlabs,$10
-copayment/Visitfor
-IndependentLabsandNo
-Chargefortests.NoCharge
-foroutpatientradiology. | 50%coinsurance | Copaymentwaivedformentalhealthand
-substanceusedisorderlabservices. |
-|  |  | Imaging(CT/PETscans,
-MRIs) | NoCharge | 50%coinsurance | *Seepreauthorizationscheduleattached
-toyourplandocument. |
-| Ifyouneeddrugstotreatyour
-illnessorcondition
-Moreinformationabout
-prescriptiondrugcoverageis
-availablebycalling
-1-800-962-2242 |  | Genericdrugs | $7copayment/prescriptionpreferredand
-$25copayment/prescriptionnon-preferred(retail)
-$14copayment/prescriptionpreferredand
-$50copayment/prescriptionnon-preferred(homedelivery) |  | Coversuptoa30-daysupply(retail)90-
-daysupply(homedelivery). |
-|  |  | Preferredbranddrugs | $55copayment/prescription(retail)
-$110copayment/prescription(homedelivery) |  | Coversuptoa30-daysupply(retail)90-
-daysupply(homedelivery). |
-|  |  | NonPreferredbranddrugs | $80copayment/prescription(retail)
-$160copayment/prescription(homedelivery) |  | Coversuptoa30-daysupply(retail)90-
-daysupply(homedelivery). |
-|  |  | Specialtydrugs | 20%coinsurance/prescriptionpreferredand
-20%coinsurance/prescriptionnon-preferred(generic)
-20%coinsurance/prescriptionpreferredand
-20%coinsurance/prescriptionnon-preferred(brand) |  | Prescriptionwrittenforupto30days
-supply./$250maximum
-copayment/prescriptionpreferredand
-$350maximumcopayment/prescription
-non-preferred(generic)/$250maximum
-copayment/prescriptionpreferredand
-$350maximumcopayment/prescription |
+| Stainless steel crowns 70%
+Incision and drainage of abscess* 70%
+Uncomplicated extractions 70%
+Surgical removal of erupted tooth* 70%
+Surgical removal of impacted tooth (soft tissue)* 70%
+Osseous surgery (a)* 70%
+Surgical removal of impacted tooth (partial bony/ full bony)* 70%
+Crown Lengthening 70% |
+| --- |
+| Major |
+| Inlays 50%
+Onlays 50%
+Crowns 50%
+Full & partial dentures 50%
+Pontics 50%
+General anesthesia/intravenous sedation* 50%
+Denture repairs 50%
+*Certain services may be covered under the Medical Plan. Contact Member Services for more details.
+(a) Frequency and/or age limitations may apply to these services. These limits are described in the booklet/certificate. |
 
-*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
-2 of 7
+Page2
 
-All copayment and coinsurance costs shown in this chart are after your deductible has been met, if a deductible applies.
+NT P30 Ortho 
+PPO 1000 90th
 
-Common
-Medical Event
+Dental Benefits Summary
 
-Services You May Need
+Stainless steel crowns 
+70%
 
-What You Will Pay
-Limitations, Exceptions, & Other
-Important Information
-In-network Provider
-(You will pay the least)
+Incision and drainage of abscess* 
+70%
 
-Out-of-network Provider
-(You will pay the most)
+Uncomplicated extractions 
+70%
 
-If you visit a health care
-provider’s office or clinic
+Surgical removal of erupted tooth* 
+70%
 
-Primary care visit to treat an
-injury or illness
-$10 copayment/Visit
-50% coinsurance
-None
+Surgical removal of impacted tooth (soft tissue)* 
+70%
 
-Specialist visit
-$20 copayment/Visit
-50% coinsurance
-None
+Osseous surgery (a)* 
+70%
 
-Preventive
-care/screening/immunization
-No Charge
-50% coinsurance
+Surgical removal of impacted tooth (partial bony/ full bony)* 
+70%
 
-Deductible does not apply to services at
-in-network providers. You may have to pay
-for services that aren’t preventive. Ask
-your provider if the services you need are
-preventive. Then check what your plan will
-pay for.
+Crown Lengthening 
+70%
 
-If you have a test
+Major
 
-Diagnostic test (x-ray, blood
-work)
+Inlays  
+50%
 
-$20 copayment/Visit for
-Facility Owned labs, $10
-copayment/Visit for
-Independent Labs and No
-Charge for tests. No Charge
-for outpatient radiology.
+Onlays 
+50%
 
-50% coinsurance
-Copayment waived for mental health and
-substance use disorder lab services.
+Crowns 
+50%
 
-Imaging (CT/PET scans,
-MRIs)
-No Charge
-50% coinsurance
-*See preauthorization schedule attached
-to your plan document.
+Full & partial dentures 
+50%
 
-If you need drugs to treat your
-illness or condition
-More information about
-prescription drug coverage is
-available by calling
-1-800-962-2242
+Pontics 
+50%
 
-Generic drugs
+General anesthesia/intravenous sedation* 
+50%
 
-$7 copayment/prescription preferred and
-$25 copayment/prescription non-preferred (retail)
-$14 copayment/prescription preferred and
-$50 copayment/prescription non-preferred (home delivery)
+Denture repairs 
+50%
 
-Covers up to a 30-day supply (retail) 90-
-day supply (home delivery).
+*Certain services may be covered under the Medical Plan. Contact Member Services for more details.
 
-Preferred brand drugs
-$55 copayment/prescription (retail)
-$110 copayment/prescription (home delivery)
+(a) Frequency and/or age limitations may apply to these services.  These limits are described in the booklet/certificate.
 
-Covers up to a 30-day supply (retail) 90-
-day supply (home delivery).
+Other Important Information
 
-Non Preferred brand drugs
-$80 copayment/prescription (retail)
-$160 copayment/prescription (home delivery)
+This Aetna Dental® Preferred Provider Organization (PPO) benefits summary is provided by Aetna Life Insurance  
+Company for some of the more frequently performed dental procedures.  
+Under the Dental Preferred Provider Organization (PPO) plan, you may choose at the time of service either a  PPO  
+participating dentist or any nonparticipating dentist. With the PPO plan, savings are possible because the participating  
+dentists have agreed to provide care for covered services at negotiated rates.  Non-participating benefits are subject to  
+recognized charge limits.
 
-Covers up to a 30-day supply (retail) 90-
-day supply (home delivery).
+This policy DOES NOT include coverage of pediatric dental services as required under federal law. Coverage of pediatric  
+dental services is available for purchase in the State of Colorado, and can be purchased as a stand-alone plan, or as a  
+covered benefit in another health plan. Please contact your insurance carrier, agent, or Connect for Health Colorado to  
+purchase either a plan that includes pediatric dental coverage, or an Exchange-qualified stand-alone dental plan that  
+includes pediatric dental coverage.
 
-Specialty drugs
-
-20% coinsurance/prescription preferred and
-20% coinsurance/prescription non-preferred (generic)
-20% coinsurance/prescription preferred and
-20% coinsurance/prescription non-preferred (brand)
-
-Prescription written for up to 30 days
-supply. / $250 maximum
-copayment/prescription preferred and
-$350 maximum copayment/prescription
-non-preferred (generic) / $250 maximum
-copayment/prescription preferred and
-$350 maximum copayment/prescription
+Coverage for Major and Orthodontic services is subject to a waiting period and will take effect after 12 months of  
+continuous coverage under the PPO Plan.
 
 
 
 ## Page 3
 
+Page3
+
+NT P30 Ortho 
+PPO 1000 90th
+
+Dental Benefits Summary
+
+Emergency Dental Care
+
+If you need emergency dental care for the palliative treatment (pain relieving, stabilizing) of a dental emergency, you are  
+covered 24 hours a day, 7 days a week.
+
+When emergency services are provided by a participating PPO dentist, your co-payment/coinsurance amount will be based  
+on a negotiated fee schedule.  When emergency services are provided by a non-participating dentist, you will be  
+responsible for the difference between the plan payment and the dentist's usual charge.  Refer to your plan documents for  
+details.  Subject to state requirements.  Out-of-area emergency dental care may be reviewed by our dental consultants to  
+verify appropriateness of treatment.
+
+Partial List of Exclusions and Limitations* - Coverage is not provided for the following:
+
+1.Services or supplies that are covered in whole or in part:
+
+(a) under any other part of this Dental Care Plan; or 
+(b) under any other plan of group benefits provided by or through your employer.
+
+2.  Services and supplies to diagnose or treat a disease or injury that is not:
+
+(a) a non-occupational disease; or 
+(b) a non-occupational injury.
+
+3.  Services not listed in the Dental Care Schedule that applies, unless otherwise specified in the Booklet-Certificate.
+
+4.  Those for replacement of a lost, missing or stolen appliance, and those for replacement of appliances that have been  
+damaged due to abuse, misuse or neglect.
+
+5.  Those for plastic, reconstructive or cosmetic surgery, or other dental services or supplies, that are primarily intended to  
+improve, alter or enhance appearance.  This applies whether or not the services and supplies are for psychological or  
+emotional reasons.  Facings on molar crowns and pontics will always be considered cosmetic.
+
+6.   Those for or in connection with services, procedures, drugs or other supplies that are determined by Aetna to be  
+experimental or still under clinical investigation by health professionals.
+
+7. Those for dentures, crowns, inlays, onlays, bridgework, or other appliances or services used for the purpose of  
+splinting, to alter vertical dimension, to restore occlusion, or to correct attrition, abrasion or erosion.
+
+8.  Those for any of the following services (Does not apply to the DMO plan in TX):
+
+(a) an appliance or modification of one if an impression for it was made before the person became a covered  
+person; 
+(b) a crown, bridge, or cast or processed restoration if a tooth was prepared for it before the person became a  
+covered person; or 
+(c) root canal therapy if the pulp chamber for it was opened before the person became a covered person.
+
+9.  Services that Aetna defines as not necessary for the diagnosis, care or treatment of the condition involved.  This applies  
+even if they are prescribed, recommended or approved by the attending physician or dentist.
+
+10 . Those for services intended for treatment of any jaw joint disorder, unless otherwise specified in the  
+Booklet-Certificate.
 
 
-### Table (Page 3)
 
-| Common
-MedicalEvent | ServicesYouMayNeed | WhatYouWillPay |  | Limitations,Exceptions,&Other
-ImportantInformati
+## Page 4
+
+Page4
+
+NT P30 Ortho 
+PPO 1000 90th
+
+Dental Benefits Summary
+
+11 . Those for space maintainers, except when needed to preserve space resulting from the premature loss of deciduous  
+teeth.
+
+12 . Those for orthodontic treatment, unless otherwise specified in the Booklet-Certificate.
+
+13 .  Those for general anesthesia and intravenous sedation, unless specifically covered.  For plans that cover these  
+services, they will not be eligible for benefits unless done in conjunction with another necessary covered service.
+
+14 .  Those for treatment by other than a dentist, except that scaling or cleaning of teeth and topical application of fluoride  
+may be done by a licensed dental hygienist.  In this case, the treatment must be given under the supervision and guidance  
+of a dentist.
+
+15 .  Those in connection with a service given to a person age 5 or older if that person becomes a covered person other  
+than:
+
+(a) during the first 31 days the person is eligible for this coverage, or 
+(b) as prescribed for any period of open enrollment agreed to by the employer and Aetna.  This does not apply to  
+charges incurred:
+
+(i) after the end of the 12-month period starting on the date the person became a covered person; or 
+(ii) as a result of accidental injuries sustained while the person was a covered person; or 
+(iii) for a primary care service in the Dental Care Schedule that applies as shown under the headings  
+Visits and Exams, and X-rays and Pathology.
+
+16 .  Services given by a nonparticipating dental provider to the extent that the charges exceed the amount payable for the  
+services shown in the Dental Care Schedule that applies.
+
+17 . Those for a crown, cast or processed restoration unless:
+
+(a)  it is treatment for decay or traumatic injury, and teeth cannot be restored with a filling material; or 
+(b)  the tooth is an abutment to a covered partial denture or fixed bridge.
+
+18 .  Those for pontics, crowns, cast or processed restorations made with high-noble metals, unless otherwise specified in  
+the Booklet-Certificate.
+
+19 .  Those for surgical removal of impacted wisdom teeth only for orthodontic reasons, unless otherwise specified in the  
+Booklet-Certificate.
+
+20 . Services needed solely in connection with non-covered services.
+
+21 . Services done where there is no evidence of pathology, dysfunction or disease other than covered preventive services.
+
+Any exclusion above will not apply to the extent that coverage of the charges is required under any law that applies to the  
+coverage.
+
+*This is a partial list of exclusions and limitations, others may apply.  Please check your plan booklet for details.
+
+Your Dental Care Plan Coverage Is Subject to the Following Rules:
+
+Replacement Rule
+
+
+
+## Page 5
+
+Page5
+
+NT P30 Ortho 
+PPO 1000 90th
+
+Dental Benefits Summary
+
+The replacement of; addition to; or modification of:  existing dentures; crowns; casts or processed restorations; removable  
+denture; fixed bridgework; or other prosthetic services is covered only if one of the following terms is met:
+
+The replacement or addition of teeth is required to replace one or more teeth extracted after the existing denture or 
+bridgework was installed.  This coverage must have been in force for the covered person when the extraction took place.
+
+The existing denture, crown; cast or processed restoration, removable denture, bridgework, or other prosthetic service  
+cannot be made serviceable, and was installed at least 8 years before its replacement.
+
+The existing denture is an immediate temporary one to replace one or more natural teeth extracted while the person is  
+covered, and cannot be made permanent, and replacement by a permanent denture is required.  The replacement must take  
+place within 12 months from the date of initial installation of the immediate temporary denture.
+
+The extraction of a third molar does not qualify. Any such appliance or fixed bridge must include the replacement of an  
+extracted tooth or teeth.
+
+Tooth Missing But Not Replaced Rule
+
+Coverage for the first installation of removable dentures;  fixed bridgework and other prosthetic services is subject to the  
+requirements that such  removable dentures; fixed bridgework and other prosthetic services are (i) needed 
 SAMPLE JSON #1:
-{"Carrier Name":"Capital Blue Cross","Plan Name":"Gold QHDHP PPO 2000/0/10","In-Network Single Deductible":"2,000","In-Network Family Deductible":"4,000","Out-of-Network Single Deductible":"5,000","Out-of-Network Family Deductible":"10,000","In-Network Single OOP Max":"6,900","In-Network Family OOP Max":"13,800","Out-of-Network Single OOP Max":"6,900","Out-of-Network Family OOP Max":"13,800","In-Network Coinsurance":"0","Out-of-Network Coinsurance":"50","In-Network PCP Visit":"10","Out-of-Network PCP Visit":"50% after deductible","In-Network Specialist Visit":"20","Out-of-Network Specialist Visit":"50% after deductible","In-Network Urgent Care Visit":"75","Out-of-Network Urgent Care Visit":"75","In-Network ER Visit":"175","Out-of-Network ER Visit":"175","In-Network Preventive Visit":"No charge","Out-of-Network Preventive Visit":"50% after deductible","In-Network Outpatient Surgery":"$175","Out-of-Network Outpatient Surgery":"50% after deductible","In-Network Inpatient Surgery":"No charge","Out-of-Network Inpatient Surgery":"50% after deductible","In-Network Newborn Delivery":"No charge","Out-of-Network Newborn Delivery":"50% after deductible","In-Network Major Diagnostics":"No charge","Out-of-Network Major Diagnostics":"50% after deductible","In-Network RX Deductible":"","Out-of-Network RX Deductible":"","In-Network Generic RX":"preferred : $7 / Non-preferred : $25","Out-of-Network Generic RX":"preferred : $7 / Non-preferred : $25","In-Network Brand RX":"55","Out-of-Network Brand RX":"55","In-Network Tier 3 RX":"80","Out-of-Network Tier 3 RX":"80","In-Network Tier 4 RX":"20%","Out-of-Network Tier 4 RX":"20%","In-Network Tier 5 RX":"","Out-of-Network Tier 5 RX":"","In-Network Mail Order RX":"Generic preferred : $14 / Generic Non-preferred : $50 / $55 / $80","Out-of-Network Mail Order RX":"Generic preferred : $14 / Generic Non-preferred : $50 / $55 / $80","Plan Year":"2025","Deductible Period":"","Deductible Explanation":"Embedded","Network Type":"PPO","Network Name":"","Member Website":"www.capbluecross.com","Customer Service Phone Number":"1-800-962-2242"}
+{"Carrier Name":"Aetna","Plan Name":"NT P30 Ortho PPO 1000 90th","In-Network Single Deductible":"$50","In-Network Family Deductible":"$150","Out-of-Network Single Deductible":"","Out-of-Network Family Deductible":"","In-Network Annual Maximum":"$1000","Out-of-Network Annual Maximum":"","Frequencies Cleaning":"","Frequencies Exam":"","In-Network Cleanings":"100%","Out-of-Network Cleanings":"","In-Network Exams":"100%","Out-of-Network Exams":"","In-Network X-Rays":"100%","Out-of-Network X-Rays":"","In-Network Sealants":"100%","Out-of-Network Sealants":"","In-Network Fillings":"70%","Out-of-Network Fillings":"","In-Network Simple Extractions":"70%","Out-of-Network Simple Extractions":"","In-Network Root Canal":"70%","Out-of-Network Root Canal":"","In-Network Periodontal Gum Disease":"70%","Out-of-Network Periodontal Gum Disease":"","In-Network Oral Surgery":"70%","Out-of-Network Oral Surgery":"","In-Network Crowns":"50%","Out-of-Network Crowns":"","In-Network Dentures":"50%","Out-of-Network Dentures":"","In-Network Bridges":"","Out-of-Network Bridges":"","In-Network Implants":"","Out-of-Network Implants":"","In-Network Orthodontia":"50%","Out-of-Network Orthodontia":"","Orthodontia Lifetime Maximum":"$1000","Orthodontia Maximum Age":"Adult and Child","Out of Network Explanation":"With the PPO plan, savings are possible because the participating dentists have agreed to provide care for covered services at negotiated rates. Non-participating benefits are subject to recognized charge limits.","Waiting Period for Major Services":"12 months","Plan Year":"","Network Type":"PPO","Network Name":"PPO II and ExtendSM Networks","Member Website":"www.aetna.com","Customer Service Phone Number":""}
 ---
 
 TARGET PDF:
@@ -354,160 +403,132 @@ TARGET PDF:
 
 ### Table (Page 1)
 
-|  | TheSummaryofBenefitsandCoverage(SBC)documentwillhelpyouchooseahealthplan.TheSBCshowsyouhowyouandtheplanwouldsharethecost
-forcoveredhealthcareservices.NOTE:Informationaboutthecostofthisplan(calledthepremium)willbeprovidedseparately. |  |  |
-| --- | --- | --- | --- |
-| Thisisonlyasummary.Formoreinformationaboutyourcoverage,ortogetacopyofthecompletetermsofcoverage,call1-800-962-2242.Forgeneraldefinitionsofcommon
-terms,suchasallowedamount,balancebilling,coinsurance,copayment,deductible,provider,orotherunderlinedtermsseetheGlossary.YoucanviewtheGlossaryat
-www.healthcare.gov/sbc-glossaryorcall1-888-428-2566torequestacopy. |  |  |  |
-| ImportantQuestions |  | Answers | WhyThisMatters: |
-| Whatistheoverall
-deductible? |  | $4,500/Individual,$9,000/Familypreferredin-network
-providers;
-$9,000/Individual,$18,000/Familynon-preferredin-
-networkproviders;
-$9,000/Individual,$18,000/Familyout-of-network
-providers. | Generally,youmustpayallofthecostsfromprovidersuptothedeductibleamount
-beforethisplanbeginstopay.Ifyouhaveotherfamilymembersontheplan,eachfamily
-membermustmeettheirownindividualdeductibleuntilthetotalamountofdeductible
-expensespaidbyallfamilymembersmeetstheoverallfamilydeductible. |
-| Arethereservices
-coveredbeforeyoumeet
-yourdeductible? |  | Yes.Professionalserviceswithcopays,in-network
-preventiveservices.emergencymedical
-transportation. | Thisplancoverssomeitemsandservicesevenifyouhaven’tyetmettheannual
-deductibleamount.Butacopaymentorcoinsurancemayapply.Forexample,thisplan
-coverscertainpreventiveserviceswithoutcost-sharingandbeforeyoumeetyour
-deductible.Seealistofcoveredpreventiveservicesat
-https://www.healthcare.gov/coverage/preventive-care-benefits/. |
-| Arethereother
-deductiblesforspecific
-services? |  | Yes.$50forpediatricdental.Therearenoother
-specificdeductibles. | Youmustpayallofthecostsfortheseservicesuptothespecificdeductibleamount
-beforethisplanbeginstopayfortheseservices. |
-| Whatistheout-of-pocket
-limitforthisplan? |  | Forin-networkproviders$9,200Individual/$18,400
-Family;
-forout-of-networkproviders$10,000Individual/
-$20,000/Family.
-Combinedout-of-pocketlimitfornetworkmedicaland
-prescriptiondrug. | Theout-of-pocketlimitisthemostyoucouldpayinayearforcoveredservices.Ifyou
-haveotherfamilymembersinthisplan,theyhavetomeettheirownout-of-pocketlimits
-untiltheoverallfamilyout-of-pocketlimithasbeenmet. |
-| Whatisnotincludedin
-theout-of-pocketlimit? |  | Premiums,balancebillingcharges,andhealthcare
-thisplandoesn'tcover. | Eventhoughyoupaytheseexpensestheydon’tcounttowardtheout-of-pocketlimit. |
-| Willyoupaylessifyou
-useanetworkprovider? |  | Yes.Foralistofin-networkproviders,see
-capitalbluecross.comorcall1-800-962-2242. | Thisplanusesaprovidernetwork.Youwillpaylessifyouuseaproviderintheplan’s
-network.Youwillpaythemostifyouuseanout-of-networkprovider,andyoumight
-receiveabillfromaproviderforthedifferencebetweentheprovider’schargeandwhat
-yourplanpays(balancebilling).Beaware,yournetworkprovidermightuseanout-of-
-networkproviderforsomeservices(suchaslabwork).Checkwithyourproviderbefore
-yougetservices. |
-| Doyouneedareferralto
-seeaspecialist? |  | No. | Youcanseethespecialistyouchoosewithoutareferral. |
+| Passive PPO
+With PPOII and ExtendSM Networks |
+| --- |
+| Annual Deductible*
+Individual $50
+Family $150
+Preventive Services 100%
+Basic Services 90%
+Major Services 60%
+Annual Benefit Maximum $2000
+Office Visit Copay N/A
+Orthodontic Services (Adult and Child) 60%
+Orthodontic Deductible None
+Orthodontic Lifetime Maximum $1000
+*The deductible applies to: Basic & Major services only |
+| Partial List of Services Passive PPO
+With PPOII and ExtendSM Networks |
+| Preventive |
+| Oral examinations (a) 100%
+Cleanings (a) Adult/Child 100%
+Fluoride (a) 100%
+Sealants (permanent molars only) (a) 100%
+Bitewing Images (a) 100%
+Full mouth series Images (a) 100%
+Space Maintainers 100% |
+| Basic |
+| Root canal therapy
+Anterior teeth / Bicuspid teeth 90%
+Root canal therapy, molar teeth 90%
+Scaling and root planing (a) 90%
+Gingivectomy (a)* 90%
+Amalgam (silver) fillings 90%
+Composite fillings 90% |
 
-Summary of Benefits and Coverage: What this Plan Covers & What You Pay For Covered Services
-Coverage Period: Beginning on or after 01/01/2025
+Page1
 
-Capital Blue Cross1
-Silver Performance PPO 4500/0/30
-Coverage For: Individual and Family | Plan Type: Performance
-PPO
+NT P50 Ortho 
+PPO 2000 90th
 
-01/01/2025 - Small Group PPACA
-SG Generic-PPOCJ664/RXRCJ519
-1 of 8
+Dental Benefits Summary
 
-The Summary of Benefits and Coverage (SBC) document will help you choose a health plan. The SBC shows you how you and the plan would share the cost
-for covered health care services. NOTE: Information about the cost of this plan (called the premium) will be provided separately.
+Passive PPO 
+With PPOII and ExtendSM Networks
 
-This is only a summary. For more information about your coverage, or to get a copy of the complete terms of coverage, call 1-800-962-2242. For general definitions of common
-terms, such as allowed amount, balance billing, coinsurance, copayment, deductible, provider, or other underlined terms see the Glossary. You can view the Glossary at
-www.healthcare.gov/sbc-glossary or call 1-888-428-2566 to request a copy.
+Annual Deductible*
 
-Important Questions
-Answers
-Why This Matters:
+Individual 
+$50
 
-What is the overall
-deductible?
+Family 
+$150
 
-$4,500/Individual, $9,000/Family preferred in-network
-providers;
-$9,000/Individual, $18,000/Family non-preferred in-
-network providers;
-$9,000/Individual, $18,000/Family out-of-network
-providers.
+Preventive Services 
+100%
 
-Generally, you must pay all of the costs from providers up to the deductible amount
-before this plan begins to pay. If you have other family members on the plan, each family
-member must meet their own individual deductible until the total amount of deductible
-expenses paid by all family members meets the overall family deductible.
+Basic Services 
+90%
 
-Are there services
-covered before you meet
-your deductible?
+Major Services 
+60%
 
-Yes. Professional services with copays, in-network
-preventive services. emergency medical
-transportation.
+Annual Benefit Maximum 
+$2000
 
-This plan covers some items and services even if you haven’t yet met the annual
-deductible amount. But a copayment or coinsurance may apply. For example, this plan
-covers certain preventive services without cost-sharing and before you meet your
-deductible. See a list of covered preventive services at
-https://www.healthcare.gov/coverage/preventive-care-benefits/.
-Are there other
-deductibles for specific
-services?
+Office Visit Copay 
+N/A
 
-Yes. $50 for pediatric dental. There are no other
-specific deductibles.
+Orthodontic Services (Adult and Child) 
+60%
 
-You must pay all of the costs for these services up to the specific deductible amount
-before this plan begins to pay for these services.
+Orthodontic Deductible 
+None
 
-What is the out-of-pocket
-limit for this plan?
+Orthodontic Lifetime Maximum 
+$1000
 
-For in-network providers $9,200 Individual / $18,400
-Family;
-for out-of-network providers $10,000 Individual /
-$20,000/Family.
-Combined out-of-pocket limit for network medical and
-prescription drug.
+*The deductible applies to:  Basic & Major services only
 
-The out-of-pocket limit is the most you could pay in a year for covered services. If you
-have other family members in this plan, they have to meet their own out-of-pocket limits
-until the overall family out-of-pocket limit has been met.
+Partial List of Services 
+Passive PPO 
+With PPOII and ExtendSM Networks
 
-What is not included in
-the out-of-pocket limit?
+Preventive
 
-Premiums, balance billing charges, and health care
-this plan doesn't cover.
+Oral examinations (a)  
+100%
 
-Even though you pay these expenses they don’t count toward the out-of-pocket limit.
+Cleanings (a) Adult/Child 
+100%
 
-Will you pay less if you
-use a network provider?
+Fluoride (a) 
+100%
 
-Yes. For a list of in-network providers, see
-capitalbluecross.com or call 1-800-962-2242.
+Sealants (permanent molars only) (a) 
+100%
 
-This plan uses a provider network. You will pay less if you use a provider in the plan’s
-network. You will pay the most if you use an out-of-network provider, and you might
-receive a bill from a provider for the difference between the provider’s charge and what
-your plan pays (balance billing). Be aware, your network provider might use an out-of-
-network provider for some services (such as lab work). Check with your provider before
-you get services.
-Do you need a referral to
-see a specialist?
+Bitewing Images (a) 
+100%
 
-No.
-You can see the specialist you choose without a referral.
+Full mouth series Images (a) 
+100%
+
+Space Maintainers 
+100%
+
+Basic
+
+Root canal therapy
+
+Anterior teeth / Bicuspid teeth 
+90%
+
+Root canal therapy, molar teeth 
+90%
+
+Scaling and root planing (a) 
+90%
+
+Gingivectomy (a)* 
+90%
+
+Amalgam (silver) fillings  
+90%
+
+Composite fillings 
+90%
 
 
 
@@ -517,968 +538,390 @@ You can see the specialist you choose without a referral.
 
 ### Table (Page 2)
 
-|  | Allcopaymentandcoinsurancecostsshowninthischartareafteryourdeductiblehasbeenmet,ifadeductibleapplies. |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-| Common
-MedicalEvent |  | ServicesYouMay
-Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
-ImportantInformation |
-|  |  |  | PreferredIn-network
-Provider
-(Youwillpaytheleast) | Non-PreferredIn-
-networkProvider
-(Youwillpaytheleast) | Out-of-network
-Provider
-(Youwillpaythemost) |  |
-| Ifyouvisitahealth
-careprovider’soffice
-orclinic |  | Primarycarevisitto
-treataninjuryorillness | $30copayment/Visit,
-Deductibledoesnot
-apply | $60copayment/Visit,
-Deductibledoesnot
-apply | 50%coinsurance | None |
-|  |  | Specialistvisit | $60copayment/Visit,
-Deductibledoesnot
-apply | $80copayment/Visit,
-Deductibledoesnot
-apply | 50%coinsurance | None |
-|  |  | Preventive
-care/screening/immuni
-zation | NoCharge | NoCharge | 50%coinsurance | Deductibledoesnotapplytoservicesat
-in-networkproviders.Youmayhaveto
-payforservicesthataren’tpreventive.
-Askyourprovideriftheservicesyou
-needarepreventive.Thencheckwhat
-yourplanwillpayfor. |
-| Ifyouhaveatest |  | Diagnostictest(x-ray,
-bloodwork) | NoChargeforFacility
-Ownedlabs,NoCharge
-forIndependentLabs
-andNoChargefortests.
-NoChargeforoutpatient
-radiology. | 20%coinsurancefor
-FacilityOwnedlabs,
-20%coinsurancefor
-IndependentLabsand
-20%coinsurancefor
-tests.20%coinsurance
-foroutpatientradiology. | 50%coinsurance | None |
-|  |  | Imaging(CT/PET
-scans,MRIs) | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
-attachedtoyourplandocument. |
-| Ifyouneeddrugsto
-treatyourillnessor
-condition
-Moreinformationabout
-prescriptiondrug
-coverageisavailable
-bycalling
-1-800-962-2242 |  | Genericdrugs | $4copayment/prescription,Deductibledoesnotapplypreferredand
-$15copayment/prescription,Deductibledoesnotapplynon-preferred(retail)
-$8copayment/prescription,Deductibledoesnotapplypreferredand
-$30copayment/prescription,Deductibledoesnotapplynon-preferred(home
-delivery) |  |  | Coversuptoa30-daysupply(retail)
-90-daysupply(homedelivery). |
-|  |  | Preferredbranddrugs | $45copayment/prescription,Deductibledoesnotapply(retail)
-$90copayment/prescription,Deductibledoesnotapply(homedelivery) |  |  | Coversuptoa30-daysupply(retail)
-90-daysupply(homedelivery). |
-|  |  | NonPreferredbrand
-drugs | $70copayment/prescription,Deductibledoesnotapply(retail)
-$140copayment/prescription,Deductibledoesnotapply(homedelivery) |  |  | Coversuptoa30-daysupply(retail)
-90-daysupply(homedelivery). |
-|  |  | Specialtydrugs | 20%coinsurance/prescription,Deductibledoesnotapplypreferredand |  |  | Prescriptionwrittenforupto30days |
+| Stainless steel crowns 90%
+Incision and drainage of abscess* 90%
+Uncomplicated extractions 90%
+Surgical removal of erupted tooth* 90%
+Surgical removal of impacted tooth (soft tissue)* 90%
+Osseous surgery (a)* 90%
+Surgical removal of impacted tooth (partial bony/ full bony)* 90%
+Crown Lengthening 90% |
+| --- |
+| Major |
+| Implants 60%
+Inlays 60%
+Onlays 60%
+Crowns 60%
+Full & partial dentures 60%
+Pontics 60%
+General anesthesia/intravenous sedation* 60%
+Denture repairs 60%
+*Certain services may be covered under the Medical Plan. Contact Member Services for more details.
+(a) Frequency and/or age limitations may apply to these services. These limits are described in the booklet/certificate. |
 
-*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
-2 of 8
+Page2
 
-All copayment and coinsurance costs shown in this chart are after your deductible has been met, if a deductible applies.
+NT P50 Ortho 
+PPO 2000 90th
 
-Common
-Medical Event
+Dental Benefits Summary
 
-Services You May
-Need
+Stainless steel crowns 
+90%
 
-What You Will Pay
+Incision and drainage of abscess* 
+90%
 
-Limitations, Exceptions, & Other
-Important Information
-Preferred In-network
-Provider
-(You will pay the least)
+Uncomplicated extractions 
+90%
 
-Non-Preferred In-
-network Provider
-(You will pay the least)
+Surgical removal of erupted tooth* 
+90%
 
-Out-of-network
-Provider
-(You will pay the most)
+Surgical removal of impacted tooth (soft tissue)* 
+90%
 
-If you visit a health
-care provider’s office
-or clinic
+Osseous surgery (a)* 
+90%
 
-Primary care visit to
-treat an injury or illness
+Surgical removal of impacted tooth (partial bony/ full bony)* 
+90%
 
-$30 copayment/Visit,
-Deductible does not
-apply
+Crown Lengthening 
+90%
 
-$60 copayment/Visit,
-Deductible does not
-apply
+Major
 
-50% coinsurance
-None
+Implants 
+60%
 
-Specialist visit
+Inlays  
+60%
 
-$60 copayment/Visit,
-Deductible does not
-apply
+Onlays 
+60%
 
-$80 copayment/Visit,
-Deductible does not
-apply
+Crowns 
+60%
 
-50% coinsurance
-None
+Full & partial dentures 
+60%
 
-Preventive
-care/screening/immuni
-zation
+Pontics 
+60%
 
-No Charge
-No Charge
-50% coinsurance
+General anesthesia/intravenous sedation* 
+60%
 
-Deductible does not apply to services at
-in-network providers. You may have to
-pay for services that aren’t preventive.
-Ask your provider if the services you
-need are preventive. Then check what
-your plan will pay for.
+Denture repairs 
+60%
 
-If you have a test
+*Certain services may be covered under the Medical Plan. Contact Member Services for more details.
 
-Diagnostic test (x-ray,
-blood work)
+(a) Frequency and/or age limitations may apply to these services.  These limits are described in the booklet/certificate.
 
-No Charge for Facility
-Owned labs, No Charge
-for Independent Labs
-and No Charge for tests.
-No Charge for outpatient
-radiology.
+Other Important Information
 
-20% coinsurance for
-Facility Owned labs,
-20% coinsurance for
-Independent Labs and
-20% coinsurance for
-tests. 20% coinsurance
-for outpatient radiology.
+This Aetna Dental® Preferred Provider Organization (PPO) benefits summary is provided by Aetna Life Insurance  
+Company for some of the more frequently performed dental procedures.  
+Under the Dental Preferred Provider Organization (PPO) plan, you may choose at the time of service either a  PPO  
+participating dentist or any nonparticipating dentist. With the PPO plan, savings are possible because the participating  
+dentists have agreed to provide care for covered services at negotiated rates.  Non-participating benefits are subject to  
+recognized charge limits.
 
-50% coinsurance
-None
-
-Imaging (CT/PET
-scans, MRIs)
-No Charge
-20% coinsurance
-50% coinsurance
-*See preauthorization schedule
-attached to your plan document.
-
-If you need drugs to
-treat your illness or
-condition
-More information about
-prescription drug
-coverage is available
-by calling
-1-800-962-2242
-
-Generic drugs
-
-$4 copayment/prescription, Deductible does not apply preferred and
-$15 copayment/prescription, Deductible does not apply non-preferred (retail)
-$8 copayment/prescription, Deductible does not apply preferred and
-$30 copayment/prescription, Deductible does not apply non-preferred (home
-delivery)
-
-Covers up to a 30-day supply (retail)
-90-day supply (home delivery).
-
-Preferred brand drugs
-$45 copayment/prescription, Deductible does not apply (retail)
-$90 copayment/prescription, Deductible does not apply (home delivery)
-
-Covers up to a 30-day supply (retail)
-90-day supply (home delivery).
-
-Non Preferred brand
-drugs
-
-$70 copayment/prescription, Deductible does not apply (retail)
-$140 copayment/prescription, Deductible does not apply (home delivery)
-
-Covers up to a 30-day supply (retail)
-90-day supply (home delivery).
-
-Specialty drugs
-20% coinsurance/prescription, Deductible does not apply preferred and
-Prescription written for up to 30 days
+This policy DOES NOT include coverage of pediatric dental services as required under federal law. Coverage of pediatric  
+dental services is available for purchase in the State of Colorado, and can be purchased as a stand-alone plan, or as a  
+covered benefit in another health plan. Please contact your insurance carrier, agent, or Connect for Health Colorado to  
+purchase either a plan that includes pediatric dental coverage, or an Exchange-qualified stand-alone dental plan that  
+includes pediatric dental coverage.
 
 
 
 ## Page 3
 
+Page3
 
+NT P50 Ortho 
+PPO 2000 90th
 
-### Table (Page 3)
+Dental Benefits Summary
 
-| Common
-MedicalEvent | ServicesYouMay
-Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
-ImportantInformation |
-| --- | --- | --- | --- | --- | --- |
-|  |  | PreferredIn-network
-Provider
-(Youwillpaytheleast) | Non-PreferredIn-
-networkProvider
-(Youwillpaytheleast) | Out-of-network
-Provider
-(Youwillpaythemost) |  |
-|  |  | 20%coinsurance/prescription,Deductibledoesnotapplynon-preferred
-(generic)
-20%coinsurance/prescription,Deductibledoesnotapplypreferredand
-20%coinsurance/prescription,Deductibledoesnotapplynon-preferred(brand) |  |  | supply./$250maximum
-copayment/prescriptionpreferredand
-$350maximumcopayment/prescription
-non-preferred(generic)/$250
-maximumcopayment/prescription
-preferredand$350maximum
-copayment/prescriptionnon-preferred
-(brand) |
-| Ifyouhaveoutpatient
-surgery | Facilityfee(e.g.,
-ambulatorysurgery
-center) | $200copaymentAcute
-CareHospitaland$200
-copaymentAmbulatory
-SurgicalCenter | $200copaymentAcute
-CareHospitaland$200
-copaymentAmbulatory
-SurgicalCenter | 50%coinsurance | Nocoverageforservicesatout-of-
-networkambulatorysurgicalfacilities |
-|  | Physician/surgeonfees | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
-attachedtoyourplandocument. |
-| Ifyouneedimmediate
-medicalattention | Emergencyroomcare | $450copayment/Visit | $450copayment/Visit | $450copayment/Visit | Copaymentwaivedifadmitted
-inpatient. |
-|  | Emergencymedical
-transportation | NoCharge,Deductible
-doesnotapply | NoCharge,Deductible
-doesnotapply | NoCharge,Deductible
-doesnotapply | None |
-|  | Urgentcare | $75copayment/Visit,
-Deductibledoesnot
-apply | $75copayment/Visit,
-Deductibledoesnot
-apply | $75copayment/Visit,
-Deductibledoesnot
-apply | None |
-| Ifyouhaveahospital
-stay | Facilityfee(e.g.,
-hospitalroom) | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
-attachedtoyourplandocument. |
-|  | Physician/surgeonfees | NoCharge | 20%coinsurance | 50%coinsurance | None |
-| Ifyouneedmental
-health,behavioral
-health,orsubstance
-abuseservices | Outpatientservices | $60copayment/Visit,
-Deductibledoesnot
-apply | $60copayment/Visit,
-Deductibledoesnot
-apply | 50%coinsurance | None |
-|  | Inpatientservices | NoCharge | NoCharge | 50%coinsurance | None |
-| Ifyouarepregnant | Officevisits | $60copayment/Visit,
-Deductibledoesnot
-apply | $80copayment/Visit,
-Deductibledoesnot
-apply | 50%coinsurance | Dependingonthetypeofservices,a
-copayment,coinsuranceordeductible
-mayapply. |
-|  | Childbirth/delivery | NoCharge | 20%coinsurance | 50%coinsurance | Dependingonthetypeofservices,a |
+Coverage for Major and Orthodontic services is subject to a waiting period and will take effect after 12 months of  
+continuous coverage under the PPO Plan.
 
-*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
-3 of 8
+Emergency Dental Care
 
-Common
-Medical Event
+If you need emergency dental care for the palliative treatment (pain relieving, stabilizing) of a dental emergency, you are  
+covered 24 hours a day, 7 days a week.
 
-Services You May
-Need
+When emergency services are provided by a participating PPO dentist, your co-payment/coinsurance amount will be based  
+on a negotiated fee schedule.  When emergency services are provided by a non-participating dentist, you will be  
+responsible for the difference between the plan payment and the dentist's usual charge.  Refer to your plan documents for  
+details.  Subject to state requirements.  Out-of-area emergency dental care may be reviewed by our dental consultants to  
+verify appropriateness of treatment.
 
-What You Will Pay
+Partial List of Exclusions and Limitations* - Coverage is not provided for the following:
 
-Limitations, Exceptions, & Other
-Important Information
-Preferred In-network
-Provider
-(You will pay the least)
+1.Services or supplies that are covered in whole or in part:
 
-Non-Preferred In-
-network Provider
-(You will pay the least)
+(a) under any other part of this Dental Care Plan; or 
+(b) under any other plan of group benefits provided by or through your employer.
 
-Out-of-network
-Provider
-(You will pay the most)
-20% coinsurance/prescription, Deductible does not apply non-preferred
-(generic)
-20% coinsurance/prescription, Deductible does not apply preferred and
-20% coinsurance/prescription, Deductible does not apply non-preferred (brand)
+2.  Services and supplies to diagnose or treat a disease or injury that is not:
 
-supply. / $250 maximum
-copayment/prescription preferred and
-$350 maximum copayment/prescription
-non-preferred (generic) / $250
-maximum copayment/prescription
-preferred and $350 maximum
-copayment/prescription non-preferred
-(brand)
+(a) a non-occupational disease; or 
+(b) a non-occupational injury.
 
-If you have outpatient
-surgery
+3.  Services not listed in the Dental Care Schedule that applies, unless otherwise specified in the Booklet-Certificate.
 
-Facility fee (e.g.,
-ambulatory surgery
-center)
+4.  Those for replacement of a lost, missing or stolen appliance, and those for replacement of appliances that have been  
+damaged due to abuse, misuse or neglect.
 
-$200 copayment Acute
-Care Hospital and $200
-copayment Ambulatory
-Surgical Center
+5.  Those for plastic, reconstructive or cosmetic surgery, or other dental services or supplies, that are primarily intended to  
+improve, alter or enhance appearance.  This applies whether or not the services and supplies are for psychological or  
+emotional reasons.  Facings on molar crowns and pontics will always be considered cosmetic.
 
-$200 copayment Acute
-Care Hospital and $200
-copayment Ambulatory
-Surgical Center
+6.   Those for or in connection with services, procedures, drugs or other supplies that are determined by Aetna to be  
+experimental or still under clinical investigation by health professionals.
 
-50% coinsurance
-No coverage for services at out-of-
-network ambulatory surgical facilities
+7. Those for dentures, crowns, inlays, onlays, bridgework, or other appliances or services used for the purpose of  
+splinting, to alter vertical dimension, to restore occlusion, or to correct attrition, abrasion or erosion.
 
-Physician/surgeon fees
-No Charge
-20% coinsurance
-50% coinsurance
-*See preauthorization schedule
-attached to your plan document.
+8.  Those for any of the following services (Does not apply to the DMO plan in TX):
 
-If you need immediate
-medical attention
+(a) an appliance or modification of one if an impression for it was made before the person became a covered  
+person; 
+(b) a crown, bridge, or cast or processed restoration if a tooth was prepared for it before the person became a  
+covered person; or 
+(c) root canal therapy if the pulp chamber for it was opened before the person became a covered person.
 
-Emergency room care
-$450 copayment/Visit
-$450 copayment/Visit
-$450 copayment/Visit
-Copayment waived if admitted
-inpatient.
-
-Emergency medical
-transportation
-
-No Charge, Deductible
-does not apply
-
-No Charge, Deductible
-does not apply
-
-No Charge, Deductible
-does not apply
-None
-
-Urgent care
-
-$75 copayment/Visit,
-Deductible does not
-apply
-
-$75 copayment/Visit,
-Deductible does not
-apply
-
-$75 copayment/Visit,
-Deductible does not
-apply
-
-None
-
-If you have a hospital
-stay
-
-Facility fee (e.g.,
-hospital room)
-No Charge
-20% coinsurance
-50% coinsurance
-*See preauthorization schedule
-attached to your plan document.
-
-Physician/surgeon fees
-No Charge
-20% coinsurance
-50% coinsurance
-None
-
-If you need mental
-health, behavioral
-health, or substance
-abuse services
-
-Outpatient services
-
-$60 copayment/Visit,
-Deductible does not
-apply
-
-$60 copayment/Visit,
-Deductible does not
-apply
-
-50% coinsurance
-None
-
-Inpatient services
-No Charge
-No Charge
-50% coinsurance
-None
-
-If you are pregnant
-
-Office visits
-
-$60 copayment/Visit,
-Deductible does not
-apply
-
-$80 copayment/Visit,
-Deductible does not
-apply
-
-50% coinsurance
-
-Depending on the type of services, a
-copayment, coinsurance or deductible
-may apply.
-
-Childbirth/delivery
-No Charge
-20% coinsurance
-50% coinsurance
-Depending on the type of services, a
+9.  Services that Aetna defines as not necessary for the diagnosis, care or treatment of the condition involved.  This applies  
+even if they are prescribed, recommended or approved by the attending physician or dentist.
 
 
 
 ## Page 4
 
+Page4
 
+NT P50 Ortho 
+PPO 2000 90th
 
-### Table (Page 4)
+Dental Benefits Summary
 
-| Common
-MedicalEvent | ServicesYouMay
-Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
-ImportantInformation |
-| --- | --- | --- | --- | --- | --- |
-|  |  | PreferredIn-network
-Provider
-(Youwillpaytheleast) | Non-PreferredIn-
-networkProvider
-(Youwillpaytheleast) | Out-of-network
-Provider
-(Youwillpaythemost) |  |
-|  | professionalservices |  |  |  | copayment,coinsuranceordeductible
-mayapply. |
-|  | Childbirth/delivery
-facilityservices | NoCharge | 20%coinsurance | 50%coinsurance | Dependingonthetypeofservices,a
-copayment,coinsuranceordeductible
-mayapply. |
-| Ifyouneedhelp
-recoveringorhave
-otherspecialhealth
-needs | Homehealthcare | NoCharge | 20%coinsurance | 50%coinsurance | 60visitslimitperbenefitperiod.
-(Visitlimitsnotapplicabletomental
-healthcareandsubstanceusedisorder
-services.)*Seepreauthorization
-scheduleattachedtoyourplan
-document. |
-|  | Rehabilitationservices | $60copayment/Visit,
-Deductibledoesnot
-apply | $80copayment/Visit,
-Deductibledoesnot
-apply | 50%coinsurance | Visitlimitsperbenefitperiod:30visits
-combinedforphysicalandoccupational
-therapy;30visitsforspeechtherapy.
-(Visitlimitsnotapplicabletomental
-healthcareandsubstanceusedisorder
-services.) |
-|  | Habilitationservices | $60copayment/Visit,
-Deductibledoesnot
-apply | $80copayment/Visit,
-Deductibledoesnot
-apply | 50%coinsurance | Visitlimitsperbenefitperiod:30visits
-combinedforphysicalandoccupational
-therapy;30visitsforspeechtherapy.
-(Visitlimitsnotapplicabletomental
-healthcareandsubstanceusedisorder
-services.) |
-|  | Skillednursingcare | NoCharge | 20%coinsurance | 50%coinsurance | 120daylimitperbenefitperiod.
-(Limitnotapplicabletomentalhealth
-careandsubstanceusedisorder
-services.) |
-|  | Durablemedical
-equipment | NoCharge | 20%coinsurance | 50%coinsurance | *Seepreauthorizationschedule
-attachedtoyourplandocument. |
-|  | Hospiceservices | NoCharge | 20%coinsurance | 50%coinsurance | None |
+10 . Those for services intended for treatment of any jaw joint disorder, unless otherwise specified in the  
+Booklet-Certificate.
 
-*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
-4 of 8
+11 . Those for space maintainers, except when needed to preserve space resulting from the premature loss of deciduous  
+teeth.
 
-Common
-Medical Event
+12 . Those for orthodontic treatment, unless otherwise specified in the Booklet-Certificate.
 
-Services You May
-Need
+13 .  Those for general anesthesia and intravenous sedation, unless specifically covered.  For plans that cover these  
+services, they will not be eligible for benefits unless done in conjunction with another necessary covered service.
 
-What You Will Pay
+14 .  Those for treatment by other than a dentist, except that scaling or cleaning of teeth and topical application of fluoride  
+may be done by a licensed dental hygienist.  In this case, the treatment must be given under the supervision and guidance  
+of a dentist.
 
-Limitations, Exceptions, & Other
-Important Information
-Preferred In-network
-Provider
-(You will pay the least)
+15 .  Those in connection with a service given to a person age 5 or older if that person becomes a covered person other  
+than:
 
-Non-Preferred In-
-network Provider
-(You will pay the least)
+(a) during the first 31 days the person is eligible for this coverage, or 
+(b) as prescribed for any period of open enrollment agreed to by the employer and Aetna.  This does not apply to  
+charges incurred:
 
-Out-of-network
-Provider
-(You will pay the most)
-professional services
-copayment, coinsurance or deductible
-may apply.
+(i) after the end of the 12-month period starting on the date the person became a covered person; or 
+(ii) as a result of accidental injuries sustained while the person was a covered person; or 
+(iii) for a primary care service in the Dental Care Schedule that applies as shown under the headings  
+Visits and Exams, and X-rays and Pathology.
 
-Childbirth/delivery
-facility services
-No Charge
-20% coinsurance
-50% coinsurance
+16 .  Services given by a nonparticipating dental provider to the extent that the charges exceed the amount payable for the  
+services shown in the Dental Care Schedule that applies.
 
-Depending on the type of services, a
-copayment, coinsurance or deductible
-may apply.
+17 . Those for a crown, cast or processed restoration unless:
 
-If you need help
-recovering or have
-other special health
-needs
+(a)  it is treatment for decay or traumatic injury, and teeth cannot be restored with a filling material; or 
+(b)  the tooth is an abutment to a covered partial denture or fixed bridge.
 
-Home health care
-No Charge
-20% coinsurance
-50% coinsurance
+18 .  Those for pontics, crowns, cast or processed restorations made with high-noble metals, unless otherwise specified in  
+the Booklet-Certificate.
 
-60 visits limit per benefit period.
-(Visit limits not applicable to mental
-health care and substance use disorder
-services.) *See preauthorization
-schedule attached to your plan
-document.
+19 .  Those for surgical removal of impacted wisdom teeth only for orthodontic reasons, unless otherwise specified in the  
+Booklet-Certificate.
 
-Rehabilitation services
+20 . Services needed solely in connection with non-covered services.
 
-$60 copayment/Visit,
-Deductible does not
-apply
+21 . Services done where there is no evidence of pathology, dysfunction or disease other than covered preventive services.
 
-$80 copayment/Visit,
-Deductible does not
-apply
+Any exclusion above will not apply to the extent that coverage of the charges is required under any law that applies to the  
+coverage.
 
-50% coinsurance
+*This is a partial list of exclusions and limitations, others may apply.  Please check your plan booklet for details.
 
-Visit limits per benefit period: 30 visits
-combined for physical and occupational
-therapy; 30 visits for speech therapy.
-(Visit limits not applicable to mental
-health care and substance use disorder
-services.)
-
-Habilitation services
-
-$60 copayment/Visit,
-Deductible does not
-apply
-
-$80 copayment/Visit,
-Deductible does not
-apply
-
-50% coinsurance
-
-Visit limits per benefit period: 30 visits
-combined for physical and occupational
-therapy; 30 visits for speech therapy.
-(Visit limits not applicable to mental
-health care and substance use disorder
-services.)
-
-Skilled nursing care
-No Charge
-20% coinsurance
-50% coinsurance
-
-120 day limit per benefit period.
-(Limit not applicable to mental health
-care and substance use disorder
-services.)
-
-Durable medical
-equipment
-No Charge
-20% coinsurance
-50% coinsurance
-*See preauthorization schedule
-attached to your plan document.
-
-Hospice services
-No Charge
-20% coinsurance
-50% coinsurance
-None
+Your Dental Care Plan Coverage Is Subject to the Following Rules:
 
 
 
 ## Page 5
 
+Page5
 
+NT P50 Ortho 
+PPO 2000 90th
 
-### Table (Page 5)
+Dental Benefits Summary
 
-| Common
-MedicalEvent | ServicesYouMay
-Need | WhatYouWillPay |  |  | Limitations,Exceptions,&Other
-ImportantInformation |
-| --- | --- | --- | --- | --- | --- |
-|  |  | PreferredIn-network
-Provider
-(Youwillpaytheleast) | Non-PreferredIn-
-networkProvider
-(Youwillpaytheleast) | Out-of-network
-Provider
-(Youwillpaythemost) |  |
-| Ifyourchildneeds
-dentaloreyecare | Children’seyeexam | NoCharge |  | Balanceofretailcharge
-after$32allowance | Oneexamandonepairofglassesonce
-every12monthsbasedonlastdateof
-service. |
-|  | Children’sglasses | NoChargeforstandardframesandlenses.See
-plandocumentfornon-standardframebenefits. |  | Balanceofretailcharge
-afterframesandlens
-allowance.Seeplan
-document. | Oneexamandonepairofglassesonce
-every12monthsbasedonlastdateof
-service. |
-|  | Children’sdental
-check-up | NoCharge |  | NoCharge | Deductibledoesnotapply |
+Replacement Rule
 
-*For more information about preauthorization, see the requirements document at https://www.capbluecross.com/preauthorization.
-5 of 8
+The replacement of; addition to; or modification of:  existing dentures; crowns; casts or processed restorations; removable  
+denture; fixed bridgework; or other prosthetic services is covered only if one of the following terms is met:
 
-Common
-Medical Event
+The replacement or addition of teeth is required to replace one or more teeth extracted after the existing denture or 
+bridgework was installed.  This coverage must have been in force for the covered person when the extraction took place.
 
-Services You May
-Need
+The existing denture, crown; cast or processed restoration, removable denture, bridgework, or other prosthetic service  
+cannot be made serviceable, and was installed at least 8 years before its replacement.
 
-What You Will Pay
+The existing denture is an immediate temporary one to replace one or more natural teeth extracted while the person is  
+covered, and cannot be made permanent, and replacement by a permanent denture is required.  The replacement must take  
+place within 12 months from the date of initial installation of the immediate temporary denture.
 
-Limitations, Exceptions, & Other
-Important Information
-Preferred In-network
-Provider
-(You will pay the least)
+The extraction of a third molar does not qualify. Any such appliance or fixed bridge must include the replacement of an  
+extracted tooth or teeth.
 
-Non-Preferred In-
-network Provider
-(You will pay the least)
+Tooth Missing But Not Replaced Rule
 
-Out-of-network
-Provider
-(You will pay the most)
+Coverage for the first installation of removable dentures;  fixed bridgework and other prosthetic services is subject to the  
+requirements that such  removable dentures; fixed bridgework and other prosthetic services are (i) needed to replace one or  
+more natural teeth that were removed while this policy was in force for the covered person; and (ii) are not abutments to a  
+partial denture; removable bridge; or fixed bridge installed during the prior 8 years.
 
-If your child needs
-dental or eye care
+Alternate Treatment Rule : If more than one service can be used to treat a covered person’s dental condition, Aetna may  
+decide to authorize coverage only for a less costly covered service provided that all of the following terms are met: 
+    (a)  the service must be listed on the Dental Care Schedule; 
+    (b)  the service selected must be deemed by the dental profession to be an appropriate method of treatment; and 
+    (c) the service selected must meet broadly accepted national standards of dental practice.
 
-Children’s eye exam
-No Charge
-Balance of retail charge
-after $32 allowance
+If treatment is being given by a participating dental provider and the covered person asks for a more costly covered service  
+than that for which coverage is approved, the specific copayment for such service will consist of:
 
-One exam and one pair of glasses once
-every 12 months based on last date of
-service.
+(a)  the copayment for the approved less costly service; plus
 
-Children’s glasses
-No Charge for standard frames and lenses. See
-plan document for non-standard frame benefits.
+(b)  the difference in cost between the approved less costly service and the more costly covered service.
 
-Balance of retail charge
-after frames and lens
-allowance. See plan
-document.
+Finding Participating Providers
 
-One exam and one pair of glasses once
-every 12 months based on last date of
-service.
-
-Children’s dental
-check-up
-No Charge
-No Charge
-Deductible does not apply
+Consult Aetna Dentals online provider search for the most current provider listings. Participating providers are  
+independent contractors in private practice and are neither employees nor agents of Aetna Dental or its affiliates. The  
+availability of any particular provider cannot be guaranteed, and provider network composition is subject to change  
+without notice. For the most current information, please contact the selected provider or Aetna Member Services at the  
+toll-free number on your online ID card, or use our Internet-based provider search available at www.aetna.com.
 
 
 
 ## Page 6
 
+Page6
 
+NT P50 Ortho 
+PPO 2000 90th
 
-### Table (Page 6)
+Dental Benefits Summary
 
-| ServicesYourPlanGenerallyDoesNOTCover(Checkyourpolicyorplandocumentformoreinformationandalistofanyotherexcludedservices.) |
-| --- |
-|  Bariatricsurgery  Hearingaids  Routineeyecare(Adult)
- CosmeticSurgery  Long-termcare  Routinefootcare(unlessmedicallynecessary)
- Dentalcare(Adult)  Private-dutynursing  Weightlossprograms |
-|  |
-| OtherCoveredServices(Limitationsmayapplytotheseservices.Thisisn’tacompletelist.Pleaseseeyourplandocument.) |
-|  Acupuncture  Infertilitytreatment 
- Chiropracticcare  Non-emergencycarewhentravelingoutsidetheU.S.  |
+Specific products may not be available on both a self-funded and insured basis. The information in this document is  
+subject to change without notice. In case of a conflict between your plan documents and this information, the plan  
+documents will govern.
 
-6 of 8
+In the event of a problem with coverage, members should contact Member Services at the toll-free number on their online  
+ID cards for information on how to utilize the grievance procedure when appropriate.
 
-Excluded Services & Other Covered Services:
+All member care and related decisions are the sole responsibility of participating providers. Aetna Dental does not provide  
+health care services and, therefore, cannot guarantee any results or outcomes.
 
-Services Your Plan Generally Does NOT Cover (Check your policy or plan document for more information and a list of any other excluded services.)
-Bariatric surgery
-Hearing aids
-Routine eye care (Adult)
-Cosmetic Surgery
-Long-term care
-Routine foot care (unless medically necessary)
-Dental care (Adult)
-Private-duty nursing
-Weight loss programs
+Dental plans are provided or administered by Aetna Life Insurance Company, Aetna Dental Inc., Aetna Dental of  
+California Inc. and/or Aetna Health Inc.
 
-Other Covered Services (Limitations may apply to these services. This isn’t a complete list. Please see your plan document.)
-Acupuncture
-Infertility treatment
-
-Chiropractic care
-Non-emergency care when traveling outside the U.S.
-
+Telehealth Services: the plan will reimburse the treating or consulting provider for the diagnosis, consultation, or treatment  
+of an enrollee via telehealth on the same basis and to the same extent that the plan would reimburse the same covered  
+in-person service.
 
-Your Rights to Continue Coverage: There are agencies that can help if you want to continue your coverage after it ends. The contact information for those agencies is:
-1-866-444-EBSA (3272) or www.dol.gov/ebsa/healthreform or the Pennsylvania Insurance Department at 1-877-881-6388. Other coverage options may be available to you too,
-including buying individual insurance coverage through the Health Insurance Marketplace. For more information about the Marketplace, visit pennie.com or call 1-844-844-8040.
+In Texas, the Dental Preferred Provider Organization (PPO) is known as the Participating Dental Network (PDN), and is  
+administered by Aetna Life Insurance Company.
 
-Your Grievance and Appeals Rights: There are agencies that can help if you have a complaint against your plan for a denial of a claim. This complaint is called a grievance or
-appeal. For more information about your rights, look at the explanation of benefits you will receive for that medical claim. Your plan documents also provide complete information to
-submit a claim, appeal, or a grievance for any reason to your plan. For more information about your rights, this notice, or assistance, Contact: Capital Blue Cross at 1-800-962-2242
-or the Department of Labor’s Employee Benefits Security Administration at 1-866-444-EBSA (3272) or www.dol.gov/ebsa/healthreform or the Pennsylvania Insurance Department at
-1-877-881-6388.
+This material is for informational purposes only and is neither an offer of coverage nor dental advice.  It contains only a  
+partial, general description of plan or program benefits and does not constitute a contract.  The availability of a plan or  
+program may vary by geographic service area.  Certain dental plans are available only for groups of a certain size in  
+accordance with underwriting guidelines.  Some benefits are subject to limitations or exclusions.  Consult the plan  
+documents (Schedule of Benefits, Certificate/Evidence of Coverage, Booklet, Booklet-Certificate, Group Agreement,  
+Group Policy) to determine governing contractual provisions, including procedures, exclusions and limitations relating to  
+your plan.
 
-Does this plan provide Minimum Essential Coverage?
-Yes
-Minimum Essential Coverage generally includes plans, health insurance available through the Marketplace or other individual market policies, Medicare, Medicaid, CHIP, TRICARE,
-and certain other coverage. If you are eligible for certain types of Minimum Essential Coverage, you may not be eligible for the premium tax credit.
+Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently  
+based on their race, color, national origin, sex, age, or disability.
 
-Does this plan meet Minimum Value Standards?
-Yes
-If your plan doesn’t meet the Minimum Value Standards, you may be eligible for a premium tax credit to help you pay for a plan through the Marketplace.
+Aetna provides free aids/services to people with disabilities and to people who need language assistance.
 
-––––––––––––––––––––––To see examples of how this plan might cover costs for a sample medical situation, see the next section.––––––––––––––––––––––
+If you need a qualified interpreter, written information in other formats, translation or other services, call 877-238-6200.
+
+If you believe we have failed to provide these services or otherwise discriminated based on a protected class noted above,  
+you can also file a grievance with the Civil Rights Coordinator by contacting:  
+    Civil Rights Coordinator, 
+    P.O. Box 14462, Lexington, KY 40512 (CA HMO customers: PO Box 24030 Fresno, CA  93779),  
+    1-800-648-7817, TTY: 711,  
+    Fax: 859-425-3379 (CA HMO customers: 860-262-7705), 
+     CRCoordinator@aetna.com.
+
+You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights  
+Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human
 
 
 
 ## Page 7
 
+Page7
 
+NT P50 Ortho 
+PPO 2000 90th
 
-### Table (Page 7)
+Dental Benefits Summary
 
-|  | Thisisnotacostestimator.Treatmentsshownarejustexamplesofhowthisplanmightcovermedicalcare.Youractualcostswillbedifferent
-dependingontheactualcareyoureceive,thepricesyourproviderscharge,andmanyotherfactors.Focusonthecostsharingamounts(deductibles,
-copaymentsandcoinsurance)andexcludedservicesundertheplan.Usethisinformationtocomparetheportionofcostsyoumightpayunder
-differenthealthplans.Pleasenotethesecoverageexamplesarebasedonself-onlycoverage. |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| PegisHaving aBaby
-(9monthsofin-networkpre-natalcareandahospital
-delivery) |  |  | Managing Joe’stype2Diabetes
-(ayearofroutinein-networkcareofawell-controlled
-condition) |  | Mia’sSimpleFracture
-(in-networkemergencyroomvisitandfollowupcare) |
+Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019,  
+800-537-7697 (TDD).
 
-
-
-### Table (Page 7)
-
-| TotalExampleCost | $12,700 |  | TotalExampleCost | $5,600 |  | TotalExampleCost | $2,800 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
-
-
-### Table (Page 7)
-
-| CostSharing |  |  | CostSharing |  |  | CostSharing |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Deductibles | $4,500 |  | Deductibles | $300 |  | Deductibles | $1,100 |
-| Copayments | $60 |  | Copayments | $1,500 |  | Copayments | $400 |
-| Coinsurance | $0 |  | Coinsurance | $0 |  | Coinsurance | $0 |
-| Whatisn’tcovered | $0 |  | Whatisn’tcovered | $0 |  | Whatisn’tcovered | $0 |
-| Limitsorexclusions | $0 |  | Limitsorexclusions | $0 |  | Limitsorexclusions | $0 |
-| ThetotalPegwouldpayis | $4,560 |  | ThetotalJoewouldpayis | $1,800 |  | ThetotalMiawouldpayis | $1,500 |
-
-The plan would be responsible for the other costs of these EXAMPLE covered services.
-7 of 8
-
-About these Coverage Examples:
-
-This is not a cost estimator. Treatments shown are just examples of how this plan might cover medical care. Your actual costs will be different
-depending on the actual care you receive, the prices your providers charge, and many other factors. Focus on the cost sharing amounts (deductibles,
-copayments and coinsurance) and excluded services under the plan. Use this information to compare the portion of costs you might pay under
-different health plans. Please note these coverage examples are based on self-only coverage.
-
-Peg is Having a Baby
-(9 months of in-network pre-natal care and a hospital
-delivery)
-
-Managing Joe’s type 2 Diabetes
-(a year of routine in-network care of a well-controlled
-condition)
-
-Mia’s Simple Fracture
-(in-network emergency room visit and follow up care)
-
-The plan’s overall deductible
-$4,500
-The plan’s overall deductible
-$4,500
-The plan’s overall deductible
-$4,500
-Specialist copayment
-$60
-Specialist copayment
-$60
-Specialist copayment
-$60
-Hospital (facility) coinsurance
-0%
-Hospital (facility) coinsurance
-0%
-Hospital (facility) coinsurance
-0%
-Other coinsurance
-0%
-Other coinsurance
-0%
-Other coinsurance
-0%
-
-This EXAMPLE event includes services like:
-Specialist office visits (prenatal care)
-Childbirth/Delivery Professional Services
-Childbirth/Delivery Facility Services
-Diagnostic tests (ultrasounds and blood work)
-Specialist visit (anesthesia)
-
-This EXAMPLE event includes services like:
-Primary care physician office visits (including disease
-education)
-Diagnostic tests (blood work)
-Prescription drugs
-Durable medical equipment (glucose meter)
-
-This EXAMPLE event includes services like:
-Emergency room care (including medical supplies)
-Diagnostic test (x-ray)
-Durable medical equipment (crutches)
-Rehabilitation services (physical therapy)
-
-Total Example Cost
-$12,700
-Total Example Cost
-$5,600
-Total Example Cost
-$2,800
-
-In this example, Peg would pay:
-In this example, Joe would pay:
-In this example, Mia would pay:
-Cost Sharing
-Cost Sharing
-Cost Sharing
-Deductibles
-$4,500
-Deductibles
-$300
-Deductibles
-$1,100
-Copayments
-$60
-Copayments
-$1,500
-Copayments
-$400
-Coinsurance
-$0
-Coinsurance
-$0
-Coinsurance
-$0
-What isn’t covered
-What isn’t covered
-What isn’t covered
-Limits or exclusions
-$0
-Limits or exclusions
-$0
-Limits or exclusions
-$0
-The total Peg would pay is
-$4,560
-The total Joe would pay is
-$1,800
-The total Mia would pay is
-$1,500
-
-1Healthcare benefit programs issued or administered by Capital Blue Cross and/or its subsidiaries, Capital Advantage Insurance Company®, Capital Advantage Assurance
-Company® and Keystone Health Plan® Central. Independent licensees of the Blue Cross BlueShield Association. Communications issued by Capital Blue Cross in its capacity as
-administrator of programs and provider relations for all companies.
+Aetna is the brand name used for products and services provided by one or more of the Aetna group of subsidiary  
+companies, including Aetna Life Insurance Company, Coventry Health Care plans and their affiliates (Aetna).
 
 
 
 ## Page 8
+
+Page 8
+
+NT P50 Ortho 
+PPO 2000 90th
+
+Dental Benefits Summary
+
+
+
+## Page 9
+
+Page 9
+
+NT P50 Ortho 
+PPO 2000 90th
+
+Dental Benefits Summary
+
+
+
+## Page 10
+
+Page 10
+
+NT P50 Ortho 
+PPO 2000 90th
+
+Dental Benefits Summary
 ---

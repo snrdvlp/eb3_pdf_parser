@@ -33,7 +33,9 @@ def _get_category_paths(category: str):
         "faiss_ids": os.path.join(cat_dir, "faiss-ids.txt"),
     }
 
-def init_sqlite(category: str):
+def init_sqlite(category: str = ""):
+    if category == "":
+        return
     paths = _get_category_paths(category)
     conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
@@ -59,7 +61,7 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:
     paths = _get_category_paths(category)
     init_sqlite(category)
 
-    sample_id = str(uuid.uuid4()) + "_" + carrier + "_" + plan
+    sample_id = carrier + "_" + plan + "_" + str(uuid.uuid4())[:10]
 
     # Save PDF in category folder
     pdf_filename = f"{sample_id}.pdf"
