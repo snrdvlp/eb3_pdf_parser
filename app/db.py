@@ -12,17 +12,30 @@ from .embedder import get_embedding
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_DIR = os.path.join(BASE_DIR, '..', 'db')
 DB_DIR = os.path.abspath(DB_DIR)
-
-VECTOR_DB_FILE = os.path.join(DB_DIR, "faiss.index")
-SQLITE_METADATA = os.path.join(DB_DIR, "metadata.sqlite")
-
 os.makedirs(DB_DIR, exist_ok=True)
 
-EMBEDDING_DIM = 1536  # OpenAI 'text-embedding-3-small'
+# Embedding dimension (must match your model)
 EMBEDDING_DIM = 384  # all-MiniLM-L6-v2
 
-def init_sqlite():
-    conn = sqlite3.connect(SQLITE_METADATA)
+def _get_category_paths(category: str):
+    """
+    Return paths for FAISS index, metadata sqlite, and faiss-ids file
+    based on category.
+    """
+    safe_cat = category.lower().replace(" ", "_")
+    cat_dir = os.path.join(DB_DIR, safe_cat)
+    os.makedirs(cat_dir, exist_ok=True)
+
+    return {
+        "cat_dir": cat_dir,
+        "vector_db": os.path.join(cat_dir, "faiss.index"),
+        "sqlite": os.path.join(cat_dir, "metadata.sqlite"),
+        "faiss_ids": os.path.join(cat_dir, "faiss-ids.txt"),
+    }
+
+def init_sqlite(category: str):
+    paths = _get_category_paths(category)
+    conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
     c.execute('''
         CREATE TABLE IF NOT EXISTS samples
@@ -38,56 +51,63 @@ def init_sqlite():
     conn.commit()
     conn.close()
 
-def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:str) -> str:
-    sample_id = str(uuid.uuid4())
-
-    # Save PDF
-    pdf_filename = f"{sample_id}.pdf"
-    pdf_path = os.path.join(DB_DIR, pdf_filename)
-    with open(pdf_path, "wb") as pf:
-        pf.write(pdf_bytes)
-
-    # Extract fields if available
+def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash: str) -> str:
+    # Extract metadata
     carrier = json_data.get('Carrier Name', '')
     plan = json_data.get('Plan Name', '')
 
-    # Save metadata in SQLite with pdf_hash
-    conn = sqlite3.connect(SQLITE_METADATA)
+    paths = _get_category_paths(category)
+    init_sqlite(category)
+
+    sample_id = str(uuid.uuid4()) + "_" + carrier + "_" + plan
+
+    # Save PDF in category folder
+    pdf_filename = f"{sample_id}.pdf"
+    pdf_path = os.path.join(paths["cat_dir"], pdf_filename)
+    with open(pdf_path, "wb") as pf:
+        pf.write(pdf_bytes)
+
+    # Save metadata in SQLite
+    conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
-    # Store only the filename, not the full path
     c.execute('INSERT INTO samples VALUES (?,?,?,?,?,?,?)',
               (sample_id, category, carrier, plan, json.dumps(json_data), pdf_filename, pdf_hash))
     conn.commit()
     conn.close()
 
     # Embed PDF text, add to FAISS
-    text = pdf_to_text(pdf_bytes)  # truncate
+    text = pdf_to_text(pdf_bytes)
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
 
-    if not os.path.exists(VECTOR_DB_FILE):
+    if not os.path.exists(paths["vector_db"]):
         index = faiss.IndexFlatL2(EMBEDDING_DIM)
-        faiss.write_index(index, VECTOR_DB_FILE)
-    index = faiss.read_index(VECTOR_DB_FILE)
+        faiss.write_index(index, paths["vector_db"])
+    index = faiss.read_index(paths["vector_db"])
     index.add(emb)
-    faiss.write_index(index, VECTOR_DB_FILE)
+    faiss.write_index(index, paths["vector_db"])
 
     # Save mapping index to sample_id
-    with open(os.path.join(DB_DIR, "faiss-ids.txt"), "a") as f:
+    with open(paths["faiss_ids"], "a") as f:
         f.write(f"{sample_id}\n")
+
     return sample_id
 
 def search_similar_pdf(category: str, text: str, top_k=1):
-    if not os.path.exists(VECTOR_DB_FILE):
+    paths = _get_category_paths(category)
+    if not os.path.exists(paths["vector_db"]):
         return []
-    index = faiss.read_index(VECTOR_DB_FILE)
+
+    # Load FAISS and search
+    index = faiss.read_index(paths["vector_db"])
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
     D, I = index.search(emb, top_k)
 
     # Load faiss-ids
-    with open(os.path.join(DB_DIR, "faiss-ids.txt")) as f:
+    with open(paths["faiss_ids"]) as f:
         id_list = [l.strip() for l in f.readlines()]
+
     found = []
-    conn = sqlite3.connect(SQLITE_METADATA)
+    conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
     for pos in I[0]:
         if pos >= len(id_list):
@@ -99,14 +119,14 @@ def search_similar_pdf(category: str, text: str, top_k=1):
             found.append({
                 "id": sample_id,
                 "json_data": json.loads(row[0]),
-                # Always join DB_DIR and filename for the current OS
-                "pdf_path": os.path.join(DB_DIR, row[1])
+                "pdf_path": os.path.join(paths["cat_dir"], row[1])
             })
     conn.close()
     return found
 
-def get_sample_json_by_id(sample_id: str) -> dict:
-    conn = sqlite3.connect(SQLITE_METADATA)
+def get_sample_json_by_id(category: str, sample_id: str) -> dict:
+    paths = _get_category_paths(category)
+    conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
     c.execute('SELECT json_data FROM samples WHERE id=?', (sample_id,))
     row = c.fetchone()
