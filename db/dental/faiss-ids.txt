@@ -66,3 +66,34 @@ Health Net_Essential 2 1000_04d7333c-4
 Health Net_DHMO Plus 225_48613a30-6
 UnitedHealthcare_I1207_4826985d-b
 UnitedHealthcare_I1900_3d9e9643-b
+Humana_AZ TRP O1.5K INFS+ 100_80_50_75997d40-a
+Humana_AZ TRP O1.5K INFS+ 100_80_50_1ec3e8ba-d
+Humana_AZ TRP O1.5K U&C+ 100_80_50_03e4d240-a
+Humana_AZ TRP O1.5K U&C+ 100_80_50_60294665-f
+Aetna_NT P20 PPO Prev_Basic 90th_117fb4ab-9
+Aetna_NT P20 PPP Prev_Basic 90th_00de32bc-8
+Anthem Blue Cross_5FKQ CA Platinum PPO 100_90_60 Active 50_2500 90th E&P Basic CH Ortho_2k_28a92613-b
+Anthem Blue Cross_5FKW CA Bronze PPO 100_80_50 Active 50_1500 MAC E&P Basic_3b0c22a8-5
+Anthem Blue Cross_5FL1 CA Bronze PPO 100_80_50 Active 50_Unlimited MAC E&P Basic CH Ortho_6b355c4a-c
+Anthem Blue Cross_983U CA Silver PPO 100_80_50 Passive 50_3000 90th E&P Basic CH Ortho_1.5k_a13b942c-a
+Blue Shield of California_Gold DPPO_$2000_U90_Adult+Child Ortho_fe99a084-5
+Blue Shield of California_Gold DPPO _ $1500 _ MAC _ Adult+Child Ortho_e03da986-b
+Blue Shield of California_Bronze DPPO _ $1000 _ MAC _ Child Only Ortho_194b2d92-4
+Blue Shield of California_Bronze DPPO _ $1000 _ MAC_0bf4ad76-f
+Blue Shield of California_Bronze DPPO_$1500_MAC_Child Only Ortho_312a3dd7-7
+Blue Shield of California_Bronze DPPO _ $1500 _ MAC_86906949-a
+Blue Shield of California_Bronze Voluntary DPPO _ $1000 _ MAC _ Child Only Ortho_03de57f7-5
+Blue Shield of California_Bronze Voluntary DPPO _ $1000 _ MAC_838228a4-c
+Blue Shield of California_Bronze Voluntary DPPO _ $1500 _ MAC _ Child Only Ortho_24195e7a-8
+Blue Shield of California_Bronze Voluntary DPPO _ $1500 _ MAC_7a958754-c
+Humana_CA PPO INFS FLEX 100_80_50_7c0595b9-c
+Blue Shield of California_Diamond DPPO _ $5000 _ U95 _ Adult+Child Ortho_1e02dcd8-0
+Blue Shield of California_Diamond DPPO_$3000_U95_Adult+Child Ortho_460b5036-8
+Blue Shield of California_Diamond DPPO _ $3000 _ U95_5559366e-8
+Blue Shield of California_Diamond DPPO _ $5000 _ U95_3f91d418-8
+Blue Shield of California_Gold DPPO _ $1500 _ MAC_26ae1b5b-0
+Blue Shield of California_Gold DPPO _ $1500 _ U90 _ Adult+Child Ortho_2ab222b7-0
+Blue Shield of California_Gold DPPO _ $1500 _ U90_dc4a845b-0
+Blue Shield of California_Gold DPPO _ $2000 _ MAC _ Adult+Child Ortho_33bfdf7d-1
+Blue Shield of California_Gold DPPO _ $2000 _ MAC_e9da1adb-9
+Blue Shield of California_Gold DPPO _ $2000 _ U90_d25a79a5-3

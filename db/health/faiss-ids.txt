@@ -170,3 +170,54 @@ CalChoice_SG Western Health Advantage Platinum HMO B Capital 20_2350c2a8-9
 CalChoice_SG Western Health Advantage Platinum HMO C Sierra 20_cc293bfd-b
 CalChoice_SG Western Health Advantage Silver HMO A Sierra 50_11c9bccc-9
 CalChoice_SG Western Health Advantage Silver HMO C Capital 2850 HSA_25ed29f0-d
+Blue Shield of California_SG Access+ Silver 70 HMO 2500_55 PCP + Child Dental Mirror_12d8483e-1
+Blue Shield of California_SG Bronze 60 HDHP PPO 7500_0% PCP + Child Dental Alt Mirror_e9ba83ef-a
+Blue Shield of California_SG Bronze 60 PPO 5800_60 PCP + Child Dental Mirror_d5cb9808-8
+Blue Shield of California_SG Bronze Access+ HMO 7000_70 OffEx_a0c5e6d0-0
+Blue Shield of California_SG Bronze Full PPO 4500_65 OffEx_503d1414-b
+Blue Shield of California_SG Gold Full PPO Savings 1750_15% HDHP PrevRx OffEx HSA_dbcad75e-6
+Blue Shield of California_SG Gold Local Access+ HMO 1000_35 OffEx_8b6fe34e-d
+Blue Shield of California_SG Platinum Local Access+ HMO 0_20 OffEx_f718cd1d-e
+Blue Shield of California_SG Platinum Tandem PPO 0_10 OffEx_9da05335-7
+Horizon_Advantage EPO 100_80 Base Plan_3b980aa1-9
+Anthem_Link Virtual First Bronze Blue Connection EPO 6000_8000 w_HSA Plus_fa751477-8
+Anthem_Link Virtual First Bronze Blue Open Access POS 6000_8000 w_HSA Plus_cba68e43-9
+Anthem_Link Virtual First Silver Blue Connection EPO 4000_7000 w_HSA Plus_defd52ec-b
+Anthem_Link Virtual First Silver Blue Open Access POS 3300_7050 w_HSA Plus_c6953172-b
+Anthem_Link Virtual First Silver Blue Open Access POS 4000_7000 w_HSA Plus_0ca018a3-8
+Anthem_Platinum PPO 15_40_10%_c0d1f02b-e
+Anthem_Silver HMO 60_2500_45%_e20cf926-7
+Anthem_Silver PPO 45_1750_40%_3efe7d28-b
+Anthem_Silver PPO HSA_H 2600_3300_5200 35% PrevRx_e26fc72c-4
+Blue Shield of California_SG Bronze 60 HDHP PPO 7500_0% PCP + Child Dental Alt Mirror_967f6185-0
+Blue Shield of California_SG Bronze 60 PPO 5800_60 PCP + Child Dental Mirror_06039b31-c
+Blue Shield of California_SG Gold 80 PPO 350_25 PCP + Child Dental Mirror_07ebd8d8-e
+Blue Shield of California_SG Access+ Gold 80 HMO 250_35 PCP + Child Dental Mirror_aae3e237-7
+Blue Shield of California_SG Access+ Silver 70 HMO 2500_55 PCP + Child Dental Mirror_7f4f97fd-4
+Community Care_Silver 70 EPO 1500_50 + Child Dental_8bf16210-a
+Community Care_Gold 80 EPO 250_30 + Child Dental_aa43de17-0
+Community Care_HMO Plan A 1500_25_40_10%_3fbeb057-1
+Horizon_Direct Access Gold 100_80_60 BlueCard_9e10d722-5
+Capital Blue Cross_Gold QHDHP PPO 2000_0_10_00bfe407-7
+Health Net of CA_Platinum PPO 0_15_1085953b-c
+HMO Louisiana, Inc_Blue POS Copay 70_50 $750_76781617-9
+HMO Louisiana, Inc_Blue POS Copay 70_50 $3500_f9adad38-8
+HMO Louisiana, Inc_Signature Blue POS Copay 70_50 $2000_29ecffeb-b
+Blue Cross and Blue Shield of Louisiana_Group Care Copay 70_50 $1000_7db82ace-4
+HMO Louisiana, Inc._Blue Connect POS Copay 80_60 $1100_b3373cf5-a
+Presbyterian Health Plan_Gold Premier $3500 w_Gym_37d69a16-f
+Presbyterian Health Plan_Silver Engage $4000 w_Gym with Limited Service Area_0afa6f3b-d
+Presbyterian Health Plan_Silver Premier $4000 w_Gym_2bbd4e0a-f
+Presbyterian Health Plan_Platinum Elite $250 w_Gym_a3660294-a
+Presbyterian Health Plan_Silver Premier $4000 w_Gym_711d2358-7
+Capital Blue Cross_Platinum PPO 0_0_15 Rx 0_b73cf97a-6
+Kaiser Permanente_SG Silver 70 HMO 1900_65 PCP + Child Dental Alt_a8446fef-6
+Kaiser Permanente_SG Silver 70 HMO 2300_65 PCP + Child Dental Alt_f697368f-f
+Kaiser Permanente_SG Silver 70 HMO 2500_55 PCP + Child Dental_0da7f86d-0
+Kaiser Permanente_SG Silver 70 HMO 2900_65 PCP + Child Dental Alt_56652927-6
+Kaiser Permanente_SG Silver 70 PPO 2500_55 PCP + Child Dental_9b0f3bd0-0
+Sharp Health Plan_Gold 80 HMO 350_25 PCP + Child Dental_7eea6bf3-3
+Capital Blue Cross_Silver Performance PPO 4500_0_30_f96c8a81-9
+UPMC Health Plan_Gold PPO $1,500 $40_$50_9a1c6b08-8
+UPMC Health Plan_Gold EPO $1,500 $40_$50_03fc9ea5-9
+UPMC Health Plan_Platinum EPO $0 $10_$25_d2b24af7-9

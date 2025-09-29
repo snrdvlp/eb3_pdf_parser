@@ -147,7 +147,7 @@ async def add_sample_endpoint(
         sample_id, old_pdf_path = row
         
         # Overwrite PDF file on disk
-        pdf_path = os.path.join(db.DB_DIR, old_pdf_path)
+        pdf_path = os.path.join(paths["cat_dir"], old_pdf_path)
         with open(pdf_path, "wb") as pf:
             pf.write(pdf_bytes)
         

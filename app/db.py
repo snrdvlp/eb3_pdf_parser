@@ -4,6 +4,7 @@ import uuid
 import sqlite3
 import numpy as np
 import faiss
+import re
 
 from .extract import pdf_to_text
 from .embedder import get_embedding
@@ -53,6 +54,10 @@ def init_sqlite(category: str = ""):
     conn.commit()
     conn.close()
 
+def safe_filename(name: str) -> str:
+    # Replace / \ : * ? " < > | with _
+    return re.sub(r'[\/:*?"<>|]', "_", name)
+
 def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash: str) -> str:
     # Extract metadata
     carrier = json_data.get('Carrier Name', '')
@@ -62,10 +67,12 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:
     init_sqlite(category)
 
     sample_id = carrier + "_" + plan + "_" + str(uuid.uuid4())[:10]
+    sample_id = safe_filename(sample_id)
 
     # Save PDF in category folder
     pdf_filename = f"{sample_id}.pdf"
     pdf_path = os.path.join(paths["cat_dir"], pdf_filename)
+    print(f"pdf path is : {pdf_path}")
     with open(pdf_path, "wb") as pf:
         pf.write(pdf_bytes)
 
