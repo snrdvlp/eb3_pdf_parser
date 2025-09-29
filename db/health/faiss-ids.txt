@@ -1,0 +1,172 @@
+Providence Health_Columbia 5000 Silver_52e25a4e-f
+Providence Health Plan_Columbia 8900 Bronze_ae2b759a-5
+Memorial Hermann_Select 001_88371de6-1
+Memorial Hermann_Select 3300-100 HSA_37504765-b
+Memorial Hermann_Select 002_e9b5be12-1
+Memorial Hermann_Select 5000-80 HSA_5ce4b92a-1
+Memorial Hermann_Select 001_b539b1ad-a
+Aetna AFA_1000 100-50_ce216cfd-b
+Aetna AFA_2500 100-50 IntRX_14de8451-1
+Aetna AFA_500 80-50_037fb332-a
+Aetna AFA_5000 100-50_f7d2abc7-a
+Aetna AFA_5000 80-50_f4567f8f-a
+Aetna AFA_6500 HSA 100-50 E_9533fb36-3
+Aetna AFA_6750 80-50_fff7bf9c-7
+Aetna AFA_7500 HSA 100-50 E_ba8e4e5d-5
+Blue Cross and Blue Shield of Illinois_SG AIBCO201 Blue Choice Options A201 - Rx Copays BBF Network_62f36300-4
+Blue Cross and Blue Shield of Illinois_SG AIBPP205 BluePrint PPO A205 - Rx Copays BBF_7a395aad-1
+Blue Cross and Blue Shield of Illinois_SG AIEEA593M BlueEdge AA593 HSA BBF_4051ed9a-9
+Angle Health_Midwest Disposal ANG HDHP 1650 1650_3f4a0bb0-8
+Angle Health_Midwest Disposal ANG TRAD 2000 4000_2ffd6902-7
+Angle Health_Midwest Disposal ANG TRAD 500 1500_ee83a81d-8
+Angle Health_Fore Golf Trad 1500 75150_e7cb60d4-d
+Anthem_Platinum Vivity HMO 15_dc2c65dd-2
+Arkansas Blue Cross and Blue Shield_Silver Plan Standardized_436e2667-0
+AvMed_Small Group Flex S020-SG25_2b8aca86-f
+AvMed_Greater Health Trust Small Group Elect S020-GHT25_8dcf5367-f
+AvMed_Greater Health Trust Small Group Elect S020-GHT24_46ad78ab-9
+Providence Health Plan_Balance 4000 Silver_5cf7d856-9
+Providence Health Plan_Balance 750 Gold_f93b99cd-b
+Baylor Scott & White Health_Bronze HMO 80 7500 40788TX0340004_929a3e2e-f
+Baylor Scott & White Health_Bronze HMO 100 9200 40788TX0340023_fc768d03-e
+Baylor Scott & White Health_Bronze HMO 90 7900 40788TX0340001_ad325a20-c
+UHC_DW2F_bc02022b-8
+UHC_DW2G_615b67b0-4
+UHC_DW2H_6b38c248-b
+UHC_DW2I_ed1da0c0-0
+UHC_DW2J_9bf007f2-7
+UHC_DW6M_b5e1ecfa-9
+UHC_DW6O_1b70fd04-8
+UHC_DW7D_aeca815c-8
+UHC_DW7F_7a131b3e-4
+UHC_DX2Z_1609f54e-e
+UHC_DX3V_ea393bf4-3
+UHC_DX3W_f4527099-f
+UHC_DX3X_9a5db5f7-3
+UHC_DX3Y_844d4180-0
+UHC_DX3Z_d243fa3e-0
+UHC_DX8X_e8f0a7da-9
+UHC_DXFR_d05d2118-a
+UHC_DXFW_057bb40c-2
+UHC_DXGG_fd0d0efc-f
+UHC_DXGK_fd28535a-2
+UHC_DXGL_fa1be84b-f
+UHC_DXH7_f60879b0-9
+UHC_DXH8_929811a3-e
+UHC_DXH9_1cf4f531-7
+UHC_DXHP_2d52b01a-9
+UHC_DXHQ_ed84f4df-6
+UHC_DXJW_657f1c02-b
+UHC_DXK4_c6f5f795-a
+UHC_DXKK_8e8e9b76-e
+UHC_DXKL_ae4fa5f6-8
+UHC_DY14_9b57805f-9
+UHC_DY1S_de236a23-c
+UHC_DY1U_009c2b9c-5
+UHC_DY3S_d000dcc8-c
+UHC_DY3V_9ac8e48b-e
+UHC_DY3W_a30172c8-c
+UHC_DY4B_1b3d94c5-b
+UHC_DY4C_976de354-0
+UHC_DY8V_4c3636de-c
+UHC_DY8Z_dad580d4-5
+UHC_DY93_d607e63d-9
+UHC_DY94_2ba09a11-0
+UHC_DY95_cedc99f1-3
+UHC_DY96_5c1f6e23-5
+UHC_DY97_4cfe57d8-d
+UHC_DY9B_a07d6331-a
+UHC_DY9C_5125c4a7-8
+UHC_DY9P_99cc12fd-c
+UHC_DYBN_f0d95014-3
+UHC_DYBO_819dcab1-9
+UHC_DYBS_7a35374c-2
+UHC_DYBT_f18938cf-2
+UHC_DYDG_36c20f76-7
+UHC_DYDI_4d8c7a53-8
+UHC_DYDK_fa228291-b
+UHC_DYDM_40f553cb-9
+UHC_DYE8_1eeea839-4
+UHC_DYE9_6187c234-d
+UHC_DYEQ_9367b114-9
+UHC_DYFI_8dafce2d-5
+UHC_DYFJ_82f110c2-0
+UHC_DYMK_a2380529-4
+UHC_DYMO_2eef6e3c-d
+UHC_DYNX_11549c0a-6
+UHC_DYNY_d5c16575-0
+UHC_DYR7_583dfe5a-e
+UHC_DYSB_e9c8250a-6
+UHC_DYSC_ba43ba29-f
+UHC_DYSD_779063dc-d
+UHC_DYSE_2d325242-1
+UHC_DYY9_697dbf11-0
+UHC_DYYJ_a8db7292-2
+UHC_DZF2_f27f9c8b-1
+UHC_DZF3_4b344e15-6
+UHC_DZF4_dd84986a-e
+UHC_DZG7_784b868c-e
+UHC_DZG9_11eeb962-9
+UHC_DZGY_23c699a9-9
+UHC_DZGZ_75b97fbd-4
+UHC_DZMW_82cfe1ab-a
+UHC_DZMY_4aa91b55-3
+UHC_DZNA_21df8646-5
+UHC_DZNC_0484fdbe-3
+UHC_DZOL_9b80c26e-0
+UHC_DZOM_761a3c63-1
+UHC_DZON_d988c052-6
+UHC_DZOO_1914cb44-3
+UHC_DZOR_dd69c3e3-2
+Blue Cross and Blue Shield of Illinois_SG Blue Precision Silver HMO 102 - Rx Copays - S530PSN_0ebfb746-5
+Cigna_Q3 LF Single OAPIN $30k 120% 50%_2d81b31e-d
+Cigna_James R Vannoy & Sons Construction Company, Inc.: Plan 2_3c008b7b-0
+Cigna_Open Access Plus_a013e82b-e
+Cigna_W.L. Staton Plumbing, Heating & Cooling, LLC: Open Access Plus Net_49a1c896-e
+Cigna_James R Vannoy & Sons Construction Company, Inc.: Plan 1_915a3470-5
+Florida Blue_SG BlueCare All Copay Platinum 14251_ba5de0c1-e
+Florida Blue_SG BlueCare Essential (HSA) Bronze 15574_68d6427b-0
+Florida Blue_SG BlueCare Everyday Health Gold 24353_41bddd27-e
+Florida Blue_SG BlueOptions Essential (HSA) Bronze 15224_1a347f84-2
+Florida Health Care Plans (FHCP)_SG Platinum POS OA BNN 4630 PD8XH_66097a42-1
+Florida Health Care Plans (FHCP)_SG Silver HMO 4 P04XH_083dbc55-1
+Florida Health Care Plans (FHCP)_SG Silver POS HSA 2566 P23XH_30cdeb96-6
+Health Net of CA_SmartCare HMO Silver $55_889866d2-a
+Health Net of CA_SmartCare HMO Gold $30_ddcd8535-8
+Health Net of CA_SmartCare HMO Platinum $20_eedb4357-9
+Health Net of CA_Salud HMO y Mas Gold $30_d2684fd8-2
+Harvard Pilgrim Health Care_HMO2000ValueII-Flex_7374cc09-3
+Harvard Pilgrim Health Care_StandardHighGold_1eb23d69-8
+Harvard Pilgrim Health Care_StandardSilver_789d8078-4
+Harvard Pilgrim Health Care_StandardLowSilverHSA-Flex_96f68d79-7
+Harvard Pilgrim Health Care_StandardLowSilverHSA-Flex_e62ec6bc-c
+Medica_Medica Choice National NE 6000-20% HSA with 100% Preventive Rx Bronze_20876999-4
+Medica_MHPS Medica Choice National ASO 2000-30-45-20%_b924159d-5
+Medica_Medica Choice National NE 1500-30-60-30% with 100% Preventive Rx Gold_f946c427-9
+Medica_Medica Choice National NE 6000-0% HSA_ef511001-d
+Medica_Medica Choice National NE 3000-0% HSA_ffdce7e6-5
+Moda Health_Affinity Bronze 7750_a08b139b-c
+Moda Health_Bronze HDHP 7500_c285c95d-2
+Moda Health_Select Bronze 7500_9388cda5-2
+Moda Health_Silver 6400_12b66910-e
+MVP_NY MVP EPO Bronze 11_0b728a34-3
+MVP_NY MVP EPO Bronze 2_189203c4-a
+MVP_NY MVP EPO Bronze 5 HDHP_3c06c901-8
+MVP_NY MVP EPO Bronze 6 HDHP_f0914b95-1
+MVP_NY MVP EPO Bronze 7 HDHP_61f6ff6e-5
+Horizon_OMNIA Platinum_f3ba44b7-e
+Regence BlueShield of Idaho_Regence Accord Bronze 7500_32aebbac-5
+Regence BlueCross BlueShield of Utah_Regence BluePoint Bronze BolsterCare 9000_a30812ae-2
+Regence BlueCross BlueShield of Oregon_Regence Bronze BolsterCare 9200 Preferred_3ecabf02-8
+Blue Cross and Blue Shield of Texas_ATBAP303 Blue Advantage HMO A303_7ffdd5f0-9
+Blue Cross and Blue Shield of Texas_ATBCB402 Blue Choice PPO Basic A402_fdb5c297-4
+Blue Cross and Blue Shield of Texas_ATBCP205 Blue Choice PPO A205_a522b9ab-3
+Blue Cross and Blue Shield of Texas_ATBCP291 Blue Choice PPO HSA A291_f55d6831-2
+Sharp Health Plan_California Choice_4508f5ef-1
+Sharp Health Plan_California Choice_2989e6e5-3
+Sharp Health Plan_HMO NG 22 L_44e0af23-f
+Sharp Health Plan_HMO NG 8 L_528cd790-b
+CalChoice_SG Western Health Advantage Platinum HMO B Capital 20_2350c2a8-9
+CalChoice_SG Western Health Advantage Platinum HMO C Sierra 20_cc293bfd-b
+CalChoice_SG Western Health Advantage Silver HMO A Sierra 50_11c9bccc-9
+CalChoice_SG Western Health Advantage Silver HMO C Capital 2850 HSA_25ed29f0-d

@@ -9,12 +9,9 @@ You are a highly accurate insurance PDF-to-JSON converter.
 - "Customer Service Phone Number" should be a phone number, not other types like email.
 ---
 
-**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
-- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
----
-**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value, especially "x-rays".
+**CRITICAL FIELD EXTRACTION FOR VISION BENEFITS:**
+- For the following fields: "Eye Exam", "Single Vision Lens", "Lined Bi-Focal Lens", "Lined Tri-Focal Lens", "Lenticular Lens", "Contact Lens Allowance", "Frame Allowance", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value.
 
 ---
 **Sample pairs:** Are provided ONLY to help you learn the possible ways insurance information is presented and mapped.
@@ -36,6 +33,6 @@ You are a highly accurate insurance PDF-to-JSON converter.
 ---
 **For all fields:**  
 Extract and output ONLY these fields (no extras and case-insensitive):
-['Carrier Name', 'Plan Name', 'In-Network Single Deductible', 'In-Network Family Deductible', 'Out-of-Network Single Deductible', 'Out-of-Network Family Deductible', 'In-Network Annual Maximum', 'Out-of-Network Annual Maximum', 'Frequencies Cleaning', 'Frequencies Exam', 'In-Network Cleanings', 'Out-of-Network Cleanings', 'In-Network Exams', 'Out-of-Network Exams', 'In-Network X-Rays', 'Out-of-Network X-Rays', 'In-Network Sealants', 'Out-of-Network Sealants', 'In-Network Fillings', 'Out-of-Network Fillings', 'In-Network Simple Extractions', 'Out-of-Network Simple Extractions', 'In-Network Root Canal', 'Out-of-Network Root Canal', 'In-Network Periodontal Gum Disease', 'Out-of-Network Periodontal Gum Disease', 'In-Network Oral Surgery', 'Out-of-Network Oral Surgery', 'In-Network Crowns', 'Out-of-Network Crowns', 'In-Network Dentures', 'Out-of-Network Dentures', 'In-Network Bridges', 'Out-of-Network Bridges', 'In-Network Implants', 'Out-of-Network Implants', 'In-Network Orthodontia', 'Out-of-Network Orthodontia', 'Orthodontia Lifetime Maximum', 'Orthodontia Maximum Age', 'Out of Network Explanation', 'Waiting Period for Major Services', 'Plan Year', 'Network Type', 'Network Name', 'Member Website', 'Customer Service Phone Number']
+['Carrier Name', 'Plan Name', 'In-Network Eye Exam', 'Out-of-Network Eye Exam', 'In-Network Single Vision Lens', 'Out-of-Network Single Vision Lens', 'In-Network Lined Bi-Focal Lens', 'Out-of-Network Lined Bi-Focal Lens', 'In-Network Lined Tri-Focal Lens', 'Out-of-Network Lined Tri-Focal Lens', 'In-Network Lenticular Lens', 'Out-of-Network Lenticular Lens', 'In-Network Contact Lens Allowance', 'Out-of-Network Contact Lens Allowance', 'In-Network Frame Allowance', 'Out-of-Network Frame Allowance', 'Exam Frequency', 'Lens Frequency', 'Frame Frequency', 'Out of Network Explanation', 'Plan Year', 'Network Name', 'Member Website', 'Customer Service Phone Number']
 ---
 **Output:** Output only the completed JSON object with all fields above, and nothing else.
