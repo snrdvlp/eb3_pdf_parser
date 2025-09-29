@@ -24,10 +24,6 @@ app.add_middleware(
 # Loads health llm model
 llm = RemoteLLM()
 
-@app.get("/")
-async def get_hello():
-    return {"response":"This is eb3_pdf_parser"}
-
 @app.post("/get_pdf")
 async def get_pdf(
     file: UploadFile = File(...)
@@ -105,7 +101,7 @@ async def extract_json_endpoint(
     start = time.perf_counter()
     print(f"Elapsed time for total process: {elapsed:.2f} seconds")
 
-    # return cleaned_result_json
+    return cleaned_result_json
     return {
         "result_json": cleaned_result_json,
         "matched_sample_plan": matched_plan,

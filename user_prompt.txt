@@ -5,133 +5,208 @@ SAMPLE PDF #1:
 
 ### Table (Page 1)
 
-| (cid:219)·•„•(cid:190)•·•‹§ |  |  |
+| Aetna VisionSM Preferred E100 12M |  |  |
 | --- | --- | --- |
-| (cid:214)–(cid:190)(cid:221)·¿›› | (cid:223)‰‹•“» |  |
-|  |  |  |
-| ˙–«fi(cid:221)–“»fi¿„»'•‹‚¿˚˝——fi»”»fifi»…—fi–“•…»fi |  |  |
-| (cid:220)–‰‹–fi(cid:210)»‹'–fi(cid:181) | ˚˝—(cid:221)‚–•‰»(cid:210)»‹'–fi(cid:181) |  |
-| (cid:221)–“»fi»…(cid:221)‚¿fi„»› | (cid:222)»†»”•‹ | (cid:218)fi»fl«»†‰§ |
-| (cid:219)¤¿‡› | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§ | (cid:209)†» »¤¿‡ »“»fi§ (cid:239)(cid:238) ‡–†‹‚› |
-| —fi»›‰fi•(cid:176)‹•–†(cid:217)·¿››»› | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§
-˝•†„·»“•›•–†(cid:244)·•†»…(cid:190)•”–‰¿·(cid:244)·•†»…
-‹fi•”–‰¿·¿†…·»†‹•‰«·¿fi·»†›»›(cid:229)
-(cid:176)–·§‰¿fi(cid:190)–†¿‹»·»†›»›”–fi
-…»(cid:176)»†…»†‹‰‚•·…fi»†«†…»fi¿„»
-(cid:239)Ł
-(cid:252)(cid:239)º(cid:240) ¿··–'¿†‰» ”–fi ¿ '•…»
-›»·»‰‹•–† –” ”fi¿‡»›(cid:229) (cid:238)(cid:240)ß –””
-¿‡–«†‹ –“»fi ¿··–'¿†‰»(cid:246)(cid:246)(cid:246) | (cid:204)'– ·»†›»› ł–†» (cid:176)¿•fi(cid:247) »“»fi§ (cid:239)(cid:238) ‡–†‹‚›
-(cid:209)†» ›»‹ »“»fi§ (cid:238)(cid:236) ‡–†‹‚› |
-| (cid:212)»†›»› |  |  |
-| (cid:218)fi¿‡»› |  |  |
-| (cid:219)·»‰‹•“»(cid:221)–†‹¿‰‹› | ¸(cid:176)‹–(cid:252)Œ(cid:240)‰–(cid:176)¿§”–fi§–«fi»·»‰‹•“»
-‰–†‹¿‰‹·»†›»¤¿‡ł”•‹‹•†„¿†…
-»“¿·«¿‹•–†(cid:247)
-(cid:252)(cid:239)º(cid:240)¿··–'¿†‰»”–fi»·»‰‹•“»
-‰–†‹¿‰‹› | (cid:209)†‰»»“»fi§(cid:239)(cid:238)‡–†‹‚›
-(cid:221)–†‹¿‰‹›¿fi»•†›‹»¿…–””fi¿‡»›¿†…·»†›»› |
-| (cid:210)»‰»››¿fi§(cid:221)–†‹¿‰‹›(cid:246)(cid:246) | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§
-(cid:221)–“»fi»… •† ”«·· ”–fi ‡»‡(cid:190)»fi› '‚–
-‚¿“» ›(cid:176)»‰•”•‰ ‰–†…•‹•–†› | (cid:209)†‰» »“»fi§ (cid:239)(cid:238) ‡–†‹‚›
-(cid:221)–†‹¿‰‹› ¿fi» •†›‹»¿… –” ”fi¿‡»› ¿†… ·»†›»› |
+| Plan ID 1054512101
+TPID 79006
+Line Value 862 | Member cost In-Network |  |
+| Vision Care Services | Aetna Vision Network |  |
+|  | $20 Copay |  |
+|  | Member pays discounted fee of $40 |  |
+|  | 10% off retail price |  |
+|  | Member pays discounted fee of $39 |  |
+| Standard Plastic Single Vision Lenses | $25 Copay |  |
+| Standard Plastic Bifocal Vision Lenses | $25 Copay |  |
+| Standard Plastic Trifocal Vision Lenses | $25 Copay |  |
+| Standard Plastic Lenticular Vision Lenses | $25 Copay |  |
+| Standard Progressive Vision Lenses¹ | $90 Copay |  |
+| Premium Progressive Vision Lenses¹
+(Tier amount based on brand) | Tier 1 = $110 Copay
+Tier 2 = $120 Copay
+Tier 3 = $135 Copay |  |
+| Other Premium Progressive Lenses1 | $90 Copay, 20% off retail price
+less $120 allowance |  |
+| UV Treatment | Member pays discounted fee of $15 |  |
+| Tint (Solid And Gradient) | Member pays discounted fee of $15 |  |
+| Standard Plastic Scratch Coating | Member pays discounted fee of $15 |  |
+| Standard Polycarbonate Lenses - Adult | Member pays discounted fee of $40 |  |
+| Standard Polycarbonate Lenses - Kids under
+age 19 | Member pays discounted fee of $40 |  |
+| Standard Anti-Reflective Coating¹ | Member pays discounted fee of $45 |  |
+| Premium Anti-Reflective Coating1
+(Tier amount based on brand) | Tier 1
+Member pays discounted fee of$57
+Tier 2
+Member pays discounted fee of $68
+Tier 3
+20% discount off retail price |  |
+| Photochromic/Transitions Plastic | Member pays discounted fee of $75 |  |
+| Polarized And Other Lens Add Ons | 20% off retail price |  |
+|  | $100 Allowance**
+Additional 15% off balance over $100 |  |
+|  | $100 Allowance |  |
+|  | $0 Copay |  |
+|  | $100 Allowance**
+Additional 20% off balance over $100 |  |
 
+Vision Care Services
+Aetna Vision Network
 
+Eye Exam with Dilation as necessary
+$20 Copay
+$20 Reimbursement
 
-### Table (Page 1)
+Standard Contact Lens Fit/Follow-Up
+Member pays discounted fee of $40
+Not Covered
 
-| (cid:223)……•‹•–†¿·˝¿“•†„›(cid:246)(cid:246)(cid:246) |  |
-| --- | --- |
-| (cid:217)·¿››»›¿†…˝«†„·¿››»› | (cid:212)»†›»†‚¿†‰»‡»†‹›¿fi»‰–“»fi»…¿”‹»fi¿‰–(cid:176)¿§(cid:244)›¿“•†„‡»‡(cid:190)»fi›¿†¿“»fi¿„»–”(cid:238)(cid:240)(cid:243)(cid:238)ºß–””
-¿……•‹•–†¿·„·¿››»›¿†…›«†„·¿››»›(cid:244)•†‰·«…•†„·»†›–(cid:176)‹•–†›”fi–‡¿†§˚˝—…–‰‹–fi'•‹‚•†(cid:239)(cid:238)
-‡–†‹‚›–”§–«fi·¿›‹‰–“»fi»…“•›•–†»¤¿‡ |
-| (cid:221)–†‹¿‰‹› | (cid:239)ºß–””‰–›‹–”‰–†‹¿‰‹·»†›»¤¿‡ł”•‹‹•†„¿†…»“¿·«¿‹•–†(cid:247) |
-| (cid:212)¿›»fi˚•›•–†(cid:221)–fifi»‰‹•–† | (cid:223)“»fi¿„»(cid:239)ºß–””‹‚»fi»„«·¿fi(cid:176)fi•‰»–fiºß–””‹‚»(cid:176)fi–‡–‹•–†¿·(cid:176)fi•‰»(cid:229)…•›‰–«†‹›–†·§¿“¿•·¿(cid:190)·»
-”fi–‡‰–†‹fi¿‰‹»…”¿‰•·•‹•»› |
+Premium Contact Lens Fit/Follow-Up
+10% off retail price
+Not Covered
 
-ï ±º ì
+Retinal Imaging
+Member pays discounted fee of $39
+Not Covered
 
-Ê·-·±² Þ»²»º·¬ Í«³³¿®§
+Standard Plastic Single Vision Lenses
+$25 Copay
+$10 Reimbursement
 
-MCV Plan 1
+Standard Plastic Bifocal Vision Lenses
+$25 Copay
+$25 Reimbursement
 
-Ì¸·- ½¸¿®¬ °®±ª·¼»- §±« ¿ ¾®·»º -«³³¿®§ ±º ¬¸» µ»§ ¾»²»º·¬- ±º ¬¸» ª·-·±² ½±ª»®¿¹» ¿ª¿·´¿¾´» º®±³ Ð®·²½·°¿´
-Ô·º» ×²-«®¿²½» Ý±³°¿²§ò Ú±´´±©·²¹ ¬¸» ½¸¿®¬ô §±« ©·´´ º·²¼ ¿¼¼·¬·±²¿´ ·²º±®³¿¬·±² ¬± ¿²-©»® ¯«»-¬·±²-
-§±« ³¿§ ¸¿ª»ò Ú±® ¿ ½±³°´»¬» ´·-¬ ±º ¿´´ §±«® ª·-·±² ½±ª»®¿¹» ¾»²»º·¬- ¿²¼ ®»-¬®·½¬·±²-ô °´»¿-» ®»º»® ¬± §±«®
-¾±±µ´»¬ ±® ½±²¬¿½¬ §±«® »³°´±§»®ò
+Standard Plastic Trifocal Vision Lenses
+$25 Copay
+$55 Reimbursement
 
-### Û´·¹·¾·´·¬§
+Standard Plastic Lenticular Vision Lenses
+$25 Copay
+$55 Reimbursement
 
-Ö±¾ Ý´¿--
-ß½¬·ª»
+Standard Progressive Vision Lenses¹
+$90 Copay
+$25 Reimbursement
 
-Ç±«® Ý±ª»®¿¹» ©·¬¸ ¿ ÊÍÐ Ð®»º»®®»¼ Ð®±ª·¼»®
+Premium Progressive Vision Lenses¹
+(Tier amount based on brand)
 
-Ü±½¬±® Ò»¬©±®µ
-ÊÍÐ Ý¸±·½» Ò»¬©±®µ
+Tier 1 = $110 Copay
+Tier 2 = $120 Copay
+Tier 3 = $135 Copay
 
-Ý±ª»®»¼ Ý¸¿®¹»-
-Þ»²»º·¬
-Ú®»¯«»²½§
+$25 Reimbursement
 
-Û¨¿³-
-üïð ½±°¿§
-Ñ²» »¨¿³ »ª»®§ ïî ³±²¬¸-
+Other Premium Progressive Lenses1
+$90 Copay, 20% off retail price
 
-Ð®»-½®·°¬·±² Ù´¿--»-
-üïð ½±°¿§
+less $120 allowance
+$25 Reimbursement
 
-Ô»²-»-
-Í·²¹´» ª·-·±²ô ´·²»¼ ¾·º±½¿´ô ´·²»¼
-¬®·º±½¿´ ¿²¼ ´»²¬·½«´¿® ´»²-»-å
-°±´§½¿®¾±²¿¬» ´»²-»- º±®
-¼»°»²¼»²¬ ½¸·´¼®»² «²¼»® ¿¹»
-ïè
+UV Treatment
+Member pays discounted fee of $15
+Not Covered
 
-Ì©± ´»²-»- ø±²» °¿·®÷ »ª»®§ ïî ³±²¬¸-
+Tint (Solid And Gradient)
+Member pays discounted fee of $15
+Not Covered
 
-Ú®¿³»-
-üïëð ¿´´±©¿²½» º±® ¿ ©·¼»
--»´»½¬·±² ±º º®¿³»-å îðû ±ºº
-¿³±«²¬ ±ª»® ¿´´±©¿²½»ööö
+Standard Plastic Scratch Coating
+Member pays discounted fee of $15
+Not Covered
 
-Ñ²» -»¬ »ª»®§ îì ³±²¬¸-
+Standard Polycarbonate Lenses - Adult
+Member pays discounted fee of $40
+Not Covered
 
-Û´»½¬·ª» Ý±²¬¿½¬-
-Ë° ¬± üêð ½±°¿§ º±® §±«® »´»½¬·ª»
-½±²¬¿½¬ ´»²- »¨¿³ øº·¬¬·²¹ ¿²¼
-»ª¿´«¿¬·±²÷
+Standard Polycarbonate Lenses - Kids under 
+age 19
+Member pays discounted fee of $40
+Not Covered
 
-üïëð ¿´´±©¿²½» º±® »´»½¬·ª»
-½±²¬¿½¬-
+Standard Anti-Reflective Coating¹
+Member pays discounted fee of $45
+Not Covered
 
-Ñ²½» »ª»®§ ïî ³±²¬¸-
+Premium Anti-Reflective Coating1
 
-Ý±²¬¿½¬- ¿®» ·²-¬»¿¼ ±º º®¿³»- ¿²¼ ´»²-»-
+(Tier amount based on brand)
 
-Ò»½»--¿®§ Ý±²¬¿½¬-öö
-üïð ½±°¿§
+Tier 1  
+Member pays discounted fee of$57
 
-Ý±ª»®»¼ ·² º«´´ º±® ³»³¾»®- ©¸±
-¸¿ª» -°»½·º·½ ½±²¼·¬·±²-
+Tier 2 
+Member pays discounted fee of $68
 
-Ñ²½» »ª»®§ ïî ³±²¬¸-
+Tier 3 
+ 20% discount off retail price
 
-Ý±²¬¿½¬- ¿®» ·²-¬»¿¼ ±º º®¿³»- ¿²¼ ´»²-»-
+Not Covered
 
-ß¼¼·¬·±²¿´ Í¿ª·²¹- ööö
+Photochromic/Transitions Plastic
+Member pays discounted fee of $75
+Not Covered
 
-Ù´¿--»- ¿²¼ Í«²¹´¿--»-
-Ô»²- »²¸¿²½»³»²¬- ¿®» ½±ª»®»¼ ¿º¬»® ¿ ½±°¿§ô -¿ª·²¹ ³»³¾»®- ¿² ¿ª»®¿¹» ±º îðóîëû ±ºº
-¿¼¼·¬·±²¿´ ¹´¿--»- ¿²¼ -«²¹´¿--»-ô ·²½´«¼·²¹ ´»²- ±°¬·±²- º®±³ ¿²§ ÊÍÐ ¼±½¬±® ©·¬¸·² ïî
-³±²¬¸- ±º §±«® ´¿-¬ ½±ª»®»¼ ª·-·±² »¨¿³
+Polarized And Other Lens Add Ons
+20% off retail price
+Not Covered
 
-Ý±²¬¿½¬-
-ïëû ±ºº ½±-¬ ±º ½±²¬¿½¬ ´»²- »¨¿³ øº·¬¬·²¹ ¿²¼ »ª¿´«¿¬·±²÷
+Conventional Contact Lenses
+$100 Allowance**
+Additional 15% off balance over $100
+$69 Reimbursement
 
-Ô¿-»® Ê·-·±² Ý±®®»½¬·±²
-ßª»®¿¹» ïëû ±ºº ¬¸» ®»¹«´¿® °®·½» ±® ëû ±ºº ¬¸» °®±³±¬·±²¿´ °®·½»å ¼·-½±«²¬- ±²´§ ¿ª¿·´¿¾´»
-º®±³ ½±²¬®¿½¬»¼ º¿½·´·¬·»-
+Disposable Contact Lenses
+$100 Allowance
+$80 Reimbursement
+
+Medically Necessary Contact Lenses
+$0 Copay
+$200 Reimbursement
+
+Frame
+$100 Allowance**
+Additional 20% off balance over $100
+$50 Reimbursement
+
+Frequency:
+Exam
+Eyeglass Lenses or Contact Lenses
+Frame
+
+Once every 12 rolling months
+Once every 12 rolling months
+Once every 12 rolling months
+
+In-Network Discounts
+
+Additional pairs of eyeglasses or
+
+prescription sunglasses2
+
+Non-covered items3
+
+Lasik Laser vision correction or PRK from
+
+U.S. Laser Network4 only. Call 1-800-422-
+6600
+
+Up to a 40% discount off retail price
+
+Aetna VisionSM Preferred E100 12M
+
+Plan ID 1054512101
+TPID 79006
+Line Value 862
+
+Member cost In-Network
+Out of Network*
+
+Summary of Benefits
+
+20% discount off retail price
+
+15% discount off retail or 5% discount off the promotional price
 
 
 
@@ -141,198 +216,129 @@ MCV Plan 1
 
 ### Table (Page 2)
 
-| ˙–«fi(cid:221)–“»fi¿„»'•‹‚(cid:209)‹‚»fi—fi–“•…»fi›ł(cid:210)–†(cid:243)(cid:210)»‹'–fi(cid:181)(cid:247) |  |  |
-| --- | --- | --- |
-| (cid:221)–“»fi»…(cid:221)‚¿fi„»› | ˝‰‚»…«·»…(cid:222)»†»”•‹(cid:223)‡–«†‹ | (cid:218)fi»fl«»†‰§ |
-| ˚•›•–†(cid:219)¤¿‡› | ¸(cid:176)‹–(cid:252)(cid:236)º | (cid:209)†»(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| ˝•†„·»˚•›•–†·»†›»› | ¸(cid:176)‹–(cid:252)(cid:237)(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:212)•†»…(cid:190)•”–‰¿··»†›»› | ¸(cid:176)‹–(cid:252)º(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:212)•†»…‹fi•”–‰¿··»†›»› | ¸(cid:176)‹–(cid:252)Œº | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:212)»†‹•‰«·¿fi·»†›»› | ¸(cid:176)‹–(cid:252)(cid:239)(cid:240)(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:218)fi¿‡»› | ¸(cid:176)‹–(cid:252)Ø(cid:240) | (cid:209)†» ›»‹ (cid:176)»fi (cid:238)(cid:236) ‡–†‹‚ (cid:176)»fi•–… |
-| (cid:219)·»‰‹•“»(cid:221)–†‹¿‰‹› | ¸(cid:176)‹–(cid:252)(cid:239)(cid:240)º | (cid:215)†·•»«–”·»†›»›¿†…”fi¿‡»(cid:190)»†»”•‹› |
-| (cid:210)»‰»››¿fi§(cid:221)–†‹¿‰‹›(cid:246)(cid:246) | ¸(cid:176)‹–(cid:252)(cid:238)(cid:239)(cid:240) | (cid:215)†·•»«–”·»†›»›¿†…”fi¿‡»(cid:190)»†»”•‹› |
+| Partial list of Exclusions and Limitations |
+| --- |
+| Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special
+vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet
+professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of
+bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact
+lenses. Other exclusions and limitations may also apply. |
 
-### Ê×Í×ÑÒ
+TTY: 711
+To access language services at no cost to you, call 1-888-982-3862.
 
-î ±º ì
+Para acceder a los servicios de idiomas sin costo, llame al 1-888-982-3862. (Spanish)
 
-Ç±«® Ý±ª»®¿¹» ©·¬¸ Ñ¬¸»® Ð®±ª·¼»®- øÒ±²óÒ»¬©±®µ÷
+如欲使用免費語言服務，請致電 1-888-982-3862。(Chinese)
 
-Ý±ª»®»¼ Ý¸¿®¹»-
-Í½¸»¼«´»¼ Þ»²»º·¬ ß³±«²¬
-Ú®»¯«»²½§
+Afin d'accéder aux services langagiers sans frais, composez le 1-888-982-3862. (French)
 
-Ê·-·±² Û¨¿³-
-Ë° ¬± üìë
-Ñ²» °»® ïî ³±²¬¸ °»®·±¼
+Para ma-access ang mga serbisyo sa wika nang wala kayong babayaran, tumawag sa 1-888-982-3862. (Tagalog)
 
-Í·²¹´» Ê·-·±² ´»²-»-
-Ë° ¬± üíð
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+Um auf für Sie kostenlose Sprachdienstleistungen zuzugreifen, rufen Sie 1-888-982-3862 an. (German)
 
-Ô·²»¼ ¾·º±½¿´ ´»²-»-
-Ë° ¬± üëð
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+للحصول على الخدمات اللغوية دون أي 
+،تكلفة الرجاء االتصال على الرقم 1
+-
+888
+-
+982
+-
+3862
+. (Arabic)
 
-Ô·²»¼ ¬®·º±½¿´ ´»²-»-
-Ë° ¬± üêë
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+Pou jwenn sèvis lang gratis, rele 1-888-982-3862. (French Creole-Haitian)
 
-Ô»²¬·½«´¿® ´»²-»-
-Ë° ¬± üïðð
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+Per accedere ai servizi linguistici, senza alcun costo per lei, chiami il numero  1-888-982-3862. (Italian)
 
-Ú®¿³»-
-Ë° ¬± üéð
-Ñ²» -»¬ °»® îì ³±²¬¸ °»®·±¼
+Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage. 
+Plan features and availability may vary by location and are subject to change.
 
-Û´»½¬·ª» Ý±²¬¿½¬-
-Ë° ¬± üïðë
-×² ´·»« ±º ´»²-»- ¿²¼ º®¿³» ¾»²»º·¬-
+Providers in the Aetna Vision network are contracted and credentialed through EyeMed Vision Care, LLC according to EyeMed’s 
+requirements. EyeMed and Aetna are independent contractors and not agents of each other. Provider participation may change 
+without notice.
 
-Ò»½»--¿®§ Ý±²¬¿½¬-öö
-Ë° ¬± üîïð
-×² ´·»« ±º ´»²-»- ¿²¼ º®¿³» ¾»²»º·¬-
+Refer to Aetna.com for more information about Aetna® plans.
 
-öö Ò»½»--¿®§ ½±²¬¿½¬ ´»²-»- ¿®» °®»-½®·¾»¼ ¬± ½±®®»½¬ »¨¬®»³» ª·-«¿´ °®±¾´»³- ¬¸¿¬ ½¿²²±¬ ¾» ½±®®»½¬»¼
-©·¬¸ ®»¹«´¿® ´»²-»-ò
-ööö Þ¿-»¼ ±² ¿°°´·½¿¾´» ´¿©-å ¾»²»º·¬- ³¿§ ª¿®§ ¾§ ¼±½¬±® ´±½¿¬·±²ò
+Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently based on 
+their race, color, national origin, sex, age, or disability.
 
-Ì¸»®» ·- Ý±±®¼·²¿¬·±² ±º Þ»²»º·¬-ô ©¸·½¸ ·- ¿ °®±½»¼«®» º±® ´·³·¬·²¹ ¾»²»º·¬- º®±³ ¬©± ±® ³±®» ½¿®®·»®- ¬±
-ïððû ±º ¬¸» ½´¿·³¿²¬ù- ½±ª»®»¼ »¨°»²-»-ò
+Aetna provides free aids/services to people with disabilities and to people who need language assistance. If you need a 
+qualified interpreter, written information in other formats, translation or other services, call 1-888-982-3862. If you believe we 
+have failed to provide these services or otherwise discriminated based on a protected class noted above, you can also file a 
+grievance with Civil Rights Coordinator by contacting: Civil Rights Coordinator, P.O. Box 14462, Lexington, KY 40512. 1-800-648-
+7817, TTY: 711, Fax: 859-425-3379, CRCoordinator@aetna.com.
+
+You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights 
+Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human 
+Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019, 800-537-
+7697 (TDD).
+
+Partial list of Exclusions and Limitations
+
+Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special 
+vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet 
+professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of 
+bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact 
+lenses. Other exclusions and limitations may also apply.
+
+*You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to 
+receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers 
+actual charge.  
+Claim forms can be found at AetnaVision.com or by calling customer service at 1-877-973-3238. 
+Submit completed claim form with receipts to Aetna, PO Box 8504 Mason, OH 45040-7111. 
+Enrolled members can access our secure member website once their plan becomes effective. Enrolled subscribers will receive 
+a welcome packet with ID card mailed to their home within 15 business days after enrollment is processed.
+
+**Allowances are one-time use benefits. No remaining balances may be used. The plan does not provide a declining balance 
+benefit.
+
+1Premium progressives and premium anti-reflective Brand designations are subject to annual review and change based on 
+market conditions. Ask your eye care provider for more information.
+
+2Additional pair discount applies to purchases made after the plan allowances have been exhausted.
+
+3Non covered discounts may not be available in all states.
+
+4Lasik or PRK from the US Laser Network, owned and operated by LCA Vision.
+
+Vision insurance plans are underwritten by Aetna Life Insurance Company (Aetna). Certain claims administration services are 
+provided by First American Administrators, Inc. and certain network administration services are provided through EyeMed 
+Vision Care (“EyeMed”), LLC.
 
 
 
 ## Page 3
 
-### Ê×Í×ÑÒ
+言語サービスを無料でご利用いただくには、1-888-982-3862 までお電話ください。(Japanese)
 
-í ±º ì
+무료 언어 서비스를 이용하려면 1-888-982-3862 번으로 전화해 주십시오. (Korean)
 
-Ë²¼»®-¬¿²¼·²¹ Ç±«® Ê·-·±² Þ»²»º·¬-
+برای دسترسی به خدمات زبان به طور 
+،رايگان با شماره 1
+-
+888
+-
+982
+-
+3862
+ تماس بگيريد. (Persian-Farsi)
 
-ß³ × Û´·¹·¾´» Ú±® Ý±ª»®¿¹»á
+Aby uzyskać dostęp do bezpłatnych usług językowych proszę zadzwonoć 1-888-982-3862. (Polish)
 
-Ì± ¾» »´·¹·¾´» º±® ½±ª»®¿¹»ô §±« ³«-¬ ¯«¿´·º§ ¿- ¿² »´·¹·¾´» ³»³¾»® ¿²¼ ¾» ½±²-·¼»®»¼ ¿½¬·ª»´§ ¿¬ ©±®µò
+Para acessar os serviços de idiomas sem custo para você, ligue para 1-888-982-3862. (Portuguese)
 
-Ç±« ³«-¬ ¾» »²®±´´»¼ º±® ª·-·±² ½±ª»®¿¹» ¾»º±®» ·¬ ½¿² ¾» ±ºº»®»¼ ¬± §±«® ¼»°»²¼»²¬-ò  Û´·¹·¾´» ¼»°»²¼»²¬-
+Для того чтобы бесплатно получить помощь переводчика, позвоните по телефону 1-888-982-3862. (Russian)
 
-·²½´«¼» §±«® -°±«-» ¿²¼ ½¸·´¼®»²ò  ß¼¼·¬·±²¿´ »´·¹·¾·´·¬§ ®»¯«·®»³»²¬- ³¿§ ¿°°´§ò
+Nếu quý vị muốn sử dụng miễn phí các dịch vụ ngôn ngữ, hãy gọi tới số 1-888-982-3862. (Vietnamese)
 
-Ø±© Ü± × Ú·²¼ ¿ ÊÍÐ Ð®±ª·¼»®á
+Policy forms issued in Idaho include: AL HGrpPol-Vision 03
+Policy forms issued in Missouri include: AL HGrpPol-Vision 02
+Policy forms issued in Oklahoma include: AL HGrpPol-Vision 02
 
-Ë-» ¬¸» Ð®±ª·¼»® Ü·®»½¬±®§ ±² ©©©òª-°ò½±³ ¬± ´±½¿¬» ²»¿®¾§ ÊÍÐ °®±ª·¼»®- ±® ¬± -»» ·º §±«® ½«®®»²¬ »§»
-½¿®» °®±º»--·±²¿´ °¿®¬·½·°¿¬»- ·² ¬¸» ÊÍÐ ²»¬©±®µò Ì± -°»¿µ ¬± ¿ ®»°®»-»²¬¿¬·ª» ¾§ °¸±²»ô °´»¿-» ½¿´´
-èððóèééóéïçëò
-
-Ø±© Ü± × Í«¾³·¬ ß Ý´¿·³á
-
-É¸»² ª·-·¬·²¹ ¿ ÊÍÐ °®±ª·¼»® º±® -»®ª·½»-ô ¬¸» °®±ª·¼»® -«¾³·¬- ¬¸» ½´¿·³ º±® °¿§³»²¬ò ×º ª·-·¬·²¹ ¿
-
-²±²ó²»¬©±®µ °®±ª·¼»® º±® -»®ª·½»-ô §±« ¿®» ®»-°±²-·¾´» º±® -«¾³·¬¬·²¹ ¬¸» ½´¿·³ ¬± ÊÍÐò Ñ¾¬¿·² ¿ ½´¿·³
-
-º±®³ ¾§ ´±¹¹·²¹ ±² ¬± ª-°ò½±³ ±® ¾§ ½¿´´·²¹ èððóèééóéïçëò ×²½´«¼» ¿ ½±°§ ±º §±«® ·¬»³·¦»¼ ®»½»·°¬ ©·¬¸
-
-§±«® ½´¿·³ º±®³ ¿²¼ ³¿·´ ·¬ ¬± ¬¸» º±´´±©·²¹ ¿¼¼®»--ò
-
-Ê·-·±² Í»®ª·½» Ð´¿²
-
-ÐòÑò Þ±¨ ççéïðë
-Í¿½®¿³»²¬±ô Ýß çëèççóéïðë
-
-
-
-## Page 4
-
-
-
-### Table (Page 4)
-
-| (cid:212)¿‹»(cid:219)†‹fi¿†‹(cid:201)¿•‹•†„—»fi•–… | (cid:204)‚–›»‡»‡(cid:190)»fi›»†fi–··•†„‡–fi»‹‚¿†(cid:237)(cid:239)…¿§›¿”‹»fi(cid:190)»‰–‡•†„»·•„•(cid:190)·»'•··(cid:190)»›«(cid:190)¶»‰‹
-‹–¿†•†…•“•…«¿·(cid:190)»†»”•‹'¿•‹•†„(cid:176)»fi•–…(cid:244)›«(cid:190)¶»‰‹‹–‰–“»fi¿„»„«•…»·•†»›(cid:242) |
-| --- | --- |
-| (cid:210)–†(cid:243)(cid:211)»…•‰¿··§(cid:210)»‰»››¿fi§
-˝»fi“•‰»› | (cid:204)‚»‰–“»fi¿„»…–»›†–‹(cid:176)¿§”–fi“•›«¿·¿†¿·§›•›–fi“•›•–†¿•…›‹‚¿‹¿fi»†–‹‡»…•‰¿··§
-†»‰»››¿fi§(cid:242) |
-| (cid:222)»†»”•‹(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»”–··–'•†„•‹»‡›¿fi»»¤‰·«…»…«†…»fi‹‚•›‰–“»fi¿„»(cid:230)
-i (cid:204)'–(cid:176)¿•fi›–”„·¿››»›•†›‹»¿…–”(cid:190)•”–‰¿·›
-i ˛»(cid:176)·¿‰»‡»†‹–”·»†›»›(cid:244)”fi¿‡»›–fi‰–†‹¿‰‹›
-i (cid:211)»…•‰¿·–fi›«fi„•‰¿·‹fi»¿‹‡»†‹
-i (cid:209)fi‹‚–(cid:176)‹•‰›(cid:244)“•›•–†‹fi¿•†•†„–fi›«(cid:176)(cid:176)·»‡»†‹¿·‹»›‹•†„
-i —·¿†–·»†›»›ł·»†›»›'•‹‚fi»”fi¿‰‹•“»‰–fifi»‰‹•–†–”·»››‹‚¿†o(cid:242)º(cid:240)…•–(cid:176)‹»fi(cid:247) |
-| (cid:221)–†‹¿‰‹(cid:212)»†›(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»”–··–'•†„•‹»‡›¿fi»†–‹‰–“»fi»…«†…»fi‹‚»‰–†‹¿‰‹·»†›‰–“»fi¿„»(cid:230)
-i (cid:215)†›«fi¿†‰»(cid:176)–·•‰•»›–fi›»fi“•‰»¿„fi»»‡»†‹›
-i (cid:223)fi‹•›‹•‰¿··§(cid:176)¿•†‹»…–fi†–†(cid:243)(cid:176)fi»›‰fi•(cid:176)‹•–†·»†›»›
-i (cid:223)……•‹•–†¿·–””•‰»“•›•‹›”–fi‰–†‹¿‰‹·»†›(cid:176)¿‹‚–·–„§
-i (cid:221)–†‹¿‰‹·»†›‡–…•”•‰¿‹•–†(cid:244)(cid:176)–·•›‚•†„–fi‰·»¿†•†„
-i ˛»”•‹‹•†„–”‰–†‹¿‰‹·»†›»›¿”‹»fi‹‚»•†•‹•¿·ł(cid:231)(cid:240)…¿§(cid:247)”•‹‹•†„(cid:176)»fi•–… |
-| (cid:209)‹‚»fi(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»fi»¿fi»¿……•‹•–†¿··•‡•‹¿‹•–†›‹–§–«fi‰–“»fi¿„»(cid:242)(cid:223)‰–‡(cid:176)·»‹»·•›‹•›•†‰·«…»…•†§–«fi
-(cid:190)––(cid:181)·»‹(cid:242) |
-
-### Ê×Í×ÑÒ
-
-ì ±º ì
-
-É¸¿¬ ß®» Ì¸» Î»-¬®·½¬·±²- Ñº Ó§ Ý±ª»®¿¹»á
-
-Ì¸·- Þ»²»º·¬ Í«³³¿®§ ·- ¿ -«³³¿®§ ±²´§ò Ú±® ¿ ½±³°´»¬» ´·-¬ ±º ¾»²»º·¬ ®»-¬®·½¬·±²-ô °´»¿-» ®»º»® ¬± §±«®
-¾±±µ´»¬ò
-
-Ô¿¬» Û²¬®¿²¬ É¿·¬·²¹ Ð»®·±¼
-Ì¸±-» ³»³¾»®- »²®±´´·²¹ ³±®» ¬¸¿² íï ¼¿§- ¿º¬»® ¾»½±³·²¹ »´·¹·¾´» ©·´´ ¾» -«¾¶»½¬
-¬± ¿² ·²¼·ª·¼«¿´ ¾»²»º·¬ ©¿·¬·²¹ °»®·±¼ô -«¾¶»½¬ ¬± ½±ª»®¿¹» ¹«·¼»´·²»-ò
-
-Ò±²óÓ»¼·½¿´´§ Ò»½»--¿®§
-Í»®ª·½»-
-Ì¸» ½±ª»®¿¹» ¼±»- ²±¬ °¿§ º±® ª·-«¿´ ¿²¿´§-·- ±® ª·-·±² ¿·¼- ¬¸¿¬ ¿®» ²±¬ ³»¼·½¿´´§
-²»½»--¿®§ò
-
-Þ»²»º·¬ Ô·³·¬¿¬·±²-
-Ì¸» º±´´±©·²¹ ·¬»³- ¿®» »¨½´«¼»¼ «²¼»® ¬¸·- ½±ª»®¿¹»æ
-i
-Ì©± °¿·®- ±º ¹´¿--»- ·²-¬»¿¼ ±º ¾·º±½¿´-
-i
-Î»°´¿½»³»²¬ ±º ´»²-»-ô º®¿³»- ±® ½±²¬¿½¬-
-i
-Ó»¼·½¿´ ±® -«®¹·½¿´ ¬®»¿¬³»²¬
-i
-Ñ®¬¸±°¬·½-ô ª·-·±² ¬®¿·²·²¹ ±® -«°°´»³»²¬¿´ ¬»-¬·²¹
-i
-Ð´¿²± ´»²-»- ø´»²-»- ©·¬¸ ®»º®¿½¬·ª» ½±®®»½¬·±² ±º ´»-- ¬¸¿² o òëð ¼·±°¬»®÷
-
-Ý±²¬¿½¬ Ô»²- Ô·³·¬¿¬·±²-
-Ì¸» º±´´±©·²¹ ·¬»³- ¿®» ²±¬ ½±ª»®»¼ «²¼»® ¬¸» ½±²¬¿½¬ ´»²- ½±ª»®¿¹»æ
-i
-×²-«®¿²½» °±´·½·»- ±® -»®ª·½» ¿¹®»»³»²¬-
-i
-ß®¬·-¬·½¿´´§ °¿·²¬»¼ ±® ²±²ó°®»-½®·°¬·±² ´»²-»-
-i
-ß¼¼·¬·±²¿´ ±ºº·½» ª·-·¬- º±® ½±²¬¿½¬ ´»²- °¿¬¸±´±¹§
-i
-Ý±²¬¿½¬ ´»²- ³±¼·º·½¿¬·±²ô °±´·-¸·²¹ ±® ½´»¿²·²¹
-i
-Î»º·¬¬·²¹ ±º ½±²¬¿½¬ ´»²-»- ¿º¬»® ¬¸» ·²·¬·¿´ øçð ¼¿§÷ º·¬¬·²¹ °»®·±¼
-
-Ñ¬¸»® Ô·³·¬¿¬·±²-
-Ì¸»®» ¿®» ¿¼¼·¬·±²¿´ ´·³·¬¿¬·±²- ¬± §±«® ½±ª»®¿¹»ò ß ½±³°´»¬» ´·-¬ ·- ·²½´«¼»¼ ·² §±«®
-¾±±µ´»¬ò
-
-ÉÛŽÔÔ Ù×ÊÛ ÇÑË ßÒ ÛÜÙÛ r
-
-Ð®·²½·°¿´ Ô·º» ×²-«®¿²½» Ý±³°¿²§ô Ü»- Ó±·²»-ô ×±©¿ ëðíçîóðððîô ©©©ò°®·²½·°¿´ò½±³
-
-Ì¸·- ·- ¿ -«³³¿®§ ±º ª·-·±² ½±ª»®¿¹» «²¼»®©®·¬¬»² ¾§ ±® ©·¬¸ ¿¼³·²·-¬®¿¬·ª» -»®ª·½»- °®±ª·¼»¼ ¾§ Ð®·²½·°¿´ Ô·º» ×²-«®¿²½» Ý±³°¿²§ò  Ì¸·-
-
-¾»²»º·¬ -«³³¿®§ ·- º±® ¿¼³·²·-¬®¿¬·ª» °«®°±-»- ¿²¼ ·- ²±¬ ¿ ½±³°´»¬» -¬¿¬»³»²¬ ±º ¬¸» ®·¹¸¬-ô ¾»²»º·¬-ô ´·³·¬¿¬·±²- ±® »¨½´«-·±²- ±º ¬¸»
-
-½±ª»®¿¹»ò Ç±«Ž´´ ®»½»·ª» ¿ ¾»²»º·¬ ¾±±µ´»¬ ©·¬¸ ¼»¬¿·´- ¿¾±«¬ §±«® ½±ª»®¿¹»ò ×º ¬¸»®» ·- ¿ ¼·-½®»°¿²½§ ¾»¬©»»² ¬¸·- -«³³¿®§ ¿²¼ §±«®
-
-¾»²»º·¬ ¾±±µ´»¬ô ¬¸» ¾»²»º·¬ ¾±±µ´»¬ °®»ª¿·´-ò
-
-ÙÐêïïðïóî   ¤ ðìñîðïë  ¤  w îðïë Ð®·²½·°¿´ Ú·²¿²½·¿´ Í»®ª·½»-ô ×²½ò
+©2024 Aetna Inc.
 SAMPLE JSON #1:
-{"Carrier Name":"Principal","Plan Name":"MCV Plan 1","In-Network Eye Exam":"$10","Out-of-Network Eye Exam":"Up to $45","In-Network Single Vision Lens":"$10","Out-of-Network Single Vision Lens":"Up to $30","In-Network Lined Bi-Focal Lens":"$10","Out-of-Network Lined Bi-Focal Lens":"Up to $50","In-Network Lined Tri-Focal Lens":"$10","Out-of-Network Lined Tri-Focal Lens":"Up to $65","In-Network Lenticular Lens":"$10","Out-of-Network Lenticular Lens":"Up to $100","In-Network Contact Lens Allowance":"$150","Out-of-Network Contact Lens Allowance":"Up to $105","In-Network Frame Allowance":"$150 allowance for a wide selection of frames; 20% off amount over allowance","Out-of-Network Frame Allowance":"up to $70","Exam Frequency":"One per 12 month period","Lens Frequency":"One pair per 12 month period","Frame Frequency":"One set per 24 month period","Out of Network Explanation":"","Plan Year":"04/2015","Network Name":"VSP Choice Network","Member Website":"www.principal.com","Customer Service Phone Number":"800-877-7195"}
+{"Carrier Name":"Aetna","Plan Name":"Preferred E100 12M","In-Network Eye Exam":"$20","Out-of-Network Eye Exam":"$20 reimbursement","In-Network Single Vision Lens":"$25","Out-of-Network Single Vision Lens":"$10 reimbursement","In-Network Lined Bi-Focal Lens":"$25","Out-of-Network Lined Bi-Focal Lens":"$25 reimbursement","In-Network Lined Tri-Focal Lens":"$25","Out-of-Network Lined Tri-Focal Lens":"$55 reimbursement","In-Network Lenticular Lens":"$25","Out-of-Network Lenticular Lens":"$55 reimbursement","In-Network Contact Lens Allowance":"$100","Out-of-Network Contact Lens Allowance":"$69 reimbursement","In-Network Frame Allowance":"$100","Out-of-Network Frame Allowance":"$50 reimbursement","Exam Frequency":"Once every 12 rolling months","Lens Frequency":"Once every 12 rolling months","Frame Frequency":"Once every 12 rolling months","Out of Network Explanation":"You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers actual charge.","Plan Year":"","Network Name":"Aetna Vision","Member Website":"AetnaVision.com","Customer Service Phone Number":"1-877-973-3238"}
 ---
 
 TARGET PDF:
@@ -342,133 +348,208 @@ TARGET PDF:
 
 ### Table (Page 1)
 
-| (cid:219)·•„•(cid:190)•·•‹§ |  |  |
+| Aetna VisionSM Preferred E100 12M |  |  |
 | --- | --- | --- |
-| (cid:214)–(cid:190)(cid:221)·¿›› | (cid:223)‰‹•“» |  |
-|  |  |  |
-| ˙–«fi(cid:221)–“»fi¿„»'•‹‚¿˚˝——fi»”»fifi»…—fi–“•…»fi |  |  |
-| (cid:220)–‰‹–fi(cid:210)»‹'–fi(cid:181) | ˚˝—(cid:221)‚–•‰»(cid:210)»‹'–fi(cid:181) |  |
-| (cid:221)–“»fi»…(cid:221)‚¿fi„»› | (cid:222)»†»”•‹ | (cid:218)fi»fl«»†‰§ |
-| (cid:219)¤¿‡› | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§ | (cid:209)†» »¤¿‡ »“»fi§ (cid:239)(cid:238) ‡–†‹‚› |
-| —fi»›‰fi•(cid:176)‹•–†(cid:217)·¿››»› | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§
-˝•†„·»“•›•–†(cid:244)·•†»…(cid:190)•”–‰¿·(cid:244)·•†»…
-‹fi•”–‰¿·¿†…·»†‹•‰«·¿fi·»†›»›(cid:229)
-(cid:176)–·§‰¿fi(cid:190)–†¿‹»·»†›»›”–fi
-…»(cid:176)»†…»†‹‰‚•·…fi»†«†…»fi¿„»
-(cid:239)Ł
-(cid:252)(cid:239)º(cid:240) ¿··–'¿†‰» ”–fi ¿ '•…»
-›»·»‰‹•–† –” ”fi¿‡»›(cid:229) (cid:238)(cid:240)ß –””
-¿‡–«†‹ –“»fi ¿··–'¿†‰»(cid:246)(cid:246)(cid:246) | (cid:204)'– ·»†›»› ł–†» (cid:176)¿•fi(cid:247) »“»fi§ (cid:239)(cid:238) ‡–†‹‚›
-(cid:209)†» ›»‹ »“»fi§ (cid:238)(cid:236) ‡–†‹‚› |
-| (cid:212)»†›»› |  |  |
-| (cid:218)fi¿‡»› |  |  |
-| (cid:219)·»‰‹•“»(cid:221)–†‹¿‰‹› | ¸(cid:176)‹–(cid:252)Œ(cid:240)‰–(cid:176)¿§”–fi§–«fi»·»‰‹•“»
-‰–†‹¿‰‹·»†›»¤¿‡ł”•‹‹•†„¿†…
-»“¿·«¿‹•–†(cid:247)
-(cid:252)(cid:239)º(cid:240)¿··–'¿†‰»”–fi»·»‰‹•“»
-‰–†‹¿‰‹› | (cid:209)†‰»»“»fi§(cid:239)(cid:238)‡–†‹‚›
-(cid:221)–†‹¿‰‹›¿fi»•†›‹»¿…–””fi¿‡»›¿†…·»†›»› |
-| (cid:210)»‰»››¿fi§(cid:221)–†‹¿‰‹›(cid:246)(cid:246) | (cid:252)(cid:239)(cid:240) ‰–(cid:176)¿§
-(cid:221)–“»fi»… •† ”«·· ”–fi ‡»‡(cid:190)»fi› '‚–
-‚¿“» ›(cid:176)»‰•”•‰ ‰–†…•‹•–†› | (cid:209)†‰» »“»fi§ (cid:239)(cid:238) ‡–†‹‚›
-(cid:221)–†‹¿‰‹› ¿fi» •†›‹»¿… –” ”fi¿‡»› ¿†… ·»†›»› |
+| Plan ID 1054512101
+TPID 79006
+Line Value 862 | Member cost In-Network |  |
+| Vision Care Services | Aetna Vision Network |  |
+|  | $20 Copay |  |
+|  | Member pays discounted fee of $40 |  |
+|  | 10% off retail price |  |
+|  | Member pays discounted fee of $39 |  |
+| Standard Plastic Single Vision Lenses | $25 Copay |  |
+| Standard Plastic Bifocal Vision Lenses | $25 Copay |  |
+| Standard Plastic Trifocal Vision Lenses | $25 Copay |  |
+| Standard Plastic Lenticular Vision Lenses | $25 Copay |  |
+| Standard Progressive Vision Lenses¹ | $90 Copay |  |
+| Premium Progressive Vision Lenses¹
+(Tier amount based on brand) | Tier 1 = $110 Copay
+Tier 2 = $120 Copay
+Tier 3 = $135 Copay |  |
+| Other Premium Progressive Lenses1 | $90 Copay, 20% off retail price
+less $120 allowance |  |
+| UV Treatment | Member pays discounted fee of $15 |  |
+| Tint (Solid And Gradient) | Member pays discounted fee of $15 |  |
+| Standard Plastic Scratch Coating | Member pays discounted fee of $15 |  |
+| Standard Polycarbonate Lenses - Adult | Member pays discounted fee of $40 |  |
+| Standard Polycarbonate Lenses - Kids under
+age 19 | Member pays discounted fee of $40 |  |
+| Standard Anti-Reflective Coating¹ | Member pays discounted fee of $45 |  |
+| Premium Anti-Reflective Coating1
+(Tier amount based on brand) | Tier 1
+Member pays discounted fee of$57
+Tier 2
+Member pays discounted fee of $68
+Tier 3
+20% discount off retail price |  |
+| Photochromic/Transitions Plastic | Member pays discounted fee of $75 |  |
+| Polarized And Other Lens Add Ons | 20% off retail price |  |
+|  | $100 Allowance**
+Additional 15% off balance over $100 |  |
+|  | $100 Allowance |  |
+|  | $0 Copay |  |
+|  | $100 Allowance**
+Additional 20% off balance over $100 |  |
 
+Vision Care Services
+Aetna Vision Network
 
+Eye Exam with Dilation as necessary
+$20 Copay
+$20 Reimbursement
 
-### Table (Page 1)
+Standard Contact Lens Fit/Follow-Up
+Member pays discounted fee of $40
+Not Covered
 
-| (cid:223)……•‹•–†¿·˝¿“•†„›(cid:246)(cid:246)(cid:246) |  |
-| --- | --- |
-| (cid:217)·¿››»›¿†…˝«†„·¿››»› | (cid:212)»†›»†‚¿†‰»‡»†‹›¿fi»‰–“»fi»…¿”‹»fi¿‰–(cid:176)¿§(cid:244)›¿“•†„‡»‡(cid:190)»fi›¿†¿“»fi¿„»–”(cid:238)(cid:240)(cid:243)(cid:238)ºß–””
-¿……•‹•–†¿·„·¿››»›¿†…›«†„·¿››»›(cid:244)•†‰·«…•†„·»†›–(cid:176)‹•–†›”fi–‡¿†§˚˝—…–‰‹–fi'•‹‚•†(cid:239)(cid:238)
-‡–†‹‚›–”§–«fi·¿›‹‰–“»fi»…“•›•–†»¤¿‡ |
-| (cid:221)–†‹¿‰‹› | (cid:239)ºß–””‰–›‹–”‰–†‹¿‰‹·»†›»¤¿‡ł”•‹‹•†„¿†…»“¿·«¿‹•–†(cid:247) |
-| (cid:212)¿›»fi˚•›•–†(cid:221)–fifi»‰‹•–† | (cid:223)“»fi¿„»(cid:239)ºß–””‹‚»fi»„«·¿fi(cid:176)fi•‰»–fiºß–””‹‚»(cid:176)fi–‡–‹•–†¿·(cid:176)fi•‰»(cid:229)…•›‰–«†‹›–†·§¿“¿•·¿(cid:190)·»
-”fi–‡‰–†‹fi¿‰‹»…”¿‰•·•‹•»› |
+Premium Contact Lens Fit/Follow-Up
+10% off retail price
+Not Covered
 
-ï ±º ì
+Retinal Imaging
+Member pays discounted fee of $39
+Not Covered
 
-Ê·-·±² Þ»²»º·¬ Í«³³¿®§
+Standard Plastic Single Vision Lenses
+$25 Copay
+$10 Reimbursement
 
-MCV Plan 1
+Standard Plastic Bifocal Vision Lenses
+$25 Copay
+$25 Reimbursement
 
-Ì¸·- ½¸¿®¬ °®±ª·¼»- §±« ¿ ¾®·»º -«³³¿®§ ±º ¬¸» µ»§ ¾»²»º·¬- ±º ¬¸» ª·-·±² ½±ª»®¿¹» ¿ª¿·´¿¾´» º®±³ Ð®·²½·°¿´
-Ô·º» ×²-«®¿²½» Ý±³°¿²§ò Ú±´´±©·²¹ ¬¸» ½¸¿®¬ô §±« ©·´´ º·²¼ ¿¼¼·¬·±²¿´ ·²º±®³¿¬·±² ¬± ¿²-©»® ¯«»-¬·±²-
-§±« ³¿§ ¸¿ª»ò Ú±® ¿ ½±³°´»¬» ´·-¬ ±º ¿´´ §±«® ª·-·±² ½±ª»®¿¹» ¾»²»º·¬- ¿²¼ ®»-¬®·½¬·±²-ô °´»¿-» ®»º»® ¬± §±«®
-¾±±µ´»¬ ±® ½±²¬¿½¬ §±«® »³°´±§»®ò
+Standard Plastic Trifocal Vision Lenses
+$25 Copay
+$55 Reimbursement
 
-### Û´·¹·¾·´·¬§
+Standard Plastic Lenticular Vision Lenses
+$25 Copay
+$55 Reimbursement
 
-Ö±¾ Ý´¿--
-ß½¬·ª»
+Standard Progressive Vision Lenses¹
+$90 Copay
+$25 Reimbursement
 
-Ç±«® Ý±ª»®¿¹» ©·¬¸ ¿ ÊÍÐ Ð®»º»®®»¼ Ð®±ª·¼»®
+Premium Progressive Vision Lenses¹
+(Tier amount based on brand)
 
-Ü±½¬±® Ò»¬©±®µ
-ÊÍÐ Ý¸±·½» Ò»¬©±®µ
+Tier 1 = $110 Copay
+Tier 2 = $120 Copay
+Tier 3 = $135 Copay
 
-Ý±ª»®»¼ Ý¸¿®¹»-
-Þ»²»º·¬
-Ú®»¯«»²½§
+$25 Reimbursement
 
-Û¨¿³-
-üïð ½±°¿§
-Ñ²» »¨¿³ »ª»®§ ïî ³±²¬¸-
+Other Premium Progressive Lenses1
+$90 Copay, 20% off retail price
 
-Ð®»-½®·°¬·±² Ù´¿--»-
-üïð ½±°¿§
+less $120 allowance
+$25 Reimbursement
 
-Ô»²-»-
-Í·²¹´» ª·-·±²ô ´·²»¼ ¾·º±½¿´ô ´·²»¼
-¬®·º±½¿´ ¿²¼ ´»²¬·½«´¿® ´»²-»-å
-°±´§½¿®¾±²¿¬» ´»²-»- º±®
-¼»°»²¼»²¬ ½¸·´¼®»² «²¼»® ¿¹»
-ïè
+UV Treatment
+Member pays discounted fee of $15
+Not Covered
 
-Ì©± ´»²-»- ø±²» °¿·®÷ »ª»®§ ïî ³±²¬¸-
+Tint (Solid And Gradient)
+Member pays discounted fee of $15
+Not Covered
 
-Ú®¿³»-
-üïëð ¿´´±©¿²½» º±® ¿ ©·¼»
--»´»½¬·±² ±º º®¿³»-å îðû ±ºº
-¿³±«²¬ ±ª»® ¿´´±©¿²½»ööö
+Standard Plastic Scratch Coating
+Member pays discounted fee of $15
+Not Covered
 
-Ñ²» -»¬ »ª»®§ îì ³±²¬¸-
+Standard Polycarbonate Lenses - Adult
+Member pays discounted fee of $40
+Not Covered
 
-Û´»½¬·ª» Ý±²¬¿½¬-
-Ë° ¬± üêð ½±°¿§ º±® §±«® »´»½¬·ª»
-½±²¬¿½¬ ´»²- »¨¿³ øº·¬¬·²¹ ¿²¼
-»ª¿´«¿¬·±²÷
+Standard Polycarbonate Lenses - Kids under 
+age 19
+Member pays discounted fee of $40
+Not Covered
 
-üïëð ¿´´±©¿²½» º±® »´»½¬·ª»
-½±²¬¿½¬-
+Standard Anti-Reflective Coating¹
+Member pays discounted fee of $45
+Not Covered
 
-Ñ²½» »ª»®§ ïî ³±²¬¸-
+Premium Anti-Reflective Coating1
 
-Ý±²¬¿½¬- ¿®» ·²-¬»¿¼ ±º º®¿³»- ¿²¼ ´»²-»-
+(Tier amount based on brand)
 
-Ò»½»--¿®§ Ý±²¬¿½¬-öö
-üïð ½±°¿§
+Tier 1  
+Member pays discounted fee of$57
 
-Ý±ª»®»¼ ·² º«´´ º±® ³»³¾»®- ©¸±
-¸¿ª» -°»½·º·½ ½±²¼·¬·±²-
+Tier 2 
+Member pays discounted fee of $68
 
-Ñ²½» »ª»®§ ïî ³±²¬¸-
+Tier 3 
+ 20% discount off retail price
 
-Ý±²¬¿½¬- ¿®» ·²-¬»¿¼ ±º º®¿³»- ¿²¼ ´»²-»-
+Not Covered
 
-ß¼¼·¬·±²¿´ Í¿ª·²¹- ööö
+Photochromic/Transitions Plastic
+Member pays discounted fee of $75
+Not Covered
 
-Ù´¿--»- ¿²¼ Í«²¹´¿--»-
-Ô»²- »²¸¿²½»³»²¬- ¿®» ½±ª»®»¼ ¿º¬»® ¿ ½±°¿§ô -¿ª·²¹ ³»³¾»®- ¿² ¿ª»®¿¹» ±º îðóîëû ±ºº
-¿¼¼·¬·±²¿´ ¹´¿--»- ¿²¼ -«²¹´¿--»-ô ·²½´«¼·²¹ ´»²- ±°¬·±²- º®±³ ¿²§ ÊÍÐ ¼±½¬±® ©·¬¸·² ïî
-³±²¬¸- ±º §±«® ´¿-¬ ½±ª»®»¼ ª·-·±² »¨¿³
+Polarized And Other Lens Add Ons
+20% off retail price
+Not Covered
 
-Ý±²¬¿½¬-
-ïëû ±ºº ½±-¬ ±º ½±²¬¿½¬ ´»²- »¨¿³ øº·¬¬·²¹ ¿²¼ »ª¿´«¿¬·±²÷
+Conventional Contact Lenses
+$100 Allowance**
+Additional 15% off balance over $100
+$69 Reimbursement
 
-Ô¿-»® Ê·-·±² Ý±®®»½¬·±²
-ßª»®¿¹» ïëû ±ºº ¬¸» ®»¹«´¿® °®·½» ±® ëû ±ºº ¬¸» °®±³±¬·±²¿´ °®·½»å ¼·-½±«²¬- ±²´§ ¿ª¿·´¿¾´»
-º®±³ ½±²¬®¿½¬»¼ º¿½·´·¬·»-
+Disposable Contact Lenses
+$100 Allowance
+$80 Reimbursement
+
+Medically Necessary Contact Lenses
+$0 Copay
+$200 Reimbursement
+
+Frame
+$100 Allowance**
+Additional 20% off balance over $100
+$50 Reimbursement
+
+Frequency:
+Exam
+Eyeglass Lenses or Contact Lenses
+Frame
+
+Once every 12 rolling months
+Once every 12 rolling months
+Once every 12 rolling months
+
+In-Network Discounts
+
+Additional pairs of eyeglasses or
+
+prescription sunglasses2
+
+Non-covered items3
+
+Lasik Laser vision correction or PRK from
+
+U.S. Laser Network4 only. Call 1-800-422-
+6600
+
+Up to a 40% discount off retail price
+
+Aetna VisionSM Preferred E100 12M
+
+Plan ID 1054512101
+TPID 79006
+Line Value 862
+
+Member cost In-Network
+Out of Network*
+
+Summary of Benefits
+
+20% discount off retail price
+
+15% discount off retail or 5% discount off the promotional price
 
 
 
@@ -478,194 +559,125 @@ MCV Plan 1
 
 ### Table (Page 2)
 
-| ˙–«fi(cid:221)–“»fi¿„»'•‹‚(cid:209)‹‚»fi—fi–“•…»fi›ł(cid:210)–†(cid:243)(cid:210)»‹'–fi(cid:181)(cid:247) |  |  |
-| --- | --- | --- |
-| (cid:221)–“»fi»…(cid:221)‚¿fi„»› | ˝‰‚»…«·»…(cid:222)»†»”•‹(cid:223)‡–«†‹ | (cid:218)fi»fl«»†‰§ |
-| ˚•›•–†(cid:219)¤¿‡› | ¸(cid:176)‹–(cid:252)(cid:236)º | (cid:209)†»(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| ˝•†„·»˚•›•–†·»†›»› | ¸(cid:176)‹–(cid:252)(cid:237)(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:212)•†»…(cid:190)•”–‰¿··»†›»› | ¸(cid:176)‹–(cid:252)º(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:212)•†»…‹fi•”–‰¿··»†›»› | ¸(cid:176)‹–(cid:252)Œº | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:212)»†‹•‰«·¿fi·»†›»› | ¸(cid:176)‹–(cid:252)(cid:239)(cid:240)(cid:240) | (cid:209)†»(cid:176)¿•fi(cid:176)»fi(cid:239)(cid:238)‡–†‹‚(cid:176)»fi•–… |
-| (cid:218)fi¿‡»› | ¸(cid:176)‹–(cid:252)Ø(cid:240) | (cid:209)†» ›»‹ (cid:176)»fi (cid:238)(cid:236) ‡–†‹‚ (cid:176)»fi•–… |
-| (cid:219)·»‰‹•“»(cid:221)–†‹¿‰‹› | ¸(cid:176)‹–(cid:252)(cid:239)(cid:240)º | (cid:215)†·•»«–”·»†›»›¿†…”fi¿‡»(cid:190)»†»”•‹› |
-| (cid:210)»‰»››¿fi§(cid:221)–†‹¿‰‹›(cid:246)(cid:246) | ¸(cid:176)‹–(cid:252)(cid:238)(cid:239)(cid:240) | (cid:215)†·•»«–”·»†›»›¿†…”fi¿‡»(cid:190)»†»”•‹› |
+| Partial list of Exclusions and Limitations |
+| --- |
+| Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special
+vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet
+professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of
+bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact
+lenses. Other exclusions and limitations may also apply. |
 
-### Ê×Í×ÑÒ
+TTY: 711
+To access language services at no cost to you, call 1-888-982-3862.
 
-î ±º ì
+Para acceder a los servicios de idiomas sin costo, llame al 1-888-982-3862. (Spanish)
 
-Ç±«® Ý±ª»®¿¹» ©·¬¸ Ñ¬¸»® Ð®±ª·¼»®- øÒ±²óÒ»¬©±®µ÷
+如欲使用免費語言服務，請致電 1-888-982-3862。(Chinese)
 
-Ý±ª»®»¼ Ý¸¿®¹»-
-Í½¸»¼«´»¼ Þ»²»º·¬ ß³±«²¬
-Ú®»¯«»²½§
+Afin d'accéder aux services langagiers sans frais, composez le 1-888-982-3862. (French)
 
-Ê·-·±² Û¨¿³-
-Ë° ¬± üìë
-Ñ²» °»® ïî ³±²¬¸ °»®·±¼
+Para ma-access ang mga serbisyo sa wika nang wala kayong babayaran, tumawag sa 1-888-982-3862. (Tagalog)
 
-Í·²¹´» Ê·-·±² ´»²-»-
-Ë° ¬± üíð
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+Um auf für Sie kostenlose Sprachdienstleistungen zuzugreifen, rufen Sie 1-888-982-3862 an. (German)
 
-Ô·²»¼ ¾·º±½¿´ ´»²-»-
-Ë° ¬± üëð
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+للحصول على الخدمات اللغوية دون أي 
+،تكلفة الرجاء االتصال على الرقم 1
+-
+888
+-
+982
+-
+3862
+. (Arabic)
 
-Ô·²»¼ ¬®·º±½¿´ ´»²-»-
-Ë° ¬± üêë
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+Pou jwenn sèvis lang gratis, rele 1-888-982-3862. (French Creole-Haitian)
 
-Ô»²¬·½«´¿® ´»²-»-
-Ë° ¬± üïðð
-Ñ²» °¿·® °»® ïî ³±²¬¸ °»®·±¼
+Per accedere ai servizi linguistici, senza alcun costo per lei, chiami il numero  1-888-982-3862. (Italian)
 
-Ú®¿³»-
-Ë° ¬± üéð
-Ñ²» -»¬ °»® îì ³±²¬¸ °»®·±¼
+Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage. 
+Plan features and availability may vary by location and are subject to change.
 
-Û´»½¬·ª» Ý±²¬¿½¬-
-Ë° ¬± üïðë
-×² ´·»« ±º ´»²-»- ¿²¼ º®¿³» ¾»²»º·¬-
+Providers in the Aetna Vision network are contracted and credentialed through EyeMed Vision Care, LLC according to EyeMed’s 
+requirements. EyeMed and Aetna are independent contractors and not agents of each other. Provider participation may change 
+without notice.
 
-Ò»½»--¿®§ Ý±²¬¿½¬-öö
-Ë° ¬± üîïð
-×² ´·»« ±º ´»²-»- ¿²¼ º®¿³» ¾»²»º·¬-
+Refer to Aetna.com for more information about Aetna® plans.
 
-öö Ò»½»--¿®§ ½±²¬¿½¬ ´»²-»- ¿®» °®»-½®·¾»¼ ¬± ½±®®»½¬ »¨¬®»³» ª·-«¿´ °®±¾´»³- ¬¸¿¬ ½¿²²±¬ ¾» ½±®®»½¬»¼
-©·¬¸ ®»¹«´¿® ´»²-»-ò
-ööö Þ¿-»¼ ±² ¿°°´·½¿¾´» ´¿©-å ¾»²»º·¬- ³¿§ ª¿®§ ¾§ ¼±½¬±® ´±½¿¬·±²ò
+Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently based on 
+their race, color, national origin, sex, age, or disability.
 
-Ì¸»®» ·- Ý±±®¼·²¿¬·±² ±º Þ»²»º·¬-ô ©¸·½¸ ·- ¿ °®±½»¼«®» º±® ´·³·¬·²¹ ¾»²»º·¬- º®±³ ¬©± ±® ³±®» ½¿®®·»®- ¬±
-ïððû ±º ¬¸» ½´¿·³¿²¬ù- ½±ª»®»¼ »¨°»²-»-ò
+Aetna provides free aids/services to people with disabilities and to people who need language assistance. If you need a 
+qualified interpreter, written information in other formats, translation or other services, call 1-888-982-3862. If you believe we 
+have failed to provide these services or otherwise discriminated based on a protected class noted above, you can also file a 
+grievance with Civil Rights Coordinator by contacting: Civil Rights Coordinator, P.O. Box 14462, Lexington, KY 40512. 1-800-648-
+7817, TTY: 711, Fax: 859-425-3379, CRCoordinator@aetna.com.
+
+You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights 
+Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human 
+Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019, 800-537-
+7697 (TDD).
+
+Partial list of Exclusions and Limitations
+
+Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special 
+vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet 
+professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of 
+bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact 
+lenses. Other exclusions and limitations may also apply.
+
+*You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to 
+receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers 
+actual charge.  
+Claim forms can be found at AetnaVision.com or by calling customer service at 1-877-973-3238. 
+Submit completed claim form with receipts to Aetna, PO Box 8504 Mason, OH 45040-7111. 
+Enrolled members can access our secure member website once their plan becomes effective. Enrolled subscribers will receive 
+a welcome packet with ID card mailed to their home within 15 business days after enrollment is processed.
+
+**Allowances are one-time use benefits. No remaining balances may be used. The plan does not provide a declining balance 
+benefit.
+
+1Premium progressives and premium anti-reflective Brand designations are subject to annual review and change based on 
+market conditions. Ask your eye care provider for more information.
+
+2Additional pair discount applies to purchases made after the plan allowances have been exhausted.
+
+3Non covered discounts may not be available in all states.
+
+4Lasik or PRK from the US Laser Network, owned and operated by LCA Vision.
+
+Vision insurance plans are underwritten by Aetna Life Insurance Company (Aetna). Certain claims administration services are 
+provided by First American Administrators, Inc. and certain network administration services are provided through EyeMed 
+Vision Care (“EyeMed”), LLC.
 
 
 
 ## Page 3
 
-### Ê×Í×ÑÒ
+言語サービスを無料でご利用いただくには、1-888-982-3862 までお電話ください。(Japanese)
 
-í ±º ì
+무료 언어 서비스를 이용하려면 1-888-982-3862 번으로 전화해 주십시오. (Korean)
 
-Ë²¼»®-¬¿²¼·²¹ Ç±«® Ê·-·±² Þ»²»º·¬-
+برای دسترسی به خدمات زبان به طور 
+،رايگان با شماره 1
+-
+888
+-
+982
+-
+3862
+ تماس بگيريد. (Persian-Farsi)
 
-ß³ × Û´·¹·¾´» Ú±® Ý±ª»®¿¹»á
+Aby uzyskać dostęp do bezpłatnych usług językowych proszę zadzwonoć 1-888-982-3862. (Polish)
 
-Ì± ¾» »´·¹·¾´» º±® ½±ª»®¿¹»ô §±« ³«-¬ ¯«¿´·º§ ¿- ¿² »´·¹·¾´» ³»³¾»® ¿²¼ ¾» ½±²-·¼»®»¼ ¿½¬·ª»´§ ¿¬ ©±®µò
+Para acessar os serviços de idiomas sem custo para você, ligue para 1-888-982-3862. (Portuguese)
 
-Ç±« ³«-¬ ¾» »²®±´´»¼ º±® ª·-·±² ½±ª»®¿¹» ¾»º±®» ·¬ ½¿² ¾» ±ºº»®»¼ ¬± §±«® ¼»°»²¼»²¬-ò  Û´·¹·¾´» ¼»°»²¼»²¬-
+Для того чтобы бесплатно получить помощь переводчика, позвоните по телефону 1-888-982-3862. (Russian)
 
-·²½´«¼» §±«® -°±«-» ¿²¼ ½¸·´¼®»²ò  ß¼¼·¬·±²¿´ »´·¹·¾·´·¬§ ®»¯«·®»³»²¬- ³¿§ ¿°°´§ò
+Nếu quý vị muốn sử dụng miễn phí các dịch vụ ngôn ngữ, hãy gọi tới số 1-888-982-3862. (Vietnamese)
 
-Ø±© Ü± × Ú·²¼ ¿ ÊÍÐ Ð®±ª·¼»®á
+Policy forms issued in Idaho include: AL HGrpPol-Vision 03
+Policy forms issued in Missouri include: AL HGrpPol-Vision 02
+Policy forms issued in Oklahoma include: AL HGrpPol-Vision 02
 
-Ë-» ¬¸» Ð®±ª·¼»® Ü·®»½¬±®§ ±² ©©©òª-°ò½±³ ¬± ´±½¿¬» ²»¿®¾§ ÊÍÐ °®±ª·¼»®- ±® ¬± -»» ·º §±«® ½«®®»²¬ »§»
-½¿®» °®±º»--·±²¿´ °¿®¬·½·°¿¬»- ·² ¬¸» ÊÍÐ ²»¬©±®µò Ì± -°»¿µ ¬± ¿ ®»°®»-»²¬¿¬·ª» ¾§ °¸±²»ô °´»¿-» ½¿´´
-èððóèééóéïçëò
-
-Ø±© Ü± × Í«¾³·¬ ß Ý´¿·³á
-
-É¸»² ª·-·¬·²¹ ¿ ÊÍÐ °®±ª·¼»® º±® -»®ª·½»-ô ¬¸» °®±ª·¼»® -«¾³·¬- ¬¸» ½´¿·³ º±® °¿§³»²¬ò ×º ª·-·¬·²¹ ¿
-
-²±²ó²»¬©±®µ °®±ª·¼»® º±® -»®ª·½»-ô §±« ¿®» ®»-°±²-·¾´» º±® -«¾³·¬¬·²¹ ¬¸» ½´¿·³ ¬± ÊÍÐò Ñ¾¬¿·² ¿ ½´¿·³
-
-º±®³ ¾§ ´±¹¹·²¹ ±² ¬± ª-°ò½±³ ±® ¾§ ½¿´´·²¹ èððóèééóéïçëò ×²½´«¼» ¿ ½±°§ ±º §±«® ·¬»³·¦»¼ ®»½»·°¬ ©·¬¸
-
-§±«® ½´¿·³ º±®³ ¿²¼ ³¿·´ ·¬ ¬± ¬¸» º±´´±©·²¹ ¿¼¼®»--ò
-
-Ê·-·±² Í»®ª·½» Ð´¿²
-
-ÐòÑò Þ±¨ ççéïðë
-Í¿½®¿³»²¬±ô Ýß çëèççóéïðë
-
-
-
-## Page 4
-
-
-
-### Table (Page 4)
-
-| (cid:212)¿‹»(cid:219)†‹fi¿†‹(cid:201)¿•‹•†„—»fi•–… | (cid:204)‚–›»‡»‡(cid:190)»fi›»†fi–··•†„‡–fi»‹‚¿†(cid:237)(cid:239)…¿§›¿”‹»fi(cid:190)»‰–‡•†„»·•„•(cid:190)·»'•··(cid:190)»›«(cid:190)¶»‰‹
-‹–¿†•†…•“•…«¿·(cid:190)»†»”•‹'¿•‹•†„(cid:176)»fi•–…(cid:244)›«(cid:190)¶»‰‹‹–‰–“»fi¿„»„«•…»·•†»›(cid:242) |
-| --- | --- |
-| (cid:210)–†(cid:243)(cid:211)»…•‰¿··§(cid:210)»‰»››¿fi§
-˝»fi“•‰»› | (cid:204)‚»‰–“»fi¿„»…–»›†–‹(cid:176)¿§”–fi“•›«¿·¿†¿·§›•›–fi“•›•–†¿•…›‹‚¿‹¿fi»†–‹‡»…•‰¿··§
-†»‰»››¿fi§(cid:242) |
-| (cid:222)»†»”•‹(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»”–··–'•†„•‹»‡›¿fi»»¤‰·«…»…«†…»fi‹‚•›‰–“»fi¿„»(cid:230)
-i (cid:204)'–(cid:176)¿•fi›–”„·¿››»›•†›‹»¿…–”(cid:190)•”–‰¿·›
-i ˛»(cid:176)·¿‰»‡»†‹–”·»†›»›(cid:244)”fi¿‡»›–fi‰–†‹¿‰‹›
-i (cid:211)»…•‰¿·–fi›«fi„•‰¿·‹fi»¿‹‡»†‹
-i (cid:209)fi‹‚–(cid:176)‹•‰›(cid:244)“•›•–†‹fi¿•†•†„–fi›«(cid:176)(cid:176)·»‡»†‹¿·‹»›‹•†„
-i —·¿†–·»†›»›ł·»†›»›'•‹‚fi»”fi¿‰‹•“»‰–fifi»‰‹•–†–”·»››‹‚¿†o(cid:242)º(cid:240)…•–(cid:176)‹»fi(cid:247) |
-| (cid:221)–†‹¿‰‹(cid:212)»†›(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»”–··–'•†„•‹»‡›¿fi»†–‹‰–“»fi»…«†…»fi‹‚»‰–†‹¿‰‹·»†›‰–“»fi¿„»(cid:230)
-i (cid:215)†›«fi¿†‰»(cid:176)–·•‰•»›–fi›»fi“•‰»¿„fi»»‡»†‹›
-i (cid:223)fi‹•›‹•‰¿··§(cid:176)¿•†‹»…–fi†–†(cid:243)(cid:176)fi»›‰fi•(cid:176)‹•–†·»†›»›
-i (cid:223)……•‹•–†¿·–””•‰»“•›•‹›”–fi‰–†‹¿‰‹·»†›(cid:176)¿‹‚–·–„§
-i (cid:221)–†‹¿‰‹·»†›‡–…•”•‰¿‹•–†(cid:244)(cid:176)–·•›‚•†„–fi‰·»¿†•†„
-i ˛»”•‹‹•†„–”‰–†‹¿‰‹·»†›»›¿”‹»fi‹‚»•†•‹•¿·ł(cid:231)(cid:240)…¿§(cid:247)”•‹‹•†„(cid:176)»fi•–… |
-| (cid:209)‹‚»fi(cid:212)•‡•‹¿‹•–†› | (cid:204)‚»fi»¿fi»¿……•‹•–†¿··•‡•‹¿‹•–†›‹–§–«fi‰–“»fi¿„»(cid:242)(cid:223)‰–‡(cid:176)·»‹»·•›‹•›•†‰·«…»…•†§–«fi
-(cid:190)––(cid:181)·»‹(cid:242) |
-
-### Ê×Í×ÑÒ
-
-ì ±º ì
-
-É¸¿¬ ß®» Ì¸» Î»-¬®·½¬·±²- Ñº Ó§ Ý±ª»®¿¹»á
-
-Ì¸·- Þ»²»º·¬ Í«³³¿®§ ·- ¿ -«³³¿®§ ±²´§ò Ú±® ¿ ½±³°´»¬» ´·-¬ ±º ¾»²»º·¬ ®»-¬®·½¬·±²-ô °´»¿-» ®»º»® ¬± §±«®
-¾±±µ´»¬ò
-
-Ô¿¬» Û²¬®¿²¬ É¿·¬·²¹ Ð»®·±¼
-Ì¸±-» ³»³¾»®- »²®±´´·²¹ ³±®» ¬¸¿² íï ¼¿§- ¿º¬»® ¾»½±³·²¹ »´·¹·¾´» ©·´´ ¾» -«¾¶»½¬
-¬± ¿² ·²¼·ª·¼«¿´ ¾»²»º·¬ ©¿·¬·²¹ °»®·±¼ô -«¾¶»½¬ ¬± ½±ª»®¿¹» ¹«·¼»´·²»-ò
-
-Ò±²óÓ»¼·½¿´´§ Ò»½»--¿®§
-Í»®ª·½»-
-Ì¸» ½±ª»®¿¹» ¼±»- ²±¬ °¿§ º±® ª·-«¿´ ¿²¿´§-·- ±® ª·-·±² ¿·¼- ¬¸¿¬ ¿®» ²±¬ ³»¼·½¿´´§
-²»½»--¿®§ò
-
-Þ»²»º·¬ Ô·³·¬¿¬·±²-
-Ì¸» º±´´±©·²¹ ·¬»³- ¿®» »¨½´«¼»¼ «²¼»® ¬¸·- ½±ª»®¿¹»æ
-i
-Ì©± °¿·®- ±º ¹´¿--»- ·²-¬»¿¼ ±º ¾·º±½¿´-
-i
-Î»°´¿½»³»²¬ ±º ´»²-»-ô º®¿³»- ±® ½±²¬¿½¬-
-i
-Ó»¼·½¿´ ±® -«®¹·½¿´ ¬®»¿¬³»²¬
-i
-Ñ®¬¸±°¬·½-ô ª·-·±² ¬®¿·²·²¹ ±® -«°°´»³»²¬¿´ ¬»-¬·²¹
-i
-Ð´¿²± ´»²-»- ø´»²-»- ©·¬¸ ®»º®¿½¬·ª» ½±®®»½¬·±² ±º ´»-- ¬¸¿² o òëð ¼·±°¬»®÷
-
-Ý±²¬¿½¬ Ô»²- Ô·³·¬¿¬·±²-
-Ì¸» º±´´±©·²¹ ·¬»³- ¿®» ²±¬ ½±ª»®»¼ «²¼»® ¬¸» ½±²¬¿½¬ ´»²- ½±ª»®¿¹»æ
-i
-×²-«®¿²½» °±´·½·»- ±® -»®ª·½» ¿¹®»»³»²¬-
-i
-ß®¬·-¬·½¿´´§ °¿·²¬»¼ ±® ²±²ó°®»-½®·°¬·±² ´»²-»-
-i
-ß¼¼·¬·±²¿´ ±ºº·½» ª·-·¬- º±® ½±²¬¿½¬ ´»²- °¿¬¸±´±¹§
-i
-Ý±²¬¿½¬ ´»²- ³±¼·º·½¿¬·±²ô °±´·-¸·²¹ ±® ½´»¿²·²¹
-i
-Î»º·¬¬·²¹ ±º ½±²¬¿½¬ ´»²-»- ¿º¬»® ¬¸» ·²·¬·¿´ øçð ¼¿§÷ º·¬¬·²¹ °»®·±¼
-
-Ñ¬¸»® Ô·³·¬¿¬·±²-
-Ì¸»®» ¿®» ¿¼¼·¬·±²¿´ ´·³·¬¿¬·±²- ¬± §±«® ½±ª»®¿¹»ò ß ½±³°´»¬» ´·-¬ ·- ·²½´«¼»¼ ·² §±«®
-¾±±µ´»¬ò
-
-ÉÛŽÔÔ Ù×ÊÛ ÇÑË ßÒ ÛÜÙÛ r
-
-Ð®·²½·°¿´ Ô·º» ×²-«®¿²½» Ý±³°¿²§ô Ü»- Ó±·²»-ô ×±©¿ ëðíçîóðððîô ©©©ò°®·²½·°¿´ò½±³
-
-Ì¸·- ·- ¿ -«³³¿®§ ±º ª·-·±² ½±ª»®¿¹» «²¼»®©®·¬¬»² ¾§ ±® ©·¬¸ ¿¼³·²·-¬®¿¬·ª» -»®ª·½»- °®±ª·¼»¼ ¾§ Ð®·²½·°¿´ Ô·º» ×²-«®¿²½» Ý±³°¿²§ò  Ì¸·-
-
-¾»²»º·¬ -«³³¿®§ ·- º±® ¿¼³·²·-¬®¿¬·ª» °«®°±-»- ¿²¼ ·- ²±¬ ¿ ½±³°´»¬» -¬¿¬»³»²¬ ±º ¬¸» ®·¹¸¬-ô ¾»²»º·¬-ô ´·³·¬¿¬·±²- ±® »¨½´«-·±²- ±º ¬¸»
-
-½±ª»®¿¹»ò Ç±«Ž´´ ®»½»·ª» ¿ ¾»²»º·¬ ¾±±µ´»¬ ©·¬¸ ¼»¬¿·´- ¿¾±«¬ §±«® ½±ª»®¿¹»ò ×º ¬¸»®» ·- ¿ ¼·-½®»°¿²½§ ¾»¬©»»² ¬¸·- -«³³¿®§ ¿²¼ §±«®
-
-¾»²»º·¬ ¾±±µ´»¬ô ¬¸» ¾»²»º·¬ ¾±±µ´»¬ °®»ª¿·´-ò
-
-ÙÐêïïðïóî   ¤ ðìñîðïë  ¤  w îðïë Ð®·²½·°¿´ Ú·²¿²½·¿´ Í»®ª·½»-ô ×²½ò
+©2024 Aetna Inc.
 ---
