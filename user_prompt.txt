@@ -5,208 +5,145 @@ SAMPLE PDF #1:
 
 ### Table (Page 1)
 
-| Aetna VisionSM Preferred E100 12M |  |  |
-| --- | --- | --- |
-| Plan ID 1054512101
-TPID 79006
-Line Value 862 | Member cost In-Network |  |
-| Vision Care Services | Aetna Vision Network |  |
-|  | $20 Copay |  |
-|  | Member pays discounted fee of $40 |  |
-|  | 10% off retail price |  |
-|  | Member pays discounted fee of $39 |  |
-| Standard Plastic Single Vision Lenses | $25 Copay |  |
-| Standard Plastic Bifocal Vision Lenses | $25 Copay |  |
-| Standard Plastic Trifocal Vision Lenses | $25 Copay |  |
-| Standard Plastic Lenticular Vision Lenses | $25 Copay |  |
-| Standard Progressive Vision Lenses¹ | $90 Copay |  |
-| Premium Progressive Vision Lenses¹
-(Tier amount based on brand) | Tier 1 = $110 Copay
-Tier 2 = $120 Copay
-Tier 3 = $135 Copay |  |
-| Other Premium Progressive Lenses1 | $90 Copay, 20% off retail price
-less $120 allowance |  |
-| UV Treatment | Member pays discounted fee of $15 |  |
-| Tint (Solid And Gradient) | Member pays discounted fee of $15 |  |
-| Standard Plastic Scratch Coating | Member pays discounted fee of $15 |  |
-| Standard Polycarbonate Lenses - Adult | Member pays discounted fee of $40 |  |
-| Standard Polycarbonate Lenses - Kids under
-age 19 | Member pays discounted fee of $40 |  |
-| Standard Anti-Reflective Coating¹ | Member pays discounted fee of $45 |  |
-| Premium Anti-Reflective Coating1
-(Tier amount based on brand) | Tier 1
-Member pays discounted fee of$57
-Tier 2
-Member pays discounted fee of $68
-Tier 3
-20% discount off retail price |  |
-| Photochromic/Transitions Plastic | Member pays discounted fee of $75 |  |
-| Polarized And Other Lens Add Ons | 20% off retail price |  |
-|  | $100 Allowance**
-Additional 15% off balance over $100 |  |
-|  | $100 Allowance |  |
-|  | $0 Copay |  |
-|  | $100 Allowance**
-Additional 20% off balance over $100 |  |
+| Comprehensive Exam(s) |
+| --- |
+| Comprehensive Exam(s) for diabetics only |
+| Spectacle Lenses |
+| Frames |
+| Contact Lenses in Lieu of Eyeglasses |
 
-Vision Care Services
-Aetna Vision Network
 
-Eye Exam with Dilation as necessary
-$20 Copay
-$20 Reimbursement
 
-Standard Contact Lens Fit/Follow-Up
-Member pays discounted fee of $40
-Not Covered
+### Table (Page 1)
 
-Premium Contact Lens Fit/Follow-Up
-10% off retail price
-Not Covered
+| Exam(s) |
+| --- |
+| Materials |
+| Retinal Screening for Diabetics |
 
-Retinal Imaging
-Member pays discounted fee of $39
-Not Covered
 
-Standard Plastic Single Vision Lenses
-$25 Copay
-$10 Reimbursement
 
-Standard Plastic Bifocal Vision Lenses
-$25 Copay
-$25 Reimbursement
+### Table (Page 1)
 
-Standard Plastic Trifocal Vision Lenses
-$25 Copay
-$55 Reimbursement
+| Private Practice Provider |
+| --- |
+| Retail Chain Provider |
 
-Standard Plastic Lenticular Vision Lenses
-$25 Copay
-$55 Reimbursement
 
-Standard Progressive Vision Lenses¹
-$90 Copay
-$25 Reimbursement
 
-Premium Progressive Vision Lenses¹
-(Tier amount based on brand)
+### Table (Page 1)
 
-Tier 1 = $110 Copay
-Tier 2 = $120 Copay
-Tier 3 = $135 Copay
+| Elective contact lenses
+Allowance is applied toward the purchase of contact lenses.
+Materials copay is waived. |
+| --- |
+| Elective contact lens fitting and evaluation
+Allowance is applied toward the contact lens fitting/evaluation
+fees. |
+| {N@eBcuellsets} aNreyc ecsosanryta ccont tlaecnt lseness 3 |
 
-$25 Reimbursement
 
-Other Premium Progressive Lenses1
-$90 Copay, 20% off retail price
 
-less $120 allowance
-$25 Reimbursement
+### Table (Page 1)
 
-UV Treatment
-Member pays discounted fee of $15
-Not Covered
+| Exam(s) |
+| --- |
+| Frames |
+| Single Vision Lenses |
+| Lined Bifocal Lenses |
+| Lined Trifocal Lenses |
+| Lenticular Lenses |
+| Elective Contacts in Lieu of Eyeglasses² |
+| Contact Lens Fitting and Evaluation |
+| {N@eBcuellsets} aNreyc eCssoanryt acocnttsa i n L i e u o f E y e g l a s s e s 3 |
 
-Tint (Solid And Gradient)
-Member pays discounted fee of $15
-Not Covered
+Vision Benefit Summary
 
-Standard Plastic Scratch Coating
-Member pays discounted fee of $15
-Not Covered
+Customer Service and Provider Locator: (800) 638-3120
+myuhcvision.com
 
-Standard Polycarbonate Lenses - Adult
-Member pays discounted fee of $40
-Not Covered
+UnitedHealthcare vision has been trusted for more than 50 years to deliver affordable, innovative vision care solutions to the nation’s leading 
+employers through experienced, customer-focused people and the nation’s most accessible, diversified vision care network.
+In-network, covered-in-full benefits (up to the plan allowance and after applicable copay) include a comprehensive exam, eyeglasses with standard 
+single vision, lined bifocal, lined trifocal, or lenticular lenses, standard scratch-resistant coating and the frame, or contact lenses in lieu of eyeglasses. 
+Members age 0-12 are eligible for a 2nd exam. Members age 0-12 are also eligible for a replacement frame and lenses if they have a prescription 
+change of 0.5 diopter or more. The 2nd exam and replacement benefits are the same as the initial exam, frame and lens benefits.
 
-Standard Polycarbonate Lenses - Kids under 
-age 19
-Member pays discounted fee of $40
-Not Covered
+Plan SL004
 
-Standard Anti-Reflective Coating¹
-Member pays discounted fee of $45
-Not Covered
+Exam with Materials
 
-Premium Anti-Reflective Coating1
+Benefit Frequency
 
-(Tier amount based on brand)
+Comprehensive Exam(s)
+Once every 12 months
+Comprehensive Exam(s) for diabetics only
+Twice every 12 months
+Spectacle Lenses
+Once every 12 months
+Frames
+Once every 24 months
+Contact Lenses in Lieu of Eyeglasses
+Once every 12 months
 
-Tier 1  
-Member pays discounted fee of$57
+In-Network Services
+Copays
 
-Tier 2 
-Member pays discounted fee of $68
+Exam(s)
+$ 10.00
+$ 25.00
+Materials
+Retinal Screening for Diabetics
+$ 0.00
+Frame Benefit (for frames that exceed the allowance, an additional 30% discount may be applied to the overage)¹
 
-Tier 3 
- 20% discount off retail price
+Private Practice Provider
+$100.00 retail frame allowance
+Retail Chain Provider
+$100.00 retail frame allowance
+Lens Options
 
-Not Covered
+Standard Scratch-resistant Coating,Polycarbonate Lenses for Dependent Children (up to age 19)  - covered in full.
+Other optional lens upgrades may be offered at a discount. Based on state guidelines, lens materials and options may not be available at 
+these discounted prices at all provider locations. Please ask your provider for details. The Lens Options list can be found at myuhcvision.com.
 
-Photochromic/Transitions Plastic
-Member pays discounted fee of $75
-Not Covered
+Contact Lens Benefit²
 
-Polarized And Other Lens Add Ons
-20% off retail price
-Not Covered
+Elective contact lenses
+Allowance is applied toward the purchase of contact lenses. 
+Materials copay is waived.
 
-Conventional Contact Lenses
-$100 Allowance**
-Additional 15% off balance over $100
-$69 Reimbursement
+$105.00
 
-Disposable Contact Lenses
-$100 Allowance
-$80 Reimbursement
+Elective contact lens fitting and evaluation
+Allowance is applied toward the contact lens fitting/evaluation 
+fees.
 
-Medically Necessary Contact Lenses
-$0 Copay
-$200 Reimbursement
+$30.00
 
-Frame
-$100 Allowance**
-Additional 20% off balance over $100
-$50 Reimbursement
-
-Frequency:
-Exam
-Eyeglass Lenses or Contact Lenses
-Frame
-
-Once every 12 rolling months
-Once every 12 rolling months
-Once every 12 rolling months
-
-In-Network Discounts
-
-Additional pairs of eyeglasses or
-
-prescription sunglasses2
-
-Non-covered items3
-
-Lasik Laser vision correction or PRK from
-
-U.S. Laser Network4 only. Call 1-800-422-
-6600
-
-Up to a 40% discount off retail price
-
-Aetna VisionSM Preferred E100 12M
-
-Plan ID 1054512101
-TPID 79006
-Line Value 862
-
-Member cost In-Network
-Out of Network*
-
-Summary of Benefits
-
-20% discount off retail price
-
-15% discount off retail or 5% discount off the promotional price
+{@Bullet} Necessary contact lens  3
+Necessary contact lenses
+Covered in full after copay (if applicable).
+Out-of-Network Reimbursements (Copays do not apply)
+Exam(s)
+Up to $40.00
+Frames
+Up to $45.00
+Single Vision Lenses
+Up to $40.00
+Lined Bifocal Lenses
+Up to $60.00
+Lined Trifocal Lenses
+Up to $80.00
+Lenticular Lenses
+Up to $80.00
+Elective Contacts in Lieu of Eyeglasses²
+Up to $80.00
+Contact Lens Fitting and Evaluation
+Up to $0.00
+{@Bullet} Necessary conta                                                3
+Necessary Contacts in Lieu of Eyeglasses
+Up to $210.00
 
 
 
@@ -216,129 +153,75 @@ Summary of Benefits
 
 ### Table (Page 2)
 
-| Partial list of Exclusions and Limitations |
+| Important to Remember: |
 | --- |
-| Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special
-vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet
-professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of
-bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact
-lenses. Other exclusions and limitations may also apply. |
+| In-Network |
 
-TTY: 711
-To access language services at no cost to you, call 1-888-982-3862.
+Discounts
+Laser vision
+UnitedHealthcare has partnered with the Laser Vision Network of America (LVNA) to provide our members with access to discounted 
+laser vision correction providers. Members receive 15% off standard or 5% off promotional pricing at more than 550 network provider 
+locations and even greater discounts through set pricing at LasikPlus® locations. For more information, call 1-888-563-4497 or visit us 
+at www.uhclasik.com.
+Additional Material
+At a participating in-network provider you will receive up to a 20% discount on an additional pair of eyeglasses or contact lenses. This 
+program is available after your vision benefits have been exhausted. Please note that this discount shall not be considered insurance, 
+and that UnitedHealthcare shall neither pay nor reimburse the provider or member for any funds owed or spent. Additional materials do 
+not have to be purchased at the time of initial material purchase. 
+Hearing Aids
+As a UnitedHealthcare vision plan member, you can save on high-quality hearing aids when you buy them from hi HealthInnovations™. 
+To find out more go to hiHealthInnovations.com. When placing your order use promo code myVision to get the special price discount.
 
-Para acceder a los servicios de idiomas sin costo, llame al 1-888-982-3862. (Spanish)
+¹30% discount available at most participating in-network provider locations. May exclude certain frame manufacturers. Please verify all discounts with your provider.
+²Contact lenses are in lieu of eyeglass lenses and/or eyeglass frames.
+³Necessary contact lenses are determined at the provider's discretion for one or more of the following conditions: Following cataract surgery without intraocular lens 
+implant; to correct extreme vision problems that cannot be corrected with eyeglass lenses and/or frames; with certain conditions such as anisometropia, 
+keratoconus, irregular corneal/astigmatism, aphakia, pathological myopia, aniseikonia, aniridia, facial deformity, or corneal deformity. If your provider considers 
+your contacts necessary, you should ask your provider to contact UnitedHealthcare vision confirming the reimbursement that UnitedHealthcare will make before 
+you purchase such contacts.
 
-如欲使用免費語言服務，請致電 1-888-982-3862。(Chinese)
+Important to Remember:
+In-Network
 
-Afin d'accéder aux services langagiers sans frais, composez le 1-888-982-3862. (French)
+• Always identify yourself as a UnitedHealthcare vision member when making your appointment. This will assist the provider in obtaining 
+your benefit information.
+• Patient options such as UV coating, progressive lenses, etc., which are not covered-in-full, may be available at a discount at participating 
+providers. Based on state guidelines, lens materials and options may not be available at these discounted prices at all provider locations. 
+Please ask your provider for details. The Lens Options list can be found at myuhcvision.com.
+Choice and Access of Vision Care Providers
 
-Para ma-access ang mga serbisyo sa wika nang wala kayong babayaran, tumawag sa 1-888-982-3862. (Tagalog)
+UnitedHealthcare offers its vision program through a national network including both private practice and retail chain providers. To access the 
+Provider Locator service or for a printed directory, visit our website myuhcvision.com or call (800) 638-3120, 24 hours a day, seven days a 
+week. You may also view your benefits, search for a provider or print an ID card online at myuhcvision.com.
+Retain this UnitedHealthcare vision benefit summary which includes detailed benefit information and instructions on how to use the program.
+Please refer to your Certificate of Coverage for a full explanation of benefits.
+In-Network Provider - Copays and non-covered patient options are paid to provider by program participant at the time of service.
+Out-of-Network Provider - Participant pays all billed charges to the provider, and UnitedHealthcare reimburses the participant for services 
+rendered up to the maximum allowance. Copays do not apply to out-of-network benefits. Receipts for payments should be submitted within 90 
+days after the date of service to the following address: UnitedHealthcare Vision, Attn. Claims Department, P.O. Box 30978, Salt Lake City, UT 
+84130. If it was not reasonably possible to give written proof in the time required, the Company will not reduce or deny the claim for this reason. 
+However, proof must be filed as soon as reasonably possible, but no later than 1 year after the date of service unless the Covered Person was 
+legally incapacitated.
 
-Um auf für Sie kostenlose Sprachdienstleistungen zuzugreifen, rufen Sie 1-888-982-3862 an. (German)
+Customer Service is available toll-free at (800) 638-3120 from 8:00 a.m. to 11:00 p.m. Eastern Time Monday through Friday, 
+and 9:00 a.m. to 6:30 p.m. Eastern Time on Saturday.
 
-للحصول على الخدمات اللغوية دون أي 
-،تكلفة الرجاء االتصال على الرقم 1
--
-888
--
-982
--
-3862
-. (Arabic)
+This Benefit Summary is intended only to highlight your benefits and should not be relied upon to fully determine coverage. This benefit plan 
+may not cover all of your healthcare expenses. More complete descriptions of benefits and the terms under which they are provided are 
+contained in the certificate of coverage that you will receive upon enrolling in the plan. If this Benefit Summary conflicts in any way with the 
+Policy issued to your employer, the Policy shall prevail.
 
-Pou jwenn sèvis lang gratis, rele 1-888-982-3862. (French Creole-Haitian)
+11/18   © 2018 United HealthCare Services, Inc.
 
-Per accedere ai servizi linguistici, senza alcun costo per lei, chiami il numero  1-888-982-3862. (Italian)
+UnitedHealthcare vision coverage provided by or through UnitedHealthcare Insurance Company, located in Hartford, Connecticut, UnitedHealthcare Insurance 
+Company of New York, located in Islandia, New York, or its affiliates. Administrative services provided by Spectera, Inc., United HealthCare Services, Inc. or their affiliates. 
+Plans sold in Texas use policy form number VPOL.06.TX or VPOL.13TX and associated COC form number VCOC.INT.06.TX or VCOC.CER.13.TX. Plans sold in 
+Virginia use policy form number VPOL.06.VA or VPOL.13.VA and associated COC form number VCOC.INT.06.VA or VCOC.CER.13.VA.
 
-Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage. 
-Plan features and availability may vary by location and are subject to change.
-
-Providers in the Aetna Vision network are contracted and credentialed through EyeMed Vision Care, LLC according to EyeMed’s 
-requirements. EyeMed and Aetna are independent contractors and not agents of each other. Provider participation may change 
-without notice.
-
-Refer to Aetna.com for more information about Aetna® plans.
-
-Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently based on 
-their race, color, national origin, sex, age, or disability.
-
-Aetna provides free aids/services to people with disabilities and to people who need language assistance. If you need a 
-qualified interpreter, written information in other formats, translation or other services, call 1-888-982-3862. If you believe we 
-have failed to provide these services or otherwise discriminated based on a protected class noted above, you can also file a 
-grievance with Civil Rights Coordinator by contacting: Civil Rights Coordinator, P.O. Box 14462, Lexington, KY 40512. 1-800-648-
-7817, TTY: 711, Fax: 859-425-3379, CRCoordinator@aetna.com.
-
-You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights 
-Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human 
-Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019, 800-537-
-7697 (TDD).
-
-Partial list of Exclusions and Limitations
-
-Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special 
-vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet 
-professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of 
-bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact 
-lenses. Other exclusions and limitations may also apply.
-
-*You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to 
-receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers 
-actual charge.  
-Claim forms can be found at AetnaVision.com or by calling customer service at 1-877-973-3238. 
-Submit completed claim form with receipts to Aetna, PO Box 8504 Mason, OH 45040-7111. 
-Enrolled members can access our secure member website once their plan becomes effective. Enrolled subscribers will receive 
-a welcome packet with ID card mailed to their home within 15 business days after enrollment is processed.
-
-**Allowances are one-time use benefits. No remaining balances may be used. The plan does not provide a declining balance 
-benefit.
-
-1Premium progressives and premium anti-reflective Brand designations are subject to annual review and change based on 
-market conditions. Ask your eye care provider for more information.
-
-2Additional pair discount applies to purchases made after the plan allowances have been exhausted.
-
-3Non covered discounts may not be available in all states.
-
-4Lasik or PRK from the US Laser Network, owned and operated by LCA Vision.
-
-Vision insurance plans are underwritten by Aetna Life Insurance Company (Aetna). Certain claims administration services are 
-provided by First American Administrators, Inc. and certain network administration services are provided through EyeMed 
-Vision Care (“EyeMed”), LLC.
-
-
-
-## Page 3
-
-言語サービスを無料でご利用いただくには、1-888-982-3862 までお電話ください。(Japanese)
-
-무료 언어 서비스를 이용하려면 1-888-982-3862 번으로 전화해 주십시오. (Korean)
-
-برای دسترسی به خدمات زبان به طور 
-،رايگان با شماره 1
--
-888
--
-982
--
-3862
- تماس بگيريد. (Persian-Farsi)
-
-Aby uzyskać dostęp do bezpłatnych usług językowych proszę zadzwonoć 1-888-982-3862. (Polish)
-
-Para acessar os serviços de idiomas sem custo para você, ligue para 1-888-982-3862. (Portuguese)
-
-Для того чтобы бесплатно получить помощь переводчика, позвоните по телефону 1-888-982-3862. (Russian)
-
-Nếu quý vị muốn sử dụng miễn phí các dịch vụ ngôn ngữ, hãy gọi tới số 1-888-982-3862. (Vietnamese)
-
-Policy forms issued in Idaho include: AL HGrpPol-Vision 03
-Policy forms issued in Missouri include: AL HGrpPol-Vision 02
-Policy forms issued in Oklahoma include: AL HGrpPol-Vision 02
-
-©2024 Aetna Inc.
+NCA-03C (v3.2)
+SL004
 SAMPLE JSON #1:
-{"Carrier Name":"Aetna","Plan Name":"Preferred E100 12M","In-Network Eye Exam":"$20","Out-of-Network Eye Exam":"$20 reimbursement","In-Network Single Vision Lens":"$25","Out-of-Network Single Vision Lens":"$10 reimbursement","In-Network Lined Bi-Focal Lens":"$25","Out-of-Network Lined Bi-Focal Lens":"$25 reimbursement","In-Network Lined Tri-Focal Lens":"$25","Out-of-Network Lined Tri-Focal Lens":"$55 reimbursement","In-Network Lenticular Lens":"$25","Out-of-Network Lenticular Lens":"$55 reimbursement","In-Network Contact Lens Allowance":"$100","Out-of-Network Contact Lens Allowance":"$69 reimbursement","In-Network Frame Allowance":"$100","Out-of-Network Frame Allowance":"$50 reimbursement","Exam Frequency":"Once every 12 rolling months","Lens Frequency":"Once every 12 rolling months","Frame Frequency":"Once every 12 rolling months","Out of Network Explanation":"You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers actual charge.","Plan Year":"","Network Name":"Aetna Vision","Member Website":"AetnaVision.com","Customer Service Phone Number":"1-877-973-3238"}
+{"Carrier Name":"United HealthCare","Plan Name":"SL004","In-Network Eye Exam":"$10","Out-of-Network Eye Exam":"Up to $40.00","In-Network Single Vision Lens":"$25","Out-of-Network Single Vision Lens":"Up to $40.00","In-Network Lined Bi-Focal Lens":"$25","Out-of-Network Lined Bi-Focal Lens":"Up to $60.00","In-Network Lined Tri-Focal Lens":"$25","Out-of-Network Lined Tri-Focal Lens":"Up to $80.00","In-Network Lenticular Lens":"$25","Out-of-Network Lenticular Lens":"Up to $80.00","In-Network Contact Lens Allowance":"$105.00","Out-of-Network Contact Lens Allowance":"Up to $80.00","In-Network Frame Allowance":"$100.00 retail frame allowance","Out-of-Network Frame Allowance":"Up to $45.00","Exam Frequency":"Once every 12 months","Lens Frequency":"Once every 12 months","Frame Frequency":"Once every 24 months","Out of Network Explanation":"Participant pays all billed charges to the provider, and UnitedHealthcare reimburses the participant for services rendered up to the maximum allowance. Copays do not apply to out-of-network benefits.","Plan Year":"11/18","Network Name":"","Member Website":"myuhcvision.com","Customer Service Phone Number":"(800) 638-3120"}
 ---
 
 TARGET PDF:
@@ -348,208 +231,145 @@ TARGET PDF:
 
 ### Table (Page 1)
 
-| Aetna VisionSM Preferred E100 12M |  |  |
-| --- | --- | --- |
-| Plan ID 1054512101
-TPID 79006
-Line Value 862 | Member cost In-Network |  |
-| Vision Care Services | Aetna Vision Network |  |
-|  | $20 Copay |  |
-|  | Member pays discounted fee of $40 |  |
-|  | 10% off retail price |  |
-|  | Member pays discounted fee of $39 |  |
-| Standard Plastic Single Vision Lenses | $25 Copay |  |
-| Standard Plastic Bifocal Vision Lenses | $25 Copay |  |
-| Standard Plastic Trifocal Vision Lenses | $25 Copay |  |
-| Standard Plastic Lenticular Vision Lenses | $25 Copay |  |
-| Standard Progressive Vision Lenses¹ | $90 Copay |  |
-| Premium Progressive Vision Lenses¹
-(Tier amount based on brand) | Tier 1 = $110 Copay
-Tier 2 = $120 Copay
-Tier 3 = $135 Copay |  |
-| Other Premium Progressive Lenses1 | $90 Copay, 20% off retail price
-less $120 allowance |  |
-| UV Treatment | Member pays discounted fee of $15 |  |
-| Tint (Solid And Gradient) | Member pays discounted fee of $15 |  |
-| Standard Plastic Scratch Coating | Member pays discounted fee of $15 |  |
-| Standard Polycarbonate Lenses - Adult | Member pays discounted fee of $40 |  |
-| Standard Polycarbonate Lenses - Kids under
-age 19 | Member pays discounted fee of $40 |  |
-| Standard Anti-Reflective Coating¹ | Member pays discounted fee of $45 |  |
-| Premium Anti-Reflective Coating1
-(Tier amount based on brand) | Tier 1
-Member pays discounted fee of$57
-Tier 2
-Member pays discounted fee of $68
-Tier 3
-20% discount off retail price |  |
-| Photochromic/Transitions Plastic | Member pays discounted fee of $75 |  |
-| Polarized And Other Lens Add Ons | 20% off retail price |  |
-|  | $100 Allowance**
-Additional 15% off balance over $100 |  |
-|  | $100 Allowance |  |
-|  | $0 Copay |  |
-|  | $100 Allowance**
-Additional 20% off balance over $100 |  |
+| Comprehensive Exam(s) |
+| --- |
+| Comprehensive Exam(s) for diabetics only |
+| Spectacle Lenses |
+| Frames |
+| Contact Lenses in Lieu of Eyeglasses |
 
-Vision Care Services
-Aetna Vision Network
 
-Eye Exam with Dilation as necessary
-$20 Copay
-$20 Reimbursement
 
-Standard Contact Lens Fit/Follow-Up
-Member pays discounted fee of $40
-Not Covered
+### Table (Page 1)
 
-Premium Contact Lens Fit/Follow-Up
-10% off retail price
-Not Covered
+| Exam(s) |
+| --- |
+| Materials |
+| Retinal Screening for Diabetics |
 
-Retinal Imaging
-Member pays discounted fee of $39
-Not Covered
 
-Standard Plastic Single Vision Lenses
-$25 Copay
-$10 Reimbursement
 
-Standard Plastic Bifocal Vision Lenses
-$25 Copay
-$25 Reimbursement
+### Table (Page 1)
 
-Standard Plastic Trifocal Vision Lenses
-$25 Copay
-$55 Reimbursement
+| Private Practice Provider |
+| --- |
+| Retail Chain Provider |
 
-Standard Plastic Lenticular Vision Lenses
-$25 Copay
-$55 Reimbursement
 
-Standard Progressive Vision Lenses¹
-$90 Copay
-$25 Reimbursement
 
-Premium Progressive Vision Lenses¹
-(Tier amount based on brand)
+### Table (Page 1)
 
-Tier 1 = $110 Copay
-Tier 2 = $120 Copay
-Tier 3 = $135 Copay
+| Elective contact lenses
+Allowance is applied toward the purchase of contact lenses.
+Materials copay is waived. |
+| --- |
+| Elective contact lens fitting and evaluation
+Allowance is applied toward the contact lens fitting/evaluation
+fees. |
+| {N@eBcuellsets} aNreyc ecsosanryta ccont tlaecnt lseness 3 |
 
-$25 Reimbursement
 
-Other Premium Progressive Lenses1
-$90 Copay, 20% off retail price
 
-less $120 allowance
-$25 Reimbursement
+### Table (Page 1)
 
-UV Treatment
-Member pays discounted fee of $15
-Not Covered
+| Exam(s) |
+| --- |
+| Frames |
+| Single Vision Lenses |
+| Lined Bifocal Lenses |
+| Lined Trifocal Lenses |
+| Lenticular Lenses |
+| Elective Contacts in Lieu of Eyeglasses² |
+| Contact Lens Fitting and Evaluation |
+| {N@eBcuellsets} aNreyc eCssoanryt acocnttsa i n L i e u o f E y e g l a s s e s 3 |
 
-Tint (Solid And Gradient)
-Member pays discounted fee of $15
-Not Covered
+Vision Benefit Summary
 
-Standard Plastic Scratch Coating
-Member pays discounted fee of $15
-Not Covered
+Customer Service and Provider Locator: (800) 638-3120
+myuhcvision.com
 
-Standard Polycarbonate Lenses - Adult
-Member pays discounted fee of $40
-Not Covered
+UnitedHealthcare vision has been trusted for more than 50 years to deliver affordable, innovative vision care solutions to the nation’s leading 
+employers through experienced, customer-focused people and the nation’s most accessible, diversified vision care network.
+In-network, covered-in-full benefits (up to the plan allowance and after applicable copay) include a comprehensive exam, eyeglasses with standard 
+single vision, lined bifocal, lined trifocal, or lenticular lenses, standard scratch-resistant coating and the frame, or contact lenses in lieu of eyeglasses. 
+Members age 0-12 are eligible for a 2nd exam. Members age 0-12 are also eligible for a replacement frame and lenses if they have a prescription 
+change of 0.5 diopter or more. The 2nd exam and replacement benefits are the same as the initial exam, frame and lens benefits.
 
-Standard Polycarbonate Lenses - Kids under 
-age 19
-Member pays discounted fee of $40
-Not Covered
+Plan SL004
 
-Standard Anti-Reflective Coating¹
-Member pays discounted fee of $45
-Not Covered
+Exam with Materials
 
-Premium Anti-Reflective Coating1
+Benefit Frequency
 
-(Tier amount based on brand)
+Comprehensive Exam(s)
+Once every 12 months
+Comprehensive Exam(s) for diabetics only
+Twice every 12 months
+Spectacle Lenses
+Once every 12 months
+Frames
+Once every 24 months
+Contact Lenses in Lieu of Eyeglasses
+Once every 12 months
 
-Tier 1  
-Member pays discounted fee of$57
+In-Network Services
+Copays
 
-Tier 2 
-Member pays discounted fee of $68
+Exam(s)
+$ 10.00
+$ 25.00
+Materials
+Retinal Screening for Diabetics
+$ 0.00
+Frame Benefit (for frames that exceed the allowance, an additional 30% discount may be applied to the overage)¹
 
-Tier 3 
- 20% discount off retail price
+Private Practice Provider
+$100.00 retail frame allowance
+Retail Chain Provider
+$100.00 retail frame allowance
+Lens Options
 
-Not Covered
+Standard Scratch-resistant Coating,Polycarbonate Lenses for Dependent Children (up to age 19)  - covered in full.
+Other optional lens upgrades may be offered at a discount. Based on state guidelines, lens materials and options may not be available at 
+these discounted prices at all provider locations. Please ask your provider for details. The Lens Options list can be found at myuhcvision.com.
 
-Photochromic/Transitions Plastic
-Member pays discounted fee of $75
-Not Covered
+Contact Lens Benefit²
 
-Polarized And Other Lens Add Ons
-20% off retail price
-Not Covered
+Elective contact lenses
+Allowance is applied toward the purchase of contact lenses. 
+Materials copay is waived.
 
-Conventional Contact Lenses
-$100 Allowance**
-Additional 15% off balance over $100
-$69 Reimbursement
+$105.00
 
-Disposable Contact Lenses
-$100 Allowance
-$80 Reimbursement
+Elective contact lens fitting and evaluation
+Allowance is applied toward the contact lens fitting/evaluation 
+fees.
 
-Medically Necessary Contact Lenses
-$0 Copay
-$200 Reimbursement
+$30.00
 
-Frame
-$100 Allowance**
-Additional 20% off balance over $100
-$50 Reimbursement
-
-Frequency:
-Exam
-Eyeglass Lenses or Contact Lenses
-Frame
-
-Once every 12 rolling months
-Once every 12 rolling months
-Once every 12 rolling months
-
-In-Network Discounts
-
-Additional pairs of eyeglasses or
-
-prescription sunglasses2
-
-Non-covered items3
-
-Lasik Laser vision correction or PRK from
-
-U.S. Laser Network4 only. Call 1-800-422-
-6600
-
-Up to a 40% discount off retail price
-
-Aetna VisionSM Preferred E100 12M
-
-Plan ID 1054512101
-TPID 79006
-Line Value 862
-
-Member cost In-Network
-Out of Network*
-
-Summary of Benefits
-
-20% discount off retail price
-
-15% discount off retail or 5% discount off the promotional price
+{@Bullet} Necessary contact lens  3
+Necessary contact lenses
+Covered in full after copay (if applicable).
+Out-of-Network Reimbursements (Copays do not apply)
+Exam(s)
+Up to $40.00
+Frames
+Up to $45.00
+Single Vision Lenses
+Up to $40.00
+Lined Bifocal Lenses
+Up to $60.00
+Lined Trifocal Lenses
+Up to $80.00
+Lenticular Lenses
+Up to $80.00
+Elective Contacts in Lieu of Eyeglasses²
+Up to $80.00
+Contact Lens Fitting and Evaluation
+Up to $0.00
+{@Bullet} Necessary conta                                                3
+Necessary Contacts in Lieu of Eyeglasses
+Up to $210.00
 
 
 
@@ -559,125 +379,71 @@ Summary of Benefits
 
 ### Table (Page 2)
 
-| Partial list of Exclusions and Limitations |
+| Important to Remember: |
 | --- |
-| Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special
-vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet
-professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of
-bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact
-lenses. Other exclusions and limitations may also apply. |
+| In-Network |
 
-TTY: 711
-To access language services at no cost to you, call 1-888-982-3862.
+Discounts
+Laser vision
+UnitedHealthcare has partnered with the Laser Vision Network of America (LVNA) to provide our members with access to discounted 
+laser vision correction providers. Members receive 15% off standard or 5% off promotional pricing at more than 550 network provider 
+locations and even greater discounts through set pricing at LasikPlus® locations. For more information, call 1-888-563-4497 or visit us 
+at www.uhclasik.com.
+Additional Material
+At a participating in-network provider you will receive up to a 20% discount on an additional pair of eyeglasses or contact lenses. This 
+program is available after your vision benefits have been exhausted. Please note that this discount shall not be considered insurance, 
+and that UnitedHealthcare shall neither pay nor reimburse the provider or member for any funds owed or spent. Additional materials do 
+not have to be purchased at the time of initial material purchase. 
+Hearing Aids
+As a UnitedHealthcare vision plan member, you can save on high-quality hearing aids when you buy them from hi HealthInnovations™. 
+To find out more go to hiHealthInnovations.com. When placing your order use promo code myVision to get the special price discount.
 
-Para acceder a los servicios de idiomas sin costo, llame al 1-888-982-3862. (Spanish)
+¹30% discount available at most participating in-network provider locations. May exclude certain frame manufacturers. Please verify all discounts with your provider.
+²Contact lenses are in lieu of eyeglass lenses and/or eyeglass frames.
+³Necessary contact lenses are determined at the provider's discretion for one or more of the following conditions: Following cataract surgery without intraocular lens 
+implant; to correct extreme vision problems that cannot be corrected with eyeglass lenses and/or frames; with certain conditions such as anisometropia, 
+keratoconus, irregular corneal/astigmatism, aphakia, pathological myopia, aniseikonia, aniridia, facial deformity, or corneal deformity. If your provider considers 
+your contacts necessary, you should ask your provider to contact UnitedHealthcare vision confirming the reimbursement that UnitedHealthcare will make before 
+you purchase such contacts.
 
-如欲使用免費語言服務，請致電 1-888-982-3862。(Chinese)
+Important to Remember:
+In-Network
 
-Afin d'accéder aux services langagiers sans frais, composez le 1-888-982-3862. (French)
+• Always identify yourself as a UnitedHealthcare vision member when making your appointment. This will assist the provider in obtaining 
+your benefit information.
+• Patient options such as UV coating, progressive lenses, etc., which are not covered-in-full, may be available at a discount at participating 
+providers. Based on state guidelines, lens materials and options may not be available at these discounted prices at all provider locations. 
+Please ask your provider for details. The Lens Options list can be found at myuhcvision.com.
+Choice and Access of Vision Care Providers
 
-Para ma-access ang mga serbisyo sa wika nang wala kayong babayaran, tumawag sa 1-888-982-3862. (Tagalog)
+UnitedHealthcare offers its vision program through a national network including both private practice and retail chain providers. To access the 
+Provider Locator service or for a printed directory, visit our website myuhcvision.com or call (800) 638-3120, 24 hours a day, seven days a 
+week. You may also view your benefits, search for a provider or print an ID card online at myuhcvision.com.
+Retain this UnitedHealthcare vision benefit summary which includes detailed benefit information and instructions on how to use the program.
+Please refer to your Certificate of Coverage for a full explanation of benefits.
+In-Network Provider - Copays and non-covered patient options are paid to provider by program participant at the time of service.
+Out-of-Network Provider - Participant pays all billed charges to the provider, and UnitedHealthcare reimburses the participant for services 
+rendered up to the maximum allowance. Copays do not apply to out-of-network benefits. Receipts for payments should be submitted within 90 
+days after the date of service to the following address: UnitedHealthcare Vision, Attn. Claims Department, P.O. Box 30978, Salt Lake City, UT 
+84130. If it was not reasonably possible to give written proof in the time required, the Company will not reduce or deny the claim for this reason. 
+However, proof must be filed as soon as reasonably possible, but no later than 1 year after the date of service unless the Covered Person was 
+legally incapacitated.
 
-Um auf für Sie kostenlose Sprachdienstleistungen zuzugreifen, rufen Sie 1-888-982-3862 an. (German)
+Customer Service is available toll-free at (800) 638-3120 from 8:00 a.m. to 11:00 p.m. Eastern Time Monday through Friday, 
+and 9:00 a.m. to 6:30 p.m. Eastern Time on Saturday.
 
-للحصول على الخدمات اللغوية دون أي 
-،تكلفة الرجاء االتصال على الرقم 1
--
-888
--
-982
--
-3862
-. (Arabic)
+This Benefit Summary is intended only to highlight your benefits and should not be relied upon to fully determine coverage. This benefit plan 
+may not cover all of your healthcare expenses. More complete descriptions of benefits and the terms under which they are provided are 
+contained in the certificate of coverage that you will receive upon enrolling in the plan. If this Benefit Summary conflicts in any way with the 
+Policy issued to your employer, the Policy shall prevail.
 
-Pou jwenn sèvis lang gratis, rele 1-888-982-3862. (French Creole-Haitian)
+11/18   © 2018 United HealthCare Services, Inc.
 
-Per accedere ai servizi linguistici, senza alcun costo per lei, chiami il numero  1-888-982-3862. (Italian)
+UnitedHealthcare vision coverage provided by or through UnitedHealthcare Insurance Company, located in Hartford, Connecticut, UnitedHealthcare Insurance 
+Company of New York, located in Islandia, New York, or its affiliates. Administrative services provided by Spectera, Inc., United HealthCare Services, Inc. or their affiliates. 
+Plans sold in Texas use policy form number VPOL.06.TX or VPOL.13TX and associated COC form number VCOC.INT.06.TX or VCOC.CER.13.TX. Plans sold in 
+Virginia use policy form number VPOL.06.VA or VPOL.13.VA and associated COC form number VCOC.INT.06.VA or VCOC.CER.13.VA.
 
-Not all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage. 
-Plan features and availability may vary by location and are subject to change.
-
-Providers in the Aetna Vision network are contracted and credentialed through EyeMed Vision Care, LLC according to EyeMed’s 
-requirements. EyeMed and Aetna are independent contractors and not agents of each other. Provider participation may change 
-without notice.
-
-Refer to Aetna.com for more information about Aetna® plans.
-
-Aetna complies with applicable Federal civil rights laws and does not discriminate, exclude or treat people differently based on 
-their race, color, national origin, sex, age, or disability.
-
-Aetna provides free aids/services to people with disabilities and to people who need language assistance. If you need a 
-qualified interpreter, written information in other formats, translation or other services, call 1-888-982-3862. If you believe we 
-have failed to provide these services or otherwise discriminated based on a protected class noted above, you can also file a 
-grievance with Civil Rights Coordinator by contacting: Civil Rights Coordinator, P.O. Box 14462, Lexington, KY 40512. 1-800-648-
-7817, TTY: 711, Fax: 859-425-3379, CRCoordinator@aetna.com.
-
-You can also file a civil rights complaint with the U.S. Department of Health and Human Services, Office for Civil Rights 
-Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or at: U.S. Department of Health and Human 
-Services, 200 Independence Avenue SW., Room 509F, HHH Building, Washington, DC 20201, or at 1-800-368-1019, 800-537-
-7697 (TDD).
-
-Partial list of Exclusions and Limitations
-
-Exclusions and limitations for vision include: any charges in excess of the benefits, dollar or supply limits listed above; special 
-vision procedures, such as orthoptics, vision therapy or vision training; vision services or supplies that do not meet 
-professionally accepted standards; plano (non-prescription) lenses; non-prescription sunglasses; two pair of glasses in lieu of 
-bifocals; medical and/or surgical treatment of the eyes; cosmetic services; lost or broken lenses, frames, glasses or contact 
-lenses. Other exclusions and limitations may also apply.
-
-*You can choose to receive care outside the network. Simply pay for the services up front and then submit a claim form to 
-receive an amount up to the out of network reimbursement amounts listed above. Reimbursement will not exceed the providers 
-actual charge.  
-Claim forms can be found at AetnaVision.com or by calling customer service at 1-877-973-3238. 
-Submit completed claim form with receipts to Aetna, PO Box 8504 Mason, OH 45040-7111. 
-Enrolled members can access our secure member website once their plan becomes effective. Enrolled subscribers will receive 
-a welcome packet with ID card mailed to their home within 15 business days after enrollment is processed.
-
-**Allowances are one-time use benefits. No remaining balances may be used. The plan does not provide a declining balance 
-benefit.
-
-1Premium progressives and premium anti-reflective Brand designations are subject to annual review and change based on 
-market conditions. Ask your eye care provider for more information.
-
-2Additional pair discount applies to purchases made after the plan allowances have been exhausted.
-
-3Non covered discounts may not be available in all states.
-
-4Lasik or PRK from the US Laser Network, owned and operated by LCA Vision.
-
-Vision insurance plans are underwritten by Aetna Life Insurance Company (Aetna). Certain claims administration services are 
-provided by First American Administrators, Inc. and certain network administration services are provided through EyeMed 
-Vision Care (“EyeMed”), LLC.
-
-
-
-## Page 3
-
-言語サービスを無料でご利用いただくには、1-888-982-3862 までお電話ください。(Japanese)
-
-무료 언어 서비스를 이용하려면 1-888-982-3862 번으로 전화해 주십시오. (Korean)
-
-برای دسترسی به خدمات زبان به طور 
-،رايگان با شماره 1
--
-888
--
-982
--
-3862
- تماس بگيريد. (Persian-Farsi)
-
-Aby uzyskać dostęp do bezpłatnych usług językowych proszę zadzwonoć 1-888-982-3862. (Polish)
-
-Para acessar os serviços de idiomas sem custo para você, ligue para 1-888-982-3862. (Portuguese)
-
-Для того чтобы бесплатно получить помощь переводчика, позвоните по телефону 1-888-982-3862. (Russian)
-
-Nếu quý vị muốn sử dụng miễn phí các dịch vụ ngôn ngữ, hãy gọi tới số 1-888-982-3862. (Vietnamese)
-
-Policy forms issued in Idaho include: AL HGrpPol-Vision 03
-Policy forms issued in Missouri include: AL HGrpPol-Vision 02
-Policy forms issued in Oklahoma include: AL HGrpPol-Vision 02
-
-©2024 Aetna Inc.
+NCA-03C (v3.2)
+SL004
 ---

@@ -96,7 +96,7 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:
     faiss.write_index(index, paths["vector_db"])
 
     # Save mapping index to sample_id
-    with open(paths["faiss_ids"], "a") as f:
+    with open(paths["faiss_ids"], "a", encoding="utf-8") as f:
         f.write(f"{sample_id}\n")
 
     return sample_id
@@ -112,7 +112,7 @@ def search_similar_pdf(category: str, text: str, top_k=1):
     D, I = index.search(emb, top_k)
 
     # Load faiss-ids
-    with open(paths["faiss_ids"]) as f:
+    with open(paths["faiss_ids"], encoding="utf-8", errors="ignore") as f:
         id_list = [l.strip() for l in f.readlines()]
 
     found = []
