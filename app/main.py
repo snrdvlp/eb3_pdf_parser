@@ -1,11 +1,13 @@
 import os
+import json
+import shutil
+import time
+import asyncio
+
 from fastapi import FastAPI, File, UploadFile, Form, Body
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-import json
-import shutil
-import time
 
 from . import db
 from .extract import pdf_to_text
@@ -40,74 +42,59 @@ async def extract_json_endpoint(
     file: UploadFile = File(...),
     category: str = Form(...)
 ):
-    llm.set_category(category.lower())
-    # Record the start time
     start = time.perf_counter()
     temp = start
 
+    # Read PDF file bytes (already async)
     pdf_bytes = await file.read()
 
-    dest_pdf_text = pdf_to_text(pdf_bytes)
+    # Run PDF → text in threadpool
+    dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
 
-    # Search for top_K similar samples instead of just 1
-    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)   # Get 1 for few-shot!
+    # Search vector DB (already fast, leave sync unless heavy)
+    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
     if not sims:
         return JSONResponse(
             status_code=400,
             content={"error": "No similar samples in DB. Please upload at least 1 sample first with /sample/add_one."}
         )
-    
-    # Record the search_similar_pdf elapsed time
-    elapsed = time.perf_counter() - temp
+
+    print(f"Elapsed time for searching similar pdf: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
-    print(f"Elapsed time for searching similar pdf: {elapsed:.2f} seconds")
-    
-    # Build the `(sample_pdf_text, sample_json)` pairs for few-shot
-    sample_pairs = []
-    for s in sims:
-        sample_pdf_text = pdf_to_text(open(s['pdf_path'], 'rb').read())
-        sample_json = s['json_data']
-        sample_pairs.append((sample_pdf_text, sample_json))
 
-    # Record the parsing pdf to string elapsed time
-    elapsed = time.perf_counter() - temp
+    # Load sample PDFs concurrently
+    async def load_sample(s):
+        pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
+        sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+        return (sample_pdf_text, s['json_data'])
+
+    sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
+
+    print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
-    print(f"Elapsed time for extracting pdf to string: {elapsed:.2f} seconds")
 
-    result_json = ask_llm_mapping_logic(
-        llm=llm,
-        sample_pairs=sample_pairs,
-        dest_pdf_text=dest_pdf_text,
-        category=category)
+    # Call LLM mapping logic (which itself calls async llm.chat now)
+    result_json = await ask_llm_mapping_logic(
+        llm,
+        sample_pairs,
+        dest_pdf_text,
+        category,
+    )
 
-    # Record the open ai time
-    elapsed = time.perf_counter() - temp
+    print(f"Elapsed time for llm api call: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
-    print(f"Elapsed time for llm api call: {elapsed:.2f} seconds")
-    
 
-    # Strictly filter to expected keys
+    # Post-processing
     required_keys = get_required_keys(category)
     cleaned_result_json = filter_to_required_keys(result_json, required_keys)
-    
-    # Replace None/null with ""
     cleaned_result_json = replace_nulls(cleaned_result_json)
 
     best_sample = sims[0]['json_data']
     matched_plan = best_sample.get('Plan Name', '')
 
-    # Record the total elapsed time
-    elapsed = time.perf_counter() - start
-    start = time.perf_counter()
-    print(f"Elapsed time for total process: {elapsed:.2f} seconds")
+    print(f"Elapsed time for total process: {time.perf_counter() - start:.2f} seconds")
 
     return cleaned_result_json
-    return {
-        "result_json": cleaned_result_json,
-        "matched_sample_plan": matched_plan,
-        "matched_json1": sims[0]['json_data'],
-        # "matched_json2": sims[1]['json_data']
-    }
 
 import os
 import json

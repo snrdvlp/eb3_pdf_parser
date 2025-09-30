@@ -1,44 +1,43 @@
-import requests
-import re
+import httpx
 
 class RemoteLLM:
     """
-    A thin wrapper that sends prompts to the remote LLM server endpoint.
+    Async wrapper that sends prompts to the remote LLM server endpoint.
     """
-    def __init__(self, endpoint="http://143.110.210.212/chat"):
+    def __init__(self, endpoint="http://143.110.210.212/v1/chat/completions"):
         self.endpoint = endpoint
-    
-    def set_category(self, category):
-        if category == "health":
-            self.endpoint = "http://143.110.210.212/chat_health"
-            self.endpoint = "http://143.110.210.212/chat"
-        else:
-            self.endpoint = "http://143.110.210.212/chat"
+        self._client = httpx.AsyncClient(timeout=120.0)
 
-    def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 1024):
-        """
-        Sends system and user prompts to the remote LLM server and returns its response.
-        """
+    async def chat(self, system_prompt: str, user_prompt: str, max_new_tokens: int = 1024):
         payload = {
-            "system_prompt": system_prompt,
-            "user_prompt": user_prompt,
-            "max_new_tokens": max_new_tokens
+            "model": "Qwen/Qwen2.5-7B-Instruct",
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            "max_tokens": max_new_tokens
         }
+
         try:
-            r = requests.post(self.endpoint, json=payload, timeout=120)
-
             print(f"endpoint is : {self.endpoint}")
-            r.raise_for_status()
-            data = r.json()
 
-            # --- extract and clean ---
-            text = data.get("response", "")
+            resp = await self._client.post(self.endpoint, json=payload)
+            resp.raise_for_status()
+            data = resp.json()
 
-            print(f"-----text start-----")
+            # OpenAI spec returns choices[0]['message']['content']
+            text = data["choices"][0]["message"]["content"]
+
+            print("-----text start-----")
             print(text)
             print("-----text end-----")
 
             return text.strip()
 
         except Exception as e:
+            print(f"error: {str(e)}")
             return {"error": str(e)}
+
+    async def aclose(self):
+        """Close the HTTPX client properly (e.g. on app shutdown)."""
+        await self._client.aclose()

@@ -2,6 +2,7 @@ import json
 import re
 import time
 import math
+import asyncio
 from .category_key_registry import get_required_keys
 
 CARRIER_DEFAULT_LIKE_KEYS = [
@@ -135,9 +136,9 @@ def select_top_k_samples_by_overlap(dest_excerpt, sample_pairs, k):
         return sample_pairs[:k]
     return top
 
-def ask_llm_mapping_logic(
-    llm, 
-    sample_pairs, 
+async def ask_llm_mapping_logic(
+    llm,
+    sample_pairs,
     dest_pdf_text: str,
     category: str,
     top_k_samples: int = 1
@@ -146,15 +147,16 @@ def ask_llm_mapping_logic(
 
     system_prompt = get_cached_system_prompt(category)
 
-    # Select only 1 sample pair
+    # Select sample pairs (cheap op, keep sync)
     selected_samples = select_top_k_samples_by_overlap(dest_pdf_text, sample_pairs, k=top_k_samples)
 
     # Compact sample
     user_prompt_parts = []
+    max_new_tokens = 512  # fallback
     for i, (s_pdf, s_json) in enumerate(selected_samples):
         compact_json = json.dumps(s_json, separators=(",", ":"))
 
-        # Calculates estimated max_new_tokens
+        # Estimate tokens
         total_chars = len(compact_json)
         max_new_tokens = math.ceil(total_chars * 0.5)
 
@@ -163,17 +165,18 @@ def ask_llm_mapping_logic(
         )
 
     user_prompt_parts.append(f"TARGET PDF:\n{dest_pdf_text}\n---\n")
-
     user_prompt = "\n".join(user_prompt_parts)
 
-    with open("system_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(system_prompt)  # your PDF->text output
-    with open("user_prompt.txt", "w", encoding="utf-8") as f:
-        f.write(user_prompt)  # your PDF->text output
+    # Save debug files (threadpool, so file I/O won’t block)
+    # json.dumps(system_prompt)
+    await asyncio.to_thread(lambda: open("system_prompt.txt", "w", encoding="utf-8").write(json.dumps(system_prompt)))
+    await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write(json.dumps(user_prompt)))
 
     print(f"max_new_token: {max_new_tokens}")
-        
-    raw = llm.chat(system_prompt, user_prompt, max_new_tokens)
+
+    # 🚀 Call LLM async
+    raw = await llm.chat(system_prompt, user_prompt, max_new_tokens)
+    # raw = asyncio.run(llm.chat(system_prompt, user_prompt, max_new_tokens))
 
     if isinstance(raw, dict):
         parsed = raw
