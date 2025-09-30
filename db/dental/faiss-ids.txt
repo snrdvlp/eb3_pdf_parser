@@ -97,3 +97,6 @@ Blue Shield of California_Gold DPPO _ $1500 _ U90_dc4a845b-0
 Blue Shield of California_Gold DPPO _ $2000 _ MAC _ Adult+Child Ortho_33bfdf7d-1
 Blue Shield of California_Gold DPPO _ $2000 _ MAC_e9da1adb-9
 Blue Shield of California_Gold DPPO _ $2000 _ U90_d25a79a5-3
+Anthem_Dental HMO Plan 3000A-1_e47f5c26-4
+Anthem_Dental HMO Plan 3000A-2_d15c5edb-c
+Anthem_Dental HMO Plan 3000D-2 Voluntary_b1191abf-a

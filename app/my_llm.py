@@ -15,7 +15,8 @@ class RemoteLLM:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
-            "max_tokens": max_new_tokens
+            "max_tokens": max_new_tokens,
+            "temperature": 0.0
         }
 
         try:
@@ -35,7 +36,7 @@ class RemoteLLM:
             return text.strip()
 
         except Exception as e:
-            print(f"error: {str(e)}")
+            print(f"error: {str(e)} error end")
             return {"error": str(e)}
 
     async def aclose(self):

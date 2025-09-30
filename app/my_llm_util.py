@@ -17,6 +17,7 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 ---
 **CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
 - For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
+- Also, these fields represent number(percentage or price), NO other words or explanation is correct, so find the correct values.
 - These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value, especially "x-rays".
 """,
     "vision": """
@@ -78,6 +79,7 @@ You are a highly accurate insurance PDF-to-JSON converter.
 **CRITICAL EXTRACTION RULES:**
 - For every field, extract values *only and exactly from the target PDF text*. NEVER use, infer, or copy values from sample pairs for these fields, especially about price and percent values.
 - If a field is not present in the target PDF, return an empty string ("").
+- Fields starting with "In-Network" or "Out-of-Network" should be a numeric value (percent or price values), not the words like (1 per tooth, 12 months, etc)
 - If multiple prices or values are listed for a benefit field, ALWAYS select the highest price or percentage value.**
 - "Customer Service Phone Number" should be a phone number, not other types like email.
 ---
@@ -167,10 +169,9 @@ async def ask_llm_mapping_logic(
     user_prompt_parts.append(f"TARGET PDF:\n{dest_pdf_text}\n---\n")
     user_prompt = "\n".join(user_prompt_parts)
 
-    # Save debug files (threadpool, so file I/O won’t block)
-    # json.dumps(system_prompt)
-    await asyncio.to_thread(lambda: open("system_prompt.txt", "w", encoding="utf-8").write(json.dumps(system_prompt)))
-    await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write(json.dumps(user_prompt)))
+    # # Save debug files (threadpool, so file I/O won’t block)
+    # await asyncio.to_thread(lambda: open("system_prompt.txt", "w", encoding="utf-8").write(json.dumps(system_prompt)))
+    # await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write(json.dumps(user_prompt)))
 
     print(f"max_new_token: {max_new_tokens}")
 
