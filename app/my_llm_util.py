@@ -79,7 +79,6 @@ You are a highly accurate insurance PDF-to-JSON converter.
 **CRITICAL EXTRACTION RULES:**
 - For every field, extract values *only and exactly from the target PDF text*. NEVER use, infer, or copy values from sample pairs for these fields, especially about price and percent values.
 - If a field is not present in the target PDF, return an empty string ("").
-- Fields starting with "In-Network" or "Out-of-Network" should be a numeric value (percent or price values), not the words like (1 per tooth, 12 months, etc)
 - If multiple prices or values are listed for a benefit field, ALWAYS select the highest price or percentage value.**
 - "Customer Service Phone Number" should be a phone number, not other types like email.
 ---
