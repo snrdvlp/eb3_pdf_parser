@@ -95,6 +95,12 @@ async def extract_json_endpoint(
     print(f"Elapsed time for total process: {time.perf_counter() - start:.2f} seconds")
 
     return cleaned_result_json
+    return {
+        "result_json": cleaned_result_json,
+        "matched_sample_plan": matched_plan,
+        "matched_json1": sims[0]['json_data'],
+        # "matched_json2": sims[1]['json_data']
+    }
 
 import os
 import json
