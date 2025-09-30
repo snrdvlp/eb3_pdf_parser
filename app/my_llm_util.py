@@ -50,24 +50,11 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
     "health":"""
 **CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
 - Interpret the following field names using these equivalences:
-* **PCP Visit** → may appear as:
-  * PCP
-  * Primary Care
-  * Primary Care Provider
-  * Primary Care Visit
-* **Specialist Visit** → may appear as:
-  * Specialist
-  * Specialist Visit
-* **Urgent Care Visit** → may appear as:
-  * Urgent Care
-  * Urgent Care Visit
-* **ER Visit** → may appear as:
-  * ER
-  * Emergency Medical
-  * ER Visit
-  * Emergency Medical Visit
-    These mappings apply to both **In-Network** and **Out-of-Network** fields.
-- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value, especially "x-rays".
+    * PCP Visit → may appear as: PCP, Primary Care, Primary Care Provider, Primary Care Visit
+    * Specialist Visit → may appear as: Specialist, Specialist Visit
+    * Urgent Care Visit → may appear as: Urgent Care, Urgent Care Visit
+    * ER Visit → may appear as: ER, Emergency Medical, ER Visit, Emergency Medical Visit
+
 - Break down coverage by drug category (Generic RX, Brand RX, Tier 3 RX, Tier 4 RX, Tier 5 RX).
     Tier 3 RX means Non-preferred brand Drugs.
     Tier 5 RX means Non-preferred Specialty Drugs. The values are displayed after "Tier 4 RX" values.
