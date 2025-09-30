@@ -55,8 +55,15 @@ def init_sqlite(category: str = ""):
     conn.close()
 
 def safe_filename(name: str) -> str:
-    # Replace / \ : * ? " < > | with _
-    return re.sub(r'[\/:*?"<>|]', "_", name)
+    # Replace all illegal filename chars with _
+    name = re.sub(r'[\/\\:*?"<>|]', "_", name)
+    # Replace spaces with underscore (optional)
+    name = re.sub(r'\s+', '_', name)
+    # Collapse multiple underscores
+    name = re.sub(r'_+', '_', name)
+    # Remove leading/trailing underscores, dots, or spaces
+    name = name.strip(' ._')
+    return name
 
 def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash: str) -> str:
     # Extract metadata
