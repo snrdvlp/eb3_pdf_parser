@@ -49,8 +49,9 @@ SPECIAL_PROMPT_INSTRUCTIONS = {
 """,
     "health":"""
 **CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- ER means Emergency Medical, some pdf would represent Emergency Medical as ER.
-- Also, PCP stands for Primary Care Provider or Primary Care Visit
+- For the following fields: "PCP Visit", "Specialist Visit", "Urgent Care Visit", "ER Visit" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs.
+- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value, especially "x-rays".
+- Here, PCP means "Primary Care Provider" or "Primary Care Visit",  ER means "Emergency Medical"
 - Break down coverage by drug category (Generic RX, Brand RX, Tier 3 RX, Tier 4 RX, Tier 5 RX).
     Tier 3 RX means Non-preferred brand Drugs.
     Tier 5 RX means Non-preferred Specialty Drugs. The values are displayed after "Tier 4 RX" values.
