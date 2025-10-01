@@ -3,18 +3,20 @@ import json
 import shutil
 import time
 import asyncio
+import hashlib
+import sqlite3
 
+from . import db
 from fastapi import FastAPI, File, UploadFile, Form, Body
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-
-from . import db
 from .extract import pdf_to_text
 from .extract import pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
+
 
 app = FastAPI()
 app.add_middleware(
@@ -102,11 +104,69 @@ async def extract_json_endpoint(
         # "matched_json2": sims[1]['json_data']
     }
 
-import os
-import json
-import hashlib
-import sqlite3
-from fastapi import UploadFile, File, Form
+@app.post("/extract_json_with_similar")
+async def extract_json_endpoint_with_similar(
+    file: UploadFile = File(...),
+    category: str = Form(...)
+):
+    start = time.perf_counter()
+    temp = start
+
+    # Read PDF file bytes (already async)
+    pdf_bytes = await file.read()
+
+    # Run PDF → text in threadpool
+    dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+
+    # Search vector DB (already fast, leave sync unless heavy)
+    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
+    if not sims:
+        return JSONResponse(
+            status_code=400,
+            content={"error": "No similar samples in DB. Please upload at least 1 sample first with /sample/add_one."}
+        )
+
+    print(f"Elapsed time for searching similar pdf: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
+
+    # Load sample PDFs concurrently
+    async def load_sample(s):
+        pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
+        sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+        return (sample_pdf_text, s['json_data'])
+
+    sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
+
+    print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
+
+    # Call LLM mapping logic (which itself calls async llm.chat now)
+    result_json = await ask_llm_mapping_logic(
+        llm,
+        sample_pairs,
+        dest_pdf_text,
+        category,
+    )
+
+    print(f"Elapsed time for llm api call: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
+
+    # Post-processing
+    required_keys = get_required_keys(category)
+    cleaned_result_json = filter_to_required_keys(result_json, required_keys)
+    cleaned_result_json = replace_nulls(cleaned_result_json)
+
+    best_sample = sims[0]['json_data']
+    matched_plan = best_sample.get('Plan Name', '')
+
+    print(f"Elapsed time for total process: {time.perf_counter() - start:.2f} seconds")
+
+    return {
+        "result_json": cleaned_result_json,
+        "matched_sample_plan": matched_plan,
+        "matched_json1": sims[0]['json_data'],
+        # "matched_json2": sims[1]['json_data']
+    }
 
 @app.post("/sample/add_one")
 async def add_sample_endpoint(
