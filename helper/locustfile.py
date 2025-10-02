@@ -10,7 +10,7 @@ class ExtractJsonUser(HttpUser):
                 "file": ("test.pdf", f, "application/pdf"),
             }
             data = {
-                "category": "vision"
+                "category": "health"
             }
             with self.client.post(
                 "/extract_json", files=files, data=data, catch_response=True
