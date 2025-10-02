@@ -164,7 +164,7 @@ async def ask_llm_mapping_logic(
 
         # Estimate tokens
         total_chars = len(compact_json)
-        max_new_tokens = math.ceil(total_chars * 0.5)
+        max_new_tokens = math.ceil(total_chars * 0.6) + 50
 
         user_prompt_parts.append(
             f"SAMPLE PDF #{i+1}:\n{s_pdf}\nSAMPLE JSON #{i+1}:\n{compact_json}\n---\n"
