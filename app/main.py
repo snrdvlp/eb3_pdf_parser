@@ -17,6 +17,9 @@ from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
 
+MAX_PDF_THREADS = 4  # tune for your CPU and disk
+
+semaphore = asyncio.Semaphore(MAX_PDF_THREADS)
 
 app = FastAPI()
 app.add_middleware(
@@ -131,9 +134,10 @@ async def extract_json_endpoint_with_similar(
 
     # Load sample PDFs concurrently
     async def load_sample(s):
-        pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
-        sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
-        return (sample_pdf_text, s['json_data'])
+        async with semaphore:
+            pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
+            sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+            return (sample_pdf_text, s['json_data'])
 
     sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
 
