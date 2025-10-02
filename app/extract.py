@@ -2,6 +2,27 @@ import io
 import pdfplumber
 import fitz  # PyMuPDF
 import time
+import re
+
+def clean_pdf_text(raw_text: str) -> str:
+    """
+    Clean extracted PDF text for LLM prompts.
+    - Removes noisy OCR artifacts
+    - Normalizes whitespace
+    - Keeps Markdown tables and headings
+    """
+    # Remove weird symbols / artifacts inside {}
+    cleaned = re.sub(r"\{[^}]*\}", "", raw_text)
+
+    # Remove random non-alphanumeric garbage tokens (like OCR errors)
+    cleaned = re.sub(r"[^\x00-\x7F]+", " ", cleaned)  # remove non-ASCII
+    cleaned = re.sub(r"\s{2,}", " ", cleaned)  # collapse multiple spaces
+
+    # Fix line breaks around tables/headings
+    cleaned = re.sub(r"\n{2,}", "\n\n", cleaned)  # collapse blank lines
+
+    # Strip leading/trailing whitespace
+    return cleaned.strip()
 
 def pdf_to_text(pdf_bytes: bytes) -> str:
     return pdf_to_text_with_tables(pdf_bytes)
@@ -110,4 +131,4 @@ def pdf_to_text_with_tables(pdf_bytes: bytes, max_pages: int = 10) -> str:
                 markdown_output += text + "\n\n"
 
     plumber_pdf.close()
-    return markdown_output.strip()
+    return clean_pdf_text(markdown_output.strip())

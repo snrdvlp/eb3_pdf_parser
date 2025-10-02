@@ -167,21 +167,20 @@ async def ask_llm_mapping_logic(
         max_new_tokens = math.ceil(total_chars * 0.5)
 
         user_prompt_parts.append(
-            f"SAMPLE PDF #{i+1}:\n{s_pdf[:12000]}\nSAMPLE JSON #{i+1}:\n{compact_json}\n---\n"
+            f"SAMPLE PDF #{i+1}:\n{s_pdf}\nSAMPLE JSON #{i+1}:\n{compact_json}\n---\n"
         )
 
     user_prompt_parts.append(f"TARGET PDF:\n{dest_pdf_text}\n---\n")
     user_prompt = "\n".join(user_prompt_parts)
 
-    # # Save debug files (threadpool, so file I/O won’t block)
+    # Save debug files (threadpool, so file I/O won’t block)
     # await asyncio.to_thread(lambda: open("system_prompt.txt", "w", encoding="utf-8").write(json.dumps(system_prompt)))
-    # await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write(json.dumps(user_prompt)))
+    # await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write((user_prompt)))
 
     print(f"max_new_token: {max_new_tokens}")
 
     # 🚀 Call LLM async
     raw = await llm.chat(system_prompt, user_prompt, max_new_tokens)
-    # raw = asyncio.run(llm.chat(system_prompt, user_prompt, max_new_tokens))
 
     if isinstance(raw, dict):
         parsed = raw
