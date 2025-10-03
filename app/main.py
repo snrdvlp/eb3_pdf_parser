@@ -52,16 +52,10 @@ async def extract_json_endpoint(
 
     # Read PDF file bytes (already async)
     pdf_bytes = await file.read()
-    # pdf_hash = await hashlib.md5(pdf_bytes).hexdigest()
-    # print(f"Input PDF hash: {pdf_hash}")
 
     # Run PDF → text in threadpool
     dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
 
-    # Debug: Print text length and sample
-    print(f"Extracted text length: {len(dest_pdf_text)}")
-    print(f"Text sample (first 100 chars): {dest_pdf_text[:100]}")
-    
     # Search vector DB (already fast, leave sync unless heavy)
     sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
     if not sims:
@@ -75,10 +69,9 @@ async def extract_json_endpoint(
 
     # Load sample PDFs concurrently
     async def load_sample(s):
-        async with semaphore:
-            pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
-            sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
-            return (sample_pdf_text, s['json_data'])
+        pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
+        sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+        return (sample_pdf_text, s['json_data'])
 
     sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
 
@@ -194,7 +187,6 @@ async def add_sample_endpoint(
 
     # Exact deduplication: check for identical PDF by hash
     pdf_hash = hashlib.sha256(pdf_bytes).hexdigest()
-    print(f"pdf hash in add_one is : {pdf_hash}")
     
     paths = db._get_category_paths(category)
     conn = sqlite3.connect(paths["sqlite"])
@@ -230,6 +222,7 @@ async def add_sample_endpoint(
     # If not duplicate, insert new
     sample_id = db.add_sample_to_db(category.lower(), pdf_bytes, json_data, pdf_hash)
     return {"status": "ok", "sample_id": sample_id}
+
 
 @app.post("/sample/add_batch")
 async def add_batch_endpoint(folder_path: str = Body(...), category: str = Body(...)):

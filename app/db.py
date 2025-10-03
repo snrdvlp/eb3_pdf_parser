@@ -5,8 +5,6 @@ import sqlite3
 import numpy as np
 import faiss
 import re
-import hashlib
-
 
 from .extract import pdf_to_text
 from .embedder import get_embedding
@@ -117,41 +115,28 @@ def search_similar_pdf(category: str, text: str, top_k=1):
 
     # Load FAISS and search
     index = faiss.read_index(paths["vector_db"])
-    
-    # Load embeddings
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
-    
-    # Search similar
     D, I = index.search(emb, top_k)
-    
-    # Debug: Print distances
-    print(f"Similarity distances: {D[0]}")
-        
+
+    # Load faiss-ids
     with open(paths["faiss_ids"], encoding="utf-8", errors="ignore") as f:
         id_list = [l.strip() for l in f.readlines()]
 
     found = []
-    # Load results
     conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
-
-    for idx, dist in zip(I[0], D[0]):
-        sample_id = id_list[idx]
-        
-        c.execute('SELECT * FROM samples WHERE id = ?', (sample_id,))
+    for pos in I[0]:
+        if pos >= len(id_list):
+            continue
+        sample_id = id_list[pos]
+        c.execute('SELECT json_data, pdf_path FROM samples WHERE id=?', (sample_id,))
         row = c.fetchone()
         if row:
             found.append({
-                'id': row[0],
-                'category': row[1],
-                'carrier': row[2],
-                'plan': row[3],
-                'json_data': json.loads(row[4]),
-                'pdf_path': os.path.join(paths["cat_dir"],row[5]),
-                'pdf_hash': row[6],
-                'distance': float(dist)
+                "id": sample_id,
+                "json_data": json.loads(row[0]),
+                "pdf_path": os.path.join(paths["cat_dir"], row[1])
             })
-    
     conn.close()
     return found
 
