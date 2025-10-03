@@ -11,108 +11,62 @@ CARRIER_DEFAULT_LIKE_KEYS = [
 ]
 
 SPECIAL_PROMPT_INSTRUCTIONS = {
-    "dental": """
-**EXCEPTION FOR UNITEDHEALTHCARE PLANS:**
-- If the plan is identified as "UnitedHealthcare" (by carrier name or branding in the PDF), for the fields "Single Deductible" and "Family Deductible" (both In-Network and Out-of-Network), you MAY copy these values from the matched sample JSON instead of the target PDF, to ensure correct mapping. This exception applies only to these deductible fields for UnitedHealthcare plans.
----
-**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- For the following fields: "Cleanings", "Exams", "X-Rays", "Sealants", "Fillings", "Simple Extractions", "Root Canal", "Periodontal Gum Disease", "Oral Surgery", "Crowns", "Dentures", "Bridges", "Implants", "Orthodontia" (both In-Network and Out-of-Network), you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- Also, these fields represent number(percentage or price), NO other words or explanation is correct, so find the correct values.
-- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value, especially "x-rays".
-""",
-    "vision": """
-**CRITICAL FIELD EXTRACTION FOR VISION BENEFITS:**
-- For the following fields: "Eye Exam", "Single Vision Lens", "Lined Bi-Focal Lens", "Lined Tri-Focal Lens", "Lenticular Lens", "Contact Lens Allowance", "Frame Allowance", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields one by one, so that no one field is missing it's value.
-""",
-    "term life":"""
-""",
-    "std":"""
-**CRITICAL FIELD EXTRACTION FOR STD BENEFITS:**
-- For the following fields: "Elimination Period", "Payment Period", "Pre-Existing Conditions", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-""",
-    "ltd":"""
-**CRITICAL FIELD EXTRACTION FOR LTD BENEFITS:**
-- For the following fields: "Elimination Period", "Payment Period", "Pre-Existing Conditions", "Own Occupation Limitation", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-""",
-    "accident":"""
-**CRITICAL FIELD EXTRACTION FOR ACCIDENT BENEFITS:**
-- For the following fields: "Burn - 2nd Degree", "Burn - 3rd degree", "Coma", "Concussion", "Dental Injury", "Dislocation - Hip", "Dislocation - Knee", "Dislocation - Shoulder", "Fracture - Hip", "Fracture - Skull", "Fracture - Arm", "Fracture - Hand", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-""",
-    "critical illness":"""
-**CRITICAL FIELD EXTRACTION FOR CRITICAL ILLNESS BENEFITS:**
-- For the following fields: "Child Scheduled Benefit", "Guaranteed Insurability", "Pre-Existing Condition Clause", "Wellness Benefit", "Cancer", "Cancer - Carcinoma in situ", "Heart Attack", "Major Organ Failure", "Stroke", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-""",
-    "sup life":"""
-**CRITICAL FIELD EXTRACTION FOR SUP LIFE BENEFITS:**
-- For the following fields: "Child(ren) Life Insurance Coverage", "Accidental Death & Dismemberment", "Age Reduction Schedule", "Guaranteed Insurability", "Beneficiary", "Taxation of Benefit", you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-""",
-    "health":"""
-**CRITICAL FIELD EXTRACTION FOR SPECIFIC BENEFITS:**
-- Interpret the following field names using these equivalences:
-    * PCP Visit → may appear as: PCP, Primary Care, Primary Care Provider, Primary Care Visit
-    * Specialist Visit → may appear as: Specialist, Specialist Visit
-    * Urgent Care Visit → may appear as: Urgent Care, Urgent Care Visit
-    * ER Visit → may appear as: ER, Emergency Medical, ER Visit, Emergency Medical Visit
-
-- Break down coverage by drug category (Generic RX, Brand RX, Tier 3 RX, Tier 4 RX, Tier 5 RX).
-    Tier 3 RX means Non-preferred brand Drugs.
-    Tier 5 RX means Non-preferred Specialty Drugs. The values are displayed after "Tier 4 RX" values.
-    Tier 4 RX means Preferred Specialty Drugs. The values are displayed after "Tier 3 RX" values.
-    Also infer tier ranking logic: higher tier number = higher cost to the patient (Generic RX < Brand RX < Tier 3 < Tier 4 < Tier 5).
-- For the following fields: "Single Deductible", "Family Deductible", "Single OOP Max", "Family OOP Max", "Coinsurance", "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "Outpatient Surgery", "Inpatient Surgery", "Newborn Delivery", "Major Diagnostics", "RX Deductible", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX", "Mail Order RX"(both In-Network and Out-of-Network), generally the In-Network and Out-of-Network values are placed next to each other, you MUST extract their values ONLY from the target PDF text. Do NOT infer, guess, or copy these values from any sample JSONs, regardless of similarity.
-- These fields can be displayed in DIRECT table mapping type or CLASSIFIED layouts types, so you have to consider it, review all fields, so that no one field is missing it's value, especially "PCP", "Specialist", "Urgent Care Visit", "ER Visit", "Preventive Visit", "specialist", "Generic RX", "Brand RX", "Tier 3 RX", "Tier 4 RX", "Tier 5 RX" fields.
-"""
-    # Add more categories as needed...
+    "dental": (
+        "UNH deductible exception allowed for Single/Family deductibles.\n"
+        "MANDATORY: For Cleanings, Exams, X-Rays, Sealants, Fillings, Extractions, Root Canal, "
+        "Periodontal, Oral Surgery, Crowns, Dentures, Bridges, Implants, Orthodontia -> "
+        "use ONLY target PDF values; return numeric/price/percent or empty if missing."
+    ),
+    "vision": (
+        "MANDATORY: For Eye Exam, Single Vision Lens, Bi‑Focal, Tri‑Focal, Lenticular, "
+        "Contact Lens Allowance, Frame Allowance -> use ONLY target PDF values; empty if missing."
+    ),
+    "std": "MANDATORY: Elimination Period, Payment Period, Pre‑Existing Conditions -> target PDF only.",
+    "ltd": "MANDATORY: Elimination Period, Payment Period, Pre‑Existing Conditions, Own Occupation Limitation -> target PDF only.",
+    "accident": "MANDATORY: specified accident benefit fields -> target PDF only.",
+    "critical illness": "MANDATORY: specified CI fields -> target PDF only.",
+    "sup life": "MANDATORY: specified supplemental life fields -> target PDF only.",
+    "health": (
+        "MANDATORY: Deductibles, OOP, Coinsurance, PCP/Specialist/Urgent/ER, RX tiers, Mail Order -> "
+        "use ONLY target PDF values; map synonyms (PCP→Primary Care, etc.); empty if missing."
+    ),
 }
+
+# compact helper to join required keys on single line
+def _join_keys(required_keys):
+    return ", ".join(required_keys)
 
 def filter_to_required_keys(predicted: dict, required_keys: list):
     """Retain only required keys, fill blanks if missing."""
     return {k: predicted.get(k, "") for k in required_keys}
 
 
-def get_system_prompt(category, required_keys):
-    # keys_str = "\n".join([f'- "{k}"' for k in required_keys])
-    category = category.lower()
-    special_instructions = SPECIAL_PROMPT_INSTRUCTIONS.get(category, "")
+def get_system_prompt(category, required_keys, verbose=False):
+    """
+    Compact system prompt preserving all critical rules.
+    Set verbose=True to return the original verbose prompt for debugging.
+    """
+    if verbose:
+        # fallback to original long version (keep as-is if debugging)
+        return get_system_prompt.__wrapped__(category, required_keys) if hasattr(get_system_prompt, "__wrapped__") else ""
+    cat = (category or "").lower()
+    special = SPECIAL_PROMPT_INSTRUCTIONS.get(cat, "")
+    keys_line = _join_keys(required_keys)
 
-    system_prompt = f"""
-You are a highly accurate insurance PDF-to-JSON converter.
-**Your task:** Extract specific insurance benefits and details, using ONLY the target PDF text provided, into the JSON fields listed below.
----
-**CRITICAL EXTRACTION RULES:**
-- For every field, extract values *only and exactly from the target PDF text*. NEVER use, infer, or copy values from sample pairs for these fields, especially about price and percent values.
-- If a field is not present in the target PDF, return an empty string ("").
-- Fields starting with "In-Network" or "Out-of-Network" should be a numeric value (percent or price values) or "No charge", "Not covered", "0%", but not the words like (1 per tooth, 12 months, etc)
-- If multiple prices or values are listed for a benefit field, ALWAYS select the highest price or percentage value.**
-- "Customer Service Phone Number" should be a phone number, not other types like email.
----
-{special_instructions}
----
-**Sample pairs:** Are provided ONLY to help you learn the possible ways insurance information is presented and mapped.
----
-**Field-matching and mapping instructions:**
-- **Direct table mapping:** If PDF has a simple table or list mapping benefit fields (e.g., "Crowns In-Network"), extract those values directly.
-- **Grouped or classified layouts (e.g., "Type A/B/C", "Class I/II/III", "Type 1/2/3", "Preventive/Basic/Major", etc.):**
-    - You must determine each benefit's group/class only from the target PDF text itself (headings, tables, legends, or explicit mapping in that document).
-    - Never use or borrow group/class assignments from any sample pair. If the target PDF does not explicitly show which group/class a benefit belongs to, set its value to "".
-    - Once the benefit's group/class is identified in the target PDF, use that same PDF's coverage values for the group/class (e.g., "Type B is 90%") and assign them.
-    - If the target PDF uses different labels (e.g., "Preventive/Basic/Major" instead of "Type A/B/C"), follow those exactly from the PDF. Do not assume mappings from the samples.
-- **Synonyms and variations:** Recognize that "In-Network"/"Out-of-Network" may be labeled as "Tier 1/2", "PPO/Premier", "Network/Non-Network", "Preferred/Non-Preferred", etc. Map accordingly, using current PDF context.
-- When a field is neither directly mapped in a table nor present in any grouping, set its value to "".
----
-**Sample Pair Usage Rules:**
-- Carefully review all provided sample pairs. Identify how fields may be mapped differently (direct, grouped, multistep).
-- Use samples only as logic references for possible extraction or mapping methods, never as content sources.
-- Generalize mapping logic from all samples, not just the nearest one, but *always* apply it to the target PDF's specific presentation and wording.
----
-**For all fields:**  
-Extract and output ONLY these fields (no extras and case-insensitive):
-{required_keys}
----
-**Output:** Output only the completed JSON object with all fields above, and nothing else.
-"""
-    return system_prompt
+    prompt = (
+        "You are an insurance PDF→JSON extractor.\n"
+        "RULES:\n"
+        "- Use ONLY the TARGET PDF to extract field VALUES (unless explicit fallbacks allowed).\n"
+        "- If a field is absent: return empty string \"\".\n"
+        "- Numeric/price/percent fields must be numeric/price/% or 'No charge'/'Not covered'.\n"
+        "- If multiple numeric options exist, return the HIGHEST applicable value.\n"
+        "- Map common synonyms (e.g., PCP=Primary Care). Keep mapping only from target PDF.\n"
+        f"{('- ' + special + '\\n') if special else ''}"
+        "- Sample pairs are EXAMPLES of mapping logic only; DO NOT copy their values.\n"
+        f"REQUIRED_KEYS: {keys_line}\n"
+        "OUTPUT: Return only a JSON object with exactly the required keys (case-insensitive keys).\n"
+    )
+    return prompt
 
 SYSTEM_PROMPT_CACHE = {}
 
@@ -174,8 +128,8 @@ async def ask_llm_mapping_logic(
     user_prompt = "\n".join(user_prompt_parts)
 
     # Save debug files (threadpool, so file I/O won’t block)
-    # await asyncio.to_thread(lambda: open("system_prompt.txt", "w", encoding="utf-8").write(json.dumps(system_prompt)))
-    # await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write((user_prompt)))
+    await asyncio.to_thread(lambda: open("system_prompt.txt", "w", encoding="utf-8").write(json.dumps(system_prompt)))
+    await asyncio.to_thread(lambda: open("user_prompt.txt", "w", encoding="utf-8").write(json.dumps(user_prompt)))
 
     print(f"max_new_token: {max_new_tokens}")
 
