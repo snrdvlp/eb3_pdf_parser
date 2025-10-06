@@ -16,6 +16,7 @@ from .extract import pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
+from .pdf_text_cache import get_pdf_text_cached
 
 MAX_PDF_THREADS = 20  # tune for your CPU and disk
 
@@ -53,7 +54,10 @@ async def extract_json_endpoint(
     # Read PDF file bytes (already async)
     pdf_bytes = await file.read()
     async with semaphore:
-        dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+        dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
+
+    print(f"Elapsed time for semaphore: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
 
     # Search vector DB (already fast, leave sync unless heavy)
     sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
@@ -107,11 +111,10 @@ async def test_pdf_loading_endpoint(
 
     # Read PDF file bytes (already async)
     pdf_bytes = await file.read()
-    async with semaphore:
-        dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+    # async with semaphore:
+    dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
     print(f"Elapsed time for semaphore: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
-
 
     # Search vector DB (already fast, leave sync unless heavy)
     sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
@@ -148,7 +151,7 @@ async def extract_json_endpoint_with_similar(
     pdf_bytes = await file.read()
 
     # Run PDF → text in threadpool
-    dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+    dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
 
     # Search vector DB (already fast, leave sync unless heavy)
     sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)

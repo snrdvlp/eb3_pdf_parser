@@ -20,7 +20,7 @@ class RemoteLLM:
         }
 
         try:
-            print(f"endpoint is : {self.endpoint}")
+            # print(f"endpoint is : {self.endpoint}")
 
             resp = await self._client.post(self.endpoint, json=payload)
             resp.raise_for_status()
@@ -29,9 +29,9 @@ class RemoteLLM:
             # OpenAI spec returns choices[0]['message']['content']
             text = data["choices"][0]["message"]["content"]
 
-            print("-----text start-----")
-            print(text)
-            print("-----text end-----")
+            # print("-----text start-----")
+            # print(text)
+            # print("-----text end-----")
 
             return text.strip()
 
