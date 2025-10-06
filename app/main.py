@@ -7,16 +7,16 @@ import hashlib
 import sqlite3
 
 from . import db
-from fastapi import FastAPI, File, UploadFile, Form, Body
+from fastapi import FastAPI, File, UploadFile, Form, Body, Depends
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-from .extract import pdf_to_text
 from .extract import pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
 from .pdf_text_cache import get_pdf_text_cached
+from .auth import get_api_key
 
 MAX_PDF_THREADS = 20  # tune for your CPU and disk
 
@@ -46,7 +46,8 @@ async def get_pdf(
 @app.post("/extract_json")
 async def extract_json_endpoint(
     file: UploadFile = File(...),
-    category: str = Form(...)
+    category: str = Form(...),
+    api_key: str = Depends(get_api_key)
 ):
     start = time.perf_counter()
     temp = start
