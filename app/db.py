@@ -4,8 +4,10 @@ import uuid
 import sqlite3
 import numpy as np
 import faiss
+import time
 import re
 
+from threading import Lock
 from .extract import pdf_to_text
 from .embedder import get_embedding
 
@@ -76,23 +78,24 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:
     sample_id = carrier + "_" + plan + "_" + str(uuid.uuid4())[:10]
     sample_id = safe_filename(sample_id)
 
-    # Save PDF in category folder
-    pdf_filename = f"{sample_id}.pdf"
-    pdf_path = os.path.join(paths["cat_dir"], pdf_filename)
-    print(f"pdf path is : {pdf_path}")
-    with open(pdf_path, "wb") as pf:
-        pf.write(pdf_bytes)
-
+    # Parse PDF to text ONCE
+    text = pdf_to_text(pdf_bytes)
+    # Save parsed text instead of PDF
+    txt_filename = f"{sample_id}.txt"
+    txt_path = os.path.join(paths["cat_dir"], txt_filename)
+    with open(txt_path, "w", encoding="utf-8") as tf:
+        tf.write(text)
+    
     # Save metadata in SQLite
     conn = sqlite3.connect(paths["sqlite"])
     c = conn.cursor()
     c.execute('INSERT INTO samples VALUES (?,?,?,?,?,?,?)',
-              (sample_id, category, carrier, plan, json.dumps(json_data), pdf_filename, pdf_hash))
+              (sample_id, category, carrier, plan, json.dumps(json_data), txt_filename, pdf_hash))
+ 
     conn.commit()
     conn.close()
 
     # Embed PDF text, add to FAISS
-    text = pdf_to_text(pdf_bytes)
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
 
     if not os.path.exists(paths["vector_db"]):
@@ -108,23 +111,53 @@ def add_sample_to_db(category: str, pdf_bytes: bytes, json_data: dict, pdf_hash:
 
     return sample_id
 
+_faiss_indexes = {}
+_faiss_ids = {}
+_sqlite_conns = {}
+_sqlite_lock = Lock()  # avoid concurrency issues
+
+def get_faiss_index(category):
+    if category not in _faiss_indexes:
+        paths = _get_category_paths(category)
+        _faiss_indexes[category] = faiss.read_index(paths["vector_db"])
+    return _faiss_indexes[category]
+
+def get_faiss_ids(category):
+    if category not in _faiss_ids:
+        paths = _get_category_paths(category)
+        with open(paths["faiss_ids"], encoding="utf-8", errors="ignore") as f:
+            _faiss_ids[category] = [l.strip() for l in f]
+    return _faiss_ids[category]
+
+def get_sqlite_conn(category):
+    """Keep one SQLite connection open per category."""
+    if category not in _sqlite_conns:
+        paths = _get_category_paths(category)
+        conn = sqlite3.connect(paths["sqlite"], check_same_thread=False)
+        conn.row_factory = sqlite3.Row
+        with _sqlite_lock:
+            _sqlite_conns[category] = conn
+    return _sqlite_conns[category]
+
 def search_similar_pdf(category: str, text: str, top_k=1):
+    start = time.perf_counter()
+    temp = start
+
     paths = _get_category_paths(category)
     if not os.path.exists(paths["vector_db"]):
         return []
 
-    # Load FAISS and search
-    index = faiss.read_index(paths["vector_db"])
+    index = get_faiss_index(category)
+    id_list = get_faiss_ids(category)
+
+    # Use a fresh connection for each request (for reads)
+    conn = sqlite3.connect(paths["sqlite"])
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
     D, I = index.search(emb, top_k)
-
-    # Load faiss-ids
-    with open(paths["faiss_ids"], encoding="utf-8", errors="ignore") as f:
-        id_list = [l.strip() for l in f.readlines()]
-
     found = []
-    conn = sqlite3.connect(paths["sqlite"])
-    c = conn.cursor()
     for pos in I[0]:
         if pos >= len(id_list):
             continue
@@ -134,8 +167,8 @@ def search_similar_pdf(category: str, text: str, top_k=1):
         if row:
             found.append({
                 "id": sample_id,
-                "json_data": json.loads(row[0]),
-                "pdf_path": os.path.join(paths["cat_dir"], row[1])
+                "json_data": json.loads(row["json_data"]),
+                "txt_path": os.path.join(paths["cat_dir"], row["pdf_path"]),
             })
     conn.close()
     return found

@@ -17,7 +17,7 @@ from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
 
-MAX_PDF_THREADS = 4  # tune for your CPU and disk
+MAX_PDF_THREADS = 20  # tune for your CPU and disk
 
 semaphore = asyncio.Semaphore(MAX_PDF_THREADS)
 
@@ -52,9 +52,8 @@ async def extract_json_endpoint(
 
     # Read PDF file bytes (already async)
     pdf_bytes = await file.read()
-
-    # Run PDF → text in threadpool
-    dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+    async with semaphore:
+        dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
 
     # Search vector DB (already fast, leave sync unless heavy)
     sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
@@ -69,13 +68,13 @@ async def extract_json_endpoint(
 
     # Load sample PDFs concurrently
     async def load_sample(s):
-        pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
-        sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+        with open(s['txt_path'], "r", encoding="utf-8") as tf:
+            sample_pdf_text = tf.read()
         return (sample_pdf_text, s['json_data'])
 
     sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
 
-    print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
+    # print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
 
     # Call LLM mapping logic (which itself calls async llm.chat now)
@@ -94,18 +93,48 @@ async def extract_json_endpoint(
     cleaned_result_json = filter_to_required_keys(result_json, required_keys)
     cleaned_result_json = replace_nulls(cleaned_result_json)
 
-    best_sample = sims[0]['json_data']
-    matched_plan = best_sample.get('Plan Name', '')
-
     print(f"Elapsed time for total process: {time.perf_counter() - start:.2f} seconds")
 
     return cleaned_result_json
-    return {
-        "result_json": cleaned_result_json,
-        "matched_sample_plan": matched_plan,
-        "matched_json1": sims[0]['json_data'],
-        # "matched_json2": sims[1]['json_data']
-    }
+
+@app.post("/test_pdf_loading")
+async def test_pdf_loading_endpoint(
+    file: UploadFile = File(...),
+    category: str = Form(...)
+):
+    start = time.perf_counter()
+    temp = start
+
+    # Read PDF file bytes (already async)
+    pdf_bytes = await file.read()
+    async with semaphore:
+        dest_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
+    print(f"Elapsed time for semaphore: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
+
+
+    # Search vector DB (already fast, leave sync unless heavy)
+    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
+    if not sims:
+        return JSONResponse(
+            status_code=400,
+            content={"error": "No similar samples in DB. Please upload at least 1 sample first with /sample/add_one."}
+        )
+
+    print(f"Elapsed time for searching similar pdf: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
+
+    # Load sample PDFs concurrently
+    async def load_sample(s):
+        with open(s['txt_path'], "r", encoding="utf-8") as tf:
+            sample_pdf_text = tf.read()
+        return (sample_pdf_text, s['json_data'])
+
+    sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
+
+    print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
+
+    return sample_pairs
 
 @app.post("/extract_json_with_similar")
 async def extract_json_endpoint_with_similar(
@@ -134,11 +163,10 @@ async def extract_json_endpoint_with_similar(
 
     # Load sample PDFs concurrently
     async def load_sample(s):
-        async with semaphore:
-            pdf_bytes = await asyncio.to_thread(lambda: open(s['pdf_path'], "rb").read())
-            sample_pdf_text = await asyncio.to_thread(pdf_to_text, pdf_bytes)
-            return (sample_pdf_text, s['json_data'])
-
+        with open(s['txt_path'], "r", encoding="utf-8") as tf:
+            sample_pdf_text = tf.read()
+        return (sample_pdf_text, s['json_data'])
+    
     sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
 
     print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
