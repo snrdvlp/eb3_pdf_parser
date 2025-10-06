@@ -32,8 +32,11 @@ class ExtractJsonUser(HttpUser):
             data = {
                 "category": "health"
             }
+            headers = {
+            "X-EB3-Token": "eb3-key-1"
+        }
             with self.client.post(
-                "/extract_json", files=files, data=data, catch_response=True
+                "/extract_json", files=files, data=data, headers=headers, catch_response=True
             ) as resp:
                 if resp.status_code != 200:
                     resp.failure(f"Unexpected status {resp.status_code}: {resp.text[:200]}")

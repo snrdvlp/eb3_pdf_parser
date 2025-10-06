@@ -34,7 +34,8 @@ llm = RemoteLLM()
 
 @app.post("/get_pdf")
 async def get_pdf(
-    file: UploadFile = File(...)
+    file: UploadFile = File(...),
+    api_key: str = Depends(get_api_key)
 ):
     pdf_bytes = await file.read()
     text = pdf_to_text_with_tables(pdf_bytes)
@@ -102,48 +103,11 @@ async def extract_json_endpoint(
 
     return cleaned_result_json
 
-@app.post("/test_pdf_loading")
-async def test_pdf_loading_endpoint(
-    file: UploadFile = File(...),
-    category: str = Form(...)
-):
-    start = time.perf_counter()
-    temp = start
-
-    # Read PDF file bytes (already async)
-    pdf_bytes = await file.read()
-    # async with semaphore:
-    dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
-    print(f"Elapsed time for semaphore: {time.perf_counter() - temp:.2f} seconds")
-    temp = time.perf_counter()
-
-    # Search vector DB (already fast, leave sync unless heavy)
-    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
-    if not sims:
-        return JSONResponse(
-            status_code=400,
-            content={"error": "No similar samples in DB. Please upload at least 1 sample first with /sample/add_one."}
-        )
-
-    print(f"Elapsed time for searching similar pdf: {time.perf_counter() - temp:.2f} seconds")
-    temp = time.perf_counter()
-
-    # Load sample PDFs concurrently
-    async def load_sample(s):
-        with open(s['txt_path'], "r", encoding="utf-8") as tf:
-            sample_pdf_text = tf.read()
-        return (sample_pdf_text, s['json_data'])
-
-    sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
-
-    print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
-
-    return sample_pairs
-
 @app.post("/extract_json_with_similar")
 async def extract_json_endpoint_with_similar(
     file: UploadFile = File(...),
-    category: str = Form(...)
+    category: str = Form(...),
+    api_key: str = Depends(get_api_key)
 ):
     start = time.perf_counter()
     temp = start
@@ -206,9 +170,10 @@ async def extract_json_endpoint_with_similar(
 
 @app.post("/sample/add_one")
 async def add_sample_endpoint(
-      pdf_file: UploadFile = File(...),
-      json_file: UploadFile = File(...),
-      category: str = Form(...)
+    pdf_file: UploadFile = File(...),
+    json_file: UploadFile = File(...),
+    category: str = Form(...),
+    api_key: str = Depends(get_api_key)
 ):
     pdf_bytes = await pdf_file.read()
     json_bytes = await json_file.read()
@@ -257,7 +222,11 @@ async def add_sample_endpoint(
 
 
 @app.post("/sample/add_batch")
-async def add_batch_endpoint(folder_path: str = Body(...), category: str = Body(...)):
+async def add_batch_endpoint(
+    folder_path: str = Body(...),
+    category: str = Body(...),
+    api_key: str = Depends(get_api_key)
+):
     try:
         files = os.listdir(folder_path)
     except Exception as e:
