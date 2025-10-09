@@ -139,7 +139,8 @@ def get_sqlite_conn(category):
             _sqlite_conns[category] = conn
     return _sqlite_conns[category]
 
-def search_similar_pdf(category: str, text: str, top_k=5):
+def search_similar_pdf(category: str, text: str):
+    top_k=5
     paths = _get_category_paths(category)
     if not os.path.exists(paths["vector_db"]):
         return []
@@ -179,6 +180,7 @@ def search_similar_pdf(category: str, text: str, top_k=5):
                 sample_text = tf.read()
             if sample_text.strip() == text.strip():
                 # Exact match found, return only this sample
+                sample["distance"] = 0.0
                 return [sample]
         except Exception as e:
             continue

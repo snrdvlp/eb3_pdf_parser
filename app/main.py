@@ -72,27 +72,31 @@ async def extract_json_endpoint(
     print(f"Elapsed time for searching similar pdf: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
 
-    # Load sample PDFs concurrently
-    async def load_sample(s):
-        with open(s['txt_path'], "r", encoding="utf-8") as tf:
-            sample_pdf_text = tf.read()
-        return (sample_pdf_text, s['json_data'])
+    # If exact match, skip LLM and use matched sample JSON
+    if sims[0].get("distance", None) == 0.0:
+        result_json = sims[0]['json_data']
+    else: 
+        # Load sample PDFs concurrently
+        async def load_sample(s):
+            with open(s['txt_path'], "r", encoding="utf-8") as tf:
+                sample_pdf_text = tf.read()
+            return (sample_pdf_text, s['json_data'])
 
-    sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
+        sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
 
-    # print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
-    temp = time.perf_counter()
+        # print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
+        temp = time.perf_counter()
 
-    # Call LLM mapping logic (which itself calls async llm.chat now)
-    result_json = await ask_llm_mapping_logic(
-        llm,
-        sample_pairs,
-        dest_pdf_text,
-        category,
-    )
+        # Call LLM mapping logic (which itself calls async llm.chat now)
+        result_json = await ask_llm_mapping_logic(
+            llm,
+            sample_pairs,
+            dest_pdf_text,
+            category,
+        )
 
-    print(f"Elapsed time for llm api call: {time.perf_counter() - temp:.2f} seconds")
-    temp = time.perf_counter()
+        print(f"Elapsed time for llm api call: {time.perf_counter() - temp:.2f} seconds")
+        temp = time.perf_counter()
 
     # Post-processing
     required_keys = get_required_keys(category)
@@ -114,11 +118,10 @@ async def extract_json_endpoint_with_similar(
 
     # Read PDF file bytes (already async)
     pdf_bytes = await file.read()
+    async with semaphore:
+        dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
 
-    # Run PDF → text in threadpool
-    dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
-    
-    print(f"Elapsed time for parse pdf: {time.perf_counter() - temp:.2f} seconds")
+    print(f"Elapsed time for semaphore: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
 
     # Search vector DB (already fast, leave sync unless heavy)
@@ -132,27 +135,31 @@ async def extract_json_endpoint_with_similar(
     print(f"Elapsed time for searching similar pdf: {time.perf_counter() - temp:.2f} seconds")
     temp = time.perf_counter()
 
-    # Load sample PDFs concurrently
-    async def load_sample(s):
-        with open(s['txt_path'], "r", encoding="utf-8") as tf:
-            sample_pdf_text = tf.read()
-        return (sample_pdf_text, s['json_data'])
-    
-    sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
+    # If exact match, skip LLM and use matched sample JSON
+    if sims[0].get("distance", None) == 0.0:
+        result_json = sims[0]['json_data']
+    else: 
+        # Load sample PDFs concurrently
+        async def load_sample(s):
+            with open(s['txt_path'], "r", encoding="utf-8") as tf:
+                sample_pdf_text = tf.read()
+            return (sample_pdf_text, s['json_data'])
 
-    print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
-    temp = time.perf_counter()
+        sample_pairs = await asyncio.gather(*(load_sample(s) for s in sims))
 
-    # Call LLM mapping logic (which itself calls async llm.chat now)
-    result_json = await ask_llm_mapping_logic(
-        llm,
-        sample_pairs,
-        dest_pdf_text,
-        category,
-    )
+        # print(f"Elapsed time for extracting pdf to string: {time.perf_counter() - temp:.2f} seconds")
+        temp = time.perf_counter()
 
-    print(f"Elapsed time for llm api call: {time.perf_counter() - temp:.2f} seconds")
-    temp = time.perf_counter()
+        # Call LLM mapping logic (which itself calls async llm.chat now)
+        result_json = await ask_llm_mapping_logic(
+            llm,
+            sample_pairs,
+            dest_pdf_text,
+            category,
+        )
+
+        print(f"Elapsed time for llm api call: {time.perf_counter() - temp:.2f} seconds")
+        temp = time.perf_counter()
 
     # Post-processing
     required_keys = get_required_keys(category)
