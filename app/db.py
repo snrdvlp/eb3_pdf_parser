@@ -139,10 +139,7 @@ def get_sqlite_conn(category):
             _sqlite_conns[category] = conn
     return _sqlite_conns[category]
 
-def search_similar_pdf(category: str, text: str, top_k=1):
-    start = time.perf_counter()
-    temp = start
-
+def search_similar_pdf(category: str, text: str, top_k=5):
     paths = _get_category_paths(category)
     if not os.path.exists(paths["vector_db"]):
         return []
@@ -157,6 +154,7 @@ def search_similar_pdf(category: str, text: str, top_k=1):
 
     emb = np.array(get_embedding(text), dtype=np.float32)[np.newaxis, :]
     D, I = index.search(emb, top_k)
+    
     found = []
     for pos in I[0]:
         if pos >= len(id_list):
@@ -165,13 +163,28 @@ def search_similar_pdf(category: str, text: str, top_k=1):
         c.execute('SELECT json_data, pdf_path FROM samples WHERE id=?', (sample_id,))
         row = c.fetchone()
         if row:
+            txt_path = os.path.join(paths["cat_dir"], row["pdf_path"])
             found.append({
                 "id": sample_id,
                 "json_data": json.loads(row["json_data"]),
-                "txt_path": os.path.join(paths["cat_dir"], row["pdf_path"]),
+                "txt_path": txt_path,
+                "distance": float(D[0][list(I[0]).index(pos)]),
             })
     conn.close()
-    return found
+
+    # Compare actual text for exact match
+    for sample in found:
+        try:
+            with open(sample["txt_path"], "r", encoding="utf-8") as tf:
+                sample_text = tf.read()
+            if sample_text.strip() == text.strip():
+                # Exact match found, return only this sample
+                return [sample]
+        except Exception as e:
+            continue
+
+    # No exact match, return top-1 as fallback
+    return [found[0]] if found else []
 
 def get_sample_json_by_id(category: str, sample_id: str) -> dict:
     paths = _get_category_paths(category)

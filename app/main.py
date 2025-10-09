@@ -11,7 +11,7 @@ from fastapi import FastAPI, File, UploadFile, Form, Body, Depends
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-from .extract import pdf_to_text_with_tables
+from .extract import pdf_to_text, pdf_to_text_with_tables
 from .category_key_registry import get_required_keys
 from .my_llm import RemoteLLM
 from .my_llm_util import ask_llm_mapping_logic, filter_to_required_keys, replace_nulls
@@ -62,7 +62,7 @@ async def extract_json_endpoint(
     temp = time.perf_counter()
 
     # Search vector DB (already fast, leave sync unless heavy)
-    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
+    sims = db.search_similar_pdf(category.lower(), dest_pdf_text)
     if not sims:
         return JSONResponse(
             status_code=400,
@@ -117,9 +117,12 @@ async def extract_json_endpoint_with_similar(
 
     # Run PDF → text in threadpool
     dest_pdf_text = await asyncio.to_thread(get_pdf_text_cached, pdf_bytes)
+    
+    print(f"Elapsed time for parse pdf: {time.perf_counter() - temp:.2f} seconds")
+    temp = time.perf_counter()
 
     # Search vector DB (already fast, leave sync unless heavy)
-    sims = db.search_similar_pdf(category.lower(), dest_pdf_text, top_k=1)
+    sims = db.search_similar_pdf(category.lower(), dest_pdf_text)
     if not sims:
         return JSONResponse(
             status_code=400,
@@ -196,11 +199,13 @@ async def add_sample_endpoint(
     if row:
         sample_id, old_pdf_path = row
         
+        # Parse PDF to text ONCE
+        text = pdf_to_text(pdf_bytes)
         # Overwrite PDF file on disk
-        pdf_path = os.path.join(paths["cat_dir"], old_pdf_path)
-        with open(pdf_path, "wb") as pf:
-            pf.write(pdf_bytes)
-        
+        txt_path = os.path.join(paths["cat_dir"], old_pdf_path)
+        with open(txt_path, "w", encoding="utf-8") as tf:
+            tf.write(text)
+
         # Update metadata
         c.execute(
             'UPDATE samples SET category=?, carrier=?, plan=?, json_data=? WHERE id=?',
