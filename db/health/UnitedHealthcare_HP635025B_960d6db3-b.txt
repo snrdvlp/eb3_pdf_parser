@@ -1,0 +1,148 @@
+## Page 1 ### Table (Page 1) | | |
+| --- | --- |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | | ## Page 2 ### Table (Page 2) | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | |
+| | | | | | | | | | | |
+| | | | | | | | | | | |
+| | | | | | | | | | | |
+| | | | | | | | | | | |
+| | | | | | | | | | | |
+| | | | | | | | | | | | ## Page 3 ### Table (Page 3) | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | | ## Page 4 ### Table (Page 4) | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | | ## Page 5 ### Table (Page 5) | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | | ## Page 6 ### Table (Page 6) | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | | ## Page 7 ### Table (Page 7) | |
+| --- |
+| |
+| |
+| |
+| | ## Page 8 ### Table (Page 8) | | | This is not a cost estimator. Treatments shown are just examples of how this plan might cover medical care. Your actual costs will be different
+depending on the actual care you receive, the prices your providers charge, and many other factors. Focus on the cost sharing amounts (deductibles,
+copayments and coinsurance) and excluded services under the plan. Use this information to compare the portion of costs you might pay under different
+health plans. Please note these coverage examples are based on self-only coverage. | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | | |
+| Peg is Having a Baby
+(9 months of in-network pre-natal care and a hospital
+delivery) | | | | | Managing Joe s type 2 Diabetes
+(a year of routine in-network care of a well-
+controlled condition) | | | | Mia s Simple Fracture
+(in-network emergency room visit and follow up care) | | | |
+| | The plan s overall deductible | | $6,350 | | | The plan s overall deductible | $6,350 | | | The plan s overall deductible | $6,350 | |
+| | Specialist coinsurance | | 0% | | | Specialist coinsurance | 0% | | | Specialist coinsurance | 0% | |
+| | Hospital (facility) coinsurance | | 0% | | | Hospital (facility) coinsurance | 0% | | | Hospital (facility) coinsurance | 0% | |
+| | Other coinsurance | | 0% | | | Other coinsurance | 0% | | | Other coinsurance | 0% | |
+| This EXAMPLE event includes services like:
+Specialist office visits (prenatal care)
+Childbirth/Delivery Professional Services
+Childbirth/Delivery Facility Services
+Diagnostic tests (ultrasounds and blood work)
+Specialist visit (anesthesia) | | | | | This EXAMPLE event includes services like:
+Primary care physician office visits (including disease
+education)
+Diagnostic tests (blood work)
+Prescription drugs
+Durable medical equipment (glucose meter) | | | | This EXAMPLE event includes services like:
+Emergency room care (including medical supplies)
+Diagnostic test (x-ray)
+Durable medical equipment (crutches)
+Rehabilitation services (physical therapy) | | | |
+| Total Example Cost | | | $12,700 | | Total Example Cost | | $5,600 | | Total Example Cost | | $2,800 | |
+| In this example, Peg would pay: | | | | | In this example, Joe would pay: | | | | In this example, Mia would pay: | | | |
+| Cost Sharing | | | | | Cost Sharing | | | | Cost Sharing | | | |
+| Deductibles | | | $6,350 | | Deductibles | | $1,700 | | Deductibles | | $2,800 | |
+| Copayments | | | $0 | | Copayments | | $0 | | Copayments | | $0 | |
+| Coinsurance | | | $0 | | Coinsurance | | $0 | | Coinsurance | | $0 | |
+| What isn t covered | | | | | What isn t covered | | | | What isn t covered | | | |
+| Limits or exclusions | | | $60 | | Limits or exclusions | | $0 | | Limits or exclusions | | $0 | |
+| The total Peg would pay is | | | $6,410 | | The total Joe would pay is | | $1,700 | | The total Mia would pay is | | $2,800 | | About these Coverage Examples: This is not a cost estimator. Treatments shown are just examples of how this plan might cover medical care. Your actual costs will be different
+depending on the actual care you receive, the prices your providers charge, and many other factors. Focus on the cost sharing amounts (deductibles, copayments and coinsurance) and excluded services under the plan. Use this information to compare the portion of costs you might pay under different
+health plans. Please note these coverage examples are based on self-only coverage. Peg is Having a Baby
+(9 months of in-network pre-natal care and a hospital delivery) Managing Joe s type 2 Diabetes
+(a year of routine in-network care of a well- controlled condition) Mia s Simple Fracture
+(in-network emergency room visit and follow up care) The plan s overall deductible
+$6,350 The plan s overall deductible
+$6,350 The plan s overall deductible
+$6,350 Specialist coinsurance
+0% Specialist coinsurance
+0% Specialist coinsurance
+0% Hospital (facility) coinsurance
+0% Hospital (facility) coinsurance
+0% Hospital (facility) coinsurance
+0% Other coinsurance
+0% Other coinsurance
+0% Other coinsurance
+0% This EXAMPLE event includes services like:
+Specialist office visits (prenatal care)
+Childbirth/Delivery Professional Services
+Childbirth/Delivery Facility Services
+Diagnostic tests (ultrasounds and blood work)
+Specialist visit (anesthesia) This EXAMPLE event includes services like:
+Primary care physician office visits (including disease
+education)
+Diagnostic tests (blood work)
+Prescription drugs
+Durable medical equipment (glucose meter) This EXAMPLE event includes services like:
+Emergency room care (including medical supplies)
+Diagnostic test (x-ray)
+Durable medical equipment (crutches)
+Rehabilitation services (physical therapy) Total Example Cost $12,700 Total Example Cost $5,600 Total Example Cost $2,800 In this example, Peg would pay:
+In this example, Joe would pay:
+In this example, Mia would pay: Cost Sharing Cost Sharing Cost Sharing Deductibles
+$6,350 Deductibles
+$1,700 Deductibles
+$2,800 Copayments
+$0 Copayments
+$0 Copayments
+$0 Coinsurance
+$0 Coinsurance
+$0 Coinsurance
+$0 What isn t covered What isn t covered What isn t covered Limits or exclusions
+$60 Limits or exclusions
+$0 Limits or exclusions
+$0 The total Peg would pay is $6,410 The total Joe would pay is $1,700 The total Mia would pay is $2,800

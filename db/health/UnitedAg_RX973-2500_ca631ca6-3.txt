@@ -1,0 +1,269 @@
+## Page 1 ### Table (Page 1) | Medical Plan Benefit | PRI-Plus | |
+| --- | --- | --- |
+| | Participant Responsibility | |
+| | PPO | |
+| | In-Network | Out of Network |
+| Benefit Period | Calendar Year (2025) | |
+| Deductible and Out of Pocket Max Accumulation Type
+Embedded: No single individual on a family plan will have to pay a
+deductible higher than the individual deductible amount.
+Aggregate: The entire family deductible must be paid before the plan
+pays for services for one family member. | Embedded | |
+| Deductible (DED)
+Included in OOPM | | |
+| Per Individual | $0 | $0 |
+| Per Family | $0 | $0 |
+| Out of Pocket Maximum (OOPM)
+Includes plan allowed medical and prescription drug charges | | |
+| Per Individual | $2,500 | $10,000 |
+| Per Family | $7,500 | NA |
+| Coinsurance
+Applies after deductible
+Coinsurance applies up to the allowed amount for covered services.
+Participant may be balance billed for disallowed charges when using an
+out of network provider. | 20% Coinsurance | 30% Coinsurance |
+| Low Cost-Share Health Services | | |
+| Teladoc
+Includes physician services, mental health services and marriage
+counseling. For service call 1-800-835-2362 or visit www.teladoc.com.
+Some limitations may apply. | Covered | N/A |
+| Health & Wellness Centers
+All services provided in a UnitedAg H&W Center are covered. | $0 | N/A |
+| Agile Clinics
+UnitedAg contracts with the Agile Clinics (see locations); Office Visits
+only, all other services will be subject to plan deductible and
+coinsurance. | $0 | N/A | Medical Plan Benefit
+PRI-Plus Participant Responsibility ### PPO In-Network
+Out of Network Benefit Period
+Calendar Year (2025) Deductible and Out of Pocket Max Accumulation Type
+Embedded: No single individual on a family plan will have to pay a deductible higher than the individual deductible amount.
+Aggregate: The entire family deductible must be paid before the plan pays for services for one family member. Embedded Deductible (DED)
+Included in OOPM Per Individual
+$0
+$0 Per Family
+$0
+$0 Out of Pocket Maximum (OOPM)
+Includes plan allowed medical and prescription drug charges Per Individual
+$2,500
+$10,000 Per Family
+$7,500
+NA Coinsurance
+Applies after deductible Coinsurance applies up to the allowed amount for covered services. Participant may be balance billed for disallowed charges when using an out of network provider.
+20% Coinsurance
+30% Coinsurance Low Cost-Share Health Services Teladoc Includes physician services, mental health services and marriage counseling. For service call 1-800-835-2362 or visit www.teladoc.com. Some limitations may apply.
+Covered
+N/A Health & Wellness Centers All services provided in a UnitedAg H&W Center are covered.
+$0
+N/A
+Agile Clinics
+UnitedAg contracts with the Agile Clinics (see locations); Office Visits only, all other services will be subject to plan deductible and coinsurance.
+$0
+N/A This UnitedAg Benefit Summary is an overview of the benefits paid by UnitedAg. UnitedAg Summary Plan Description (SPD) must be consulted for a detailed description of coverage, benefits and limitations. This Benefit Summary in combination with the SPD constitutes your plan document. Page 1
+BS.PRI-Plus.RX973-2500.2025-Legacy.CA ## Page 2 ### Table (Page 2) | Medical Plan Benefit | PRI-Plus | |
+| --- | --- | --- |
+| | Participant Responsibility | |
+| | In-Network | Out of Network |
+| Benefit Period | Calendar Year (2025) | |
+| Office Visits
+Copay covers all services billed by the physican for that date of
+service. Not subject to deductible. | | |
+| Preventive
+Coverage per ACA guidelines as defined in the SPD | Covered | Not Covered |
+| Primary Care Physician | $15 | $50 |
+| Specialist | $15 | $50 |
+| Urgent Care | $15 | $50 |
+| Mental Health
+Covers Mental Health wellbeing and support services with contracted
+provider.(SpringHealth: First 10 Visits No Copay) | $15 | $50 |
+| Chiropractic
+Limited to 25 Visits per Calendar Year, Participant is responsible for
+charges beyond plan maximum payment. Not Subject to Deductible | Plan pays maximum of
+$25 per visit | Plan pays maximum of
+$25 per visit |
+| Outpatient Services (OP) | Plan pays maximum of
+$25 per visit | Plan pays maximum of
+$25 per visit |
+| Preventive Laboratory
+Coverage per ACA guidelines as defined in the SPD | Covered | 30% |
+| Independent Laboratory | Covered | 30% |
+| Physical / Occupational / Speech Therapy
+Some limitations may apply, reference SPD or contact UnitedAg
+Member Services 1-800-223-4590 for additional details. | $15 | 30% |
+| Outpatient Facility / Surgery
+Professional & facility services | 20% | 30% |
+| All Other Outpatient Services | 20% | 30% |
+| Radiology | Covered | 30% |
+| Major Diagnostic Services
+Including but not limited to CT scans, MRIs, PET scans, testing, etc.
+Contact UnitedAg Member Services 1-800-223-4590 to determine if
+prior authorization is required. | 20% | 30% |
+| Chiropractic Spinal X-rays
+Limited to 1 per Calendar Year | Plan pays $75 | Plan pays $75 |
+| Infertility
+Treatment only | Not Covered | Plan pays $75 |
+| Gene and Cell Therapies | Not Covered | Plan pays $75 | Medical Plan Benefit
+PRI-Plus Participant Responsibility In-Network
+Out of Network Benefit Period
+Calendar Year (2025) Office Visits
+Copay covers all services billed by the physican for that date of service. Not subject to deductible. Preventive Coverage per ACA guidelines as defined in the SPD
+Covered
+Not Covered Primary Care Physician
+$15
+$50 Specialist
+$15
+$50 Urgent Care
+$15
+$50 Mental Health
+Covers Mental Health wellbeing and support services with contracted provider.(SpringHealth: First 10 Visits No Copay) $15
+$50 Chiropractic
+Limited to 25 Visits per Calendar Year, Participant is responsible for charges beyond plan maximum payment. Not Subject to Deductible Plan pays maximum of $25 per visit Plan pays maximum of $25 per visit Outpatient Services (OP) Preventive Laboratory Coverage per ACA guidelines as defined in the SPD
+Covered
+30% Independent Laboratory
+Covered
+30% Physical / Occupational / Speech Therapy
+Some limitations may apply, reference SPD or contact UnitedAg Member Services 1-800-223-4590 for additional details.
+$15
+30% Outpatient Facility / Surgery
+Professional & facility services
+20%
+30% All Other Outpatient Services 20%
+30% Radiology
+Covered
+30% Major Diagnostic Services
+Including but not limited to CT scans, MRIs, PET scans, testing, etc.
+Contact UnitedAg Member Services 1-800-223-4590 to determine if prior authorization is required.
+20%
+30% Chiropractic Spinal X-rays
+Limited to 1 per Calendar Year
+Plan pays $75
+Plan pays $75 Infertility
+Treatment only
+Not Covered Gene and Cell Therapies
+Not Covered Page 2
+BS.PRI-Plus.RX973-2500.2025-Legacy.CA ## Page 3 ### Table (Page 3) | Medical Plan Benefit | PRI-Plus | |
+| --- | --- | --- |
+| | Participant Responsibility | |
+| | In-Network | Out of Network |
+| Benefit Period | Calendar Year (2025) | |
+| Emergency Services
+ER Copay Waived if for accident or if admitted | | |
+| Ambulance
+Air and ground; subject to medical necessity. Reference SPD and contact
+UnitedAg Member Services 1-800-223-4590 for additional details. | $100 Plus 20% | $100 Plus 20% |
+| Emergency Treatment Professional / Facility
+This plan pays the same regardless of if charges are for network or non-
+network providers. This Benefit will also apply if the patient is admitted
+inpatient through stabilization. Reference the SPD or contact UnitedAg
+Member Services at 1-800-223-4590 for additional details. | $250 Plus 20% | |
+| Inpatient Services (IP) | $250 Plus 20% | |
+| IP Scheduled Hospital Services Professional / Facility
+Including maternity and mental health | 20% | 30% |
+| Skilled Nursing and Extended Care Facility
+Limited to 60 Days per Calendar Year. Reference SPD and contact
+UnitedAg Member Services 1-800-223-4590 for additional details. | 20% Coinsurance | 30% Coinsurance |
+| Other Services | 20% Coinsurance | 30% Coinsurance |
+| Home Health Care | 20% | 30% |
+| Hospice | 20% | 30% |
+| Durable Medical Equipment | 20% | 30% |
+| Mexico Panel | 20% | 30% |
+| Office Visit | $5 | Not Covered |
+| Inpatient and Outpatient Services
+Contact UnitedAg Member Services 1-800-223-4590 for inpatient Prior
+Authorization. | $5 | Not Covered |
+| Pharmacy
+Cost-share is per prescribed medication | $5 | Not Covered |
+| Travel Expense Reimbursement
+Prior authorization required. Call UnitedAg Member Services 1-800-223-
+4590 for additional details. | Annual Max of $1,500 $250 per patient/per trip
+$250 per companion/per trip (if pre-approved)
+$100 per hotel accomodation $35 reasonable
+incident expenses | |
+| | | |
+| Additional Plan Information | | |
+| Mental Health and Substance Abuse Services included If Prior Authorization notification is not completed, payable benefits will be reduced by 50%. Payment limited to Plan Maximum Allowable for OON | | | Medical Plan Benefit
+PRI-Plus Participant Responsibility In-Network
+Out of Network Benefit Period
+Calendar Year (2025) Emergency Services
+ER Copay Waived if for accident or if admitted Ambulance
+Air and ground; subject to medical necessity. Reference SPD and contact UnitedAg Member Services 1-800-223-4590 for additional details.
+$100 Plus 20%
+$100 Plus 20% Emergency Treatment Professional / Facility
+This plan pays the same regardless of if charges are for network or non-
+network providers. This Benefit will also apply if the patient is admitted inpatient through stabilization. Reference the SPD or contact UnitedAg Member Services at 1-800-223-4590 for additional details.
+$250 Plus 20% Inpatient Services (IP) IP Scheduled Hospital Services Professional / Facility
+Including maternity and mental health
+20%
+30% Skilled Nursing and Extended Care Facility
+Limited to 60 Days per Calendar Year. Reference SPD and contact UnitedAg Member Services 1-800-223-4590 for additional details.
+20% Coinsurance
+30% Coinsurance Other Services Home Health Care
+20%
+30% Hospice 20%
+30% Durable Medical Equipment
+20%
+30% Mexico Panel Office Visit
+$5
+Not Covered Inpatient and Outpatient Services
+Contact UnitedAg Member Services 1-800-223-4590 for inpatient Prior Authorization.
+$5
+Not Covered Pharmacy
+Cost-share is per prescribed medication
+$5
+Not Covered Travel Expense Reimbursement
+Prior authorization required. Call UnitedAg Member Services 1-800-223-
+4590 for additional details. Annual Max of $1,500 $250 per patient/per trip $250 per companion/per trip (if pre-approved) $100 per hotel accomodation $35 reasonable incident expenses Additional Plan Information Mental Health and Substance Abuse Services included If Prior Authorization notification is not completed, payable benefits will be reduced by 50%. Payment limited to Plan Maximum Allowable for OON Page 3
+BS.PRI-Plus.RX973-2500.2025-Legacy.CA ## Page 4 ### Table (Page 4) | RX Plan Benefit | RX973-2500 | |
+| --- | --- | --- |
+| | Participant Responsibility | |
+| | In-Network | Out of Network |
+| Benefit Period | Calendar Year (2025) | |
+| Prescription Services
+Pharmacy amounts listed are Participant copayments. Costco
+Health Solutions is the pharmacy benefit manager. UnitedAg's
+pharmacy services are designed to provide coverage for generic
+equivalents. Participants should check formulary listings at
+www.unitedag.org or call UnitedAg Member Services 1-800-223-
+4590 for assistance.
+Deductible applies to all tiers unless indicated otherwise. | | |
+| Pharmacy Deductible
+Pharmacy Deductibles are per Participant. | $250 | |
+| Retail 34 Day Supply | | |
+| Generic | $7 | Not Covered |
+| Preferred Brand | $25 | Not Covered |
+| Non-Preferred Brand | $40 | Not Covered |
+| Mail Order & Retail 90 Day Supply | | |
+| Generic | $14 | Not Covered |
+| Preferred Brand | $45 | Not Covered |
+| Non-Preferred Brand | $75 | Not Covered |
+| Specialty Pharmacy 30 Day Supply
+Specialty medications must be purchased through the Specialty
+Pharmacy Program. Contact UnitedAg Member Services 1-800-223-
+4590 or Costco Specialty Services 1-866-443-0060 for assistance.
+When Copay Assistance Program is available, Participant will be
+responsible for a coinsurance percentage, not to exceed applicable
+copay based tier. PreAuthorization Required. | | |
+| Specialty Medications | 20% | Not Covered | RX Plan Benefit
+RX973-2500 Participant Responsibility In-Network
+Out of Network Benefit Period
+Calendar Year (2025) Prescription Services
+Pharmacy amounts listed are Participant copayments. Costco Health Solutions is the pharmacy benefit manager. UnitedAg's pharmacy services are designed to provide coverage for generic equivalents. Participants should check formulary listings at www.unitedag.org or call UnitedAg Member Services 1-800-223-
+4590 for assistance. Deductible applies to all tiers unless indicated otherwise. Pharmacy Deductible
+Pharmacy Deductibles are per Participant. $250 Retail 34 Day Supply Generic
+$7
+Not Covered Preferred Brand
+$25
+Not Covered Non-Preferred Brand
+$40
+Not Covered Mail Order & Retail 90 Day Supply Generic
+$14
+Not Covered Preferred Brand
+$45
+Not Covered Non-Preferred Brand
+$75
+Not Covered Specialty Pharmacy 30 Day Supply
+Specialty medications must be purchased through the Specialty Pharmacy Program. Contact UnitedAg Member Services 1-800-223-
+4590 or Costco Specialty Services 1-866-443-0060 for assistance.
+When Copay Assistance Program is available, Participant will be responsible for a coinsurance percentage, not to exceed applicable copay based tier. PreAuthorization Required. Specialty Medications
+20%
+Not Covered Page 4
+BS.PRI-Plus.RX973-2500.2025-Legacy.CA
